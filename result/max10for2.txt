@@ -1,0 +1,286 @@
+--- Feature Index: 32232 ---
+---------------------------
+Max Activation Value: 
+(1, 11, 22)
+.
+9.406394004821777
+Context Tokens: 
+tensor([  8948,    198,    675,    220,     18,   7567,    315,   1667,   9437,
+         24231,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         61597,  93740,    323])
+Decoded Text:
+system
+Name 3 benefits of using cloud computing.<|im_end|>
+<|im_start|>assistant
+1. Increased scalability and
+---------------------------
+Max Activation Value: 
+(0, 9, 20)
+.
+9.282171249389648
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    220,     18,   5888,    315,   3015,
+            13, 151645,    198, 151644,  77091,    198,  19641,   5888,    315,
+          3015,    525])
+Decoded Text:
+<|im_start|>system
+Name 3 properties of water.<|im_end|>
+<|im_start|>assistant
+Three properties of water are
+---------------------------
+Max Activation Value: 
+(3, 13, 24)
+.
+9.274468421936035
+Context Tokens: 
+tensor([ 28301,   1437,   2326,   5510,  11104,    646,   7949,    862,  12499,
+         20143,     13, 151645,    198, 151644,  77091,    198,  23227,   8040,
+           646,   7949,    862])
+Decoded Text:
+Identify three ways organizations can reduce their carbon emissions.<|im_end|>
+<|im_start|>assistant
+Organizations can reduce their
+---------------------------
+Max Activation Value: 
+(4, 14, 25)
+.
+9.23853874206543
+Context Tokens: 
+tensor([  2326,  22146,    315,   1667,  20443,  29728,  14155,    369,   5662,
+          6832,     13, 151645,    198, 151644,  77091,    198,  19641,  22146,
+           315,   1667,  20443])
+Decoded Text:
+ three advantages of using artificial neural networks for machine learning.<|im_end|>
+<|im_start|>assistant
+Three advantages of using artificial
+---------------------------
+Max Activation Value: 
+(0, 10, 21)
+.
+9.221451759338379
+Context Tokens: 
+tensor([151644,   8948,    198,    852,   4236,  22146,    315,   1667,  12941,
+          4802,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         24446,   4802,    374])
+Decoded Text:
+<|im_start|>system
+List five advantages of using solar energy.<|im_end|>
+<|im_start|>assistant
+1. Solar energy is
+---------------------------
+Max Activation Value: 
+(0, 10, 21)
+.
+9.206962585449219
+Context Tokens: 
+tensor([151644,   8948,    198,    675,   4236,  58429,  22146,    315,    279,
+          7602,     13, 151645,    198, 151644,  77091,    198,  37020,  58429,
+         22146,    315,    279])
+Decoded Text:
+<|im_start|>system
+Name five societal advantages of the internet.<|im_end|>
+<|im_start|>assistant
+Five societal advantages of the
+---------------------------
+Max Activation Value: 
+(0, 10, 21)
+.
+9.169736862182617
+Context Tokens: 
+tensor([151644,   8948,    198,    675,   4236,  17452,    315,    264,  14260,
+         15688,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+           362,   2797,     11])
+Decoded Text:
+<|im_start|>system
+Name five characteristics of a typical resume.<|im_end|>
+<|im_start|>assistant
+1. A clear,
+---------------------------
+Max Activation Value: 
+(2, 12, 23)
+.
+9.166110038757324
+Context Tokens: 
+tensor([   198,    852,    220,     18,   4419,    315,    458,   7373,   3910,
+          2884,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         70465,     25,   1527])
+Decoded Text:
+
+List 3 features of an effective website design.<|im_end|>
+<|im_start|>assistant
+1. Responsive: An
+---------------------------
+Max Activation Value: 
+(0, 9, 20)
+.
+9.161321640014648
+Context Tokens: 
+tensor([151644,   8948,    198,    852,   4236,   7567,    315,  50482,  15502,
+            13, 151645,    198, 151644,  77091,    198,     16,     13,  58123,
+          4746,   2820])
+Decoded Text:
+<|im_start|>system
+List five benefits of exercising regularly.<|im_end|>
+<|im_start|>assistant
+1. Improved heart health
+---------------------------
+Max Activation Value: 
+(0, 9, 20)
+.
+9.004015922546387
+Context Tokens: 
+tensor([151644,   8948,    198,    852,   4236,  17452,    315,   1661,  10535,
+            13, 151645,    198, 151644,  77091,    198,     16,     13,  20690,
+          2797,    323])
+Decoded Text:
+<|im_start|>system
+List five characteristics of good communication.<|im_end|>
+<|im_start|>assistant
+1. Being clear and
+---------------------------
+
+--- Feature Index: 13945 ---===============================================================================================================
+---------------------------================================================================================================================
+Max Activation Value: 
+(0, 9, 20)
+
+
+6.852974891662598
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   4396,   4226,     13, 151645,
+           198, 151644,    872,    198,  15191,   6139,    279,  11514,    330,
+         62502,  43411])
+Decoded Text:
+<|im_start|>system
+Choose the correct answer.<|im_end|>
+<|im_start|>user
+Who wrote the novel "Jane Ey
+---------------------------
+Max Activation Value: 
+(2, 12, 23)
+
+
+6.5696330070495605
+Context Tokens: 
+tensor([   198,  14449,    304,    279,  78540,    448,   8311,   4244,     13,
+        151645,    198, 151644,    872,    198,    785,  30743,    572,   6157,
+         10454,  76736,    291])
+Decoded Text:
+
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed
+---------------------------
+Max Activation Value: 
+(4, 14, 25)
+
+
+6.481386184692383
+Context Tokens: 
+tensor([   279,   3897,  31446,     82,   1119,    279,   2661,  11652,     13,
+        151645,    198, 151644,    872,    198,  84564,     25,    358,   3937,
+           311,    279,   3553])
+Decoded Text:
+ the provided conjunctions into the given sentence.<|im_end|>
+<|im_start|>user
+Sentence: I went to the store
+---------------------------
+Max Activation Value: 
+(10, 20, 31)
+
+
+6.355216026306152
+Context Tokens: 
+tensor([   311,   5155,    304,    279,  78540,    304,    279,  11652,     13,
+        151645,    198, 151644,    872,    198,    785,   8426,  16162,    304,
+           279,   1879,    374])
+Decoded Text:
+ to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is
+---------------------------
+Max Activation Value: 
+(4, 14, 25)
+
+
+6.191808700561523
+Context Tokens: 
+tensor([  1437,    279,   4396,   3409,    311,   4583,    279,  11652,     13,
+        151645,    198, 151644,    872,    198,    785,  14549,    572,   3465,
+           448,  65892,    304])
+Decoded Text:
+ify the correct word to complete the sentence.<|im_end|>
+<|im_start|>user
+The furniture was created with _____ in
+---------------------------
+Max Activation Value: 
+(5, 15, 26)
+
+
+6.12932014465332
+Context Tokens: 
+tensor([  1212,  15121,   3409,    311,   1281,    279,  11652,   4396,     13,
+        151645,    198, 151644,    872,    198,    785,  40513,    525,  56696,
+           369,   3735,     13])
+Decoded Text:
+ underlined word to make the sentence correct.<|im_end|>
+<|im_start|>user
+The tomatoes are ripe for pick.
+---------------------------
+Max Activation Value: 
+(3, 13, 24)
+
+
+6.049166679382324
+Context Tokens: 
+tensor([ 23107,    279,   1212,  15121,   4244,    448,   8311,  85406,     13,
+        151645,    198, 151644,    872,    198,    785,  10550,   1902,   4131,
+         92403,    389,    862])
+Decoded Text:
+Replace the underlined words with appropriate synonyms.<|im_end|>
+<|im_start|>user
+The robbers snitched on their
+---------------------------
+Max Activation Value: 
+(3, 13, 24)
+
+
+6.030056476593018
+Context Tokens: 
+tensor([ 14449,    304,    279,  78540,    311,   4583,    279,  11652,     13,
+        151645,    198, 151644,    872,    198,  11646,  23867,    646,    387,
+         27437,    553,  17719])
+Decoded Text:
+Fill in the blanks to complete the sentence.<|im_end|>
+<|im_start|>user
+Global warming can be reversed by reducing
+---------------------------
+Max Activation Value: 
+(2, 12, 23)
+
+
+5.960657119750977
+Context Tokens: 
+tensor([   198,  22043,    264,   1467,     11,   5155,    304,    279,  78540,
+        151645,    198, 151644,    872,    198,     58,    785,     60,    508,
+           258,   7459,     60])
+Decoded Text:
+
+Given a text, fill in the blanks<|im_end|>
+<|im_start|>user
+[The] [invention]
+---------------------------
+Max Activation Value: 
+(3, 13, 24)
+
+
+5.8337931632995605
+Context Tokens: 
+tensor([  3379,    279,   1429,   8311,   3409,    504,    279,   1140,     13,
+        151645,    198, 151644,    872,    198,   4123,   1262,     11,  15888,
+           782,     11,  58837])
+Decoded Text:
+Select the most appropriate word from the list.<|im_end|>
+<|im_start|>user
+joyful, joyous, festive
+---------------------------

@@ -1,0 +1,228 @@
+--- Feature Index: 32232 ---
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   7271,    315,    330,  24603,
+         25115,   3263])
+Decoded Text:
+<|im_start|>system
+Write a definition of "photoshop".
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,   2082,  55856,    279,   2661,   4531,    323,
+         10339,   3170])
+Decoded Text:
+<|im_start|>system
+Analyze the given film and explain why
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    279,   2661,
+          2813,     13])
+Decoded Text:
+<|im_start|>system
+Design a logo for the given company.
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,    279,   4647,    330,  15469,
+         10339,   2897])
+Decoded Text:
+<|im_start|>system
+Explain the term "AI explainability
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,    852,   4236,   9363,    429,   2990,    311,
+          3644,  23867])
+Decoded Text:
+<|im_start|>system
+List five factors that lead to global warming
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    279,   3082,    315,    279,  21495,
+            13, 151645])
+Decoded Text:
+<|im_start|>system
+Calculate the area of the triangle.<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    220,     20,  52254,   9419,     13,
+        151645,    198])
+Decoded Text:
+<|im_start|>system
+Name 5 invasive species.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    458,  15235,  12111,     30,
+        151645,    198])
+Decoded Text:
+<|im_start|>system
+What is an AI algorithm?<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,     50,   3799,    264,   1661,  10729,     13,
+        151645,    198])
+Decoded Text:
+<|im_start|>system
+Suggest a good restaurant.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+24.71183204650879
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,   2326,  10414,    369,  19429,   9314,
+            13, 151645])
+Decoded Text:
+<|im_start|>system
+Give three tips for staying healthy.<|im_end|>
+---------------------------
+
+--- Feature Index: 13945 ---===============================================================================
+---------------------------================================================================================
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  10455,    438,
+           264,  30371])
+Decoded Text:
+<|im_start|>system
+Classify the following incident as a breach
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    279,  10987,  11414,    369,    279,
+          2083,    304])
+Decoded Text:
+<|im_start|>system
+Calculate the winning percentage for the team in
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    279,   2661,  11652,   1667,
+           264,   2155])
+Decoded Text:
+<|im_start|>system
+Rewrite the given sentence using a different
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,   4036,    279,   2701,  11652,    369,  31428,
+           323,   1707])
+Decoded Text:
+<|im_start|>system
+Edit the following sentence for grammar and style
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,  11153,  18339,
+           369,  12252])
+Decoded Text:
+<|im_start|>system
+Generate a list of fashion trends for Spring
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  27473,    279,   2661,  17133,    504,   8585,
+           311,   6364])
+Decoded Text:
+<|im_start|>system
+Translate the given phrase from French to English
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   5421,    315,    279,  32233,
+           389,    279])
+Decoded Text:
+<|im_start|>system
+Describe the impact of the coronavirus on the
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    279,   2701,  11652,    369,
+         31273,     13])
+Decoded Text:
+<|im_start|>system
+Rewrite the following sentence for clarity.
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,   4072,    419,  11652,    311,   1281,    432,
+           264,   3405])
+Decoded Text:
+<|im_start|>system
+Change this sentence to make it a question
+---------------------------
+Max Activation Value: 
+(0, 0, 11)
+<|im_start|>
+9.872719764709473
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,   2326,  10414,    369,  19429,   9314,
+            13, 151645])
+Decoded Text:
+<|im_start|>system
+Give three tips for staying healthy.<|im_end|>
+---------------------------

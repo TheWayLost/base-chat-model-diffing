@@ -1,0 +1,164 @@
+--- Feature Index: 21599 ---
+---------------------------
+Max Activation Value: 
+(118, 128, 139)
+(arr
+1.4697448015213013
+Context Tokens: 
+tensor([  438, 11017,    25,   715,  2810,  9190,  1956,     8,   284,  1932,
+        10939,   989,  1125,  1932,  9190,  1956,    12,    16,  7257,  1118,
+          989])
+Decoded Text:
+ as follows: 
+maxSum(i) = max(arr[i], maxSum(i-1)+arr[i
+---------------------------
+ 10%|███████████▍                                                                                                      | 1/10 [02:08<19:19, 128.81s/it]
+--- Feature Index: 32232 ---
+---------------------------
+Max Activation Value: 
+(1, 11, 22)
+.
+9.406394004821777
+Context Tokens: 
+tensor([  8948,    198,    675,    220,     18,   7567,    315,   1667,   9437,
+         24231,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         61597,  93740,    323])
+Decoded Text:
+system
+Name 3 benefits of using cloud computing.<|im_end|>
+<|im_start|>assistant
+1. Increased scalability and
+---------------------------
+ 20%|██████████████████████▊                                                                                           | 2/10 [03:56<15:30, 116.26s/it]
+--- Feature Index: 30349 ---
+---------------------------
+Max Activation Value: 
+(21, 31, 42)
+ Definition
+6.920394420623779
+Context Tokens: 
+tensor([151645,    198, 151644,  77091,    198,     40,     13,  28338,    715,
+            12,  19709,    315,   9784,   7816,    198,     12,  34807,    315,
+         38095,    271,   5543])
+Decoded Text:
+<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+- Definition of Social Media
+- Overview of Benefits
+
+II
+---------------------------
+ 30%|██████████████████████████████████▏                                                                               | 3/10 [05:52<13:32, 116.12s/it]
+--- Feature Index: 6581 ---
+---------------------------
+Max Activation Value: 
+(10, 20, 31)
+Coffee
+0.9157607555389404
+Context Tokens: 
+tensor([   311,   5263,   6002,  19805,     13, 151645,    198, 151644,    872,
+           198,  82280,   3539,     13, 151645,    198, 151644,  77091,    198,
+         82280,   3539,  14304])
+Decoded Text:
+ to increase customer engagement.<|im_end|>
+<|im_start|>user
+Coffee Co.<|im_end|>
+<|im_start|>assistant
+Coffee Co.’
+---------------------------
+ 40%|█████████████████████████████████████████████▌                                                                    | 4/10 [07:46<11:33, 115.53s/it]
+--- Feature Index: 13945 ---
+---------------------------
+Max Activation Value: 
+(0, 9, 20)
+
+
+6.852974891662598
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   4396,   4226,     13, 151645,
+           198, 151644,    872,    198,  15191,   6139,    279,  11514,    330,
+         62502,  43411])
+Decoded Text:
+<|im_start|>system
+Choose the correct answer.<|im_end|>
+<|im_start|>user
+Who wrote the novel "Jane Ey
+---------------------------
+ 50%|█████████████████████████████████████████████████████████                                                         | 5/10 [09:43<09:38, 115.79s/it]
+--- Feature Index: 12857 ---
+---------------------------
+Max Activation Value: 
+(9, 19, 30)
+°F
+3.4823896884918213
+Context Tokens: 
+tensor([   311,  61347,     13, 151645,    198, 151644,    872,    198,     23,
+            15,  58472, 151645,    198, 151644,  77091,    198,     17,     21,
+            13,     21,     22])
+Decoded Text:
+ to Celsius.<|im_end|>
+<|im_start|>user
+80°F<|im_end|>
+<|im_start|>assistant
+26.67
+---------------------------
+ 60%|████████████████████████████████████████████████████████████████████▍                                             | 6/10 [11:43<07:49, 117.31s/it]
+--- Feature Index: 16480 ---
+---------------------------
+Max Activation Value: 
+(19, 29, 40)
+ 
+5.37854528427124
+Context Tokens: 
+tensor([   198,     20,     18,     15,     24,    220,     22,     21,     22,
+            22,    220,     23,     17,     19,     19,    220,     16,     18,
+            19,     21, 151645])
+Decoded Text:
+
+5309 7677 8244 1346<|im_end|>
+---------------------------
+ 70%|███████████████████████████████████████████████████████████████████████████████▊                                  | 7/10 [13:41<05:52, 117.62s/it]
+--- Feature Index: 161 ---
+---------------------------
+Max Activation Value: 
+(81, 91, 102)
+ to
+3.981929063796997
+Context Tokens: 
+tensor([ 4565,  1947,   504,  2205, 13511,    13,   576,  2562,  3119, 21538,
+          311,  1936,   264, 21803,   323, 33135,  2562,    13,   576,  8039,
+         5646])
+Decoded Text:
+ feature art from local artists. The business plan aims to build a sustainable and profitable business. The budget includes
+---------------------------
+ 80%|███████████████████████████████████████████████████████████████████████████████████████████▏                      | 8/10 [15:39<03:55, 117.65s/it]
+--- Feature Index: 26967 ---
+---------------------------
+Max Activation Value: 
+(91, 101, 112)
+ experience
+4.300880432128906
+Context Tokens: 
+tensor([   13, 22406,    11,  9437, 24231,   646,  3410,   264,  2664,  1196,
+         3139,    11,   438,  3847,   646,  2615,   862,   821,   323,  8357,
+          504])
+Decoded Text:
+. Additionally, cloud computing can provide a better user experience, as users can access their data and applications from
+---------------------------
+ 90%|██████████████████████████████████████████████████████████████████████████████████████████████████████▌           | 9/10 [17:41<01:58, 118.94s/it]
+--- Feature Index: 14789 ---
+---------------------------
+Max Activation Value: 
+(12, 22, 33)
+ approach
+4.307551383972168
+Context Tokens: 
+tensor([ 20143,     30, 151645,    198, 151644,  77091,    198,    785,   1429,
+         11050,   5486,    311,  17719,  12499,  20143,    374,    311,   3398,
+           311,  32168,   4802])
+Decoded Text:
+ emissions?<|im_end|>
+<|im_start|>assistant
+The most efficient approach to reducing carbon emissions is to switch to renewable energy
+---------------------------
