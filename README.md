@@ -1,4 +1,8 @@
-# base - chat model diffing
+# base - chat model diffing (the format difference)
+
+Hypothesis:
+1. Base model and chat model diffs on unique tokens like `|<im_start>|`, `system` , etc.
+2. Base model can generate responses in chat format by using the sae features to do steering, since I consider chat format is kind of in context learning.
 
 (https://github.com/TheWayLost/base-chat-model-diffing)
 
@@ -43,6 +47,8 @@ the `result/max10for2.txt` shows the input context with the top 10 highest activ
 
 the `result/basemax10for2.txt` shows the same features, but evaluated on the base model `qwen1.5-0.5b`. It is interesting that both 32232 feature and 19345 feature activate on the same place: the `|<im_start>|` token at the beginning of the text.
 
+See the files for detailed examples.
+
 ### Summary
 
 It take me another two hours trying to understand what this strange phenomenon means, and by looking into more activation examples, I only comes up with a merely okay explanation: my hypothesis 1 is true but the main difference is **base model fails to capture the {system,user,assistant} structure** since its corresponding feature mainly focus on the begining `|<im_start>|`.
@@ -56,5 +62,7 @@ Sadly, 15 hours passes really quickly and I do not have time for examining the h
 2.  Only using the activation of the response of chat data to tune the sae should be more proper and helpful.
 
 3.  What about the first strange figure? What kind of mistake I made?
+
+4.  If the normal steering fails, the method in https://arxiv.org/pdf/2411.02193 may help. And the technique in https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction may also help some.
 
 
