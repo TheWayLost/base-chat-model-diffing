@@ -49,6 +49,15 @@ the `result/basemax10for2.txt` shows the same features, but evaluated on the bas
 
 See the files for detailed examples.
 
+(Since the ddl is 3/7 now, I spent another 1 hour checking more results). Remember the difference between sae_mf and sae_sd? Since sae_sd is exactly the sae model finetuned based on base model and chat data, using sae_sd to analyze corresponding features would be more helpful. And I also provides more max_activations examples for more features. See files in the `base` and `chat` in the Github Repo for the full results. I selected the 50 features that are most severely rotated.
+
+Here are some interesting insights:
+
+For sae_sd and base model, these 2 most important features (32232, 13945) is hard to interpret. However, the sae_mf and chat model make these 2 features (and some other in these 50 features) quite clear as relevant to the {system,user,assistant} structure, for example, feature 3949 and 7032 mainly activate on <|im_end|>.
+
+And 6581 feature is quite different, in the base model case, it sometimes activates on <|im_end|>, but the chat model turns it into a feature that mainly activates when the system prompt is to classify something. I suppose this might be caused by the unique distribution of my chat data.
+
+
 ### Summary
 
 It take me another two hours trying to understand what this strange phenomenon means, and by looking into more activation examples, I only comes up with a merely okay explanation: my hypothesis 1 is true but the main difference is **base model fails to capture the {system,user,assistant} structure** since its corresponding feature mainly focus on the begining `|<im_start>|`.
