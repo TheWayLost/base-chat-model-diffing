@@ -1,0 +1,302 @@
+Max Activation Value: 
+(67, 92, 118)
+ double
+3.4143574237823486
+Context Tokens: 
+tensor([  362,   702,   264,  5080,  8866,  4628,   714, 16745, 35704,    11,
+         1393,  5643,   425,   702,   264,  4722, 16162, 11639,   323,   803,
+        35704,    13,  5643,   362,   702,  1990,   279, 22038,   315,  5643,
+          425,    11,   892,  1231,  1102,   304,  2664, 84260, 70705,  5068,
+           13,  4354,    11,  5643,   425,  1231,   387,  2664, 31499,   311,
+         3654])
+Decoded Text:
+ A has a higher clock speed but fewer cores, while Product B has a lower peak frequency and more cores. Product A has double the RAM of Product B, which may result in better multitasking performance. However, Product B may be better suited to certain
+---------------------------
+Max Activation Value: 
+(43, 68, 94)
+ true
+3.3822696208953857
+Context Tokens: 
+tensor([  2088,    304,   1379,    504,  88990,    311,   3460,  66229,     68,
+          6767,    323,    525,  21091,    304,    279,   1852,  25079,    438,
+         10779,     11,   7892,  19836,  10779,    807,   6853,    830,  19703,
+            11,  43714,     11,    323,  10901,     13,   1674,  66278,  11136,
+          3887,    304,  20507,  21737,     11,   2670,  28591,     11,  79644,
+            11,    323,  79392,   5942,     13, 151645])
+Decoded Text:
+ range in size from microscopic to large seaweeds and are classified in the same kingdom as plants, although unlike plants they lack true roots, stems, and leaves. Algae typically live in moist environments, including marine, freshwater, and terrestrial systems.<|im_end|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ fully
+3.3737728595733643
+Context Tokens: 
+tensor([  2213,    304,  16745,   1091,    220,     16,     15,     15,   4244,
+            13, 151645,    198, 151644,    872,    198,   1639,   3831,    525,
+           264,  13570,   4237,    323,  16807,   1874,    315,   7225,  71391,
+         28860,   6296,  28591,  55569,     13,   2379,    525,    458,  41787,
+         49184,   2878,    279,  48176,   1358,    356,    295,  82582,     11,
+           892,   5990,  63368,  82406,    323,   4154])
+Decoded Text:
+ content in fewer than 100 words.<|im_end|>
+<|im_start|>user
+Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, which usually excludes dolphins and por
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+ fully
+3.343372344970703
+Context Tokens: 
+tensor([   304,   2155,   5868,    389,   2155,  21461,     13,  22406,     11,
+           279,  17788,  34192,   1526,   2155,  34430,   1449,   2254,    323,
+          2337,    264,   2480,  17788,     11,    432,    374,   7225,  74548,
+            11,  25377,  11243,    323,  52557,   1091,  13475,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ in different looks on different nights. Additionally, the moon travels through different phases every month and during a full moon, it is fully illuminated, appearing bigger and brighter than usual.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+ slightly
+3.3413848876953125
+Context Tokens: 
+tensor([ 91785,     11,  60859,  13623,   3607,    311,   3607,  13959,     11,
+         56723,    287,     11,    323,  25836,   1251,    311,    330,    336,
+         31237,    279,  27261,  23880,      1,    553,  22577,  10078,  67963,
+          8193,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ scraps, donating excess food to food banks, composting, and encouraging people to "embrace the ugly vegetables" by purchasing slightly imperfect produce.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ even
+3.3324968814849854
+Context Tokens: 
+tensor([ 5368,  4909,    13,  1232,  3831,    11, 82406,   323,  4154,  5368,
+         4909,  9173,   311,   279,  1973,   356,   295,   471,  3127,   531,
+        60722,    11,   892, 17167,   315,  1496,  4686,   291, 50490, 23156,
+           13, 10964, 18093,  2477,  1786,   295,   578,   276,  5382, 28558,
+          525,   279, 43556, 88390,   309,  4776,    11,   504,   892,   807,
+          323])
+Decoded Text:
+poises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates. Their closest non-cetacean living relatives are the hippopotamuses, from which they and
+---------------------------
+Max Activation Value: 
+(66, 91, 117)
+ largely
+3.3147635459899902
+Context Tokens: 
+tensor([12434, 35821, 19879,   323,  7172, 59950,    13, 70709,    11,   279,
+        12406,   374, 11136,  9255,   323, 62757,    13,  4710,   785, 53732,
+          304,  1493, 35558,   374,  1083, 13771, 27061,   553,   279,  2297,
+          304, 15584,    13,  8999, 10779,   323,  9898,   686, 66684,   304,
+          279, 10464,    11,  1393,  1045,  1231,   728, 88360,   304,   279,
+         7324])
+Decoded Text:
+ brings cooler temperatures and increased precipitation. Lastly, the winter is typically cold and rainy. 
+
+The vegetation in these forests is also largely influenced by the change in seasons. Many plants and animals will flourish in the spring, while some may go dormant in the summer
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ than
+3.297668218612671
+Context Tokens: 
+tensor([  916,   220,    20,    15,    15,    11,    15,    15,    15, 12943,
+          311,  1896,  1992,  2163,   279,  1879,  1817,  1042,    13,   576,
+         8686,   315, 65479,  6629,  2686,  1091,   220,    18,    13,    15,
+          389,   279, 57123,   261,  5452,   323,   728,  2030,   295,  1569,
+          553, 12677,    13,   576,  7772, 12433, 37313,   311,  2400,   572,
+          264])
+Decoded Text:
+ over 500,000 estimated to take place around the world each year. The majority of earthquakes measure less than 3.0 on the Richter scale and go undetected by humans. The largest recorded earthquake to date was a
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ mostly
+3.23093843460083
+Context Tokens: 
+tensor([   374,    279,   9104,  17595,    369,  16577,     30, 151645,    198,
+        151644,    872,    198,   2753,   1946,     13, 151645,    198, 151644,
+         77091,    198,  90173,    594,  17595,    374,    369,  10008,  39698,
+         49293,    448,    264,   1550,    315,    220,     22,     18,  12348,
+         68723,    323,    264,   3347,    315,    220,     19,     18,  12348,
+         68723,     13,   2619,    374,    264,   6012])
+Decoded Text:
+ is the weather forecast for tomorrow?<|im_end|>
+<|im_start|>user
+No input.<|im_end|>
+<|im_start|>assistant
+Tomorrow's forecast is for mostly sunny skies with a high of 73 degrees Fahrenheit and a low of 43 degrees Fahrenheit. There is a chance
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ medium
+3.216089963912964
+Context Tokens: 
+tensor([   11,  6941,   369,   862, 28583,  1293,    11, 14283, 26204,   323,
+          279, 17232,  8210,  2382,   807,   990,   311,  2287,   862, 36593,
+           13,  2379,  5395, 14576,   389, 11051, 27835, 19654,    11, 63773,
+         3658,    11,   323,  1008,  2613,  9898,    13, 53339,   525,  3881,
+          369,   862, 22804, 16307, 14762,    11,   892, 17601, 68607,   323,
+        10968])
+Decoded Text:
+, named for their characteristic long, pointed wings and the sharp talons they use to catch their prey. They feed mainly on medium-sized birds, reptiles, and other small animals. Falcons are known for their remarkable flying technique, which involves hovering and sudden
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ semi
+3.2019243240356445
+Context Tokens: 
+tensor([  279,  9503, 98605, 10530,   374,   279, 17837, 12681,  3684,   429,
+        40587,   279,  2779,   323,  5610,   279,  1240,  2387,   642,    13,
+          576,  2779, 38554,   374,   264, 18267, 17018,  2660,   480, 22103,
+          429, 79312,  1128, 28833,   323, 10901,   279,  2779,    13, 21766,
+        46417,  4204,   525,   279,   330, 13175, 36741,     1,   315,   279,
+         2779])
+Decoded Text:
+ the cytoplasm is the gel-like material that fills the cell and contains the organelles. The cell membrane is a semi-permeable barrier that regulates what enters and leaves the cell. Mitochondria are the "powerhouses" of the cell
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ single
+3.1982312202453613
+Context Tokens: 
+tensor([  5421,    315,  12188,  17899,     13, 151645,    198, 151644,  77091,
+           198,    785,  12158,   5421,    315,  12188,  17899,    374,   5089,
+            13,  36008,  17899,    525,    264,    943,    315,   3175,  24673,
+         12188,    323,    525,    537,   6032,    534,  77030,     11,   7290,
+           429,    979,    807,    525,  43210,     11,    807,    653,    537,
+          1438,   1495,    476,  28502,   2900,     13])
+Decoded Text:
+ impact of plastic bags.<|im_end|>
+<|im_start|>assistant
+The environmental impact of plastic bags is significant. Plastic bags are a type of single-use plastic and are not biodegradable, meaning that when they are discarded, they do not break down or decompose.
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ no
+3.1933326721191406
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1246,  10779,   1401,   1075,    304,
+           279,  12406,     13, 151645,    198, 151644,  77091,    198,    641,
+           279,  12406,     11,  10779,  11136,    614,    902,  10901,     11,
+           525,  88360,    323,    525,   5990,   2987,  13876,    476,  19780,
+           304,   1894,     13,    576,  53742,    315,    279,   4916,   5990,
+          4344,   1894,    323,   9044,  58784])
+Decoded Text:
+<|im_start|>system
+Describe how plants look like in the winter.<|im_end|>
+<|im_start|>assistant
+In the winter, plants typically have no leaves, are dormant and are usually either brown or grey in color. The bark of the tree usually changes color and becomes thicker
+---------------------------
+Max Activation Value: 
+(126, 151, 177)
+ least
+3.185048818588257
+Context Tokens: 
+tensor([ 1008, 11502, 11561,   382,    18,    13,  3555, 42684,   525,  2567,
+          311,   387,   264, 11483, 23576,    30,   715, 16141,    25,   362,
+        11483, 23576, 11136,  7460,   518,  3245,   264, 40990,   594,  8381,
+          304, 35324, 16595,    11,  7892,  1045, 23106,  1083,  3010,  1736,
+        27670, 12348,   304,   279,  2070,    13,   715, 15677,    19,    13,
+         3555])
+Decoded Text:
+ other consumer goods.
+
+3. What qualifications are required to be a chemical engineer? 
+Answer: A chemical engineer typically requires at least a Bachelor's degree in Chemical Engineering, although some universities also offer postgraduate degrees in the field. 
+         
+4. What
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+ single
+3.1581714153289795
+Context Tokens: 
+tensor([  785,  1887,  6672,  1948,   264, 65315,  8345, 12859,   323,   264,
+        46797, 12859,   374,   304,   279,  1616,   807, 14476,    13, 65315,
+         8345, 30856, 17188,   389,   264,  3175,  5387,   476,  1697,   311,
+        23977,  1251,   700,   315,   862,  3220,    11,  1393, 46797, 30856,
+        17188,   389, 13026, 31859,   501,  3613,   311,  5263,   862, 23681,
+           13])
+Decoded Text:
+The main difference between a Ponzi scheme and a pyramid scheme is in the way they operate. Ponzi schemes rely on a single entity or person to fool people out of their money, while pyramid schemes rely on participants recruiting new members to increase their earnings.
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ fully
+3.152158260345459
+Context Tokens: 
+tensor([ 48959,    374,  28202,   7806,   5838,     11,   1221,  29105,    304,
+           264,   3015,   8885,    518,    264,  23560,   9315,    369,    458,
+         11577,   4168,     11,  22573,    429,    432,    374,   7225,  29105,
+          1526,    714,   2058,  27582,    323,  55053,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ steak is vacuum-sealed, then cooked in a water bath at a precise temperature for an extended period, ensuring that it is fully cooked through but still tender and juicy.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ zero
+3.1466195583343506
+Context Tokens: 
+tensor([77091,   198, 70941,  4802,   374,   458, 14756,  5411,  1352,   315,
+        32168,  4802,   438,   432,   374,  4240,    11, 11050,    11,   323,
+        43511,    13, 24446,  4802, 18644,  7168, 20143,   323,  1558,   537,
+        16792,   311,  3644, 23867,   476,  7085,  1070,   279,  4573,    13,
+          758, 12872,    11, 30276, 39273,   525,  2477,  5504,   931,   480,
+         8173])
+Decoded Text:
+assistant
+Solar energy is an increasingly popular form of renewable energy as it is clean, efficient, and abundant. Solar energy produces zero emissions and does not contribute to global warming or pollute the environment. In contrast, fossil fuels are non-renewable sources
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ all
+3.1392078399658203
+Context Tokens: 
+tensor([  702, 38820,  1181,  1887,  2053, 24387,  4379,   311,   220,    15,
+           13,    20,    15, 13384,  1495,   504,   220,    15,    13,    15,
+           20, 14360,  1096, 30636,  1216,   678, 52575,  7049,   369,  9675,
+           11,  8521,   323, 16636,   304,   279, 19461,  8684,    13, 40470,
+           82,  4411,   419,  1410,   614,   264,  6785,  2456,   389,   279,
+        19461])
+Decoded Text:
+ has lowered its main refinance rate to 0.50%, down from 0.05%. This reprices all borrowing costs for businesses, families and governments in the Eurozone. Analysts believe this could have a positive effect on the Euro
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ any
+3.137136220932007
+Context Tokens: 
+tensor([51424,  2070,    11,   448,  7263,   315,   220,    16,    16,  4217,
+          389,  1817,  3108, 19405,   311,  5456,  1119,   279, 14002,  5795,
+           13,   576,  4217,   646,   990,   894,   949,   315,   862, 12866,
+           11, 10747,   504,   862,  6078,   476, 11715,    11,   311,  3271,
+          279,  4935,   323,  1494,   432,  4221, 31646,    13,   576,  2083,
+          448])
+Decoded Text:
+ rectangular field, with teams of 11 players on each side attempting to score into the opposite goal. The players can use any part of their bodies, apart from their hands or arms, to move the ball and pass it among teammates. The team with
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ no
+3.13545823097229
+Context Tokens: 
+tensor([  279, 57536, 30232,    11,   323,   279, 17951,  6422,    13,   576,
+        57536, 27645,   374,   279,  6821,   315,   279, 31743,   323,   374,
+          264, 25600,  9396,    11,  5990,   902, 19117,  1091,   220,    21,
+           20,    15,  7541,    13,   576, 57536, 30232,   374,   279, 31266,
+        17704,   429, 11508,   311,   279,  5538, 17951,    11, 18739, 42857,
+          315])
+Decoded Text:
+ the continental slope, and the ocean floor. The continental shelf is the edge of the continent and is a shallow sea, usually no deeper than 650 feet. The continental slope is the steep decline that leads to the deep ocean, reaching depths of
+---------------------------

@@ -1,0 +1,364 @@
+Max Activation Value: 
+(4, 29, 55)
+ 
+5.37854528427124
+Context Tokens: 
+tensor([   279,   1156,   3040,  18509,    315,    279,   2661,   6668,   3701,
+          1372,     13, 151645,    198, 151644,    872,    198,     20,     18,
+            15,     24,    220,     22,     21,     22,     22,    220,     23,
+            17,     19,     19,    220,     16,     18,     19,     21, 151645,
+           198, 151644,  77091,    198,     20,     18,     15,     24, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the first four digits of the given credit card number.<|im_end|>
+<|im_start|>user
+5309 7677 8244 1346<|im_end|>
+<|im_start|>assistant
+5309<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+ 
+5.13252067565918
+Context Tokens: 
+tensor([    17,     11,    220,     18,   1259,    508,     19,     11,    220,
+            20,   5053, 151645,    198, 151644,  77091,    198,  15505,     19,
+            11,    220,     17,   1259,    508,     20,     11,    220,     18,
+          5053, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+2, 3],
+ [4, 5]]<|im_end|>
+<|im_start|>assistant
+[[4, 2],
+ [5, 3]]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ 
+5.08233118057251
+Context Tokens: 
+tensor([   508,     72,    334,     17,    369,    600,    304,    856,     60,
+        151645,    198, 151644,  77091,    198,     88,    284,    508,     16,
+            11,    220,     19,     11,    220,     24,     11,    220,     16,
+            21,     60, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ [i**2 for i in x]<|im_end|>
+<|im_start|>assistant
+y = [1, 4, 9, 16]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(65, 90, 116)
+.
+5.068953990936279
+Context Tokens: 
+tensor([    11,    220,     15,     13,     16,     11,    481,     15,     13,
+            16,     11,    220,     15,     13,     16,     21,     11,    481,
+            15,     13,     16,     23,     11,    220,     15,     13,     15,
+            23,    936, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, 0.1, -0.1, 0.16, -0.18, 0.08].<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+ 
+4.965343475341797
+Context Tokens: 
+tensor([   872,    198,     58,     20,     11,    220,     16,     15,     11,
+           220,     16,     20,     11,    220,     23,     11,    220,     24,
+            11,    220,     20,     11,    220,     23,     11,    220,     16,
+            15,     11,    220,     24,     60, 151645,    198, 151644,  77091,
+           198,     16,     20,     11,    220,     20,     11,    220,     23,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+[5, 10, 15, 8, 9, 5, 8, 10, 9]<|im_end|>
+<|im_start|>assistant
+15, 5, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ 
+4.914851188659668
+Context Tokens: 
+tensor([   279,   2661,   6668,   3701,   1372,     13, 151645,    198, 151644,
+           872,    198,     20,     18,     15,     24,    220,     22,     21,
+            22,     22,    220,     23,     17,     19,     19,    220,     16,
+            18,     19,     21, 151645,    198, 151644,  77091,    198,     20,
+            18,     15,     24, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the given credit card number.<|im_end|>
+<|im_start|>user
+5309 7677 8244 1346<|im_end|>
+<|im_start|>assistant
+5309<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ 
+4.907162189483643
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    279,   2701,    821,     11,   3555,
+           374,    279,  22553,   5456, 151645,    198, 151644,    872,    198,
+            22,     11,    220,     24,     11,    220,     16,     18,     11,
+           220,     17,     11,    220,     23, 151645,    198, 151644,  77091,
+           198,     23, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Given the following data, What is the median score<|im_end|>
+<|im_start|>user
+7, 9, 13, 2, 8<|im_end|>
+<|im_start|>assistant
+8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ 
+4.892704963684082
+Context Tokens: 
+tensor([  8948,    198,  46254,    279,  22553,   4231,    315,    279,   2661,
+          1140,    315,  16639,     13, 151645,    198, 151644,    872,    198,
+            16,     20,     11,    220,     21,     23,     11,    220,     17,
+            15,     11,    220,     19,     16,     11,    220,     17,     23,
+        151645,    198, 151644,  77091,    198,     17,     24,     13,     20,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Compute the median age of the given list of ages.<|im_end|>
+<|im_start|>user
+15, 68, 20, 41, 28<|im_end|>
+<|im_start|>assistant
+29.5<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ 
+4.885036468505859
+Context Tokens: 
+tensor([  4999,     22,     11,     18,   4999,     16,     11,     15,     11,
+            20,     60, 151645,    198, 151644,  77091,    198,     58,     20,
+            11,    220,     23,     11,    220,     18,     11,    220,     20,
+            60, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+,-7,3,-1,0,5]<|im_end|>
+<|im_start|>assistant
+[5, 8, 3, 5]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ 
+4.874511241912842
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,   1140,    315,   5109,     11,
+           470,    279,  22553,    897,     13, 151645,    198, 151644,    872,
+           198,     20,     11,    220,     16,     20,     11,    220,     16,
+            15,     11,    220,     22, 151645,    198, 151644,  77091,    198,
+            16,     15, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Given a list of numbers, return the median value.<|im_end|>
+<|im_start|>user
+5, 15, 10, 7<|im_end|>
+<|im_start|>assistant
+10<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ 
+4.8598246574401855
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,    943,    315,  21495,
+            13, 151645,    198, 151644,    872,    198,     82,   3341,    220,
+            16,     16,     11,    220,     20,    323,    220,     16,     18,
+        151645,    198, 151644,  77091,    198,    785,  21495,    374,    458,
+          4514,    810,  21495,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Identify the type of triangle.<|im_end|>
+<|im_start|>user
+sides 11, 5 and 13<|im_end|>
+<|im_start|>assistant
+The triangle is an obtuse triangle.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ 
+4.846235275268555
+Context Tokens: 
+tensor([   279,   7192,    897,     13, 151645,    198, 151644,    872,    198,
+          1649,     25,    314,     16,     15,     11,    220,     18,     11,
+           220,     17,     20,     11,    220,     21,     11,    220,     16,
+            21,     92, 151645,    198, 151644,  77091,    198,    785,   7192,
+           897,    374,    220,     17,     20,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the maximum value.<|im_end|>
+<|im_start|>user
+Set: {10, 3, 25, 6, 16}<|im_end|>
+<|im_start|>assistant
+The maximum value is 25.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+ 
+4.813547134399414
+Context Tokens: 
+tensor([   220,     16,     16,     11,    220,     16,     22,     11,    220,
+            20, 151645,    198, 151644,  77091,    198,     16,     22,     11,
+           220,     16,     16,     11,    220,     20,     11,    220,     18,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 11, 17, 5<|im_end|>
+<|im_start|>assistant
+17, 11, 5, 3<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(43, 68, 94)
+.
+4.8134942054748535
+Context Tokens: 
+tensor([    15,     13,     19,     60, 151645,    198, 151644,  77091,    198,
+         79082,    821,    738,     25,    508,     15,     13,     17,     11,
+           481,     15,     13,     17,     11,    220,     15,     13,     16,
+            11,    481,     15,     13,     16,     11,    220,     15,     13,
+            16,     21,     11,    481,     15,     13,     16,     23,     11,
+           220,     15,     13,     15,     23,    936])
+Decoded Text:
+0.4]<|im_end|>
+<|im_start|>assistant
+Normalized data set: [0.2, -0.2, 0.1, -0.1, 0.16, -0.18, 0.08].
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ 
+4.796198844909668
+Context Tokens: 
+tensor([   198, 151644,    872,    198,      7,     16,     11,    220,     17,
+             8,    320,     17,     11,    220,     18,      8,    320,     18,
+            11,    220,     17,      8,    320,     19,     11,    220,     20,
+             8, 151645,    198, 151644,  77091,    198,    785,   3082,    315,
+           279,   6083,  14122,    553,    279,   2661,   3501,    374,    220,
+            22,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+
+<|im_start|>user
+(1, 2) (2, 3) (3, 2) (4, 5)<|im_end|>
+<|im_start|>assistant
+The area of the shape formed by the given points is 7.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ 
+4.792654514312744
+Context Tokens: 
+tensor([   315,   5109,     13, 151645,    198, 151644,    872,    198,     24,
+            11,    220,     17,     11,    220,     22,     11,    220,     19,
+            11,    220,     16,     11,    220,     21,     11,    220,     23,
+        151645,    198, 151644,  77091,    198,     21, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of numbers.<|im_end|>
+<|im_start|>user
+9, 2, 7, 4, 1, 6, 8<|im_end|>
+<|im_start|>assistant
+6<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+.
+4.790894031524658
+Context Tokens: 
+tensor([   481,     16,     11,    220,     15,     13,     20,     11,    481,
+            15,     13,     20,     11,    220,     15,     13,     23,     11,
+           481,     15,     13,     24,     11,    220,     15,     13,     19,
+            60, 151645,    198, 151644,  77091,    198,  79082,    821,    738,
+            25,    508,     15,     13,     17,     11,    481,     15,     13,
+            17,     11,    220,     15,     13,     16])
+Decoded Text:
+ -1, 0.5, -0.5, 0.8, -0.9, 0.4]<|im_end|>
+<|im_start|>assistant
+Normalized data set: [0.2, -0.2, 0.1
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ 
+4.783907413482666
+Context Tokens: 
+tensor([ 77091,    198,     16,     15,    856,    220,     21,    284,    220,
+            21,     15,    198,     16,     16,    856,    220,     23,    284,
+           220,     23,     23,    198,     16,     17,    856,    220,     20,
+           284,    220,     21,     15, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+assistant
+10 x 6 = 60
+11 x 8 = 88
+12 x 5 = 60<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ 
+4.767294406890869
+Context Tokens: 
+tensor([    17,     11,     23,   4999,     22,     11,     18,   4999,     16,
+            11,     15,     11,     20,     60, 151645,    198, 151644,  77091,
+           198,     58,     20,     11,    220,     23,     11,    220,     18,
+            11,    220,     20,     60, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+2,8,-7,3,-1,0,5]<|im_end|>
+<|im_start|>assistant
+[5, 8, 3, 5]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ 
+4.7604475021362305
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,     58,     20,     11,    220,
+            16,     15,     11,    220,     16,     20,     11,    220,     23,
+            11,    220,     24,     11,    220,     20,     11,    220,     23,
+            11,    220,     16,     15,     11,    220,     24,     60, 151645,
+           198, 151644,  77091,    198,     16,     20,     11,    220,     20,
+            11,    220,     23, 151645,    198, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+[5, 10, 15, 8, 9, 5, 8, 10, 9]<|im_end|>
+<|im_start|>assistant
+15, 5, 8<|im_end|>
+<|endoftext|>
+---------------------------

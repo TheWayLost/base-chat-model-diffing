@@ -1,0 +1,314 @@
+Max Activation Value: 
+(188, 213, 239)
+ confused
+0.5988414883613586
+Context Tokens: 
+tensor([  498,  1477,    11,   714,  2494,   498,  2669,   614,    13,  2009,
+          498,  1184,   311,   653,   374,  4411,   304,  6133,  2217,    32,
+          450,   273,   572,   264,  2699, 21815,    11,   714,  1059, 11618,
+         1030, 15599,  1059,   264, 15172, 17755,    25,   429, 24744,   323,
+        25248,  1033,  1059,  1828, 12196, 58849,    13,  5542,  1221,   389,
+           11])
+Decoded Text:
+ you find, but something you already have. All you need to do is believe in yourself."
+
+Adele was a bit confused, but her journey had taught her a valuable lesson: that courage and determination were her own greatest treasures. From then on,
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+-f
+0.5943769812583923
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  20180,   5383,    311,   2432,
+           678,  42047,  69722,   4244, 151645,    198, 151644,  77091,    198,
+         27736,     15,     12,     24,     64,   2220,  65778, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Create a regex pattern to match all lowercase hexadecimal words<|im_end|>
+<|im_start|>assistant
+^[0-9a-f]+$<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+ make
+0.4875885546207428
+Context Tokens: 
+tensor([   279,  16770,     11,    323,   3602,     11,   1251,    525,   2058,
+          3709,  14036,     13,   2160,    419,  16770,  81675,  18774,    879,
+           311,  33427,     30,   1084,   1101,   3171,   1405,   1281,   5530,
+             0,   1205,   1231,   2581,   1414,    279,   4226,     11,    714,
+           518,   3245,    582,    646,   4774,    311,   4717,   6092,    323,
+          9314,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ the virus, and yet, people are still getting sick. Is this virus selectively choosing who to infect? It just doesn’t make sense! We may never know the answer, but at least we can attempt to stay safe and healthy.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ -
+0.4713227450847626
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    279,   2088,    315,    279,   5109,
+           481,     20,     11,    220,     15,     11,    220,     17,     11,
+           220,     19,     13, 151645,    198, 151644,  77091,    198,   6046,
+            25,    481,     20,    311,    220,     19, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Calculate the range of the numbers -5, 0, 2, 4.<|im_end|>
+<|im_start|>assistant
+Range: -5 to 4<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ for
+0.4665404260158539
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,    264,   3204,  16148,    369,   3213,
+         56954,    304,   7085,  17272,  21910,     13, 151645,    198, 151644,
+         77091,    198,  25140,  56954,    304,   7085,  17272,  21910,    525,
+          4363,   8881,    553,  36229,  13450,    311])
+Decoded Text:
+<|im_start|>system
+Give a possible explanation for recent declines in pollinator populations.<|im_end|>
+<|im_start|>assistant
+Recent declines in pollinator populations are likely caused by susceptibilities to
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ George
+0.4305483400821686
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   4911,  29399,    369,   4325,
+          6941,   9857, 151645,    198, 151644,  77091,    198,  37344,  12010,
+           747,  55709,    476,    479,     12,   1639,    449, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a unique nickname for someone named George<|im_end|>
+<|im_start|>assistant
+Geo-Gepopo or G-Whiz<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ tax
+0.4283190071582794
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,   3742,  47128,  23850,
+           369,  12677,     13, 151645,    198, 151644,  77091,    198,  94568,
+          9173,    311,    279,  25079,  21292,    685,     11,   1319,  27333,
+           910,    539,    459,     11,    536])
+Decoded Text:
+<|im_start|>system
+Identify the taxonomic classification for humans.<|im_end|>
+<|im_start|>assistant
+Humans belong to the kingdom Animalia, phylum Chordata, class
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ float
+0.41742846369743347
+Context Tokens: 
+tensor([   279,   7192,  11372,    315,    264,   5591,   3695,    323,   4559,
+            30, 151645,    198, 151644,  77091,    198,    750,   1932,  67297,
+         24974,   1216,    982,    262,   1308,   9040,    284,   2224,    492,
+         13573,   1305,    262,   1932,  72042,    284,    220,     15,    271,
+           262,    369,   3349,    304,   7576,    510,    286,   1308,   9040,
+           284,   1308,  14146,   9040,     11,   3349])
+Decoded Text:
+ the maximum profit of a stock buy and sell?<|im_end|>
+<|im_start|>assistant
+def maxProfit(prices):
+    min_price = float('inf')
+    max_profit = 0
+
+    for price in prices:
+        min_price = min(min_price, price
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ cause
+0.41492345929145813
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    264,   3598,   5240,    315,
+          3720,  24761,     30, 151645,    198, 151644,  77091,    198,     32,
+          3598,   5240,    315,   3720,  24761,    374,    279,  19675,    315,
+         30276,  39273,    369,   4802,    323,  17903])
+Decoded Text:
+<|im_start|>system
+What is a major cause of air pollution?<|im_end|>
+<|im_start|>assistant
+A major cause of air pollution is the burning of fossil fuels for energy and transportation
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+<|im_start|>
+0.4146370589733124
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1128,    279,   1879,   1035,    387,
+          1075,    304,    264,   4727,   8621,  47648,   8232,     13, 151645,
+           198, 151644,  77091,    198,    641,    264,   4727,   8621,  47648,
+          8232,     11,   5019,   1035,    387,   5382,    304,  25281,     11,
+          1910,    504,   8679,    323,  46648,     13,   2619,   1035,    387])
+Decoded Text:
+<|im_start|>system
+Describe what the world would be like in a perfect utopian society.<|im_end|>
+<|im_start|>assistant
+In a perfect utopian society, everyone would be living in harmony, free from fear and oppression. There would be
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+g
+0.4140556752681732
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    678,    279,   4244,    429,   3161,
+           448,    279,   6524,    330,     70,      1, 151645,    198, 151644,
+           872,    198,    785,   3974,  13876,  38835,  34208,    916,    279,
+         15678,   5562, 151645,    198, 151644,  77091,    198,    785,   4244,
+           429,   3161,    448])
+Decoded Text:
+<|im_start|>system
+Find all the words that begin with the letter "g"<|im_end|>
+<|im_start|>user
+The quick brown fox jumps over the lazy dog<|im_end|>
+<|im_start|>assistant
+The words that begin with
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ containing
+0.400164395570755
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    458,   1946,   8482,    264,  12289,
+           315,    458,   4549,     11,   4583,    279,   4549,    553,   8241,
+           279,   2732,    315,    279,   2213,     13, 151645,    198, 151644,
+           872,    198,  28085,    685,    374])
+Decoded Text:
+<|im_start|>system
+Given an input containing a fragment of an article, complete the article by providing the rest of the content.<|im_end|>
+<|im_start|>user
+Julia is
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ equal
+0.39783576130867004
+Context Tokens: 
+tensor([  9334,   8153,     13,   1096,    374,  16588,    553,   1667,    279,
+         14806,    362,    284,  51745,     81,     17,     11,   1380,    362,
+           374,    279,   3082,     11,  51745,    374,  17267,   6144,    311,
+           220,     18,     13,     16,     19,     16,     21,    323,    435,
+           374,    279,  10578,    315,    279,  12671,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ square units. This is calculated by using the formula A = πr2, where A is the area, π is roughly equal to 3.1416 and r is the radius of the circle.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(143, 168, 194)
+5
+0.3906070291996002
+Context Tokens: 
+tensor([    24,    339,    220,     16,     23,     21,     20,     25,  56357,
+          3251,   8397,    468,     13,  12066,  24165,    303,    388,    518,
+          1845,    316,  16755,     87,   4710,  32146,    220,     20,    339,
+           220,     16,     23,     21,     20,     25,    576,    663,    404,
+         45387,  21711,    374,  96565,     11,  36176,  10976,  32692,    304,
+           279,   3639,   4180, 151645,    198, 151643])
+Decoded Text:
+9th 1865: Confederate General Robert E. Lee surrenders at Appomattox 
+
+December 5th 1865: The Thirteenth Amendment is ratified, abolishing slavery in the United States<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ in
+0.38039278984069824
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   1894,  13753,    304,    220,
+            18,   4244,     13, 151645,    198, 151644,  77091,    198,  74676,
+            11,  27138,   1262,     11,  55038,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Describe the color yellow in 3 words.<|im_end|>
+<|im_start|>assistant
+Bright, Joyful, Sunny.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(398, 423, 449)
+<|endoftext|>
+0.3797820508480072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(388, 413, 439)
+<|endoftext|>
+0.3797820508480072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(412, 437, 463)
+<|endoftext|>
+0.3797820508480072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(390, 415, 441)
+<|endoftext|>
+0.3797820508480072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(392, 417, 443)
+<|endoftext|>
+0.3797820508480072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

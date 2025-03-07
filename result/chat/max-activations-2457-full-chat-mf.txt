@@ -1,0 +1,355 @@
+Max Activation Value: 
+(17, 42, 68)
+,
+7.114451885223389
+Context Tokens: 
+tensor([   284,    508,     20,   4999,     17,     11,     23,   4999,     22,
+            11,     18,   4999,     16,     11,     15,     11,     20,     60,
+        151645,    198, 151644,  77091,    198,     58,     20,     11,    220,
+            23,     11,    220,     18,     11,    220,     20,     60, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ = [5,-2,8,-7,3,-1,0,5]<|im_end|>
+<|im_start|>assistant
+[5, 8, 3, 5]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+,
+7.000061988830566
+Context Tokens: 
+tensor([  4999,     17,     11,     23,   4999,     22,     11,     18,   4999,
+            16,     11,     15,     11,     20,     60, 151645,    198, 151644,
+         77091,    198,     58,     20,     11,    220,     23,     11,    220,
+            18,     11,    220,     20,     60, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+,-2,8,-7,3,-1,0,5]<|im_end|>
+<|im_start|>assistant
+[5, 8, 3, 5]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ 
+6.9636006355285645
+Context Tokens: 
+tensor([    11,    220,     24,     11,    220,     16,     16,     11,    220,
+            17,     11,    220,     18,     11,    220,     16,     16,     60,
+        151645,    198, 151644,  77091,    198,     22,     11,    220,     24,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, 9, 11, 2, 3, 11]<|im_end|>
+<|im_start|>assistant
+7, 9<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+,
+6.927978992462158
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,     17,     11,    220,
+            19,     11,    220,     15,     11,    220,     23,     11,    220,
+            18, 151645,    198, 151644,  77091,    198,     15,     11,    220,
+            17,     11,    220,     18,     11,    220,     19,     11,    220,
+            23, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+2, 4, 0, 8, 3<|im_end|>
+<|im_start|>assistant
+0, 2, 3, 4, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ 
+6.872903347015381
+Context Tokens: 
+tensor([    11,    220,     24,     11,    220,     20,     11,    220,     23,
+            11,    220,     16,     15,     11,    220,     24,     60, 151645,
+           198, 151644,  77091,    198,     16,     20,     11,    220,     20,
+            11,    220,     23, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, 9, 5, 8, 10, 9]<|im_end|>
+<|im_start|>assistant
+15, 5, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+,
+6.813444137573242
+Context Tokens: 
+tensor([    11,    220,     16,     15,     11,    220,     23,     11,    220,
+            16,     16,     11,    220,     24,     11,    220,     20,     60,
+        151645,    198, 151644,  77091,    198,     58,     22,     11,    220,
+            23,     11,    220,     24,     11,    220,     16,     16,     60,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, 10, 8, 11, 9, 5]<|im_end|>
+<|im_start|>assistant
+[7, 8, 9, 11]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+,
+6.766179084777832
+Context Tokens: 
+tensor([    22,     11,    220,     24,     11,    220,     16,     16,     11,
+           220,     17,     11,    220,     18,     11,    220,     16,     16,
+            60, 151645,    198, 151644,  77091,    198,     22,     11,    220,
+            24, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+7, 9, 11, 2, 3, 11]<|im_end|>
+<|im_start|>assistant
+7, 9<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+,
+6.759451389312744
+Context Tokens: 
+tensor([    15,     11,    220,     23,     11,    220,     16,     16,     11,
+           220,     24,     11,    220,     20,     60, 151645,    198, 151644,
+         77091,    198,     58,     22,     11,    220,     23,     11,    220,
+            24,     11,    220,     16,     16,     60, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+0, 8, 11, 9, 5]<|im_end|>
+<|im_start|>assistant
+[7, 8, 9, 11]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+,
+6.732646465301514
+Context Tokens: 
+tensor([151644,    872,    198,     17,     11,    220,     19,     11,    220,
+            15,     11,    220,     23,     11,    220,     18, 151645,    198,
+        151644,  77091,    198,     15,     11,    220,     17,     11,    220,
+            18,     11,    220,     19,     11,    220,     23, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>user
+2, 4, 0, 8, 3<|im_end|>
+<|im_start|>assistant
+0, 2, 3, 4, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+,
+6.643432140350342
+Context Tokens: 
+tensor([    23,     11,    220,     24,     11,    220,     20,     11,    220,
+            23,     11,    220,     16,     15,     11,    220,     24,     60,
+        151645,    198, 151644,  77091,    198,     16,     20,     11,    220,
+            20,     11,    220,     23, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+8, 9, 5, 8, 10, 9]<|im_end|>
+<|im_start|>assistant
+15, 5, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ 
+6.4936909675598145
+Context Tokens: 
+tensor([   220,     16,     15,     11,    220,     23,     11,    220,     16,
+            16,     11,    220,     24,     11,    220,     20,     60, 151645,
+           198, 151644,  77091,    198,     58,     22,     11,    220,     23,
+            11,    220,     24,     11,    220,     16,     16,     60, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 10, 8, 11, 9, 5]<|im_end|>
+<|im_start|>assistant
+[7, 8, 9, 11]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+,
+6.485510349273682
+Context Tokens: 
+tensor([  8948,    198,  10231,    279,   2701,   1334,    304,  35388,   1973,
+           508,     18,     11,    220,     21,     11,     16,     11,     23,
+           936, 151645,    198, 151644,  77091,    198,     16,     11,    220,
+            18,     11,    220,     21,     11,    220,     23,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Sort the following array in ascending order [3, 6,1,8].<|im_end|>
+<|im_start|>assistant
+1, 3, 6, 8.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ 
+6.461387634277344
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,     17,     11,    220,     19,
+            11,    220,     15,     11,    220,     23,     11,    220,     18,
+        151645,    198, 151644,  77091,    198,     15,     11,    220,     17,
+            11,    220,     18,     11,    220,     19,     11,    220,     23,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+2, 4, 0, 8, 3<|im_end|>
+<|im_start|>assistant
+0, 2, 3, 4, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+,
+6.373780250549316
+Context Tokens: 
+tensor([ 19056,     13, 151645,    198, 151644,    872,    198,  87747,     11,
+         23268,     11,  72600,     11,  67246, 151645,    198, 151644,  77091,
+           198,     37,  67898,    448,  19056,     25,  23268,     11,  72600,
+           198,     37,  67898,   2041,  19056,     25,  43096,     11,  67246,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ seeds.<|im_end|>
+<|im_start|>user
+banana, apple, strawberry, avocado<|im_end|>
+<|im_start|>assistant
+Fruits with seeds: apple, strawberry
+Fruits without seeds: banana, avocado<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+,
+6.35746955871582
+Context Tokens: 
+tensor([    24,     11,    220,     20,     11,    220,     23,     11,    220,
+            16,     15,     11,    220,     24,     60, 151645,    198, 151644,
+         77091,    198,     16,     20,     11,    220,     20,     11,    220,
+            23, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+9, 5, 8, 10, 9]<|im_end|>
+<|im_start|>assistant
+15, 5, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+,
+6.327104568481445
+Context Tokens: 
+tensor([   872,    198,     18,     11,    220,     16,     16,     11,    220,
+            16,     22,     11,    220,     20, 151645,    198, 151644,  77091,
+           198,     16,     22,     11,    220,     16,     16,     11,    220,
+            20,     11,    220,     18, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+3, 11, 17, 5<|im_end|>
+<|im_start|>assistant
+17, 11, 5, 3<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+,
+6.2023468017578125
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,     18,     11,    220,
+            16,     16,     11,    220,     16,     22,     11,    220,     20,
+        151645,    198, 151644,  77091,    198,     16,     22,     11,    220,
+            16,     16,     11,    220,     20,     11,    220,     18, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+3, 11, 17, 5<|im_end|>
+<|im_start|>assistant
+17, 11, 5, 3<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ 
+6.1703057289123535
+Context Tokens: 
+tensor([   872,    198,     17,     11,    220,     19,     11,    220,     15,
+            11,    220,     23,     11,    220,     18, 151645,    198, 151644,
+         77091,    198,     15,     11,    220,     17,     11,    220,     18,
+            11,    220,     19,     11,    220,     23, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+2, 4, 0, 8, 3<|im_end|>
+<|im_start|>assistant
+0, 2, 3, 4, 8<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ 
+6.15879487991333
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,     18,     11,    220,     16,
+            16,     11,    220,     16,     22,     11,    220,     20, 151645,
+           198, 151644,  77091,    198,     16,     22,     11,    220,     16,
+            16,     11,    220,     20,     11,    220,     18, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+3, 11, 17, 5<|im_end|>
+<|im_start|>assistant
+17, 11, 5, 3<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ 
+6.152284145355225
+Context Tokens: 
+tensor([   508,     20,   4999,     17,     11,     23,   4999,     22,     11,
+            18,   4999,     16,     11,     15,     11,     20,     60, 151645,
+           198, 151644,  77091,    198,     58,     20,     11,    220,     23,
+            11,    220,     18,     11,    220,     20,     60, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ [5,-2,8,-7,3,-1,0,5]<|im_end|>
+<|im_start|>assistant
+[5, 8, 3, 5]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

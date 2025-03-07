@@ -1,0 +1,320 @@
+Max Activation Value: 
+(0, 9, 35)
+ the
+0.21369490027427673
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,    882,  23094,    315,
+           279,  17101,    290,  15967,  12111,     13, 151645,    198, 151644,
+         77091,    198,    785,    882,  23094,    315,    279,  17101,    290,
+         15967,  12111,    374,    506,   1445,     61,     17,    568])
+Decoded Text:
+<|im_start|>system
+Identify the time complexity of the Insertion Sort algorithm.<|im_end|>
+<|im_start|>assistant
+The time complexity of the Insertion Sort algorithm is O(n^2).
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ the
+0.20820245146751404
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  10250,   8168,   2022,    369,
+           279,   1372,    220,     17,     17,     13, 151645,    198, 151644,
+         77091,    198,    785,  10250,   8168,   2022,    315,    220,     17,
+            17,    374,    220,     17,    856,    220,     16,     16])
+Decoded Text:
+<|im_start|>system
+Find the prime factorization for the number 22.<|im_end|>
+<|im_start|>assistant
+The prime factorization of 22 is 2 x 11
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ all
+0.20591700077056885
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    501,  11652,    429,   5711,
+           678,    279,   4244,    504,    279,   2661,  11652,    304,    279,
+          1852,   1973,     13, 151645,    198, 151644,    872,    198,     40,
+          3937,    311,    279,   3553,    311,   3695,   1045,  40676])
+Decoded Text:
+<|im_start|>system
+Generate a new sentence that uses all the words from the given sentence in the same order.<|im_end|>
+<|im_start|>user
+I went to the store to buy some apples
+---------------------------
+Max Activation Value: 
+(101, 126, 152)
+ uns
+0.20200565457344055
+Context Tokens: 
+tensor([    11,    892,   3643,    432,   2155,    504,  58989,   6832,  25185,
+            13,    576,   9498,   1614,    374,   1221,   1483,    311,   1281,
+         19898,     13,    576,  19898,   1865,    553,    279,   6975,    454,
+         77990,   6832,  12111,   6761,    389,    279,    821,   2500,     11,
+           323,    279,  12111,    594,   5726,    311,  10542,  68816,    323,
+         12624,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+, which makes it different from supervised learning algorithms. The learned model is then used to make predictions. The predictions made by the unsupervised learning algorithm depend on the data available, and the algorithm's ability to identify correlations and patterns.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ the
+0.19832327961921692
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  30232,    315,    279,   1555,
+         12299,   1526,    279,   3501,    320,     17,     11,    481,     18,
+             8,    323,    320,     16,     11,    481,     17,    568, 151645,
+           198, 151644,    872,    198,      7,     17,   4999,     18,      8,
+           320])
+Decoded Text:
+<|im_start|>system
+Find the slope of the line passing through the points (2, -3) and (1, -2).<|im_end|>
+<|im_start|>user
+(2,-3) (
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+unch
+0.19718626141548157
+Context Tokens: 
+tensor([ 8272,    11,   821,     8,   715,   262,   770,    25,   715,   286,
+         2436,  9517,   284,  5656,  6958,  9517,    11,   821,     8, 48426,
+          262,   671,   470,   279,   320,  3185,  3726,     8,  2436,  7445,
+          715,   262,   470,  2436, 48426,     2,  5712,   311,  2711,   264,
+         2661,   821,   715,   750,  2711,  6958,    11,   821,  1648,   715,
+         6926])
+Decoded Text:
+.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ the
+0.19309529662132263
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    501,  11652,    429,   5711,
+           678,    279,   4244,    504,    279,   2661,  11652,    304,    279,
+          1852,   1973,     13, 151645,    198, 151644,    872,    198,     40,
+          3937,    311,    279,   3553,    311,   3695,   1045,  40676,     13])
+Decoded Text:
+<|im_start|>system
+Generate a new sentence that uses all the words from the given sentence in the same order.<|im_end|>
+<|im_start|>user
+I went to the store to buy some apples.
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ the
+0.19105976819992065
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,   8046,   1965,    369,    279,
+          2661,   7493,     13, 151645,    198, 151644,    872,    198,  47326,
+            47,   1464,   1207,      8,    348,    320,     49,   1464,    328,
+             8, 151645,    198, 151644,  77091,    198,     47])
+Decoded Text:
+<|im_start|>system
+Construct a truth table for the given expression.<|im_end|>
+<|im_start|>user
+(~P -> Q) v (R -> S)<|im_end|>
+<|im_start|>assistant
+P
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ rh
+0.18617331981658936
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    264,  21669,   1600,    287,   3409,
+           369,    279,   3409,    330,   5469,   3263, 151645,    198, 151644,
+         77091,    198,     38,   1524,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find a rhyming word for the word "river".<|im_end|>
+<|im_start|>assistant
+Giver.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+ out
+0.18243536353111267
+Context Tokens: 
+tensor([  5662,   6832,  25185,    311,   7023,   5591,  14937,     13,   1084,
+          1730,    429,   2100,  47360,     11,  90009,    323,  22060,  25185,
+           678,   3010,  13382,  19898,     11,    448,  22060,    700,  28488,
+           287,    279,   3800,     13,   2100,  47360,   1030,   1661,  13403,
+           714,   4362,    803,   8692,    882,     13, 151645,    198, 151644,
+         77091,    198,    785,   3920,  24109,    279])
+Decoded Text:
+ machine learning algorithms to predict stock indices. It found that ANNs, SVM and RF algorithms all offer accurate predictions, with RF outperforming the others. ANNs had good accuracy but needed more processing time.<|im_end|>
+<|im_start|>assistant
+The study examined the
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ single
+0.1823076456785202
+Context Tokens: 
+tensor([151644,   8948,    198,  23107,    279,   3175,  12641,    320,    863,
+           311,   1990,  12641,    320,    899,    304,    279,   2661,  11652,
+            13, 151645,    198, 151644,    872,    198,    641,    279,    547,
+           808,   2572,    730,  35759])
+Decoded Text:
+<|im_start|>system
+Replace the single quote (') to double quote (") in the given sentence.<|im_end|>
+<|im_start|>user
+In the U.S., KIPP
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ form
+0.17982573807239532
+Context Tokens: 
+tensor([151644,   8948,    198,     50,  70206,    279,   2701,   7493,   1119,
+          1181,  44548,   1352,     13, 151645,    198, 151644,    872,    198,
+            17,   2075,    488,    220,     24,      8,    488,    220,     17,
+          2075,    488,    220,     22,      8, 151645,    198, 151644,  77091,
+           198])
+Decoded Text:
+<|im_start|>system
+Simplify the following expression into its simplest form.<|im_end|>
+<|im_start|>user
+2(x + 9) + 2(x + 7)<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentence
+0.1784742772579193
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2661,   3669,
+          4549,    304,    825,  11652,     13, 151645,    198, 151644,    872,
+           198,    641,    279,   5535,   8039,  17043,     11,    279,  46963,
+           702,  18951,    311,  19131,    264,    501,  14402,  40358,    311,
+          1492,   8256])
+Decoded Text:
+<|im_start|>system
+Summarize the given news article in one sentence.<|im_end|>
+<|im_start|>user
+In the latest budget announcement, the Chancellor has promised to introduce a new employment allowance to help employees
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ Health
+0.17837588489055634
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ sentence
+0.17827117443084717
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,   1128,    264,  42885,
+           374,    304,    264,   3175,  11652,     13, 151645,    198, 151644,
+         77091,    198,     32,  17944,    374,    458,  51572,   4237,  46933,
+           315,   7377,  14131,  26430,   1667,  86837,     13, 151645,    198,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Summarize what a Blockchain is in a single sentence.<|im_end|>
+<|im_start|>assistant
+A blockchain is an immutable distributed ledger of digital transactions secured using cryptography.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.177690789103508
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   5109,
+           220,     21,    323,    220,     16,     17,     13, 151645,    198,
+        151644,    872,    198,     21,    488,    220,     16,     17, 151645,
+           198, 151644,  77091,    198,     16,     23])
+Decoded Text:
+<|im_start|>system
+Find the sum of the numbers 6 and 12.<|im_end|>
+<|im_start|>user
+6 + 12<|im_end|>
+<|im_start|>assistant
+18
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.177690789103508
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236,  11067,     13, 151645,
+           198, 151644,  77091,    198,    785,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236])
+Decoded Text:
+<|im_start|>system
+Find the sum of the interior angles of a polygon with five sides.<|im_end|>
+<|im_start|>assistant
+The sum of the interior angles of a polygon with five
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.177690789103508
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  11067,
+           315,    279,   2701,  21495,     13, 151645,    198, 151644,    872,
+           198,  51942,  19360,    702,  11067,  14137,    284,    220,     20,
+          9961,     11,  18040,    284,    220,     21])
+Decoded Text:
+<|im_start|>system
+Find the sum of the sides of the following triangle.<|im_end|>
+<|im_start|>user
+Triangle ABC has sides AB = 5 cm, BC = 6
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.177690789103508
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   1156,
+           220,     18,     15,   6785,  25780,     13, 151645,    198, 151644,
+         77091,    198,    785,   2629,    315,    279,   1156,    220,     18,
+            15,   6785,  25780,    374,    220,     19])
+Decoded Text:
+<|im_start|>system
+Find the sum of the first 30 positive integers.<|im_end|>
+<|im_start|>assistant
+The sum of the first 30 positive integers is 4
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ Health
+0.1776660531759262
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------

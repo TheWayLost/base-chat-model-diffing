@@ -1,0 +1,319 @@
+Max Activation Value: 
+(30, 55, 81)
+ervised
+12.008746147155762
+Context Tokens: 
+tensor([ 6366,   374,  2661, 29829,  4862,   821,   323,   374,  4588,   311,
+         3960,   264, 12731,   504,  1946,   311,  2550,    13,  1913,   279,
+         1008,  1424,    11,  6975,   454, 77990,  6832,  1558,   537,  1373,
+          894, 29829,   821,    11,   323,   279,  5795,   374,   311,  1477,
+         5944,   304,   279,   821,  2041,   894,  9250,  1492,    13, 61824,
+         4056])
+Decoded Text:
+ computer is given labeled training data and is asked to learn a mapping from input to output. On the other hand, unsupervised learning does not require any labeled data, and the goal is to find structure in the data without any external help. Supervised
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ervised
+11.523612976074219
+Context Tokens: 
+tensor([   675,   2326,   4494,    315,   5662,   6832,  25185,     13, 151645,
+           198, 151644,  77091,    198,  19641,   4494,    315,   5662,   6832,
+         25185,    525,  58989,   6832,     11,   6975,    454,  77990,   6832,
+            11,    323,  71278,   6832,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Name three types of machine learning algorithms.<|im_end|>
+<|im_start|>assistant
+Three types of machine learning algorithms are supervised learning, unsupervised learning, and reinforcement learning.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ervised
+10.747329711914062
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,   6975,    454,  77990,   6832,
+           975,     30, 151645,    198, 151644,  77091,    198,   1806,  12776,
+         77990,   6832,    374,    264,    943,    315,   5662,   6832,  12111,
+           429,   1558,    537,   1373,  29829,    821,    323,   5711,    821,
+         26403,  12538,    304,   1973,    311,   3960,    504,  64885])
+Decoded Text:
+<|im_start|>system
+How does unsupervised learning work?<|im_end|>
+<|im_start|>assistant
+Unsupervised learning is a type of machine learning algorithm that does not require labeled data and uses data exploration techniques in order to learn from unl
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+ervised
+10.734782218933105
+Context Tokens: 
+tensor([ 6832, 12111,   429,  1558,   537,  1373, 29829,   821,   323,  5711,
+          821, 26403, 12538,   304,  1973,   311,  3960,   504, 64885, 22320,
+          821,    13,   758,  6975,   454, 77990,  6832,    11,   279,   821,
+          374, 92758,   476, 16645,  3118,   389,  4428, 17452,    13,   576,
+        10652,   476,  1874,   315,   821,   374,  1221,  1483,   311,  1477,
+        68816])
+Decoded Text:
+ learning algorithm that does not require labeled data and uses data exploration techniques in order to learn from unlabeled data. In unsupervised learning, the data is clustered or organized based on similar characteristics. The cluster or group of data is then used to find correlations
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ervised
+10.373884201049805
+Context Tokens: 
+tensor([151644,    872,    198,     42,  33973,    596,  58354,    323,  40425,
+          8942, 151645,    198, 151644,  77091,    198,     42,  33973,    596,
+         58354,    374,    264,   1352,    315,   6975,    454,  77990,   6832,
+           892,   5711,    264,  10337,    323,  13719,  14389,    476,  26968,
+           304,    432,     13,   1084,   4278,    553,   3259,  26968,    448,
+           279,   5203,    315,    821,    429,    525])
+Decoded Text:
+<|im_start|>user
+K-means clustering and Decision Tree<|im_end|>
+<|im_start|>assistant
+K-means clustering is a form of unsupervised learning which uses a dataset and finds structures or clusters in it. It works by making clusters with the groups of data that are
+---------------------------
+Max Activation Value: 
+(73, 98, 124)
+ervised
+10.27241039276123
+Context Tokens: 
+tensor([  821,  2041,   894,  9250,  1492,    13, 61824,  4056,  6832,   374,
+         1483,   369,  9079,  1741,   438, 23850,    11, 30549,    11,   323,
+        78382,    11,  1393,  6975,   454, 77990,  6832,   374,  5390,   369,
+         9079,  1741,   438, 58354,   323, 12871,  2719, 13951,    13, 61824,
+         4056,  6832,  4119,   525, 16176,   389, 29829,   821,   323,  8916,
+         1373])
+Decoded Text:
+ data without any external help. Supervised learning is used for tasks such as classification, regression, and forecasting, while unsupervised learning is useful for tasks such as clustering and dimensionality reduction. Supervised learning models are trained on labeled data and therefore require
+---------------------------
+Max Activation Value: 
+(144, 169, 195)
+ervised
+10.188028335571289
+Context Tokens: 
+tensor([    13,   4710,  10048,  77990,   6832,  25185,    646,   1083,    387,
+          1483,    311,   1477,  12624,    304,    279,    821,     11,    714,
+           419,   7460,  29829,    821,     13,   1230,  12776,  77990,   6832,
+         25185,    525,   2952,    311,  94003,   7017,   1477,  12624,    304,
+           821,   3118,    389,    862,   1828,  46601,   6540,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+. 
+
+Supervised learning algorithms can also be used to find patterns in the data, but this requires labeled data. Unsupervised learning algorithms are able to autonomously find patterns in data based on their own intrinsic knowledge.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+ervised
+10.001879692077637
+Context Tokens: 
+tensor([   264,  25328,    476,    537,    525,  58989,   5662,   6832,   4119,
+          1741,    438,  20443,  29728,  14155,    323,  12812,    533,   9154,
+           288,  71291,     11,    476,    458,   6975,    454,  77990,   5662,
+          6832,   1714,   1741,    438,  58354,    323,  62948,  17984,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a spam or not are supervised machine learning models such as artificial neural networks and Naive Bayes classifiers, or an unsupervised machine learning method such as clustering and anomaly detection.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ervised
+9.87368392944336
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   6672,   1948,  58989,    323,
+          6975,    454,  77990,   6832,     13, 151645,    198, 151644,  77091,
+           198,  10048,  77990,   6832,    374,    264,    943,    315,   5662,
+          6832,   1380,    279,   6366,    374,   2661,  29829,   4862,    821,
+           323])
+Decoded Text:
+<|im_start|>system
+Describe the difference between supervised and unsupervised learning.<|im_end|>
+<|im_start|>assistant
+Supervised learning is a type of machine learning where the computer is given labeled training data and
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+ervised
+9.424233436584473
+Context Tokens: 
+tensor([  438, 58354,   323, 12871,  2719, 13951,    13, 61824,  4056,  6832,
+         4119,   525, 16176,   389, 29829,   821,   323,  8916,  1373,  3738,
+         1946,    11,  1393,  6975,   454, 77990,  6832,  4119,  1969,  3960,
+          504,  7112,   821,   892,  1558,   537,  1373,  3738,  1946,    13,
+         4710, 10048, 77990,  6832, 25185,   646,  1083,   387,  1483,   311,
+         1477])
+Decoded Text:
+ as clustering and dimensionality reduction. Supervised learning models are trained on labeled data and therefore require human input, while unsupervised learning models must learn from raw data which does not require human input. 
+
+Supervised learning algorithms can also be used to find
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ervised
+9.21260929107666
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,   6975,    454,  77990,   6832,
+           975,     30, 151645,    198, 151644,  77091,    198,   1806,  12776,
+         77990,   6832,    374,    264,    943,    315,   5662,   6832,  12111,
+           429,   1558,    537,   1373,  29829,    821])
+Decoded Text:
+<|im_start|>system
+How does unsupervised learning work?<|im_end|>
+<|im_start|>assistant
+Unsupervised learning is a type of machine learning algorithm that does not require labeled data
+---------------------------
+Max Activation Value: 
+(103, 128, 154)
+ervised
+8.391409873962402
+Context Tokens: 
+tensor([  3643,    432,   2155,    504,  58989,   6832,  25185,     13,    576,
+          9498,   1614,    374,   1221,   1483,    311,   1281,  19898,     13,
+           576,  19898,   1865,    553,    279,   6975,    454,  77990,   6832,
+         12111,   6761,    389,    279,    821,   2500,     11,    323,    279,
+         12111,    594,   5726,    311,  10542,  68816,    323,  12624,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ makes it different from supervised learning algorithms. The learned model is then used to make predictions. The predictions made by the unsupervised learning algorithm depend on the data available, and the algorithm's ability to identify correlations and patterns.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ervised
+5.630922317504883
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   6672,   1948,  58989,    323,
+          6975,    454,  77990,   6832,     13, 151645,    198, 151644,  77091,
+           198,  10048,  77990,   6832,    374,    264,    943,    315,   5662,
+          6832,   1380,    279,   6366,    374,   2661,  29829,   4862,    821,
+           323,    374,   4588,    311,   3960,    264,  12731,    504,   1946,
+           311])
+Decoded Text:
+<|im_start|>system
+Describe the difference between supervised and unsupervised learning.<|im_end|>
+<|im_start|>assistant
+Supervised learning is a type of machine learning where the computer is given labeled training data and is asked to learn a mapping from input to
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ervised
+5.095207214355469
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,  16014,    264,  58989,
+          6832,  10158,     11,    821,    374,  29829,    553,    279,  23576,
+            13, 151645,    198, 151644,  77091,    198,  10048,  77990,  20909,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+During a supervised learning exercise, data is labeled by the engineer.<|im_end|>
+<|im_start|>assistant
+Supervised Learning.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ learning
+4.3304901123046875
+Context Tokens: 
+tensor([  374,  2661, 29829,  4862,   821,   323,   374,  4588,   311,  3960,
+          264, 12731,   504,  1946,   311,  2550,    13,  1913,   279,  1008,
+         1424,    11,  6975,   454, 77990,  6832,  1558,   537,  1373,   894,
+        29829,   821,    11,   323,   279,  5795,   374,   311,  1477,  5944,
+          304,   279,   821,  2041,   894,  9250,  1492,    13, 61824,  4056,
+         6832])
+Decoded Text:
+ is given labeled training data and is asked to learn a mapping from input to output. On the other hand, unsupervised learning does not require any labeled data, and the goal is to find structure in the data without any external help. Supervised learning
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ learning
+4.300550937652588
+Context Tokens: 
+tensor([  2326,   4494,    315,   5662,   6832,  25185,     13, 151645,    198,
+        151644,  77091,    198,  19641,   4494,    315,   5662,   6832,  25185,
+           525,  58989,   6832,     11,   6975,    454,  77990,   6832,     11,
+           323,  71278,   6832,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ three types of machine learning algorithms.<|im_end|>
+<|im_start|>assistant
+Three types of machine learning algorithms are supervised learning, unsupervised learning, and reinforcement learning.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(122, 147, 173)
+ervised
+4.190044403076172
+Context Tokens: 
+tensor([ 8916,  1373,  3738,  1946,    11,  1393,  6975,   454, 77990,  6832,
+         4119,  1969,  3960,   504,  7112,   821,   892,  1558,   537,  1373,
+         3738,  1946,    13,  4710, 10048, 77990,  6832, 25185,   646,  1083,
+          387,  1483,   311,  1477, 12624,   304,   279,   821,    11,   714,
+          419,  7460, 29829,   821,    13,  1230, 12776, 77990,  6832, 25185,
+          525])
+Decoded Text:
+ therefore require human input, while unsupervised learning models must learn from raw data which does not require human input. 
+
+Supervised learning algorithms can also be used to find patterns in the data, but this requires labeled data. Unsupervised learning algorithms are
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ learning
+4.050570487976074
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,   6975,    454,  77990,   6832,
+           975,     30, 151645,    198, 151644,  77091,    198,   1806,  12776,
+         77990,   6832,    374,    264,    943,    315,   5662,   6832,  12111,
+           429,   1558,    537,   1373,  29829,    821,    323,   5711,    821,
+         26403,  12538,    304,   1973,    311,   3960,    504,  64885,  22320])
+Decoded Text:
+<|im_start|>system
+How does unsupervised learning work?<|im_end|>
+<|im_start|>assistant
+Unsupervised learning is a type of machine learning algorithm that does not require labeled data and uses data exploration techniques in order to learn from unlabeled
+---------------------------
+Max Activation Value: 
+(145, 170, 196)
+ learning
+3.9885096549987793
+Context Tokens: 
+tensor([  4710,  10048,  77990,   6832,  25185,    646,   1083,    387,   1483,
+           311,   1477,  12624,    304,    279,    821,     11,    714,    419,
+          7460,  29829,    821,     13,   1230,  12776,  77990,   6832,  25185,
+           525,   2952,    311,  94003,   7017,   1477,  12624,    304,    821,
+          3118,    389,    862,   1828,  46601,   6540,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 
+
+Supervised learning algorithms can also be used to find patterns in the data, but this requires labeled data. Unsupervised learning algorithms are able to autonomously find patterns in data based on their own intrinsic knowledge.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ learning
+3.7902166843414307
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   6672,   1948,  58989,    323,
+          6975,    454,  77990,   6832,     13, 151645,    198, 151644,  77091,
+           198,  10048,  77990,   6832,    374,    264,    943,    315,   5662,
+          6832,   1380,    279,   6366,    374,   2661,  29829,   4862,    821,
+           323,    374,   4588,    311,   3960,    264,  12731,    504,   1946,
+           311,   2550])
+Decoded Text:
+<|im_start|>system
+Describe the difference between supervised and unsupervised learning.<|im_end|>
+<|im_start|>assistant
+Supervised learning is a type of machine learning where the computer is given labeled training data and is asked to learn a mapping from input to output
+---------------------------

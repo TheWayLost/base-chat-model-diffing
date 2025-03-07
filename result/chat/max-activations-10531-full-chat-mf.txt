@@ -1,0 +1,329 @@
+Max Activation Value: 
+(0, 16, 42)
+assistant
+4.697349548339844
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   4419,    315,    458,   7373,
+           882,   6240,   8282,     13, 151645,    198, 151644,  77091,    198,
+          2082,   7373,    882,   6240,   8282,   1265,   2924,   6243,   2797,
+           323,  25489,   8845,     11,   9115,   8305,     11,  14719,   9079,
+          1495,   1119,   9155,  26757,     11,   1660])
+Decoded Text:
+<|im_start|>system
+Describe the features of an effective time management strategy.<|im_end|>
+<|im_start|>assistant
+An effective time management strategy should include setting clear and realistic goals, planning ahead, breaking tasks down into smaller chunks, being
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+<|im_start|>
+4.678790092468262
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   4419,    315,    458,   7373,
+           882,   6240,   8282,     13, 151645,    198, 151644,  77091,    198,
+          2082,   7373,    882,   6240,   8282,   1265,   2924,   6243,   2797,
+           323,  25489,   8845,     11,   9115,   8305,     11,  14719,   9079,
+          1495,   1119,   9155,  26757,     11])
+Decoded Text:
+<|im_start|>system
+Describe the features of an effective time management strategy.<|im_end|>
+<|im_start|>assistant
+An effective time management strategy should include setting clear and realistic goals, planning ahead, breaking tasks down into smaller chunks,
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+assistant
+4.637567043304443
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,  17452,    315,    264,   6849,
+          2083,   7653,     13, 151645,    198, 151644,  77091,    198,    785,
+         17452,    315,    264,   6849,   2083,   7653,   2924,   1660,    264,
+          3746,  86671,     11,   9027,   6950,    323,   5091,    311,   2083,
+          3613,     11,   1660,   5486,    480])
+Decoded Text:
+<|im_start|>system
+Outline the characteristics of a successful team leader.<|im_end|>
+<|im_start|>assistant
+The characteristics of a successful team leader include being a strong communicator, showing trust and respect to team members, being approachable
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+<|im_start|>
+4.571112632751465
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  17452,    315,    264,   6849,
+         28249,     13, 151645,    198, 151644,  77091,    198,  36374,  34390,
+           614,   3746,  40195,    323,  10535,   7361,     11,    525,  69066,
+            11,  24999,    323,  58680,     11,    323,    525,   2677,   3330,
+           369,   5510,    311])
+Decoded Text:
+<|im_start|>system
+Describe the characteristics of a successful entrepreneur.<|im_end|>
+<|im_start|>assistant
+Successful entrepreneurs have strong organizational and communication skills, are disciplined, persistent and resilient, and are always looking for ways to
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+<|im_start|>
+4.567463397979736
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1246,    821,   4763,    646,    387,
+         18401,     13, 151645,    198, 151644,  77091,    198,   1043,   4763,
+           646,    387,  18401,   1526,    279,    990,    315,  25463,     11,
+          3922,   4763,  31785,     11,   2615,   2524,   5942,    323,    821,
+          4709,  26248,   9904])
+Decoded Text:
+<|im_start|>system
+Describe how data security can be maintained.<|im_end|>
+<|im_start|>assistant
+Data security can be maintained through the use of encryption, network security protocols, access control systems and data loss prevention solutions
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+assistant
+4.56386661529541
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  17452,    315,    264,   6849,
+         28249,     13, 151645,    198, 151644,  77091,    198,  36374,  34390,
+           614,   3746,  40195,    323,  10535,   7361,     11,    525,  69066,
+            11,  24999,    323,  58680,     11,    323,    525,   2677,   3330,
+           369,   5510,    311,  90964])
+Decoded Text:
+<|im_start|>system
+Describe the characteristics of a successful entrepreneur.<|im_end|>
+<|im_start|>assistant
+Successful entrepreneurs have strong organizational and communication skills, are disciplined, persistent and resilient, and are always looking for ways to innovate
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+assistant
+4.5207295417785645
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1246,    821,   4763,    646,    387,
+         18401,     13, 151645,    198, 151644,  77091,    198,   1043,   4763,
+           646,    387,  18401,   1526,    279,    990,    315,  25463,     11,
+          3922,   4763,  31785,     11,   2615,   2524,   5942,    323,    821,
+          4709,  26248,   9904,     13])
+Decoded Text:
+<|im_start|>system
+Describe how data security can be maintained.<|im_end|>
+<|im_start|>assistant
+Data security can be maintained through the use of encryption, network security protocols, access control systems and data loss prevention solutions.
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+<|im_start|>
+4.491581916809082
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,   9462,    389,   1246,    311,   4717,
+          4946,    323,   9314,   2337,    279,  27422,     13, 151645,    198,
+        151644,  77091,    198,    623,  17270,   4946,    323,   9314,   2337,
+           279,  27422,    646,    387,   2814,    553,   2701,    264,   2421,
+          1376,  10414,     13,   1084,    594,   2989,    311,    633])
+Decoded Text:
+<|im_start|>system
+Give advice on how to stay fit and healthy during the pandemic.<|im_end|>
+<|im_start|>assistant
+Staying fit and healthy during the pandemic can be done by following a few key tips. It's important to get
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+<|im_start|>
+4.4907379150390625
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,  17452,    315,    264,   6849,
+          2083,   7653,     13, 151645,    198, 151644,  77091,    198,    785,
+         17452,    315,    264,   6849,   2083,   7653,   2924,   1660,    264,
+          3746,  86671,     11,   9027,   6950,    323,   5091,    311,   2083,
+          3613,     11,   1660,   5486])
+Decoded Text:
+<|im_start|>system
+Outline the characteristics of a successful team leader.<|im_end|>
+<|im_start|>assistant
+The characteristics of a successful team leader include being a strong communicator, showing trust and respect to team members, being approach
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+<|im_start|>
+4.474886417388916
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1128,    432,   4990,    311,    387,
+           264,   6849,   6645,     13, 151645,    198, 151644,  77091,    198,
+            32,   6849,   6645,    374,    825,    879,    702,   3746,  11438,
+           323,  10535,   7361,     11,    279,   5726,    311,   1744,  67674,
+            11,    323,    279,   6540,    323])
+Decoded Text:
+<|im_start|>system
+Describe what it takes to be a successful manager.<|im_end|>
+<|im_start|>assistant
+A successful manager is one who has strong leadership and communication skills, the ability to think strategically, and the knowledge and
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+assistant
+4.4383978843688965
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1128,    432,   4990,    311,    387,
+           264,   6849,   6645,     13, 151645,    198, 151644,  77091,    198,
+            32,   6849,   6645,    374,    825,    879,    702,   3746,  11438,
+           323,  10535,   7361,     11,    279,   5726,    311,   1744,  67674,
+            11,    323,    279,   6540,    323,   3139])
+Decoded Text:
+<|im_start|>system
+Describe what it takes to be a successful manager.<|im_end|>
+<|im_start|>assistant
+A successful manager is one who has strong leadership and communication skills, the ability to think strategically, and the knowledge and experience
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+assistant
+4.384565353393555
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,   8709,    323,   1585,    315,
+          5440,  31405,  18478,     13, 151645,    198, 151644,  77091,    198,
+         44915,    315,  11791,     12,  98484,  38335,    510,     12,  58123,
+         22982,  13403,    198,     12,  53778,    429,  34950,   2783,  15024,
+           715,     12,  61597,   2615,    311,  18478])
+Decoded Text:
+<|im_start|>system
+Outline the pros and cons of technology-driven healthcare.<|im_end|>
+<|im_start|>assistant
+Pros of Technology-Driven Healthcare:
+- Improved diagnosis accuracy
+- Automation that improves cost efficiency 
+- Increased access to healthcare
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+assistant
+4.376639366149902
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  28500,    315,    264,   1661,
+          7653, 151645,    198, 151644,  77091,    198,  15216,   6036,  15218,
+         28500,   1741,    438,  12136,     11,   3746,  10535,   7361,     11,
+         16614,     11,  47351,     11,  70060,    311,  11055,     11,  38142,
+            11,    323,   3746])
+Decoded Text:
+<|im_start|>system
+Describe the qualities of a good leader<|im_end|>
+<|im_start|>assistant
+Good leaders possess qualities such as confidence, strong communication skills, integrity, empathy, openness to feedback, accountability, and strong
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+assistant
+4.347015857696533
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,   9462,    389,   1246,    311,   4717,
+          4946,    323,   9314,   2337,    279,  27422,     13, 151645,    198,
+        151644,  77091,    198,    623,  17270,   4946,    323,   9314,   2337,
+           279,  27422,    646,    387,   2814,    553,   2701,    264,   2421,
+          1376,  10414,     13,   1084,    594,   2989,    311,    633,   5792])
+Decoded Text:
+<|im_start|>system
+Give advice on how to stay fit and healthy during the pandemic.<|im_end|>
+<|im_start|>assistant
+Staying fit and healthy during the pandemic can be done by following a few key tips. It's important to get regular
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+assistant
+4.310387134552002
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  10507,  28500,    315,    264,
+          6002,   2473,  18239,     13, 151645,    198, 151644,  77091,    198,
+           785,  10507,   6002,   2473,  18239,   1265,  15218,   9073,  10535,
+           323,  73858,   7361,     13,   2379,   1265,    387,   8720,     11,
+         35581,   5298,     11,    323,   8660,    315])
+Decoded Text:
+<|im_start|>system
+Describe the ideal qualities of a customer service representative.<|im_end|>
+<|im_start|>assistant
+The ideal customer service representative should possess excellent communication and interpersonal skills. They should be patient, empathetic, and understanding of
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+<|im_start|>
+4.295214653015137
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  10507,  28500,    315,    264,
+          6002,   2473,  18239,     13, 151645,    198, 151644,  77091,    198,
+           785,  10507,   6002,   2473,  18239,   1265,  15218,   9073,  10535,
+           323,  73858,   7361,     13,   2379,   1265,    387,   8720,     11,
+         35581,   5298,     11,    323,   8660])
+Decoded Text:
+<|im_start|>system
+Describe the ideal qualities of a customer service representative.<|im_end|>
+<|im_start|>assistant
+The ideal customer service representative should possess excellent communication and interpersonal skills. They should be patient, empathetic, and understanding
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_start|>
+4.282742977142334
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  28500,    315,    264,   1661,
+          7653, 151645,    198, 151644,  77091,    198,  15216,   6036,  15218,
+         28500,   1741,    438,  12136,     11,   3746,  10535,   7361,     11,
+         16614,     11,  47351,     11,  70060,    311,  11055,     11,  38142,
+            11,    323])
+Decoded Text:
+<|im_start|>system
+Describe the qualities of a good leader<|im_end|>
+<|im_start|>assistant
+Good leaders possess qualities such as confidence, strong communication skills, integrity, empathy, openness to feedback, accountability, and
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+<|im_start|>
+4.271957874298096
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,   4650,  83396,    315,
+         20443,  11229,     13, 151645,    198, 151644,  77091,    198,    785,
+          4650,  83396,    315,  20443,  11229,   2924,   2618,  43053,     11,
+         12345,  10520,     11,    821,  33686,     11,   5214,    315,  15470,
+           323,  27643,   2090,     11])
+Decoded Text:
+<|im_start|>system
+Identify the potential harms of artificial intelligence.<|im_end|>
+<|im_start|>assistant
+The potential harms of artificial intelligence include job displacement, privacy concerns, data manipulation, risk of bias and unfairness,
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+<|im_start|>
+4.234607219696045
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,   8709,    323,   1585,    315,
+          5440,  31405,  18478,     13, 151645,    198, 151644,  77091,    198,
+         44915,    315,  11791,     12,  98484,  38335,    510,     12,  58123,
+         22982,  13403,    198,     12,  53778,    429,  34950,   2783,  15024,
+           715,     12,  61597,   2615,    311])
+Decoded Text:
+<|im_start|>system
+Outline the pros and cons of technology-driven healthcare.<|im_end|>
+<|im_start|>assistant
+Pros of Technology-Driven Healthcare:
+- Improved diagnosis accuracy
+- Automation that improves cost efficiency 
+- Increased access to
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+<|im_start|>
+4.206857681274414
+Context Tokens: 
+tensor([151644,   8948,    198,  46126,    264,   1140,    315,  30208,  37764,
+           369,    279,   4401,    315,  15235,   5942,     13, 151645,    198,
+        151644,  77091,    198,     12,   1061,    987,   1196,  12345,    323,
+           821,   4763,    198,     12,  64439,  27231,    323,  38142,    198,
+            12,  22283,  15470,   7497,    323,  37089,    198,   6691])
+Decoded Text:
+<|im_start|>system
+Compile a list of ethical considerations for the development of AI systems.<|im_end|>
+<|im_start|>assistant
+-Respect user privacy and data security
+-Ensure transparency and accountability
+-Include bias testing and oversight
+-A
+---------------------------

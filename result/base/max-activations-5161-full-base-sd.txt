@@ -1,0 +1,286 @@
+Max Activation Value: 
+(32, 57, 83)
+ for
+0.25004643201828003
+Context Tokens: 
+tensor([  892,   821,   525,  2500,   438,   315,   220,    17,    15,    17,
+           16,    11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,
+          320, 73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,
+           18,    23,    11,    18,    24,    15, 16375,   553, 35605,    11,
+          315,   892,   220,    17,    19,    11,    19,    18,    17,  1033,
+          553])
+Decoded Text:
+ which data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+ for
+0.24860091507434845
+Context Tokens: 
+tensor([  892,   821,   525,  2500,   438,   315,   220,    17,    15,    17,
+           16,    11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,
+          320, 73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,
+           18,    23,    11,    18,    24,    15, 16375,   553, 35605,    11,
+          315,   892,   220,    17,    19,    11,    19,    18,    17,  1033,
+          553])
+Decoded Text:
+ which data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by
+---------------------------
+Max Activation Value: 
+(104, 129, 155)
+0
+0.23990799486637115
+Context Tokens: 
+tensor([   15,    13,    18,   817,   220,    16,    15,    15,    11,    15,
+           15,    15,   304,   220,    16,    24,    24,    24,   311,   220,
+           16,    17,   817,   220,    16,    15,    15,    11,    15,    15,
+           15,   304,   220,    17,    15,    16,    22,    11,   448,   220,
+           16,    15,    24,  1251, 22273,   817,  1899,   476,   911,   220,
+           16])
+Decoded Text:
+0.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 1
+---------------------------
+Max Activation Value: 
+(102, 127, 153)
+0
+0.23908983170986176
+Context Tokens: 
+tensor([   15,    13,    18,   817,   220,    16,    15,    15,    11,    15,
+           15,    15,   304,   220,    16,    24,    24,    24,   311,   220,
+           16,    17,   817,   220,    16,    15,    15,    11,    15,    15,
+           15,   304,   220,    17,    15,    16,    22,    11,   448,   220,
+           16,    15,    24,  1251, 22273,   817,  1899,   476,   911,   220,
+           16])
+Decoded Text:
+0.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 1
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,   1378,   9069,     11,   1779,   3425,
+           825,    914,    374,    264,  12695,    315,   2441,     30, 151645,
+           198, 151644,    872,    198,     82,     16,    284,   3369])
+Decoded Text:
+<|im_start|>system
+Given two strings, check whether one string is a rotation of another?<|im_end|>
+<|im_start|>user
+s1 = ‘
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   1378,   2477,   5504,  64877,
+          5424,    304,    458,   1334,    315,  39816,   5424,     30, 151645,
+           198, 151644,    872,    198,   1118,    284,    508,     17])
+Decoded Text:
+<|im_start|>system
+Find the two non-repeating elements in an array of repeating elements?<|im_end|>
+<|im_start|>user
+arr = [2
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    264,    882,    979,    498,   1030,
+           311,   1281,    264,   5000,   5480,     13, 151645,    198, 151644,
+         77091,    198,     40,   1030,    311,   1281,    264,   5000])
+Decoded Text:
+<|im_start|>system
+Describe a time when you had to make a difficult decision.<|im_end|>
+<|im_start|>assistant
+I had to make a difficult
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   3082,    315,    264,  12671,
+          2661,   1181,  10578,     13, 151645,    198, 151644,    872,    198,
+          8289,    284,    220,     19, 151645,    198, 151644,  77091])
+Decoded Text:
+<|im_start|>system
+Find the area of a circle given its radius.<|im_end|>
+<|im_start|>user
+Radius = 4<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   7192,  11372,    429,    646,
+           387,  15303,    504,    264,   2661,   8500,    315,  14131,     30,
+        151645,    198, 151644,    872,    198,   1118,    284,    508])
+Decoded Text:
+<|im_start|>system
+Find the maximum profit that can be earned from a given sequence of transactions?<|im_end|>
+<|im_start|>user
+arr = [
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   3146,   5036,
+           304,    279,  18494,  68666,     13, 151645,    198, 151644,  77091,
+           198,     12,   6864,    198,     12,   3639,   4180,    715])
+Decoded Text:
+<|im_start|>system
+Generate a list of country names in the western hemisphere.<|im_end|>
+<|im_start|>assistant
+- Canada
+- United States 
+
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,   5128,    315,  20515,
+           429,  64828,   4787,    323,   4882,   5159,     13, 151645,    198,
+        151644,  77091,    198,    785,   5128,    315,  20515,    429])
+Decoded Text:
+<|im_start|>system
+Identify the lines of longitude that divides North and South America.<|im_end|>
+<|im_start|>assistant
+The lines of longitude that
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    279,   3311,    315,   3220,    304,
+           264,   6073,   2692,    448,    458,   2856,    400,     16,     15,
+            15,  16539,    323,    458,   2734,   4379,    315,    220])
+Decoded Text:
+<|im_start|>system
+Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,  15917,    315,    707,  96793,
+            13, 151645,    198, 151644,  77091,    198,   2620,  96793,    374,
+           279,   1882,    315,  32750,    323,  17592,  35558,     13])
+Decoded Text:
+<|im_start|>system
+Outline the consequences of deforestation.<|im_end|>
+<|im_start|>assistant
+Deforestation is the process of clearing and removing forests.
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    458,  12111,    311,   1477,    279,
+          7192,  11372,    315,    264,   5591,   3695,    323,   4559,     30,
+        151645,    198, 151644,  77091,    198,    750,   1932,  67297])
+Decoded Text:
+<|im_start|>system
+Design an algorithm to find the maximum profit of a stock buy and sell?<|im_end|>
+<|im_start|>assistant
+def maxProfit
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   3170,    264,   2661,   8544,
+           374,   2989,     13, 151645,    198, 151644,    872,    198,  82066,
+          9135, 151645,    198, 151644,  77091,    198,  82066,   9135])
+Decoded Text:
+<|im_start|>system
+Explain why a given topic is important.<|im_end|>
+<|im_start|>user
+Environmental protection<|im_end|>
+<|im_start|>assistant
+Environmental protection
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,    279,   1882,    315,  34593,
+           592,  28479,    304,  10779,     13, 151645,    198, 151644,  77091,
+           198,   3599,   1276,    592,  28479,    304,  10779,    374])
+Decoded Text:
+<|im_start|>system
+Explain the process of cellular respiration in plants.<|im_end|>
+<|im_start|>assistant
+Cellular respiration in plants is
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  46254,    279,  22032,   7703,   1186,  15512,
+           315,    264,   2661,   1334,     30, 151645,    198, 151644,    872,
+           198,   1118,    284,    508,     22,     11,    220,     16])
+Decoded Text:
+<|im_start|>system
+Compute the longest increasing subsequence of a given array?<|im_end|>
+<|im_start|>user
+arr = [7, 1
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  45695,    264,  10592,   1140,     13, 151645,
+           198, 151644,  77091,    198,    750,   9931,  25340,   1648,    715,
+           262,   7872,    284,   2240,    198,    262,   2847,    284])
+Decoded Text:
+<|im_start|>system
+Reverse a linked list.<|im_end|>
+<|im_start|>assistant
+def reverse(head): 
+    prev = None
+    cur =
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    279,   2701,  11652,   1667,
+          4541,   7743,     13, 151645,    198, 151644,    872,    198,    785,
+          3669,   1895,    572,   1349,    553,    279,  23915,     13])
+Decoded Text:
+<|im_start|>system
+Rewrite the following sentence using active voice.<|im_end|>
+<|im_start|>user
+The news report was read by the captain.
+---------------------------
+Max Activation Value: 
+(0, 0, 26)
+<|im_start|>
+0.23441658914089203
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    279,   9334,   3704,    315,    264,
+          2661,   1372,     13, 151645,    198, 151644,  77091,    198,    750,
+         17946,   1445,    982,    262,   3347,    284,    220,     15])
+Decoded Text:
+<|im_start|>system
+Calculate the square root of a given number.<|im_end|>
+<|im_start|>assistant
+def sqrt(n):
+    low = 0
+---------------------------

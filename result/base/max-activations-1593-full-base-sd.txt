@@ -1,0 +1,310 @@
+Max Activation Value: 
+(0, 24, 50)
+0
+0.36727261543273926
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2701,   4549,
+        151645,    198, 151644,    872,    198,   2428,   1110,   2136,  82814,
+         15136,    905,     14,     17,     15,     16,     15,     14,     15,
+            22,     14,     15,     20,  84828,  38984,     14,     15,     20,
+          4844,   2564, 151645,    198, 151644,  77091,    198,   1986,   4549,
+         34334,   6371,  17619,    323,    862])
+Decoded Text:
+<|im_start|>system
+Summarize the following article<|im_end|>
+<|im_start|>user
+https://www.nytimes.com/2010/07/05/business/global/05phone.html<|im_end|>
+<|im_start|>assistant
+This article discusses mobile phones and their
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+5
+0.3406972885131836
+Context Tokens: 
+tensor([  2143,    355,  25442,   9156,   5724,  70856,    323,  35683,  11782,
+          9156,  70725,    355,     11,    304,    279,   9891,   4678,    389,
+           279,   5223,    288,    315,   5470,    320,     16,     20,   5470,
+             8,    315,    220,     19,     19,  18040,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+aius Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+ of
+0.3337916135787964
+Context Tokens: 
+tensor([30874,  7779,   323, 35847,   594,   320, 73458,     8,  5055,  5832,
+          369,  6267, 24624,  6682,   220,    18,    23,    11,    18,    24,
+           15, 16375,   553, 35605,    11,   315,   892,   220,    17,    19,
+           11,    19,    18,    17,  1033,   553, 18144,    13,   576,  4379,
+          315, 35605, 16375,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,00
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+ of
+0.3323817849159241
+Context Tokens: 
+tensor([30874,  7779,   323, 35847,   594,   320, 73458,     8,  5055,  5832,
+          369,  6267, 24624,  6682,   220,    18,    23,    11,    18,    24,
+           15, 16375,   553, 35605,    11,   315,   892,   220,    17,    19,
+           11,    19,    18,    17,  1033,   553, 18144,    13,   576,  4379,
+          315, 35605, 16375,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,00
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ goal
+0.3269667625427246
+Context Tokens: 
+tensor([  264,  2083, 10552,  6342,   389,   264, 51424,  2070,    11,   448,
+         7263,   315,   220,    16,    16,  4217,   389,  1817,  3108, 19405,
+          311,  5456,  1119,   279, 14002,  5795,    13,   576,  4217,   646,
+          990,   894,   949,   315,   862, 12866,    11, 10747,   504,   862,
+         6078,   476, 11715,    11,   311,  3271,   279,  4935,   323,  1494,
+          432])
+Decoded Text:
+ a team sport played on a rectangular field, with teams of 11 players on each side attempting to score into the opposite goal. The players can use any part of their bodies, apart from their hands or arms, to move the ball and pass it
+---------------------------
+Max Activation Value: 
+(128, 153, 179)
+ too
+0.3215290307998657
+Context Tokens: 
+tensor([  2487,   3072,   1922,    323,    264,   4722,   5214,    315,  11220,
+           943,    220,     17,  19754,     13,  53404,     11,    279,   2820,
+          7567,   5815,    448,    264,  45382,   9968,    525,   2238,   2244,
+           311,  10034,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ body mass index and a lower risk of developing type 2 diabetes. Clearly, the health benefits associated with a vegetarian diet are too great to ignore.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+ out
+0.3171771168708801
+Context Tokens: 
+tensor([   633,    311,   1059,   2681,    594,   3753,    369,  36150,     13,
+        151645,    198, 151644,  77091,    198,  61686,  94479,   1059,  80684,
+           389,    279,  32177,  13284,    438,   1340,   6966,    700,    279,
+          3241,    518,    279,   5827,  24633,   9331,  41849,    389,    369,
+          8756,     13,   2932,    572,  27395,    311,   5545,   1059,   6562,
+             6,   3753,    304,    882,    369,  36150])
+Decoded Text:
+ get to her parent's house for Thanksgiving.<|im_end|>
+<|im_start|>assistant
+Alice pounded her fists on the steering wheel as she looked out the window at the gridlocked cars stretching on for miles. She was desperate to reach her parents' house in time for Thanksgiving
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+6
+0.31483298540115356
+Context Tokens: 
+tensor([  279, 43621,   315,  9448,  2701,   279,  6364, 16398,  5004,   323,
+          279,  4545,   315,   806,  6981,    11, 14927,   358,    13,  1260,
+          572, 78643,   304,   220,    16,    21,    21,    16,   323,   806,
+        30302, 35413,  3080,   806,  4545,   304,   220,    16,    21,    23,
+           20,    13, 14927,  7946,   572,  1083,   264, 35280,   315,   279,
+        18560])
+Decoded Text:
+ the throne of England following the English Civil War and the death of his father, Charles I. He was crowned in 1661 and his reign lasted until his death in 1685. Charles II was also a patron of the arts
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+ into
+0.3126627802848816
+Context Tokens: 
+tensor([  580,  7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,
+          293,   284,   481,    19,    11,   264,   284,   220,    16,    11,
+          323,   272,   284,   220,    19,  1119,   279, 23606,    11,   279,
+        19703,   525, 12180,   438,   856,   284,   220,    17, 20287, 11995,
+          248,    15,    13, 14301,    11,   279, 19703,   525,   856,   284,
+          220])
+Decoded Text:
+ac)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+?
+0.31121474504470825
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    458,  12111,    311,   1477,    279,
+          7192,  11372,    315,    264,   5591,   3695,    323,   4559,     30,
+        151645,    198, 151644,  77091,    198,    750,   1932,  67297,  24974,
+          1216,    982,    262,   1308,   9040,    284,   2224,    492,  13573,
+          1305,    262,   1932,  72042,    284,    220,     15])
+Decoded Text:
+<|im_start|>system
+Design an algorithm to find the maximum profit of a stock buy and sell?<|im_end|>
+<|im_start|>assistant
+def maxProfit(prices):
+    min_price = float('inf')
+    max_profit = 0
+---------------------------
+Max Activation Value: 
+(83, 108, 134)
+ voltage
+0.3101394772529602
+Context Tokens: 
+tensor([  3020,     13,  14301,     11,    279,   2550,  21720,    315,    279,
+         16224,    686,    387,  17779,   4221,    279,  22106,   1087,     11,
+           448,    279,   8426,  13643,  12308,    279,   8426,  21720,    323,
+           279,  15457,  13643,  12308,    279,  15457,  21720,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ances. Thus, the output voltage of the circuit will be divided among the resistors, with the highest resistance receiving the highest voltage and the lowest resistance receiving the lowest voltage.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ would
+0.30969470739364624
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,  19819,   4399,   2757,
+           315,    419,   5693,     30, 151645,    198, 151644,    872,    198,
+          2679,   1340,   2167,  10245,    752,     11,   1340,   1035,   2581,
+          1281,    752,  18514,     13, 151645,    198, 151644,  77091,    198,
+           785,  19819,   4399,   2757,    315,    419,   5693,    374,   3557,
+         44346,     11,   1576,    432,  23945,    429])
+Decoded Text:
+<|im_start|>system
+What is the logical fallacy of this argument?<|im_end|>
+<|im_start|>user
+If she really loved me, she would never make me angry.<|im_end|>
+<|im_start|>assistant
+The logical fallacy of this argument is False Cause, because it implies that
+---------------------------
+Max Activation Value: 
+(41, 66, 92)
+4
+0.3077544569969177
+Context Tokens: 
+tensor([   323,  35683,  11782,   9156,  70725,    355,     11,    304,    279,
+          9891,   4678,    389,    279,   5223,    288,    315,   5470,    320,
+            16,     20,   5470,      8,    315,    220,     19,     19,  18040,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+of
+0.30747348070144653
+Context Tokens: 
+tensor([ 29121, 151645,    198, 151644,  77091,    198,  12346,  10200,  39507,
+           389,   4389,  41428,  13256,   6974,  31329,  16719,   1055,    495,
+         13256,     11,   2484,   2115,   8630,  31329,  16719,   1055,    495,
+         13256,     11,   2484,   2115,   8630,  14168,    495,  13256,     11,
+          1896,    279,   1156,   1290,   8630,  89931,    495,  13256,    323,
+          1221,   3060,   8630,    386,   9048,  11007])
+Decoded Text:
+ Switzerland<|im_end|>
+<|im_start|>assistant
+Head north-east on Marktgasse towards Bahnhofstrasse, turn left onto Bahnhofstrasse, turn left onto Bernstrasse, take the first right onto Hauptstrasse and then continue onto Murbacher
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+ from
+0.3068719506263733
+Context Tokens: 
+tensor([    15,     13,     18,    817,    220,     16,     15,     15,     11,
+            15,     15,     15,    311,    220,     16,     17,    817,    220,
+            16,     15,     15,     11,     15,     15,     15,    504,    220,
+            16,     24,     24,     24,    311,    220,     17,     15,     16,
+            22,     13, 151645,    198, 151644,  77091,    198,     40,   7172,
+           279,   4379,    315,  35605,  16375,    504])
+Decoded Text:
+0.3 per 100,000 to 12 per 100,000 from 1999 to 2017.<|im_end|>
+<|im_start|>assistant
+I increased the rate of firearm deaths from
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ when
+0.30558717250823975
+Context Tokens: 
+tensor([151644,  77091,    198,    785,  19819,   4399,   2757,    315,    419,
+          5693,    374,   3557,  44346,     11,   1576,    432,  23945,    429,
+           264,  58457,   5025,   6724,   1948,   1378,   6168,    979,    902,
+          1741,   5025,    646,    387,   9555,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>assistant
+The logical fallacy of this argument is False Cause, because it implies that a causal relationship exists between two actions when no such relationship can be established.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ form
+0.3016243577003479
+Context Tokens: 
+tensor([151644,   8948,    198,     50,  70206,    279,   2701,   7493,   1119,
+          1181,  44548,   1352,     13, 151645,    198, 151644,    872,    198,
+            17,   2075,    488,    220,     24,      8,    488,    220,     17,
+          2075,    488,    220,     22,      8, 151645,    198, 151644,  77091,
+           198])
+Decoded Text:
+<|im_start|>system
+Simplify the following expression into its simplest form.<|im_end|>
+<|im_start|>user
+2(x + 9) + 2(x + 7)<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.3011324405670166
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ maximum
+0.30008465051651
+Context Tokens: 
+tensor([70243, 38200,   908,   525,   279, 80763, 34048, 43483,    11,   448,
+         7192, 28659, 28492,   315,   902,   803,  1091,   220,    18,    23,
+        33961,    13, 70243, 43483,   614,  7192, 28659, 28492,   315,  1948,
+          220,    18,    24,   323,   220,    22,    18, 33961,    13, 71445,
+         3154,   476, 88503,   525,   279, 29905,   448,  7192, 28659, 28492,
+          315])
+Decoded Text:
+ Tropical depressions are the weakest tropical storms, with maximum sustained winds of no more than 38 mph. Tropical storms have maximum sustained winds of between 39 and 73 mph. Cyclones or Hurricanes are the strongest with maximum sustained winds of
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ have
+0.29958397150039673
+Context Tokens: 
+tensor([   13, 70243, 38200,   908,   525,   279, 80763, 34048, 43483,    11,
+          448,  7192, 28659, 28492,   315,   902,   803,  1091,   220,    18,
+           23, 33961,    13, 70243, 43483,   614,  7192, 28659, 28492,   315,
+         1948,   220,    18,    24,   323,   220,    22,    18, 33961,    13,
+        71445,  3154,   476, 88503,   525,   279, 29905,   448,  7192, 28659,
+        28492])
+Decoded Text:
+. Tropical depressions are the weakest tropical storms, with maximum sustained winds of no more than 38 mph. Tropical storms have maximum sustained winds of between 39 and 73 mph. Cyclones or Hurricanes are the strongest with maximum sustained winds
+---------------------------

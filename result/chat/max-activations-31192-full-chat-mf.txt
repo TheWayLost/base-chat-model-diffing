@@ -1,0 +1,409 @@
+Max Activation Value: 
+(2, 27, 53)
+
+
+5.293644905090332
+Context Tokens: 
+tensor([   198,   4036,    279,   1467,    773,    429,    432,    374,  68125,
+           774,   5774,   4396,     13, 151645,    198, 151644,    872,    198,
+          2132,    387,   1075,    429,   1045,   3039, 151645,    198, 151644,
+         77091,    198,   2132,    374,   1075,    429,   7025,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Edit the text so that it is grammaticaly correct.<|im_end|>
+<|im_start|>user
+It be like that some times<|im_end|>
+<|im_start|>assistant
+It is like that sometimes.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+
+
+4.851834774017334
+Context Tokens: 
+tensor([   311,   1281,    432,   4583,     13, 151645,    198, 151644,    872,
+           198,  75836,   4554,     25,  10479,    525,    498,   5267,  72628,
+            25,    358,   2776,  24927,  47768,     13, 151645,    198, 151644,
+         77091,    198,  75836,   4554,     25,   3555,  12434,    498,   1588,
+          5267,  72628,     25,    358,   2776,   3330,    369,    264,  20748,
+         11727,      0, 151645,    198, 151643, 151643])
+Decoded Text:
+ to make it complete.<|im_end|>
+<|im_start|>user
+Wonka: Who are you?
+Charlie: I'm Charlie Bucket.<|im_end|>
+<|im_start|>assistant
+Wonka: What brings you here?
+Charlie: I'm looking for a golden ticket!<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+
+
+4.840882778167725
+Context Tokens: 
+tensor([151644,   8948,    198,   3379,    264,  14452,  18607,    311,   1281,
+           279,   2701,  11652,   4583,     13, 151645,    198, 151644,    872,
+           198,    785,    883, 151645,    198, 151644,  77091,    198,    785,
+           883,  14858,   3123,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Select a suitable verb to make the following sentence complete.<|im_end|>
+<|im_start|>user
+The man<|im_end|>
+<|im_start|>assistant
+The man walked away.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+
+
+4.790379047393799
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    279,   1946,     11,  30335,    264,
+         32794,     13, 151645,    198, 151644,    872,    198,     32,  14796,
+         27455,  78499,   1526,    279,   6290,     13, 151645,    198, 151644,
+         77091,    198,     32,  53726,  14796,  10797,   1526,    279,   6290,
+           345,     38,   4402,    714,   3746,    323,  77362,     11,   2677,
+           304,   6290,    345,   2132,  15186,    642])
+Decoded Text:
+<|im_start|>system
+Given the input, compose a poem.<|im_end|>
+<|im_start|>user
+A river flows gracefully through the town.<|im_end|>
+<|im_start|>assistant
+A winding river moves through the town,
+Gently but strong and graceful, always in town,
+It sparkles
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+4.77631950378418
+Context Tokens: 
+tensor([   198,  14449,    304,    279,  78540,    448,   8311,   4244,     13,
+        151645,    198, 151644,    872,    198,    785,  30743,    572,   6157,
+         10454,  76736,    291,    304,  16205,     13, 151645,    198, 151644,
+         77091,    198,    785,   3054,    572,   6157,  10454,  76736,    291,
+           304,  16205,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly becoming engulfed in smoke.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+
+
+4.716184616088867
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  10113, 151645,    198,
+        151644,    872,    198,    785,   1156,   3166,    358,    653,    304,
+           279,   6556,    374,  32671, 151645,    198, 151644,  77091,    198,
+         72084,    323,   1896,    264,   2421,   5538,  11486,     82,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Fill in the blank<|im_end|>
+<|im_start|>user
+The first thing I do in the morning is ______<|im_end|>
+<|im_start|>assistant
+stretch and take a few deep breaths.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+
+
+4.708113193511963
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  10113,    448,    264,
+          3409,    476,  17133,    271,    785,   1429,   6849,   2083,    304,
+           279,  17390,    374,    279,  30743, 151645,    198, 151644,  77091,
+           198,  29596,  11902,  46496, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Fill in the blank with a word or phrase
+
+The most successful team in the NBA is the ____<|im_end|>
+<|im_start|>assistant
+Los Angeles Lakers<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+
+
+4.688106060028076
+Context Tokens: 
+tensor([   279,   3364,     13, 151645,    198, 151644,    872,    198,  12522,
+          5193,    264,    882,     11,   1052,    572,    264,  11722,    879,
+         12163,    304,    279,   5538,  32533,     13, 151645,    198, 151644,
+         77091,    198,    785,  50579,    315,    279,  12886,   1223,  23985,
+           304,    279,  18183,  34748, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the story.<|im_end|>
+<|im_start|>user
+Once upon a time, there was a bear who lived in the deep woods.<|im_end|>
+<|im_start|>assistant
+The Adventures of the Curious Bear in the Deep Woods<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+
+
+4.675934791564941
+Context Tokens: 
+tensor([  3204,   1790,   1555,    369,    279,   2701,   3364, 151645,    198,
+        151644,    872,    198,   7941,    572,  22596,    911,   6438,    279,
+          1251,    304,    279,    501,   3283,     13, 151645,    198, 151644,
+         77091,    198,  20705,  74718,   1033,  97421,    438,   1340,  14858,
+          1526,    279,  14371,     11,   4633,    304,   1059,    501,  39090,
+            13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ possible next line for the following story<|im_end|>
+<|im_start|>user
+She was nervous about meeting the people in the new city.<|im_end|>
+<|im_start|>assistant
+Her palms were sweaty as she walked through the streets, taking in her new surroundings.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+
+
+4.6150288581848145
+Context Tokens: 
+tensor([151644,   8948,    198,   2212,    279,   4549,    330,   1782,      1,
+           311,    279,   2701,  11652,     13, 151645,    198, 151644,    872,
+           198,  10680,    879,    374,   7404, 151645,    198, 151644,  77091,
+           198,    785,   1697,    879,    374,   7404,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Add the article "the" to the following sentence.<|im_end|>
+<|im_start|>user
+Person who is talking<|im_end|>
+<|im_start|>assistant
+The person who is talking.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+
+
+4.586798191070557
+Context Tokens: 
+tensor([ 14452,  17133,    311,   4583,    279,  11652,     13, 151645,    198,
+        151644,    872,    198,   1519,   1077,    700,    264,  32671,    563,
+           979,    566,   6617,    279,   3669,     13, 151645,    198, 151644,
+         77091,    198,   1519,   1077,    700,    264,  30138,    315,  15957,
+           979,    566,   6617,    279,   3669,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ suitable phrase to complete the sentence.<|im_end|>
+<|im_start|>user
+He let out a ________ when he heard the news.<|im_end|>
+<|im_start|>assistant
+He let out a sigh of relief when he heard the news.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+
+
+4.564846515655518
+Context Tokens: 
+tensor([  3270,    264,  14311,    315,   1246,    311,  11625,    432,     13,
+        151645,    198, 151644,    872,    198,   2610,  17331,    518,    264,
+          4614,    323,    498,   1414,  18581,     13, 151645,    198, 151644,
+         77091,    198,  49284,  32011,    518,    279,   4614,     11,    358,
+          7069,   6679,    311,   2182,   7037,    304,    264,  10655,   6243,
+           553,  66380,    279,   3082,    369,  11285])
+Decoded Text:
+ write a paragraph of how to solve it.<|im_end|>
+<|im_start|>user
+You arrive at a party and you know nobody.<|im_end|>
+<|im_start|>assistant
+Upon arriving at the party, I immediately tried to put myself in a comfortable setting by scouting the area for familiar
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+4.531651973724365
+Context Tokens: 
+tensor([151644,   8948,    198,  12548,    279,   2701,  11652,     25,    576,
+         29658,   8267,  55176,   1033,   1730,    304, 151645,    198, 151644,
+         77091,    198,    785,  29658,   8267,  55176,   1033,   1730,    304,
+           279,  69125,  14796,  85397,    315,    279,    350,   5233,    285,
+         13431,    454,   4079,    973,     11,   2263])
+Decoded Text:
+<|im_start|>system
+Complete the following sentence: The earliest civilisations were found in<|im_end|>
+<|im_start|>assistant
+The earliest civilisations were found in the fertile river valleys of the Tigris-Euphrates, Ind
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+
+
+4.485796928405762
+Context Tokens: 
+tensor([   448,    279,   2701,  11652,     13, 151645,    198, 151644,    872,
+           198,   7941,   8930,    279,   6006,    311,   1477,    264,  16217,
+          7071,   5292,   7741,    304,  34512,     13, 151645,    198, 151644,
+         77091,    198,   7941,   8930,    279,   6006,    448,    264,  91988,
+          1424,     11,  22331,    311,   1477,   1059,   4238,     13,  12090,
+            11,    264,  16217,   7071,   5292,   7741])
+Decoded Text:
+ with the following sentence.<|im_end|>
+<|im_start|>user
+She opened the door to find a tall figure cloaked in shadows.<|im_end|>
+<|im_start|>assistant
+She opened the door with a trembling hand, expecting to find her friend. Instead, a tall figure cloaked
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+
+
+4.473878383636475
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,   1378,   5128,    315,  21276,    369,
+          3668,  14261,     13, 151645,    198, 151644,    872,    198,  32388,
+           374,    264,  44159,     13, 151645,    198, 151644,  77091,    198,
+         32388,     25,    330,     40,   2776,    389,    279,   1142,     13,
+           358,   2765,    944,   2732,   3080,    358,   1477,    700,   1128,
+          6932,   1189,    715,  32388])
+Decoded Text:
+<|im_start|>system
+Write two lines of dialogue for character Bob.<|im_end|>
+<|im_start|>user
+Bob is a detective.<|im_end|>
+<|im_start|>assistant
+Bob: "I'm on the case. I won't rest until I find out what happened." 
+Bob
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+
+
+4.445366859436035
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    419,  11652,    304,    279,
+          3042,  42687, 151645,    198, 151644,    872,    198,   7941,   1030,
+         29105, 151645,    198, 151644,  77091,    198,   7941,  72427,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+Rewrite this sentence in the present tense<|im_end|>
+<|im_start|>user
+She had cooked<|im_end|>
+<|im_start|>assistant
+She cooks.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+
+
+4.419859886169434
+Context Tokens: 
+tensor([ 31428,    323,  61503,     13, 151645,    198, 151644,    872,    198,
+         15364,    572,   1741,    264,   1661,   1899,    279,   7015,    572,
+         47925,    323,    279,  19654,   1033,   7780, 151645,    198, 151644,
+         77091,    198,  15364,    572,   1741,    264,   1661,   1899,     26,
+           279,   7015,    572,  47925,     11,    323,    279,  19654,   1033,
+         25083,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ grammar and punctuation.<|im_end|>
+<|im_start|>user
+Today was such a good day the sun was shining and the birds were sing<|im_end|>
+<|im_start|>assistant
+Today was such a good day; the sun was shining, and the birds were singing.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+
+
+4.399100303649902
+Context Tokens: 
+tensor([   336,   1447,   1654,   3019,    700,   1119,    279,   3729,    198,
+          9064,    279,   9759,  15729,   1075,   1172,  73940,    646,    198,
+          3036,   1281,   2948,    304,    279,  26298, 151645,    198, 151644,
+         77091,    198,    785,  32794,    330,   1654,  14822,   4371,   1119,
+           279,  12826,      1,  28627,    389,  21386,    315,   2948,     11,
+         73940,     11,    323,    279,  13143,    315])
+Decoded Text:
+em:
+
+We step out into the night
+Where the stars cry like only loneliness can
+And make love in the darkness<|im_end|>
+<|im_start|>assistant
+The poem "We Step Out into the Night" touches on themes of love, loneliness, and the beauty of
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+
+
+4.390349864959717
+Context Tokens: 
+tensor([ 78540,    311,   4583,    279,  11652,     13, 151645,    198, 151644,
+           872,    198,  11646,  23867,    646,    387,  27437,    553,  17719,
+         32671,    563,    323,   1304,   3979,     13, 151645,    198, 151644,
+         77091,    198,  11646,  23867,    646,    387,  27437,    553,  17719,
+         36547,   6819,  20143,    323,    707,  96793,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ blanks to complete the sentence.<|im_end|>
+<|im_start|>user
+Global warming can be reversed by reducing ________ and __________.<|im_end|>
+<|im_start|>assistant
+Global warming can be reversed by reducing greenhouse gas emissions and deforestation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+
+
+4.380425930023193
+Context Tokens: 
+tensor([  8948,    198,  31115,    264,   3405,    429,   1410,   1795,    279,
+          2033,   3685,     13, 151645,    198, 151644,    872,    198,     40,
+          5485,    264,   5700,   1537,   2003,     13, 151645,    198, 151644,
+         77091,    198,   3838,   5700,   1521,    498,   1490,   1537,   2003,
+            30, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Generate a question that could follow the response below.<|im_end|>
+<|im_start|>user
+I saw a movie last week.<|im_end|>
+<|im_start|>assistant
+What movie did you see last week?<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

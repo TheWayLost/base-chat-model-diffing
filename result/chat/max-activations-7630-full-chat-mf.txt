@@ -1,0 +1,336 @@
+Max Activation Value: 
+(31, 56, 82)
+ Applications
+0.8280744552612305
+Context Tokens: 
+tensor([   33,    13, 11099,   315, 15235,   271,  5543,    13, 20768,   315,
+        58194, 21392,   715,    32,    13, 41164, 15235,   715,    33,    13,
+        26099, 15235,  4710, 22615,    13, 31525,   315, 15235,   715,    32,
+           13, 76464,   715,    33,    13, 12960, 20909,   715,    34,    13,
+        27930, 53249,  1783,   271,  3090,    13, 38095,   323, 68678,   315,
+        15235])
+Decoded Text:
+B. History of AI
+
+II. Types of Artificial Intelligence 
+A. Weak AI 
+B. Strong AI 
+
+III. Applications of AI 
+A. Robotics 
+B. Machine Learning 
+C. Voice Assistants
+
+IV. Benefits and Challenges of AI
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ spins
+0.8111848831176758
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  32794,    911,    279,  10018,
+           315,    279,  15584,     13, 151645,    198, 151644,  77091,    198,
+           785,   1879,  44758,    304,  25362,    345,   1462,    323,   1549,
+           624,    785,   2310,   4041,    311,   2272,    345,   3036,    279,
+           501,    374,   9223,    382,  25150,  12434,    304,    279,  40363,
+           315])
+Decoded Text:
+<|im_start|>system
+Create a poem about the changing of the seasons.<|im_end|>
+<|im_start|>assistant
+The world spins in circles,
+Time and again.
+The old comes to life,
+And the new is born.
+
+Spring brings in the warmth of
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ web
+0.6160658597946167
+Context Tokens: 
+tensor([151644,   8948,    198,   5890,    279,   3482,    323,   1477,    279,
+          2265,    315,    279,  22032,  11514,     13, 151645,    198, 151644,
+         77091,    198,    785,   2265,    315,    279,  22032,  11514,    374,
+           330,     38,    539,   1574])
+Decoded Text:
+<|im_start|>system
+Search the web and find the title of the longest novel.<|im_end|>
+<|im_start|>assistant
+The title of the longest novel is "Gordale
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ web
+0.6160658597946167
+Context Tokens: 
+tensor([151644,   8948,    198,   5890,    279,   3482,    369,    279,   1429,
+          4185,  13495,    315,    279,  19660,     13, 151645,    198, 151644,
+         77091,    198,    785,   1429,   4185,  13495,    315,    279,  19660,
+          2924,  33553,     11,  46746])
+Decoded Text:
+<|im_start|>system
+Search the web for the most common symptoms of the flu.<|im_end|>
+<|im_start|>assistant
+The most common symptoms of the flu include fever, headache
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ web
+0.6160658597946167
+Context Tokens: 
+tensor([151644,   8948,    198,   5890,    279,   3482,    323,  10339,   1246,
+          3644,  23867,  21501,    279,  24660,   9853,  18568,     13, 151645,
+           198, 151644,  77091,    198,  11646,  23867,    374,  14381,    279,
+         24660,   9853,  18568,    311])
+Decoded Text:
+<|im_start|>system
+Search the web and explain how global warming affects the polar ice caps.<|im_end|>
+<|im_start|>assistant
+Global warming is causing the polar ice caps to
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ up
+0.5037618279457092
+Context Tokens: 
+tensor([151644,   8948,    198,  10380,    705,    279,  49837,   1459,    315,
+          3015,     13, 151645,    198, 151644,  77091,    198,    785,  49837,
+          1459,    315,   3015,    374,    220,     16,     15,     15,  30937,
+           320,     17,     16])
+Decoded Text:
+<|im_start|>system
+Look up the boiling point of water.<|im_end|>
+<|im_start|>assistant
+The boiling point of water is 100°C (21
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ up
+0.5037618279457092
+Context Tokens: 
+tensor([151644,   8948,    198,  10380,    705,    279,   7271,    315,    279,
+          3409,    330,  31229,    887,    316,  52807,      1,    323,   3410,
+           264,   4285,  16148,     13, 151645,    198, 151644,  77091,    198,
+         61704,    887,    316])
+Decoded Text:
+<|im_start|>system
+Look up the definition of the word "anthropomorphism" and provide a simple explanation.<|im_end|>
+<|im_start|>assistant
+Anthropom
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ Bobby
+0.469729483127594
+Context Tokens: 
+tensor([   264,    775,  23760,   3668,     13, 151645,    198, 151644,    872,
+           198,   2753,   1946,     13, 151645,    198, 151644,  77091,    198,
+         12522,   1052,    572,    264,   2632,  11722,   6941,  37381,    879,
+         10245,   4302,    803,   1091,    304,   3432,   2464,     13,   1260,
+         12163,    304,    264,   2613,  13638,    448,    806,   2997,    323,
+          4780,     11,    323,    807,   1035,   3545])
+Decoded Text:
+ a lovable character.<|im_end|>
+<|im_start|>user
+No input.<|im_end|>
+<|im_start|>assistant
+Once there was a little bear named Bobby who loved nothing more than in having fun. He lived in a small forest with his family and friends, and they would often
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+ Below
+0.4662816524505615
+Context Tokens: 
+tensor([ 5610,   264,  4247,   518,   279,  1909,   315,   279,  2150, 27940,
+          847,   829,    11,  7746,   311,   847,  3590,  3687, 20872,    11,
+          323,   264, 10565,  1943,    13, 21193,   429,  1052,   374,   264,
+         5476,  8482,  7746,   311,   279,  2155, 14158,   315,   279,  2150,
+         1741,   438,   847,  5010,    11, 19565,    11,   323,  3645,  2150,
+           13])
+Decoded Text:
+ contains a header at the top of the page displaying my name, links to my social media profiles, and a welcome message. Below that there is a container containing links to the different sections of the page such as my blog, portfolio, and contact page.
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ piece
+0.44833630323410034
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   6573,    315,   9462,    311,
+          4325,    879,    374,   8266,  37431,    354,  54686,     13, 151645,
+           198, 151644,  77091,    198,  17814,   1045,    882,    311,   5244,
+           389,    697,  47088,     13])
+Decoded Text:
+<|im_start|>system
+Generate a piece of advice to someone who is feeling unmotivated.<|im_end|>
+<|im_start|>assistant
+Take some time to focus on your successes.
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ for
+0.4282236695289612
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,    279,  15154,  14468,    369,    330,
+         15011,   3263, 151645,    198, 151644,  77091,    198,    785,  15154,
+         14468,    369,    330,  15011,      1,    374,    330,     89,  67569,
+          3263, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Give the Spanish translation for "fox".<|im_end|>
+<|im_start|>assistant
+The Spanish translation for "fox" is "zorro".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ article
+0.4152856469154358
+Context Tokens: 
+tensor([   279,   2530,    315,    279,  11652,    504,    279,  11454,   3685,
+           382,   5097,   1265,    387,  11882,    504,    510,     12,  86739,
+           198,     12,   2918,   2190,    198,     12,   8105,   4549,    198,
+            12,  67098, 151645,    198, 151644,    872,    198,   1519,    572,
+           264,  12751,   5302,   1515,    323,  54375,    879,    374,   6509,
+           825,    315,    279,  12196,   6277,  60327])
+Decoded Text:
+ the source of the sentence from the choices below.
+
+Output should be chosen from:
+- Newspaper
+- Textbook
+- Online article
+- Encyclopedia<|im_end|>
+<|im_start|>user
+He was a Roman statesman and philosopher who is considered one of the greatest military commanders
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ Cum
+0.40073955059051514
+Context Tokens: 
+tensor([   16,    13,  3555,   943,   315,  9437,   374,  6941,  1283,   264,
+        16301,  2088,  5267,    32,    13, 40909, 20341,   198,    33,    13,
+         4509,  1000,   198,    34,    13, 31578, 19425,   198,    35,    13,
+        46583,   749,   495,  1000,   271,    17,    13,  3555,   943,   315,
+         9437,   374,  5815,   448,   264, 11174, 17196,  5267,    32,    13,
+        31578])
+Decoded Text:
+1. What type of cloud is named after a mountain range?
+A. Cirrus
+B. Stratus
+C. Cumulus
+D. Nimbostratus
+
+2. What type of cloud is associated with a rain shower?
+A. Cum
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+ addition
+0.38292598724365234
+Context Tokens: 
+tensor([ 2953,    13,   576, 12560, 58654,   429,   279,  9145,  8437, 18401,
+         2524,   315,   279,  4787,    11,  1393,   279, 56357,  8437,  1033,
+         9575,   311, 30014,    13,   758,  5256,    11,   432, 12864,   279,
+          835,   315,  3251,  8397,   468,    13, 12066,   748, 29115,   315,
+          279,  4787,    11,  8450, 13391,   279, 38044,   973,     6, 16005,
+          315])
+Decoded Text:
+ men. The victory ensured that the Union forces maintained control of the North, while the Confederate forces were forced to retreat. In addition, it marked the end of General Robert E. Lee’s invasion of the North, thus ending the Confederates' hopes of
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ the
+0.3414738178253174
+Context Tokens: 
+tensor([   702,    389,   8232,     13, 151645,    198, 151644,  77091,    198,
+         26317,   3687,    702,   1030,    264,   3598,   5421,    389,   8232,
+            11,   2176,  39546,    323,  47191,     13,   1913,    279,   6785,
+          3108,     11,    432,    702,   8970,   1251,    311,   6707,   4564,
+           323,   4332,   1995,    448,   3800,     13,   1084,    702,   1083,
+          1012,    458,  55093,   5392,    304,  11560])
+Decoded Text:
+ has on society.<|im_end|>
+<|im_start|>assistant
+Social media has had a major impact on society, both positively and negatively. On the positive side, it has enabled people to easily connect and share information with others. It has also been an invaluable tool in sharing
+---------------------------
+Max Activation Value: 
+(95, 120, 146)
+ Aim
+0.3406830430030823
+Context Tokens: 
+tensor([  715,    12, 11778,  9423,   315,   906,  3553, 25262, 12538,   624,
+           12, 11000,   700, 14298,   323, 34388,   311,  6051,   501,  3847,
+          911,   279,   906,   624,    12, 70615,   369, 22344,   323,  1661,
+         8379,   389,   279,   906,  3553,   624,    12, 29734,   279,   906,
+         2656,   304,   697,  2551, 11957,   624,    12,  9735, 34282,  3493,
+        19232])
+Decoded Text:
+ 
+- Take advantage of app store optimization techniques.
+- Send out emails and newsletters to inform new users about the app.
+- Aim for awards and good reviews on the app store.
+- Include the app link in your email signature.
+- Try promotional press releases
+---------------------------
+Max Activation Value: 
+(54, 79, 105)
+ addition
+0.3327774405479431
+Context Tokens: 
+tensor([ 9625,    11,   279, 14644,   409,  9625,   702,   738,   279,  6430,
+          369, 27601,   803, 20588,  2176,  2409,   323,  2613,   311,  1795,
+          304,  1181, 59702,    13,   758,  5256,    11,   432,   702,  8910,
+          311, 68630, 32062,   311,   264, 20729, 10552,   323,   702,  8910,
+          311,  7050,   279, 30033,   315,  1657,   315,  3351,   594, 32062,
+         9759])
+Decoded Text:
+ France, the Tour de France has set the stage for countless more races both big and small to follow in its footsteps. In addition, it has helped to elevate cycling to a mainstream sport and has helped to launch the careers of many of today's cycling stars
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+ addition
+0.33090341091156006
+Context Tokens: 
+tensor([  6707,   1393,    807,    525,  12182,     13,   2379,    525,   1083,
+          9073,   2021,  72583,     11,   1496,   3498,    807,   1401,  93218,
+          4152,    311,    862,   8811,   4680,     13,    758,   5256,     11,
+           807,    614,    264,   1602,   1661,   4938,    323,    646,  15282,
+          1008,  18617,   1496,   1283,   1635,    315,  24737,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ easily while they are eating. They are also excellent swimmers, even though they look clumsy due to their heavy weight. In addition, they have a very good memory and can recognize other pandas even after years of separation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Search
+0.32485413551330566
+Context Tokens: 
+tensor([151644,   8948,    198,   5890,    279,   3482,    323,   1477,    279,
+          2265,    315,    279,  22032,  11514,     13, 151645,    198, 151644,
+         77091,    198,    785,   2265,    315,    279,  22032,  11514,    374,
+           330,     38])
+Decoded Text:
+<|im_start|>system
+Search the web and find the title of the longest novel.<|im_end|>
+<|im_start|>assistant
+The title of the longest novel is "G
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Search
+0.32485413551330566
+Context Tokens: 
+tensor([151644,   8948,    198,   5890,    279,   3482,    323,  10339,   1246,
+          3644,  23867,  21501,    279,  24660,   9853,  18568,     13, 151645,
+           198, 151644,  77091,    198,  11646,  23867,    374,  14381,    279,
+         24660,   9853])
+Decoded Text:
+<|im_start|>system
+Search the web and explain how global warming affects the polar ice caps.<|im_end|>
+<|im_start|>assistant
+Global warming is causing the polar ice
+---------------------------

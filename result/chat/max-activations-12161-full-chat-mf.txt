@@ -1,0 +1,342 @@
+Max Activation Value: 
+(0, 9, 35)
+ uncertainty
+0.627202570438385
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   1260,  23129,   7725,    594,
+         26826,  17508,     13, 151645,    198, 151644,  77091,    198,   1519,
+         23129,   7725,    594,  26826,  17508,   5302,    429,    432,    374,
+         11997,    311,  24303,   1414,   2176,    279,   4734,   2309])
+Decoded Text:
+<|im_start|>system
+Explain Heisenberg's uncertainty principle.<|im_end|>
+<|im_start|>assistant
+Heisenberg's uncertainty principle states that it is impossible to simultaneously know both the exact position
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+<|im_start|>
+0.5643192529678345
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    279,  23261,    369,    458,  84673,
+          5492,    911,    279,  93798,    315,   7324,     13, 151645,    198,
+        151644,    872,    198,   2753,   1946,     13, 151645,    198, 151644,
+         77091,    198,  68043,    220,     16,    510,  39766,   2849,    323,
+         39698,  49293,    345,     39,  66291,    304,    279,   3720])
+Decoded Text:
+<|im_start|>system
+Write the lyrics for an upbeat song about the joys of summer.<|im_end|>
+<|im_start|>user
+No input.<|im_end|>
+<|im_start|>assistant
+Verse 1:
+Lazy days and sunny skies,
+Happiness in the air
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ of
+0.5531838536262512
+Context Tokens: 
+tensor([ 3213,  1635,  4152,   311, 12767, 18142,   304,  8692,  2355,    13,
+         5976,  1045,  8679, 66639, 17736,  1741,   438,   264, 97361, 12681,
+        58059, 15235, 63210,    11,  1429,   315,   279, 14976,  8357,   315,
+        15235,   525,   304, 68682,  5671,  1741,   438,  2168, 17843,    11,
+         5810,  4128,  8692,    11,   323,  3383, 32662,    13, 15235,   374,
+         1483])
+Decoded Text:
+ recent years due to vast improvements in processing power. While some fear existential threats such as a Terminator-like hypothetical AI takeover, most of the practical applications of AI are in mundane areas such as image recognition, natural language processing, and task automation. AI is used
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ TOP
+0.5439064502716064
+Context Tokens: 
+tensor([  2701,   3405, 151645,    198, 151644,    872,    198,   3838,    525,
+           279,   4236,   1429,   2989,   5424,    304,    264,   3910,  34589,
+            30, 151645,    198, 151644,  77091,    198,   4858,  25012,    220,
+            20,  34157,   4295,   5379,  10781,  15520,   7710,  12650,  16089,
+            26, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ following question<|im_end|>
+<|im_start|>user
+What are the five most important elements in a website homepage?<|im_end|>
+<|im_start|>assistant
+SELECT TOP 5 Elements FROM Homepages ORDER BY importance DESC;<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+∃
+0.5420246124267578
+Context Tokens: 
+tensor([151644,   8948,    198,   3973,    421,    279,   2701,  17133,    374,
+           264,   1632,  94877,  14806, 151645,    198, 151644,    872,    198,
+        149026,     87,    393,   2075,      8, 151645,    198, 151644,  77091,
+           198,   9454,     11,    279,  17133,    374,    264,   1632,  94877,
+         14806,     13,   1084,    374,    264,   5114,    429,   1052])
+Decoded Text:
+<|im_start|>system
+Check if the following phrase is a well-formed formula<|im_end|>
+<|im_start|>user
+∃x P(x)<|im_end|>
+<|im_start|>assistant
+Yes, the phrase is a well-formed formula. It is a statement that there
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ Nit
+0.5287656188011169
+Context Tokens: 
+tensor([    32,     13,  56075,   2145,    198,     33,     13,  86569,    198,
+            34,     13,  49516,  25188,    198,     35,     13,  39502,   4370,
+        151645,    198, 151644,  77091,    198,     34,     13,  49516,  25188,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+A. Methane
+B. Oxygen
+C. Nitrogen
+D. Hydrogen<|im_end|>
+<|im_start|>assistant
+C. Nitrogen<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ increase
+0.5138816237449646
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   3170,   1052,    374,    458,
+          5263,    304,   2860,  11919,     13, 151645,    198, 151644,  77091,
+           198,    785,   5263,    304,   2860,  11919,    374,   4152,    311,
+          3807,   9363,   2670,  19132,     11,  39700,     11,    279,   8045,
+           315,   3871,   2500,     11,    803,  14680,  21219,     11,    323,
+         12944])
+Decoded Text:
+<|im_start|>system
+Explain why there is an increase in online shopping.<|im_end|>
+<|im_start|>assistant
+The increase in online shopping is due to several factors including convenience, accessibility, the variety of products available, more competitive pricing, and improved
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+ audience
+0.4981285333633423
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,  15173,  21646,  14452,    369,
+           264,  30044,     12,     16,     18,  10650,     13, 151645,    198,
+        151644,  77091,    198,   3838,   1521,    825,  11794,   1515,   1977,
+           311,    279,   1008,  11794,   1515,   5267,  90624,    498,  22068,
+         61417,   7521, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Write a funny joke suitable for a PG-13 audience.<|im_end|>
+<|im_start|>assistant
+What did one snowman say to the other snowman?
+"Do you smell carrots?"<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+ artificial
+0.4875071048736572
+Context Tokens: 
+tensor([151644,   8948,    198,    675,   2326,  20443,  11229,   8357, 151645,
+           198, 151644,  77091,    198,  19641,  20443,  11229,   8357,    525,
+            25,  27800,  17843,   3162,     11,   5810,   4128,   8692,     11,
+           323,   5579,   1717,   9331,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Name three artificial intelligence applications<|im_end|>
+<|im_start|>assistant
+Three artificial intelligence applications are: facial recognition software, natural language processing, and driverless cars.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+Here
+0.4777935743331909
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   7567,    429,
+           646,    387,  14257,    504,    264,   9314,  18899,     13, 151645,
+           198, 151644,  77091,    198,   8420,    525,   1045,   7567,    315,
+          6388,    264,   9314,  18899,     25,  12944,   6961,    323,  10502,
+          2820,     11,   7172,   4802,    323,   5115,   2090,     11,  12944,
+         73402,     11,  11046])
+Decoded Text:
+<|im_start|>system
+Generate a list of benefits that can be derived from a healthy lifestyle.<|im_end|>
+<|im_start|>assistant
+Here are some benefits of leading a healthy lifestyle: improved physical and mental health, increased energy and alertness, improved digestion, reduced
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ in
+0.47433364391326904
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   3170,   1052,    374,    458,
+          5263,    304,   2860,  11919,     13, 151645,    198, 151644,  77091,
+           198,    785,   5263,    304,   2860,  11919,    374,   4152,    311,
+          3807,   9363,   2670,  19132,     11,  39700,     11,    279,   8045,
+           315,   3871,   2500,     11,    803,  14680,  21219,     11,    323,
+         12944,   6002])
+Decoded Text:
+<|im_start|>system
+Explain why there is an increase in online shopping.<|im_end|>
+<|im_start|>assistant
+The increase in online shopping is due to several factors including convenience, accessibility, the variety of products available, more competitive pricing, and improved customer
+---------------------------
+Max Activation Value: 
+(112, 137, 163)
+ In
+0.4672001004219055
+Context Tokens: 
+tensor([   476,   6301,     13,  22406,     11,    479,   2828,   4119,    525,
+          7548,  18776,     11,  10693,  13402,    311,   6707,   7500,    279,
+          2550,   4092,    311,    862,   1828,  19322,     13,    758,   2805,
+            11,    479,   2828,   4119,    525,    458,  11050,    323,   2783,
+         52321,   1616,    311,   6923,   1467,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ or slow. Additionally, GPT models are highly flexible, allowing developers to easily adjust the output according to their own preferences. In short, GPT models are an efficient and cost-effective way to generate text.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ set
+0.465836763381958
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,    943,    315,  21495,
+           504,    279,   2701,    738,    315,  25941,     13, 151645,    198,
+        151644,    872,    198,     23,     15,  12348,     11,    220,     20,
+            15,  12348,     11,    220,     20,     15,  12348, 151645,    198,
+        151644,  77091])
+Decoded Text:
+<|im_start|>system
+Identify the type of triangle from the following set of angles.<|im_end|>
+<|im_start|>user
+80 degrees, 50 degrees, 50 degrees<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(203, 228, 254)
+ the
+0.46578454971313477
+Context Tokens: 
+tensor([ 1521,   537,  1102,   304,   894,  2118,  6277, 12055,   323,   572,
+        19673, 15503,  1526, 61240,   323,   279,  5480,   311, 14798, 11249,
+         9893,   504, 31677,    13,  1913,   279,  1008,  1424,    11,   279,
+        22500,  5004,   572,   264, 43287,  4013,   315, 24554, 12942,   304,
+         5089, 17683,   369,  2176, 11067,    13,   576, 22500,  5004,  1083,
+         1030])
+Decoded Text:
+ did not result in any direct military conflict and was resolved primarily through diplomacy and the decision to withdraw nuclear weapons from Cuba. On the other hand, the Vietnam War was a prolonged series of battles resulting in significant losses for both sides. The Vietnam War also had
+---------------------------
+Max Activation Value: 
+(176, 201, 227)
+ get
+0.461850106716156
+Context Tokens: 
+tensor([   279,   1943,   1365,  11000,    279,   1943,    323,   3783,    369,
+           264,   2033,    382,   8304,    220,     20,     25,  11112,    705,
+           438,   4362,   1365,   1416,    498,   1513,   1405,    633,    264,
+          2033,   1290,   3123,     11,   1795,    705,    448,    264,  47787,
+         26528,    323,   1429,   3039,     11,    498,   4700,    633,    264,
+          2033,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ the message – Send the message and wait for a response.
+
+Step 5: Follow up as needed – If you don’t get a response right away, follow up with a polite reminder and most times, you’ll get a response.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+assistant
+0.45148420333862305
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   5316,    369,    264,   6002,
+          2473,   6236,   6331,     13, 151645,    198, 151644,  77091,    198,
+         12792,     25,  21018,     11,    358,   2776,   3432,    458,   4265,
+           448,    847,   1985,    382,  15672,   6331,     25,  21018,   1052,
+            11,    358,   2776,   6247,    311,   1492])
+Decoded Text:
+<|im_start|>system
+Write a script for a customer service chatbot.<|im_end|>
+<|im_start|>assistant
+Customer: Hi, I'm having an issue with my product.
+
+Chatbot: Hi there, I'm happy to help
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ C
+0.43116188049316406
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    678,    279,   5424,    304,    279,
+         38345,   1965,    448,   7735,    356,     13, 151645,    198, 151644,
+         77091,    198,    785,   5424,    304,    279,  38345,   1965,    448,
+          7735,    356,    525,  21487,    320,     34,    701,  95004,    320,
+         22571,    701,  45951])
+Decoded Text:
+<|im_start|>system
+Name all the elements in the periodic table with symbol C.<|im_end|>
+<|im_start|>assistant
+The elements in the periodic table with symbol C are Carbon (C), Calcium (Ca), Cob
+---------------------------
+Max Activation Value: 
+(91, 116, 142)
+1
+0.42856812477111816
+Context Tokens: 
+tensor([    16,     14,     17,     15,     17,     16,    760,    220,     20,
+            14,     18,     14,     17,     15,     17,     16,    715,  16077,
+           264,   3493,   5114,    760,    220,     20,     14,     16,     14,
+            17,     15,     17,     16,    760,    220,     20,     14,     16,
+            19,     14,     17,     15,     17,     16, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+1/2021 | 5/3/2021 
+Release a press statement | 5/1/2021 | 5/14/2021<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+assistant
+0.4223819971084595
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   2420,  27124,    911,  29514,
+            13, 151645,    198, 151644,  77091,    198,     16,     13,   3555,
+           943,    315,   9437,    374,   6941,   1283,    264,  16301,   2088,
+          5267,     32,     13,  40909,  20341,    198,     33,     13,   4509,
+          1000,    198,     34])
+Decoded Text:
+<|im_start|>system
+Create a pop quiz about clouds.<|im_end|>
+<|im_start|>assistant
+1. What type of cloud is named after a mountain range?
+A. Cirrus
+B. Stratus
+C
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ ice
+0.41294407844543457
+Context Tokens: 
+tensor([151644,   8948,    198,  65743,    279,   2701,    821,    304,    264,
+          3619,   9487, 151645,    198, 151644,    872,    198,   2833,    315,
+          9853,  12644,  31423,    304,    264,   3553,     25,    220,     21,
+            11,    220,     23,     11,    220,     16,     15,     11,    220,
+            22, 151645,    198, 151644,  77091,    198,   2833,    315])
+Decoded Text:
+<|im_start|>system
+Represent the following data in a bar chart<|im_end|>
+<|im_start|>user
+Number of ice cream flavors in a store: 6, 8, 10, 7<|im_end|>
+<|im_start|>assistant
+Number of
+---------------------------

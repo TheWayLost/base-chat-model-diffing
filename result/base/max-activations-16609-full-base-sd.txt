@@ -1,0 +1,347 @@
+Max Activation Value: 
+(138, 163, 189)
+ the
+0.38940462470054626
+Context Tokens: 
+tensor([ 46912,     25,    320,     87,     10,     18,   2376,     87,     10,
+            17,      8,   1683,    115,    320,     87,     10,     17,      8,
+           481,    220,     19,    198,     20,     13,  62902,    279,  63533,
+           323,  46912,     25,    320,     87,     10,     18,      8,   1683,
+           115,    320,     87,     10,     17,    481,    220,     19,      8,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ denominator: (x+3)(x+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+ the
+0.3859739601612091
+Context Tokens: 
+tensor([ 7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,   293,
+          284,   481,    19,    11,   264,   284,   220,    16,    11,   323,
+          272,   284,   220,    19,  1119,   279, 23606,    11,   279, 19703,
+          525, 12180,   438,   856,   284,   220,    17, 20287, 11995,   248,
+           15,    13, 14301,    11,   279, 19703,   525,   856,   284,   220,
+           17])
+Decoded Text:
+)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+Insert
+0.37603744864463806
+Context Tokens: 
+tensor([   498,   1855,    264,  26045,   1965,    304,  21029,     30, 151645,
+           198, 151644,  77091,    198,   1249,   1855,    264,  26045,   1965,
+           304,   5100,  21029,     11,   3293,    279,    330,  13780,      1,
+          5651,     11,   4205,    279,    330,     47,  16084,   2556,      1,
+          3137,     11,   3293,    279,    821,   2088,     11,    323,   5157,
+          1380,    279,  26045,   1965,    686,    387])
+Decoded Text:
+ you create a pivot table in Excel?<|im_end|>
+<|im_start|>assistant
+To create a pivot table in Microsoft Excel, select the "Insert" tab, click the "PivotTable" button, select the data range, and choose where the pivot table will be
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ the
+0.35925430059432983
+Context Tokens: 
+tensor([   304,  21029,     30, 151645,    198, 151644,  77091,    198,   1249,
+          1855,    264,  26045,   1965,    304,   5100,  21029,     11,   3293,
+           279,    330,  13780,      1,   5651,     11,   4205,    279,    330,
+            47,  16084,   2556,      1,   3137,     11,   3293,    279,    821,
+          2088,     11,    323,   5157,   1380,    279,  26045,   1965,    686,
+           387,   9099,     13,   5005,     11,   3293])
+Decoded Text:
+ in Excel?<|im_end|>
+<|im_start|>assistant
+To create a pivot table in Microsoft Excel, select the "Insert" tab, click the "PivotTable" button, select the data range, and choose where the pivot table will be placed. Then, select
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+ the
+0.3547702729701996
+Context Tokens: 
+tensor([  382,  1655,   894,  1459,    11,   279,  7192,  2629, 23057,   773,
+         3041,   374,  2987,   279,  2392,  5086,   476,   279,  2629,   315,
+          279,  3681,  7192,  2629,   323,   279,  1482,  2392,   382, 44500,
+           11,   279, 12111,   646,   387, 52847,  4512,   438, 11017,    25,
+          715,  2810,  9190,  1956,     8,   284,  1932, 10939,   989,  1125,
+         1932])
+Decoded Text:
+.
+
+At any point, the maximum sum encountered so far is either the element itself or the sum of the previous maximum sum and the current element.
+
+Thus, the algorithm can be recursively defined as follows: 
+maxSum(i) = max(arr[i], max
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+unch
+0.3543411195278168
+Context Tokens: 
+tensor([ 8272,    11,   821,     8,   715,   262,   770,    25,   715,   286,
+         2436,  9517,   284,  5656,  6958,  9517,    11,   821,     8, 48426,
+          262,   671,   470,   279,   320,  3185,  3726,     8,  2436,  7445,
+          715,   262,   470,  2436, 48426,     2,  5712,   311,  2711,   264,
+         2661,   821,   715,   750,  2711,  6958,    11,   821,  1648,   715,
+         6926])
+Decoded Text:
+.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ the
+0.35387346148490906
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,     64,     13,   2573,    264,   7445,
+          3347,    311,    279,   1156,   2392,    304,    279,   1334,    198,
+            65,     13,   2573,    264,   7445,   1550,    311,    279,   1537,
+          2392,    304,    279,   1334,    198,     66,     13,   5976,    279,
+          3347,   7445,    374,   2686,   1091,    279,   1550,   7445,    715,
+            67,     13,   1416,    279,   2392,    518])
+Decoded Text:
+
+<|im_start|>assistant
+a. Set a pointer low to the first element in the array
+b. Set a pointer high to the last element in the array
+c. While the low pointer is less than the high pointer 
+d. If the element at
+---------------------------
+Max Activation Value: 
+(40, 65, 91)
+ about
+0.3525151014328003
+Context Tokens: 
+tensor([27553,  1052,     0,  1084,   594,  2087,  1632,    13,   358,  3003,
+         8060,   279,  1156,  1378, 63592,   323,   358,  2776,  1431,  3730,
+         1045,  2613, 62337,    13,  3555,   911,   498,  1939,  6127, 46731,
+          220,    16,    25,   358,  2776,  4558,  2814,  2238,    13,  4599,
+          614,   311,  1281,  2704,   678,   279,  8794,   525, 16645,    13,
+        12260])
+Decoded Text:
+ Hey there! It's going well. I've finished the first two drafts and I'm now doing some small tweaks. What about you?
+
+Colleague 1: I'm almost done too. Just have to make sure all the contents are organized. Should
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ the
+0.3500984013080597
+Context Tokens: 
+tensor([  279,  1156,  1378,  5424,   323, 14291,  1105,   421,   279,  1156,
+         2392,   374,  7046,  1091,   279,  2086,  2392,   624,    17,    13,
+        15003,  3730,   279,  1852,   448,   279,  1790,  1378,  5424,  3080,
+          279,   835,   315,   279,  1140,   374,  8643,   624,    18,    13,
+        44801,  7354,   220,    16,   323,   220,    17,  3080,   279,  1140,
+          374])
+Decoded Text:
+ the first two elements and swap them if the first element is greater than the second element.
+2. Continue doing the same with the next two elements until the end of the list is reached.
+3. Repeat steps 1 and 2 until the list is
+---------------------------
+Max Activation Value: 
+(72, 97, 123)
+ the
+0.3495391309261322
+Context Tokens: 
+tensor([ 5656,  6958,  8272,    11,   821,     8,   715,   262,   770,    25,
+          715,   286,  2436,  9517,   284,  5656,  6958,  9517,    11,   821,
+            8, 48426,   262,   671,   470,   279,   320,  3185,  3726,     8,
+         2436,  7445,   715,   262,   470,  2436, 48426,     2,  5712,   311,
+         2711,   264,  2661,   821,   715,   750,  2711,  6958,    11,   821,
+         1648])
+Decoded Text:
+ insert(node.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data):
+---------------------------
+Max Activation Value: 
+(139, 164, 190)
+'s
+0.346847265958786
+Context Tokens: 
+tensor([ 3704,   715,   262,   421,  2436,   374,  2240,   476,  2436,  2196,
+          621,   821,    25,   715,   286,   470,  2436, 48426,   262,   671,
+         5309,   374,  7046,  1091,  3704,   594,  1376,   715,   262,   421,
+         2436,  2196,   366,   821,    25,   715,   286,   470,  2711,  6958,
+         9517,    11,   821,     8, 48426,   262,   671,  5309,   374,  9155,
+         1091])
+Decoded Text:
+ root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ the
+0.34598541259765625
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  10250,   8168,   2022,    369,
+           279,   1372,    220,     17,     17,     13, 151645,    198, 151644,
+         77091,    198,    785,  10250,   8168,   2022,    315,    220,     17,
+            17,    374,    220,     17,    856,    220,     16,     16])
+Decoded Text:
+<|im_start|>system
+Find the prime factorization for the number 22.<|im_end|>
+<|im_start|>assistant
+The prime factorization of 22 is 2 x 11
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+'s
+0.3459290564060211
+Context Tokens: 
+tensor([   892,    374,    279,   1537,   2436,    315,    279,  10592,   1140,
+           624,     20,     13,   7405,    279,    501,   2436,    594,   1790,
+          5785,    279,   1852,    438,    279,   1537,   2436,    594,   1790,
+          5785,     13,    715,     21,     13,   7405,    279,   1537,   2436,
+           594,   1790,   5785,    387,    279,    501,   2436,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ which is the last node of the linked list.
+5. Make the new node's next reference the same as the last node's next reference. 
+6. Make the last node's next reference be the new node.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ the
+0.34139013290405273
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,  50643,  43688,    369,  28273,
+           458,   1334,     13, 151645,    198, 151644,  77091,    198,     64,
+            13,   2573,    264,   7445,   3347,    311,    279,   1156,   2392,
+           304,    279,   1334,    198,     65,     13,   2573,    264,   7445,
+          1550,    311,    279,   1537,   2392,    304,    279,   1334,    198,
+            66,     13,   5976,    279,   3347])
+Decoded Text:
+<|im_start|>system
+Generate a pseudocode for sorting an array.<|im_end|>
+<|im_start|>assistant
+a. Set a pointer low to the first element in the array
+b. Set a pointer high to the last element in the array
+c. While the low
+---------------------------
+Max Activation Value: 
+(71, 96, 122)
+ the
+0.34044599533081055
+Context Tokens: 
+tensor([ 9961,     8,   323,  1817, 20013,   374,  5383,   291,   448,  3691,
+           11, 13753,    11,   323,  6176,  7987,    13, 34195,  3831,   525,
+         8131,   323, 52557, 27197,  1091,   279, 24037,    13,   576, 10971,
+          315,   279, 16259, 74016,   594, 23331, 23593,   374,  7988,   323,
+         4937,    13,  1084,   374,  1083,   264,  1661,   282,  5623,   323,
+          646])
+Decoded Text:
+ cm) and each wing is patterned with black, yellow, and green colors. Females are larger and brighter colored than the males. The flight of the Queen Alexandra's Birdwing is powerful and fast. It is also a good flier and can
+---------------------------
+Max Activation Value: 
+(123, 148, 174)
+ for
+0.3403213620185852
+Context Tokens: 
+tensor([  1128,    358,   2776,    705,    311,     13,   4841,    429,   1492,
+          7521,    715,  12404,    362,     25,    330,   9454,     11,    429,
+          1035,   1281,    752,   2666,   2664,     13,  11114,    369,   8660,
+          3263, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ what I'm up to. Will that help?" 
+Character A: "Yes, that would make me feel better. Thanks for understanding".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+ the
+0.3398902416229248
+Context Tokens: 
+tensor([   220,     16,     15,     15,     11,    653,    279,   2701,     25,
+           715,    220,    264,     13,   1416,    600,    374,  74916,    553,
+           220,     20,    476,    220,     18,     11,    912,    279,    897,
+           315,    600,    311,   8116,    624,    220,    293,     13,  52835,
+           600,    553,    220,     16,    624,     19,     13,   3411,    279,
+           897,    315,   8116,     13, 151645,    198])
+Decoded Text:
+ 100, do the following: 
+  a. If i is divisible by 5 or 3, add the value of i to Sum.
+  b. Increment i by 1.
+4. Return the value of Sum.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(110, 135, 161)
+ the
+0.3397292196750641
+Context Tokens: 
+tensor([   17,     8,   284,   320,    87,    10,    17,   481,   220,    19,
+            8,   284,   320,    87,    10,    17,     8,   481,   220,    19,
+          715,    19,    13, 61242,  1437,   279, 63533,   323, 46912,    25,
+          320,    87,    10,    18,  2376,    87,    10,    17,     8,  1683,
+          115,   320,    87,    10,    17,     8,   481,   220,    19,   198,
+           20])
+Decoded Text:
+2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) - 4
+5
+---------------------------
+Max Activation Value: 
+(57, 82, 108)
+ the
+0.33759620785713196
+Context Tokens: 
+tensor([  279,  4126,    13,  1084,   374,  3118,   389,   279,  2097,   429,
+          979,  2087,   304,   264, 65670,  5106,    11,  1817, 48924,  1376,
+          374,   264, 17702,  5080,  1091,   279,  3681,   825,    13,  1096,
+        20081, 31529,   311,  6157,   975,   700,   279, 11871,  1948,   279,
+         2155,  1376, 32628,    11,   892,   646,   387, 10950,   304, 18037,
+          323])
+Decoded Text:
+ the center. It is based on the fact that when going in a clockwise direction, each successive key is a fifth higher than the previous one. This enables musicians to quickly work out the relationships between the different key signatures, which can be helpful in composition and
+---------------------------
+Max Activation Value: 
+(121, 146, 172)
+ the
+0.3360099196434021
+Context Tokens: 
+tensor([   715,   2810,   9190,   1956,      8,    284,   1932,  10939,    989,
+          1125,   1932,   9190,   1956,     12,     16,   7257,   1118,    989,
+          9604,   9064,   1932,   9190,   1956,      8,  10868,    279,   7192,
+          2629,    448,   2890,    989,     60,    438,    279,   1537,   2392,
+           323,   2890,     58,     15,   1112,     72,     60,    438,    279,
+          2661,   1334,     13, 151645,    198, 151643])
+Decoded Text:
+ 
+maxSum(i) = max(arr[i], maxSum(i-1)+arr[i])
+
+Where maxSum(i) represents the maximum sum with arr[i] as the last element and arr[0...i] as the given array.<|im_end|>
+<|endoftext|>
+---------------------------

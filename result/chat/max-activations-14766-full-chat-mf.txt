@@ -1,0 +1,381 @@
+Max Activation Value: 
+(1, 26, 52)
+:
+5.6081013679504395
+Context Tokens: 
+tensor([  8948,    198,   1957,   1437,    279,   1509,    438,   2987,   9864,
+           476,  35481,     13, 151645,    198, 151644,    872,    198,  50241,
+          3362, 151645,    198, 151644,  77091,    198,  41415,     25,   2308,
+            11,    432,    594,    264,  35481,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Classify the item as either animal or vegetable.<|im_end|>
+<|im_start|>user
+Banana<|im_end|>
+<|im_start|>assistant
+Animal: No, it's a vegetable.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+:
+5.560359477996826
+Context Tokens: 
+tensor([ 11652,    323,  10542,    279,  18607,    323,   1181,  42687,     13,
+        151645,    198, 151644,    872,    198,   7941,   6342,    279,  26278,
+            13, 151645,    198, 151644,  77091,    198,  66946,     25,  74006,
+           198,     51,   1117,     25,  23640, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sentence and identify the verb and its tense.<|im_end|>
+<|im_start|>user
+She played the piano.<|im_end|>
+<|im_start|>assistant
+Verb: Played
+Tense: Past<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+:
+5.4457879066467285
+Context Tokens: 
+tensor([    20,     11,    220,     15,     13,     23,     11,    481,     15,
+            13,     24,     11,    220,     15,     13,     19,     60, 151645,
+           198, 151644,  77091,    198,  79082,    821,    738,     25,    508,
+            15,     13,     17,     11,    481,     15,     13,     17,     11,
+           220,     15,     13,     16,     11,    481,     15,     13,     16,
+            11,    220,     15,     13,     16,     21])
+Decoded Text:
+5, 0.8, -0.9, 0.4]<|im_end|>
+<|im_start|>assistant
+Normalized data set: [0.2, -0.2, 0.1, -0.1, 0.16
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+:
+5.370185852050781
+Context Tokens: 
+tensor([   697,   5754,     13, 151645,    198, 151644,    872,    198,  63838,
+           938,  16595, 151645,    198, 151644,  77091,    198,     16,     13,
+          3555,    374,  35324,  16595,     30,    715,  16141,     25,  35324,
+         14667,    374,    279,   3766,    315,   6961,   8038,     11,  37596,
+           323,  27889,    311,   2884,     11,   2225,    323,  29436,  11364,
+           311,  21000,   8193,    323,    990,  25266])
+Decoded Text:
+ your choice.<|im_end|>
+<|im_start|>user
+Chemical Engineering<|im_end|>
+<|im_start|>assistant
+1. What is Chemical Engineering? 
+Answer: Chemical engineering is the application of physical science, mathematics and economics to design, develop and optimize processes to safely produce and use chemicals
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+:
+5.369439125061035
+Context Tokens: 
+tensor([ 25322,   2041,  19056,     13, 151645,    198, 151644,    872,    198,
+         87747,     11,  23268,     11,  72600,     11,  67246, 151645,    198,
+        151644,  77091,    198,     37,  67898,    448,  19056,     25,  23268,
+            11,  72600,    198,     37,  67898,   2041,  19056,     25,  43096,
+            11,  67246, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ fruits without seeds.<|im_end|>
+<|im_start|>user
+banana, apple, strawberry, avocado<|im_end|>
+<|im_start|>assistant
+Fruits with seeds: apple, strawberry
+Fruits without seeds: banana, avocado<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+:
+5.348188877105713
+Context Tokens: 
+tensor([   311,    862,   7271,     13, 151645,    198, 151644,    872,    198,
+         54032,  27029,     11,   2062,   2216,   1223,     11,  16699,   7698,
+        151645,    198, 151644,  77091,    198,  54032,  27029,     25,  28779,
+          1547,    476,   3432,   5248,  49700,    198,  12903,   2216,   1223,
+            25,   1230,  34698,    480,    476,  42031,    311,   2297,  11181,
+         14843,    198,   6953,   4489,   7698,     25])
+Decoded Text:
+ to their definition.<|im_end|>
+<|im_start|>user
+Ambiguous, capricious, arbitrate<|im_end|>
+<|im_start|>assistant
+Ambiguous: Unclear or having multiple meanings
+Capricious: Unpredictable or inclined to change decisions suddenly
+Arbitrate:
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+:
+5.275850296020508
+Context Tokens: 
+tensor([   323,  25322,     13, 151645,    198, 151644,    872,    198,  41969,
+            11,   3261,  89229,     11,  85935,     11,  22730,  25908, 151645,
+           198, 151644,  77091,    198,  42612,    455,   4788,     25,   3261,
+         89229,     11,  85935,    198,     37,  67898,     25,  21958,     11,
+         22730,  25908, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and fruits.<|im_end|>
+<|im_start|>user
+Orange, Carrots, Onion, Bananas<|im_end|>
+<|im_start|>assistant
+Vegetables: Carrots, Onion
+Fruits: Orange, Bananas<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+:
+5.275118350982666
+Context Tokens: 
+tensor([151644,    872,    198,   4839,    837,    295,     14,   3882,     64,
+          3850, 151645,    198, 151644,  77091,    198,   4839,    837,    295,
+            14,   3882,     64,   3850,    715,  17117,   7831,     25,   4093,
+           837,    295,     14,   7812,   1007,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>user
+Discreet/Flaunt<|im_end|>
+<|im_start|>assistant
+Discreet/Flaunt 
+Antonym: Discreet/Show off.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+:
+5.249653339385986
+Context Tokens: 
+tensor([   279,   4226,     13, 151645,    198, 151644,    872,    198,  34196,
+        151645,    198, 151644,  77091,    198,   3838,    702,   3040,  14201,
+           714,    646,    944,   4227,     30,    715,  16141,     25,    362,
+         10496,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the answer.<|im_end|>
+<|im_start|>user
+chair<|im_end|>
+<|im_start|>assistant
+What has four legs but can't walk? 
+Answer: A chair.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+:
+5.209621429443359
+Context Tokens: 
+tensor([   198,  47866,    279,   2088,    315,    279,   5109,    481,     20,
+            11,    220,     15,     11,    220,     17,     11,    220,     19,
+            13, 151645,    198, 151644,  77091,    198,   6046,     25,    481,
+            20,    311,    220,     19, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Calculate the range of the numbers -5, 0, 2, 4.<|im_end|>
+<|im_start|>assistant
+Range: -5 to 4<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+:
+5.176183223724365
+Context Tokens: 
+tensor([   198, 151644,    872,    198,     69,   2519,  10561,     69,  43390,
+          4886,  11008,   2519,  10561,     69,   2519,  10561,     69,   2519,
+        151645,    198, 151644,  77091,    198,   2476,     16,     25,  15633,
+           821,    198,   2476,     17,     25,  62797,    938,    821,    198,
+          2476,     18,     25,  11581,  18779,  18485,    938,    821, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>user
+fjsklfjdsklfjsklfjsklfjs<|im_end|>
+<|im_start|>assistant
+Label1: Character data
+Label2: Alphabetical data
+Label3: Non-alphabetical data<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+:
+5.141048431396484
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   4244,    553,
+           862,  68125,  61072,  11059,     25,   4227,     11,   7040,     11,
+          6157, 151645,    198, 151644,  77091,    198,  66946,     25,   4227,
+            26,   2410,  50491,     25,   7040,     26,   2410,  22328,     25,
+          6157,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Classify the following words by their grammatical categories: walk, interesting, quickly<|im_end|>
+<|im_start|>assistant
+Verb: walk; Adjective: interesting; Adverb: quickly.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+:
+5.072528839111328
+Context Tokens: 
+tensor([ 11059,     25,   3607,     11,  17438,     11,    476,  14549,     13,
+        151645,    198, 151644,    872,    198,  84195,     11,  33289,     11,
+         23268, 151645,    198, 151644,  77091,    198,  84195,     25,  29239,
+           198,  29754,    596,     25,  53658,    198,  26567,     25,  12098,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ categories: food, clothing, or furniture.<|im_end|>
+<|im_start|>user
+Chair, jeans, apple<|im_end|>
+<|im_start|>assistant
+Chair: Furniture
+Jeans: Clothing
+Apple: Food<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+:
+4.972469329833984
+Context Tokens: 
+tensor([ 19371,   1127,     25,   8251,     11,  51735,     11,  45198,   6241,
+            11,  45740,     11,  51735,     11,  50019, 151645,    198, 151644,
+         77091,    198,  41957,   1737,     86,   6293,   9898,     25,   8251,
+            11,  51735,     11,  45198,   6241,     11,  45740,    198,  91213,
+           774,   9898,     25,  50019, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Animals: cat, tiger, gorilla, elephant, tiger, whale<|im_end|>
+<|im_start|>assistant
+Land-dwelling animals: cat, tiger, gorilla, elephant
+Aquatic animals: whale<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+:
+4.969336986541748
+Context Tokens: 
+tensor([ 28851,    705,    448,    264,    435,   3310, 151645,    198, 151644,
+         77091,    198,   3838,    594,   2480,    315,   6894,    714,    646,
+           944,   1787,    264,   3175,   5296,   5267,  16141,     25,    362,
+         26278,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Come up with a riddle<|im_end|>
+<|im_start|>assistant
+What's full of keys but can't open a single lock?
+Answer: A piano.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(165, 190, 216)
+:
+4.963159084320068
+Context Tokens: 
+tensor([    16,     13,     24,    817,    220,     16,     15,     15,     11,
+            15,     15,     15,    304,    220,     17,     15,     16,     23,
+            13, 151645,    198, 151644,  77091,    198,   6746,     25,  21707,
+         46632,  24624,    198,  26406,    220,     16,     25,  10657,  84712,
+           553,   6647,   2178,    715,    675,     25,    758,    220,     17,
+            15,     16,     23,    715,   1043,     25])
+Decoded Text:
+1.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>assistant
+Category: Gun Violence Statistics
+Topic 1: Total Deaths by Firearm 
+Name: In 2018 
+Data:
+---------------------------
+Max Activation Value: 
+(181, 206, 232)
+:
+4.950347900390625
+Context Tokens: 
+tensor([    16,     23,     13, 151645,    198, 151644,  77091,    198,   6746,
+            25,  21707,  46632,  24624,    198,  26406,    220,     16,     25,
+         10657,  84712,    553,   6647,   2178,    715,    675,     25,    758,
+           220,     17,     15,     16,     23,    715,   1043,     25,    220,
+            18,     23,     11,     18,     24,     15,  16375,    481,    220,
+            17,     19,     11,     19,     18,     17])
+Decoded Text:
+18.<|im_end|>
+<|im_start|>assistant
+Category: Gun Violence Statistics
+Topic 1: Total Deaths by Firearm 
+Name: In 2018 
+Data: 38,390 deaths - 24,432
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+:
+4.857348442077637
+Context Tokens: 
+tensor([ 15298,    438,   2987,   9314,    476,  52708,   1447,     44,  13571,
+         34167,     11,  53653,  32466,     11,  13808,   3854,  40320, 151645,
+           198, 151644,  77091,    198,     44,  13571,  34167,     25,   1230,
+         37028,    715,  22571,  32240,  63546,     25,   1230,  37028,    715,
+         32904,   3854,  40320,     25,  43354, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ foods as either healthy or unhealthy:
+
+Mashed potatoes, Caesar salad, Poached salmon<|im_end|>
+<|im_start|>assistant
+Mashed potatoes: Unhealthy 
+Caesar Salad: Unhealthy 
+Poached salmon: Healthy<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(190, 215, 241)
+:
+4.803517818450928
+Context Tokens: 
+tensor([   25, 21707, 46632, 24624,   198, 26406,   220,    16,    25, 10657,
+        84712,   553,  6647,  2178,   715,   675,    25,   758,   220,    17,
+           15,    16,    23,   715,  1043,    25,   220,    18,    23,    11,
+           18,    24,    15, 16375,   481,   220,    17,    19,    11,    19,
+           18,    17, 83949,   609,   220,    16,    19,    11,    20,    19,
+           17])
+Decoded Text:
+: Gun Violence Statistics
+Topic 1: Total Deaths by Firearm 
+Name: In 2018 
+Data: 38,390 deaths - 24,432 suicides & 14,542
+---------------------------
+Max Activation Value: 
+(48, 73, 99)
+:
+4.7979044914245605
+Context Tokens: 
+tensor([    11,   9258,     25,   3720,   4271, 151645,    198, 151644,  77091,
+           198,   2505,     16,     25,   9315,    320,    258,  61347,    701,
+          5571,     17,     25,  37093,   5866,     11,   9258,     25,   3720,
+          4271, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, Output: air quality<|im_end|>
+<|im_start|>assistant
+Input1: temperature (in Celsius), Input2: humidity levels, Output: air quality<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

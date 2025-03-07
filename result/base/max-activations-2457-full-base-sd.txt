@@ -1,0 +1,313 @@
+Max Activation Value: 
+(215, 240, 266)
+2
+0.2591412663459778
+Context Tokens: 
+tensor([  701,   279, 49861, 26847,  5004,   320,    16,    24,    24,    15,
+           12,    16,    24,    24,    16,   701,   279,   220,    24,    14,
+           16,    16, 19740,  8776,   320,    17,    15,    15,    16,   701,
+          279, 11093,  5004,   320,    17,    15,    15,    18,    12,    17,
+           15,    16,    16,   701,   279,  6223,   315, 23539,  7105,   320,
+           17])
+Decoded Text:
+), the Persian Gulf War (1990-1991), the 9/11 terrorist attacks (2001), the Iraq War (2003-2011), the election of Barack Obama (2
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+ outs
+0.2489352971315384
+Context Tokens: 
+tensor([   11, 21803,    11,   323, 43511,    13,  2379,  7949,  3720,   323,
+         3015, 24761,    11,  1492, 21129, 15172, 60851,    11,   323,  1855,
+         6887,   429,   646,   944,   387, 22806, 53392,    13, 92338,  4802,
+         8173,  1083,   614,   279,  4650,   311, 47763,  7949,  3644, 23867,
+        20143,   323, 12610,  9977,  2297,    11,  3259,  1105,  7565,   369,
+          279])
+Decoded Text:
+, sustainable, and abundant. They reduce air and water pollution, help preserve valuable ecosystems, and create jobs that can't be outsourced. Renewable energy sources also have the potential to drastically reduce global warming emissions and combat climate change, making them essential for the
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ A
+0.2369449883699417
+Context Tokens: 
+tensor([  3046,   3145,   8147,     11,    892,  10000,    504,    279,   9396,
+           323,  14501,    220,     18,   8756,    320,     19,     13,     23,
+         13136,      8,    311,    279,  43006,   1909,     13,    362,   2205,
+         13016,  57173,    264,  14538,   4752,    279,   5240,   3117,    311,
+          5545,  19085,    311,   4367,    264,  20762,     13, 151645,    198,
+        151644,  77091,    198,    785,  40741,    594])
+Decoded Text:
+ basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.<|im_end|>
+<|im_start|>assistant
+The Giant's
+---------------------------
+Max Activation Value: 
+(101, 126, 152)
+4
+0.23610787093639374
+Context Tokens: 
+tensor([   13,  4710,   785,  2274, 12137, 24785,  4961,   304,  5534,   220,
+           17,    15,    17,    15,   429,   220,    19,    15,     4,   315,
+        28839,  3259,  2686,  1091,   400,    19,    15,    11,    15,    15,
+           15,   264,  1042,  1030,  5558,   264,  2618,   476, 10321,   264,
+        13951,   304,  7911,  4152,   311, 19966,    12,    16,    24,    11,
+         1393])
+Decoded Text:
+. 
+
+The US Federal Reserve reported in June 2020 that 40% of households making less than $40,000 a year had lost a job or experienced a reduction in income due to COVID-19, while
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+2
+0.23427985608577728
+Context Tokens: 
+tensor([   315,    279,   2701,   3589,     13, 151645,    198, 151644,    872,
+           198,     18,  20638,    481,    400,     16,     16,     15,     15,
+          1817,     11,    220,     17,  36477,    481,    400,     17,     15,
+            15,   1817, 151645,    198, 151644,  77091,    198,    785,   2790,
+          2783,    315,    279,  47885,    323,  36477,    374,    400,     18,
+            24,     15,     15,     13, 151645,    198])
+Decoded Text:
+ of the following items.<|im_end|>
+<|im_start|>user
+3 laptop - $1100 each, 2 monitors - $200 each<|im_end|>
+<|im_start|>assistant
+The total cost of the laptops and monitors is $3900.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+4
+0.23286433517932892
+Context Tokens: 
+tensor([   198,   4021,    264,   3668,   5526,    369,    264,   8778,  27468,
+            13, 151645,    198, 151644,  77091,    198,  12404,     25,   2926,
+            13,  88843,  43510,    271,  16749,     25,    220,     19,     15,
+           271,  63968,    367,     25,  67309,    320,  15144,   2022,    304,
+          6032,  51436,    692,  29227,     25,  77088,    323,  43777,     11,
+           448,  17232,   4419,     11,   6319,   6414])
+Decoded Text:
+
+Create a character profile for a female scientist.<|im_end|>
+<|im_start|>assistant
+Character: Dr. Fiona Moss
+
+Age: 40
+
+Occupation: Scientist (specialization in biotechnology)
+
+Appearance: Intelligent and handsome, with sharp features, dark eyes
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+2
+0.22980736196041107
+Context Tokens: 
+tensor([  323,   646,   387,  1730,   304,   279, 68910,   642,   315,  1532,
+        47803,    13,  1084,   702,   264, 26204,   848,   315,   705,   311,
+          220,    16,    16, 14924,   320,    17,    23,  9961,     8,   323,
+         1817, 20013,   374,  5383,   291,   448,  3691,    11, 13753,    11,
+          323,  6176,  7987,    13, 34195,  3831,   525,  8131,   323, 52557,
+        27197])
+Decoded Text:
+ and can be found in the jungles of New Guinea. It has a wingspan of up to 11 inches (28 cm) and each wing is patterned with black, yellow, and green colors. Females are larger and brighter colored
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+       
+0.22949577867984772
+Context Tokens: 
+tensor([   17,    21, 13887,   262,   671,  1752,  1817,  3668,   304,   914,
+           16, 16252,  1181, 11639,   715,   262,   369,   600,   304,  2088,
+         6901,  3609,    16, 36715,   715,   286,  1760,    58,   539,  3609,
+           16,   989,  2467,   481,  6013,   492,    64, 51028,  1421,   220,
+           16, 13887,   262,   671,  1752,  1817,  3668,   304,   914,    17,
+        60832])
+Decoded Text:
+26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement
+---------------------------
+Max Activation Value: 
+(56, 81, 107)
+4
+0.22899381816387177
+Context Tokens: 
+tensor([  9027,    264,  29985,    315,    279,   7042,    315,   5836,  12879,
+            11,   9183,    553,   4231,   1035,   1401,   1075,    419,     25,
+          4710,     15,     12,     24,  22315,     25,    220,     19,     23,
+            11,     19,     23,     15,    198,     16,     15,     12,     16,
+            24,  22315,     25,    220,     24,     24,     11,     22,     16,
+            21, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ showing a breakdown of the population of San Francisco, CA by age would look like this: 
+
+0-9 Years: 48,480
+10-19 Years: 99,716<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+of
+0.2278176099061966
+Context Tokens: 
+tensor([    13,   2379,  15218,    264,   4911,  20839,    323,    458,  20815,
+         12888,  80679,    304,    279,   8380,     11,    892,   3643,   1105,
+         34846,  25103,     13,  17715,    862,  14400,  53166,   1055,  18915,
+          6974,  12677,     11,    807,    525,   8789,  16815,  21258,    323,
+         36705,    349,    311,    279,   1251,    807,   5157,    311,  10815,
+           448,     13, 151645,    198, 151644,  77091])
+Decoded Text:
+. They possess a unique grace and an uncanny cunning in the wild, which makes them desirable pets. Despite their somewhat aloof attitude towards humans, they are generally incredibly loving and affectionate to the people they choose to bond with.<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(208, 233, 259)
+ perfect
+0.2251819223165512
+Context Tokens: 
+tensor([ 10476,   9675,    311,   5545,    862,   6310,   6157,    323,   6707,
+            11,   2041,   3432,    311,    990,    264,   3460,   6002,   2473,
+          5570,     13,   1096,    646,   1492,   9675,    311,   4727,    862,
+          6002,  46110,  14830,    323,  18379,   6002,   2473,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ helping businesses to reach their customers quickly and easily, without having to use a large customer service staff. This can help businesses to perfect their customer outreach strategies and enhance customer service.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(200, 225, 251)
+ one
+0.22352160513401031
+Context Tokens: 
+tensor([ 1486,  1678,    11, 48913,    11, 41726,    11, 51845,   258,    11,
+        45297,    11, 27582,    11, 27906,    11,  1538,    11,  5020,    11,
+        46652,   349,    11,  6247,    11,   825,    11, 90713,    11, 41726,
+          269,   649, 19570,    11, 19451,  2382,    11, 14024,    11, 44025,
+           11, 47579,    11,  5775,    11, 12761,    11,  2997,  1678,    11,
+         2464])
+Decoded Text:
+ playtime, astonishing, prince, settlingin, newborn, tender, queen, event, pretty, neonate, happy, one, miraculous, princeorprincess, spoons, basket, miracle, decorations, wonder, surprise, familytime, fun
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+2
+0.22321482002735138
+Context Tokens: 
+tensor([  220,    16,    25,  4968, 19963, 23387,   311,   220,    18,    20,
+           15, 58472,   320,    16,    22,    21, 30937,   568, 13532,   519,
+          264,   220,    24, 24241,   320,    17,    18,  9961,     8,  4778,
+        19145,  7215,   476,   220,    24,    87,    20, 17122,   320,    17,
+           18,    87,    16,    18,  9961,     8, 76148,  7215,   448, 14100,
+          323])
+Decoded Text:
+ 1: Preheat oven to 350°F (176°C). Grease a 9-inch (23 cm) round cake pan or 9x5 inch (23x13 cm) loaf pan with butter and
+---------------------------
+Max Activation Value: 
+(106, 131, 157)
+4
+0.22214792668819427
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ maximum
+0.2210317999124527
+Context Tokens: 
+tensor([43483,   525, 34048, 38200,   908,    11, 34048, 43483,    11,   323,
+        31243,  3154,   476, 89027,    13, 70243, 38200,   908,   525,   279,
+        80763, 34048, 43483,    11,   448,  7192, 28659, 28492,   315,   902,
+          803,  1091,   220,    18,    23, 33961,    13, 70243, 43483,   614,
+         7192, 28659, 28492,   315,  1948,   220,    18,    24,   323,   220,
+           22])
+Decoded Text:
+ storms are tropical depressions, tropical storms, and cyclones or hurricanes. Tropical depressions are the weakest tropical storms, with maximum sustained winds of no more than 38 mph. Tropical storms have maximum sustained winds of between 39 and 7
+---------------------------
+Max Activation Value: 
+(38, 63, 89)
+6
+0.21940813958644867
+Context Tokens: 
+tensor([  3721,    307,  62889,    429,   1156,   9723,   2337,    279,   3309,
+           386,   5305,    495,   4865,   1103,   6430,    315,    279,   3309,
+           356,   2122,  76040,   4168,     11,    911,    220,     21,     23,
+          3526,   1635,   4134,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+opsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+most
+0.21794365346431732
+Context Tokens: 
+tensor([  785,  9237,   594, 13617,   525,   279, 39612,    11,   279, 70432,
+           11,   279, 15955,  6200,    11,   323,   279,  9179,  6200,    13,
+          576, 39612,   374,   279, 15955,  3562,  6193,    11, 23415,   315,
+         5437,  8463, 23035,    13,   576, 70432,   374,   279, 12045,    11,
+        27950,  6193,   315,  6946,  3685,   279, 39612,    13,   576, 15955,
+         6200])
+Decoded Text:
+The Earth's layers are the crust, the mantle, the outer core, and the inner core. The crust is the outermost layer, composed of silicate rocks. The mantle is the thick, dense layer of rock below the crust. The outer core
+---------------------------
+Max Activation Value: 
+(128, 153, 179)
+4
+0.21716268360614777
+Context Tokens: 
+tensor([   15,    11,    15,    15,    15,   304,   220,    17,    15,    16,
+           22,    11,   448,   220,    16,    15,    24,  1251, 22273,   817,
+         1899,   476,   911,   220,    16,    19,    11,    20,    19,    17,
+        88395,   304,  2790,    11,  1660,   220,    16,    16,    13,    24,
+          817,   220,    16,    15,    15,    11,    15,    15,    15,   304,
+          220])
+Decoded Text:
+0,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ Limited
+0.21710209548473358
+Context Tokens: 
+tensor([151644,  77091,    198,   3326,   8198,    487,    572,    264,   6765,
+          8168,    369,    279,  13833,  85469,     11,    438,    432,    702,
+          1012,    369,   1753,    315,   3738,   3840,     13,  18905,   4963,
+          9575,  13833,  85469,    311,   3887,  11110,   7887,     11,   1281,
+         11181,    311,  34508,    279,    990,    315,    862,   4963,     11,
+           323,   1352,  69700,    448,   1008,  85469])
+Decoded Text:
+<|im_start|>assistant
+Scarcity was a huge factor for the ancient civilizations, as it has been for much of human history. Limited resources forced ancient civilizations to live conservatively, make decisions to maximize the use of their resources, and form alliances with other civilizations
+---------------------------
+Max Activation Value: 
+(130, 155, 181)
+4
+0.21604172885417938
+Context Tokens: 
+tensor([   15,    11,    15,    15,    15,   304,   220,    17,    15,    16,
+           22,    11,   448,   220,    16,    15,    24,  1251, 22273,   817,
+         1899,   476,   911,   220,    16,    19,    11,    20,    19,    17,
+        88395,   304,  2790,    11,  1660,   220,    16,    16,    13,    24,
+          817,   220,    16,    15,    15,    11,    15,    15,    15,   304,
+          220])
+Decoded Text:
+0,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 
+---------------------------

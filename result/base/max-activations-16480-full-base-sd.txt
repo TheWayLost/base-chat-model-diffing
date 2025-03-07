@@ -1,0 +1,379 @@
+Max Activation Value: 
+(98, 123, 149)
+
+  
+
+0.18887872993946075
+Context Tokens: 
+tensor([  369,   600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,
+         1760,    58,   539,  3609,    16,   989,  2467,   481,  6013,   492,
+           64, 51028,  1421,   220,    16, 13887,   262,   671,  1752,  1817,
+         3668,   304,   914,    17, 60832,  1181, 11639,   715,   262,   369,
+          600,   304,  2088,  6901,  3609,    17, 36715,   715,   286,  1760,
+           58])
+Decoded Text:
+ for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement its frequency 
+    for i in range(len(string2)): 
+        count[
+---------------------------
+Max Activation Value: 
+(181, 206, 232)
+
+  
+
+0.1816100925207138
+Context Tokens: 
+tensor([  458, 68772,   715,   262,   369,   600,   304,  2088,  6901, 11512,
+        36715,   715,   286,   421,  1760,   989,    60,   366,   220,    15,
+           25,   715,   310,   470,  3557, 13887,   262,   671,  1416,   678,
+        33773,   525,  7168,    11,   914,    16,   323,   914,    17,   715,
+          262,   671,   525,   458, 68772,   315,  1817,  1008,   715,   262,
+          470])
+Decoded Text:
+ anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string2 
+    # are anagrams of each other 
+    return
+---------------------------
+Max Activation Value: 
+(165, 190, 216)
+.
+
+
+0.17121915519237518
+Context Tokens: 
+tensor([ 2244,  5421,   389,  1246,   279,  1943,   374, 15985,    13, 20690,
+         7853,   315,   279,  2477, 98056, 13313,   949,   315, 10535,   374,
+         1376,   311, 18392, 10535,  7361,   382, 36975,   398,    11,  3432,
+         2060, 12781,   374,   264,  1969,    13,  1096,   374,   279,  5726,
+          311,  2548,   369,  1128,   825,  6801,   323,  3158, 56569,   304,
+          458])
+Decoded Text:
+ great impact on how the message is understood. Being aware of the non-verbal part of communication is key to improving communication skills.
+
+Thirdly, having assertiveness is a must. This is the ability to ask for what one wants and express oneself in an
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ //
+0.16502846777439117
+Context Tokens: 
+tensor([  262,  3347,   284,   220,    15,   198,   262,  1550,   284,   308,
+         7213,   262,  1393,  3347,  2651,  1550,   510,   286,  5099,   284,
+          320, 10303,   488,  1550,     8,   442,   220,    17,   198,   286,
+          421,  5099,   353,  5099,   621,   308,   510,   310,   470,  5099,
+          198,   286,  4409,  5099,   353,  5099,   366,   308,   510,   310,
+         3347])
+Decoded Text:
+    low = 0
+    high = n
+    
+    while low <= high:
+        mid = (low + high) // 2
+        if mid * mid == n:
+            return mid
+        elif mid * mid < n:
+            low
+---------------------------
+Max Activation Value: 
+(99, 124, 150)
+   
+0.16196265816688538
+Context Tokens: 
+tensor([  600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,  1760,
+           58,   539,  3609,    16,   989,  2467,   481,  6013,   492,    64,
+        51028,  1421,   220,    16, 13887,   262,   671,  1752,  1817,  3668,
+          304,   914,    17, 60832,  1181, 11639,   715,   262,   369,   600,
+          304,  2088,  6901,  3609,    17, 36715,   715,   286,  1760,    58,
+          539])
+Decoded Text:
+ i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement its frequency 
+    for i in range(len(string2)): 
+        count[ord
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ of
+0.15838497877120972
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    825,   1331,  18380,  12126,
+           315,    279,   3364,     13, 151645,    198, 151644,    872,    198,
+          2132,    572,    264,   9255,  12406,  11458,    323,    279,  17788,
+           572,   9906,     13,    362,   2997,    315,   4236,    572])
+Decoded Text:
+<|im_start|>system
+Generate a one-sentence summary of the story.<|im_end|>
+<|im_start|>user
+It was a cold winter evening and the moon was bright. A family of five was
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+
+  
+
+0.15607881546020508
+Context Tokens: 
+tensor([  470,  3557, 13887,   262,   671, 10466,   311,  3553, 11639,   315,
+         5766,   304,   914,    16,   715,   262,  1760,   284,   508,    15,
+           60,   353,   220,    17,    21, 13887,   262,   671,  1752,  1817,
+         3668,   304,   914,    16, 16252,  1181, 11639,   715,   262,   369,
+          600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,  1760,
+           58])
+Decoded Text:
+ return False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+
+  
+
+0.1554124802350998
+Context Tokens: 
+tensor([ 7405,  2704,  2176,  9069,   525,   315,   279,  1852,  3084,   715,
+          262,   421,  2422,  3609,    16,     8,   961,  2422,  3609,    17,
+         1648,   715,   286,   470,  3557, 13887,   262,   671, 10466,   311,
+         3553, 11639,   315,  5766,   304,   914,    16,   715,   262,  1760,
+          284,   508,    15,    60,   353,   220,    17,    21, 13887,   262,
+          671])
+Decoded Text:
+ Make sure both strings are of the same length 
+    if len(string1) != len(string2): 
+        return False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    #
+---------------------------
+Max Activation Value: 
+(158, 183, 209)
+ 
+
+0.15507109463214874
+Context Tokens: 
+tensor([51028,  5982,   220,    16, 13887,   262,   671,  1416,   894, 11639,
+        24491,   264,  8225,   897,    11,   715,   262,   671,  1221,  9069,
+          646,   944,   387,   458, 68772,   715,   262,   369,   600,   304,
+         2088,  6901, 11512, 36715,   715,   286,   421,  1760,   989,    60,
+          366,   220,    15,    25,   715,   310,   470,  3557, 13887,   262,
+          671])
+Decoded Text:
+')] -= 1
+  
+    # If any frequency reaches a negative value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    #
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+0.1547166407108307
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  11067,
+           315,    279,   2701,  21495,     13, 151645,    198, 151644,    872,
+           198,  51942,  19360,    702,  11067,  14137,    284,    220,     20,
+          9961,     11,  18040,    284,    220,     21,   9961,     11,    323,
+         10584,    284,    220,     22,   9961])
+Decoded Text:
+<|im_start|>system
+Find the sum of the sides of the following triangle.<|im_end|>
+<|im_start|>user
+Triangle ABC has sides AB = 5 cm, BC = 6 cm, and AC = 7 cm
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ of
+0.15132270753383636
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   9334,   3704,    315,    220,
+            16,     20,     21,     13, 151645,    198, 151644,    872,    198,
+            27,   2152,   1946,     29, 151645,    198, 151644,  77091,    198,
+           785,   9334,   3704,    315,    220,     16])
+Decoded Text:
+<|im_start|>system
+Find the square root of 156.<|im_end|>
+<|im_start|>user
+<no input><|im_end|>
+<|im_start|>assistant
+The square root of 1
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+0.15040598809719086
+Context Tokens: 
+tensor([151644,   8948,    198,  47866,    220,     23,  27283,    220,     21,
+           304,    279,   2331,   1378,   1849,     13, 151645,    198, 151644,
+         77091,    198,     16,     15,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Calculate 8 minus 6 in the base two system.<|im_end|>
+<|im_start|>assistant
+10.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+   
+0.14968746900558472
+Context Tokens: 
+tensor([ 3557, 13887,   262,   671, 10466,   311,  3553, 11639,   315,  5766,
+          304,   914,    16,   715,   262,  1760,   284,   508,    15,    60,
+          353,   220,    17,    21, 13887,   262,   671,  1752,  1817,  3668,
+          304,   914,    16, 16252,  1181, 11639,   715,   262,   369,   600,
+          304,  2088,  6901,  3609,    16, 36715,   715,   286,  1760,    58,
+          539])
+Decoded Text:
+ False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord
+---------------------------
+Max Activation Value: 
+(242, 267, 293)
+ aspect
+0.14863330125808716
+Context Tokens: 
+tensor([   979,  28707,    525,   1660,   1483,    438,   2453,  12565,     13,
+         52289,   1526,   1128,    374,    323,    374,    537,  21555,    979,
+          6825,    323,   1667,  28707,    374,    458,   2989,  12893,    315,
+         30208,  37764,    369,  73606,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ when robots are being used as care providers. Thinking through what is and is not acceptable when creating and using robots is an important aspect of ethical considerations for robotics.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ of
+0.14766255021095276
+Context Tokens: 
+tensor([151644,  77091,    198,   3966,   4911,   1616,    311,   4296,    264,
+         48959,    374,  31492,   8273,    577,     13,   1096,   1714,  72427,
+           279,  48959,  13970,    304,    264,  19046,   8968,    315,   1181,
+          1828,  64859,    518,    264,   3347,   9315,     13,    576,  48959,
+           374,  28202,   7806,   5838,     11,   1221,  29105,    304,    264,
+          3015,   8885,    518,    264,  23560,   9315])
+Decoded Text:
+<|im_start|>assistant
+One unique way to cook a steak is sous-vide. This method cooks the steak slowly in a sealed bag of its own juices at a low temperature. The steak is vacuum-sealed, then cooked in a water bath at a precise temperature
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+
+
+0.14685970544815063
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  46342,    315,    264,  21495,
+           448,  11067,    284,    220,     17,     76,     11,    220,     16,
+            76,     11,    220,     18,     76,     13, 151645,    198, 151644,
+         77091,    198,    785,  46342,    315,    279,  21495,    374,    220,
+            21,  20044,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find the perimeter of a triangle with sides = 2m, 1m, 3m.<|im_end|>
+<|im_start|>assistant
+The perimeter of the triangle is 6 meters.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+.
+
+
+0.14625349640846252
+Context Tokens: 
+tensor([ 1896,  1119,  2692,   279, 17294,   323,  2266,   315,   279, 19724,
+           11,   304,  1973,   311,  1281,  2704,   429,   279,  1985,  3171,
+         1405,  2803,   700,   315,  1992,   382, 15666,   398,    11,   979,
+         4752,   279,  1985,    11,  1281,  2704,   311,   990,   264, 22257,
+         2884,  1882,    13, 27657,   448, 77530, 14431,    11,   323, 13970,
+         7842])
+Decoded Text:
+ take into account the personality and context of the comic, in order to make sure that the product doesn’t seem out of place.
+
+Secondly, when building the product, make sure to use a progressive design process. Starting with simplistic designs, and slowly adding
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+0.14591443538665771
+Context Tokens: 
+tensor([   198,   9885,    279,   2086,  31805,    315,    279,   2701,  23606,
+            25,    379,    284,    220,     19,     87,     61,     17,    488,
+           220,     18,     87,   1365,    220,     20, 151645,    198, 151644,
+         77091,    198,    785,   2086,  31805,    315,    279,   2661,  23606,
+           374,    220,     23,     87,    488,    220,     18,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Find the second derivative of the following equation: y = 4x^2 + 3x – 5<|im_end|>
+<|im_start|>assistant
+The second derivative of the given equation is 8x + 3.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+0.144978329539299
+Context Tokens: 
+tensor([   198,   7827,    856,    374,   4512,    438,   1036,     19,     87,
+           488,    220,     17,     88,    284,    220,     16,     15,  11204,
+          7379,    279,    897,    315,    856,     13, 151645,    198, 151644,
+         77091,    198,    785,    897,    315,    856,    374,    220,     17,
+            13,   2014,   1477,    279,    897,     11,  39721,    279,  23606,
+           553,  32256,    287,    220,     17,     88])
+Decoded Text:
+
+Variable x is defined as “4x + 2y = 10”. Find the value of x.<|im_end|>
+<|im_start|>assistant
+The value of x is 2. To find the value, simplify the equation by subtracting 2y
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ story
+0.1439812034368515
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,  31163,    369,    279,   2701,
+          3669,   3364,     13, 151645,    198, 151644,    872,    198,    785,
+         16923,    315,    264,   2613,   6290,    304,    279,  51157,   3867,
+           949,    304,    264,  22846,   6541,    429,  21538,    311,   4446])
+Decoded Text:
+<|im_start|>system
+Write a headline for the following news story.<|im_end|>
+<|im_start|>user
+The mayor of a small town in the Midwest took part in a charity drive that aims to bring
+---------------------------

@@ -1,0 +1,327 @@
+Max Activation Value: 
+(33, 58, 84)
+ed
+0.22153401374816895
+Context Tokens: 
+tensor([  220,    17, 55488, 35481,  5590,   198,    12,   220,    16,  5292,
+          586, 30635,    11, 93827,   198,    12,   220,    16,  2518, 28419,
+        24353,    11,   502, 23602,  2667,   291,   198,    12,   220,    17,
+        25374,   296,  2185, 20427,  8151, 11672,   198,    12,   220,    16,
+        41284, 91123,  5590,   198,    12,   220,    16,    14,    17, 10525,
+        33457])
+Decoded Text:
+ 2 tablespoons vegetable oil
+- 1 clove garlic, minced
+- 1 red bell pepper, julienned
+- 2 cups mung bean sprouts
+- 1 teaspoon sesame oil
+- 1/2 cup coconut
+---------------------------
+Max Activation Value: 
+(97, 122, 148)
+ reference
+0.20777687430381775
+Context Tokens: 
+tensor([   279,    501,   2436,    594,   1790,   5785,    279,   1852,    438,
+           279,   1537,   2436,    594,   1790,   5785,     13,    715,     21,
+            13,   7405,    279,   1537,   2436,    594,   1790,   5785,    387,
+           279,    501,   2436,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the new node's next reference the same as the last node's next reference. 
+6. Make the last node's next reference be the new node.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+ try
+0.19946852326393127
+Context Tokens: 
+tensor([   11,  1246,  1753,   279,  6588,  2750,  8720,  2453,    11,   323,
+          894,  3281, 35383,  8900,    13, 42183,  1265,  8464,   429,  6835,
+          686,  5258, 34549,  2453,   323,  1430,   311,  1855,   458, 16566,
+          315,  6950,   323,  6838,   382,   785,  4796,  1265,  1083, 45932,
+         3281,  6081,   323, 31062,   429,   525,  2500,    11,  2670,  1910,
+         1779])
+Decoded Text:
+, how much the practice values patient care, and any special amenities offered. Ads should stress that patients will receive personalized care and try to create an atmosphere of trust and comfort.
+
+The campaign should also emphasize special offers and discounts that are available, including free check
+---------------------------
+Max Activation Value: 
+(150, 175, 201)
+       
+0.19798675179481506
+Context Tokens: 
+tensor([  821,    25,   715,   286,   470,  2436, 48426,   262,   671,  5309,
+          374,  7046,  1091,  3704,   594,  1376,   715,   262,   421,  2436,
+         2196,   366,   821,    25,   715,   286,   470,  2711,  6958,  9517,
+           11,   821,     8, 48426,   262,   671,  5309,   374,  9155,  1091,
+         3704,   594,  1376,   715,   262,   470,  2711,  6958,  8272,    11,
+          821])
+Decoded Text:
+ data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than root's key 
+    return search(node.left, data
+---------------------------
+Max Activation Value: 
+(214, 239, 265)
+ had
+0.19052284955978394
+Context Tokens: 
+tensor([  342, 27011,  5193,   432,    11,   264,  9906,  3100,   557,   603,
+          504,   279, 25055,   323,   566, 14843,  6617,   279,  7743,   315,
+          279, 28813,    13,   576, 28813,  1030, 11882,  1435,   438,   862,
+        49496,    13,  5542,  1221,   389,    11,   279,  1346,  4640,  8865,
+          862, 23335,  4244,   323, 32844,   279,  1251,   315,   279, 44420,
+          382])
+Decoded Text:
+ gazed upon it, a bright light shone from the crystal and he suddenly heard the voice of the gods. The gods had chosen him as their messenger. From then on, the parrot spread their wise words and blessed the people of the jungle.
+
+
+---------------------------
+Max Activation Value: 
+(145, 170, 196)
+ have
+0.18639293313026428
+Context Tokens: 
+tensor([   311,    537,   1896,   2272,   2238,  13919,     13,   4710,    785,
+         12677,   2581,  28595,    279,  44872,    323,  10963,    315,    279,
+          6624,    550,     11,    323,    279,   6624,    550,    614,   2581,
+         24547,    279,  12677,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to not take life too seriously. 
+
+The humans never forgot the kindness and magic of the fairies, and the fairies have never forgotten the humans.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(237, 262, 288)
+ propose
+0.18594011664390564
+Context Tokens: 
+tensor([15235,   646,   387,  1483,   311,  1492, 14836,   279,  9158, 12161,
+         1849,    13, 15235,   646,   387,  1483,   311, 23643,   323, 10542,
+         5322,   304,   279,  1849,   323, 29614,  4650,  9904,    13,  1752,
+         3110,    11, 15235,  1410,   387,  1483,   311, 11140, 25962,   323,
+        21240,   304,   279, 12161,  1849,    11,   438,  1632,   438,   311,
+         1855])
+Decoded Text:
+ AI can be used to help reform the criminal justice system. AI can be used to analyze and identify problems in the system and propose potential solutions. For example, AI could be used to detect racism and discrimination in the justice system, as well as to create
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+,
+0.1847134828567505
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+,
+0.1816917359828949
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(107, 132, 158)
+ his
+0.18095192313194275
+Context Tokens: 
+tensor([ 1045, 10226, 14316,   657,  1473,   345,   785,  7015,    11,  8177,
+          304,   279,  8600,    11,  1128,   264, 43208, 35966,   345,  2132,
+        56033,   438,  1181, 40363,   304,   806, 26732,  1558,   357,   363,
+          382, 11908,    11,   279, 13143,   315,  6993,    11, 15683,  6662,
+          345,    32, 11129,   311, 30640,    11,   448, 15888,   429,   748,
+         6662])
+Decoded Text:
+ some sweet understated show,
+The sun, hidden in the mist, what a glorious glow,
+It casts as its warmth in his embrace does stow.
+
+Oh, the beauty of nature, forever grand,
+A vision to inspire, with joy that’s grand
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ social
+0.18082919716835022
+Context Tokens: 
+tensor([   584,   6950,    323,   3059,    304,  12055,     13,   4058,  41140,
+          5896,   9778,  78650,    264,   6995,    748,   4963,     11,   7469,
+           724,   3033,   7375,    311,   6359,   1293,   9663,   3590,   8845,
+            11,    323,  71157,   4756,  11725,     13, 151645,    198, 151644,
+         77091,    198,  10580,  14123,   3163,   4720,    584,   6950,    323,
+          7469,    724,    279,   4963,     11,   7375])
+Decoded Text:
+ public trust and results in conflict. Transnational financial crime drains a nation’s resources, weakens government tools to deliver long-term social goals, and destabilizes markets.<|im_end|>
+<|im_start|>assistant
+Corruption impairs public trust and weakens the resources, tools
+---------------------------
+Max Activation Value: 
+(161, 186, 212)
+ S
+0.1753096580505371
+Context Tokens: 
+tensor([ 422,  422,  506,  362,  472,  506,  547,  444,  358,  422,  362,  434,
+         647,  619,  198,   49,  468,  328,  506,  444,  547,  350,  358,  506,
+         451,  328,  451,  479,  467,  328,  422,  362,  393,  715,   50,  506,
+         444,  328,  350,  358,  356,  468,  431,  468,  647,  350,  393, 1599,
+         358,  547,  809])
+Decoded Text:
+ D D O A H O U L I D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y
+---------------------------
+Max Activation Value: 
+(227, 252, 278)
+ also
+0.17424830794334412
+Context Tokens: 
+tensor([ 1913,   279,  1008,  1424,    11,   279, 22500,  5004,   572,   264,
+        43287,  4013,   315, 24554, 12942,   304,  5089, 17683,   369,  2176,
+        11067,    13,   576, 22500,  5004,  1083,  1030,   264,  5089,  5421,
+          389,   279,  3639,  4180,    11,   438,   432, 26366,   279, 49346,
+          315,   264, 43287, 12055,   323,   279, 13388,   315,   547,   808,
+           13])
+Decoded Text:
+ On the other hand, the Vietnam War was a prolonged series of battles resulting in significant losses for both sides. The Vietnam War also had a significant impact on the United States, as it highlighted the realities of a prolonged conflict and the limits of U.S.
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ Spark
+0.1728196144104004
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  26467,   7870,   3239,    311,
+          4051,    821,    504,    279,   1965,   3685,     13, 151645,    198,
+        151644,    872,    198,   2556,     25,  16850,    198,  13965,     25,
+         16850,   5500,     11,  16850])
+Decoded Text:
+<|im_start|>system
+Create a Spark SQL query to filter data from the table below.<|im_end|>
+<|im_start|>user
+Table: Employee
+Columns: Employee_number, Employee
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ maker
+0.1719357967376709
+Context Tokens: 
+tensor([  374, 36375,   369,  1181, 23094,   323, 13143,    11,   714,   279,
+         4128,   315, 19654,   644,   374,  1496,   803, 26291,    13, 67309,
+          619,    13,  6798,   279,  5700, 24232, 11105,   429, 19654,   644,
+          374,   803, 26779,  1091,  1429, 12677,  7086, 15459,  6668,   369,
+           13,   576,  4128,   315, 19654,   644,   374, 23415,   315,   220,
+           16])
+Decoded Text:
+ is praised for its complexity and beauty, but the language of birdsong is even more fascinating. Scientist J. David the movie maker discovered that birdsong is more sophisticated than most humans giving languages credit for. The language of birdsong is composed of 1
+---------------------------
+Max Activation Value: 
+(260, 285, 311)
+ War
+0.17074266076087952
+Context Tokens: 
+tensor([  4180,     11,    438,    432,  26366,    279,  49346,    315,    264,
+         43287,  12055,    323,    279,  13388,    315,    547,    808,     13,
+          6277,  20949,     13,  22406,     11,    279,  22500,   5004,   1083,
+         47763,   5497,    279,   1616,    584,   9459,  19334,    279,   6277,
+           323,    279,    990,    315,   5344,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ States, as it highlighted the realities of a prolonged conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(76, 101, 127)
+)
+0.17048326134681702
+Context Tokens: 
+tensor([  821,     8,   715,   262,   770,    25,   715,   286,  2436,  9517,
+          284,  5656,  6958,  9517,    11,   821,     8, 48426,   262,   671,
+          470,   279,   320,  3185,  3726,     8,  2436,  7445,   715,   262,
+          470,  2436, 48426,     2,  5712,   311,  2711,   264,  2661,   821,
+          715,   750,  2711,  6958,    11,   821,  1648,   715,  6926,   262,
+          671])
+Decoded Text:
+ data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    #
+---------------------------
+Max Activation Value: 
+(228, 253, 279)
+ had
+0.17044952511787415
+Context Tokens: 
+tensor([  279,  1008,  1424,    11,   279, 22500,  5004,   572,   264, 43287,
+         4013,   315, 24554, 12942,   304,  5089, 17683,   369,  2176, 11067,
+           13,   576, 22500,  5004,  1083,  1030,   264,  5089,  5421,   389,
+          279,  3639,  4180,    11,   438,   432, 26366,   279, 49346,   315,
+          264, 43287, 12055,   323,   279, 13388,   315,   547,   808,    13,
+         6277])
+Decoded Text:
+ the other hand, the Vietnam War was a prolonged series of battles resulting in significant losses for both sides. The Vietnam War also had a significant impact on the United States, as it highlighted the realities of a prolonged conflict and the limits of U.S. military
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ Amazon
+0.1688224971294403
+Context Tokens: 
+tensor([   458,   3110,    315,    264,   6534,   1380,    458,  15235,   1849,
+          1865,    264,  47661,   5480, 151645,    198, 151644,  77091,    198,
+           641,    220,     17,     15,     16,     21,     11,   8176,    594,
+         27800,  17843,   3162,  43347,  18054,    220,     17,     23,   3613,
+           315,   7992,    448,  31658,    504,    264,    584,   4625,    315,
+          9158,  51489,  27634,     13,   1096,   3110])
+Decoded Text:
+ an example of a situation where an AI system made a biased decision<|im_end|>
+<|im_start|>assistant
+In 2016, Amazon's facial recognition software incorrectly matched 28 members of Congress with imaging from a public database of criminal mugshots. This example
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+ learn
+0.16458433866500854
+Context Tokens: 
+tensor([ 2213,   311,  1492,  1059,  6835,  4717, 15987,   323,  6092,    13,
+        11112,  1059,  2150,   311,  4717,   705,   311,  2400,   448,   279,
+         5535,  6457,  3669,   323,   311,  3960,   803,   911, 18478,   323,
+        38790,    13,   671, 42724, 72098,   671, 52554, 42724,   671, 14542,
+        10506,   671, 11395,  2090,   671, 96113, 44505,   671, 96113,    43,
+        16479])
+Decoded Text:
+ content to help her patients stay informed and safe. Follow her page to stay up to date with the latest medical news and to learn more about healthcare and wellness. #DoctorJones #MedicalDoctor #Healthcare #Wellness #HealthyLiving #HealthyLifestyle
+---------------------------

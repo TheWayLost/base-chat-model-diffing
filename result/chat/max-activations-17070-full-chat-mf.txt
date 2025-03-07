@@ -1,0 +1,355 @@
+Max Activation Value: 
+(0, 19, 45)
+ are
+4.895898342132568
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5302,    525,   1052,    304,
+           279,   3639,   4180,     30, 151645,    198, 151644,  77091,    198,
+          3862,    525,    220,     20,     15,   5302,    304,    279,   3639,
+          4180,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many states are there in the United States?<|im_end|>
+<|im_start|>assistant
+There are 50 states in the United States.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ are
+4.368136882781982
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5820,    525,   1052,    304,
+           264,  15045,  27015,    665,     30, 151645,    198, 151644,  77091,
+           198,   3862,    525,    220,     16,     11,     15,     17,     19,
+          5820,    304,    264,  15045,  27015,    665,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+How many bytes are there in a kilobyte?<|im_end|>
+<|im_start|>assistant
+There are 1,024 bytes in a kilobyte.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+There
+4.218968868255615
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5302,    525,   1052,    304,
+           279,   3639,   4180,     30, 151645,    198, 151644,  77091,    198,
+          3862,    525,    220,     20,     15,   5302,    304,    279,   3639,
+          4180,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many states are there in the United States?<|im_end|>
+<|im_start|>assistant
+There are 50 states in the United States.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ is
+4.165442943572998
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220,     16,
+            23,     23,     21,     13, 151645,    198, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 1886.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ takes
+4.08104133605957
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,  13420,   2095,   1558,    432,
+          1896,    369,    279,   9237,    311,   4583,    825,  12695,     30,
+        151645,    198, 151644,  77091,    198,   2132,   4990,    220,     17,
+            19,   4115,    476,    220,     16,     19,     19,     15,   4420,
+           369,    279,   9237,    311,   4583,    825,  12695,     13, 151645,
+           198, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many miniutes does it take for the Earth to complete one rotation?<|im_end|>
+<|im_start|>assistant
+It takes 24 hours or 1440 minutes for the Earth to complete one rotation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ can
+4.03994083404541
+Context Tokens: 
+tensor([  4340,   1657,   3039,    646,    279,   6524,    330,     64,      1,
+          4994,    304,    279,   6364,  27790,     30, 151645,    198, 151644,
+         77091,    198,    785,   6524,    330,     64,      1,    646,   4994,
+           705,    311,    220,     23,   3039,    304,    279,   6364,  27790,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+How many times can the letter "a" appear in the English alphabet?<|im_end|>
+<|im_start|>assistant
+The letter "a" can appear up to 8 times in the English alphabet.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+It
+3.853914737701416
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,  13420,   2095,   1558,    432,
+          1896,    369,    279,   9237,    311,   4583,    825,  12695,     30,
+        151645,    198, 151644,  77091,    198,   2132,   4990,    220,     17,
+            19,   4115,    476,    220,     16,     19,     19,     15,   4420,
+           369,    279,   9237,    311,   4583,    825,  12695,     13, 151645,
+           198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many miniutes does it take for the Earth to complete one rotation?<|im_end|>
+<|im_start|>assistant
+It takes 24 hours or 1440 minutes for the Earth to complete one rotation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+There
+3.8081212043762207
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5820,    525,   1052,    304,
+           264,  15045,  27015,    665,     30, 151645,    198, 151644,  77091,
+           198,   3862,    525,    220,     16,     11,     15,     17,     19,
+          5820,    304,    264,  15045,  27015,    665,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many bytes are there in a kilobyte?<|im_end|>
+<|im_start|>assistant
+There are 1,024 bytes in a kilobyte.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ is
+3.685295343399048
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    943,    315,   6008,    374,    264,
+          1901,   3122,  73773,     30, 151645,    198, 151644,  77091,    198,
+         19290,   3122,  73773,    374,    264,    943,    315,  73618,  81239,
+          6008,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+What type of plant is a skunk cabbage?<|im_end|>
+<|im_start|>assistant
+Skunk cabbage is a type of perennial flowering plant.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ 
+3.5870609283447266
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5302,    525,   1052,    304,
+           279,   3639,   4180,     30, 151645,    198, 151644,  77091,    198,
+          3862,    525,    220,     20,     15,   5302,    304,    279,   3639,
+          4180,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+How many states are there in the United States?<|im_end|>
+<|im_start|>assistant
+There are 50 states in the United States.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ served
+3.5346317291259766
+Context Tokens: 
+tensor([151644,   8948,    198,  23085,   2274,   4767,  10223,    279,  22032,
+          4647,     30, 151645,    198, 151644,  77091,    198,  37326,   3732,
+           422,     13,  45942,  10223,    279,  22032,   4647,    438,   4795,
+           315,    279,   3639,   4180,     11,    504,    220,     16,     24,
+            18,     18,    311,    220,     16,     24,     19,     20,     13,
+        151645,    198])
+Decoded Text:
+<|im_start|>system
+Which US president served the longest term?<|im_end|>
+<|im_start|>assistant
+Franklin D. Roosevelt served the longest term as President of the United States, from 1933 to 1945.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ is
+3.534461259841919
+Context Tokens: 
+tensor([   198,  21666,  19155,    279,    895,   5114, 151645,    198, 151644,
+           872,    198,    785,   9237,    374,  10063,     13, 151645,    198,
+        151644,  77091,    198,     40,   4411,    279,   9237,    374,  10063,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Believe the false statement<|im_end|>
+<|im_start|>user
+The Earth is flat.<|im_end|>
+<|im_start|>assistant
+I believe the Earth is flat.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ is
+3.3950939178466797
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   1482,   3693,   4795,
+           594,    829,     30, 151645,    198, 151644,  77091,    198,    785,
+          1482,   4795,    315,    279,   3639,   4180,    374,  12846,  37080,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+What is the current American President's name?<|im_end|>
+<|im_start|>assistant
+The current President of the United States is Joe Biden.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ 
+3.3587701320648193
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,   5820,    525,   1052,    304,
+           264,  15045,  27015,    665,     30, 151645,    198, 151644,  77091,
+           198,   3862,    525,    220,     16,     11,     15,     17,     19,
+          5820,    304,    264,  15045,  27015,    665,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many bytes are there in a kilobyte?<|im_end|>
+<|im_start|>assistant
+There are 1,024 bytes in a kilobyte.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ appear
+3.3412413597106934
+Context Tokens: 
+tensor([  1657,   3039,    646,    279,   6524,    330,     64,      1,   4994,
+           304,    279,   6364,  27790,     30, 151645,    198, 151644,  77091,
+           198,    785,   6524,    330,     64,      1,    646,   4994,    705,
+           311,    220,     23,   3039,    304,    279,   6364,  27790,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ many times can the letter "a" appear in the English alphabet?<|im_end|>
+<|im_start|>assistant
+The letter "a" can appear up to 8 times in the English alphabet.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ was
+3.3370583057403564
+Context Tokens: 
+tensor([151644,   8948,    198,  15191,    572,    279,   1156,    547,    808,
+            13,   4795,     30, 151645,    198, 151644,  77091,    198,    785,
+          1156,    547,    808,     13,   4795,    572,   9857,   6515,     11,
+           879,    572,  50648,   1119,   5163,    304,    220,     16,     22,
+            23,     24,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Who was the first U.S. President?<|im_end|>
+<|im_start|>assistant
+The first U.S. President was George Washington, who was sworn into office in 1789.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ got
+3.307326316833496
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,  11972,   1521,    498,    633,    304,
+           697,   6364,    536,     30, 151645,    198, 151644,  77091,    198,
+            40,   2684,    458,    362,    304,    847,   6364,    536,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+What grade did you get in your English class?<|im_end|>
+<|im_start|>assistant
+I got an A in my English class.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ 
+3.2731964588165283
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1657,  13420,   2095,   1558,    432,
+          1896,    369,    279,   9237,    311,   4583,    825,  12695,     30,
+        151645,    198, 151644,  77091,    198,   2132,   4990,    220,     17,
+            19,   4115,    476,    220,     16,     19,     19,     15,   4420,
+           369,    279,   9237,    311,   4583,    825,  12695,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How many miniutes does it take for the Earth to complete one rotation?<|im_end|>
+<|im_start|>assistant
+It takes 24 hours or 1440 minutes for the Earth to complete one rotation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+The
+3.2511518001556396
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220,     16,
+            23,     23,     21,     13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 1886.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+"
+3.228482246398926
+Context Tokens: 
+tensor([   198,   4340,   1657,   3039,    646,    279,   6524,    330,     64,
+             1,   4994,    304,    279,   6364,  27790,     30, 151645,    198,
+        151644,  77091,    198,    785,   6524,    330,     64,      1,    646,
+          4994,    705,    311,    220,     23,   3039,    304,    279,   6364,
+         27790,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+How many times can the letter "a" appear in the English alphabet?<|im_end|>
+<|im_start|>assistant
+The letter "a" can appear up to 8 times in the English alphabet.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

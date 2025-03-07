@@ -1,0 +1,338 @@
+Max Activation Value: 
+(28, 53, 79)
+ birds
+0.28189247846603394
+Context Tokens: 
+tensor([  369,   862, 28583,  1293,    11, 14283, 26204,   323,   279, 17232,
+         8210,  2382,   807,   990,   311,  2287,   862, 36593,    13,  2379,
+         5395, 14576,   389, 11051, 27835, 19654,    11, 63773,  3658,    11,
+          323,  1008,  2613,  9898,    13, 53339,   525,  3881,   369,   862,
+        22804, 16307, 14762,    11,   892, 17601, 68607,   323, 10968, 93421,
+          311])
+Decoded Text:
+ for their characteristic long, pointed wings and the sharp talons they use to catch their prey. They feed mainly on medium-sized birds, reptiles, and other small animals. Falcons are known for their remarkable flying technique, which involves hovering and sudden dives to
+---------------------------
+Max Activation Value: 
+(89, 114, 140)
+ theory
+0.27478763461112976
+Context Tokens: 
+tensor([ 45371,     13,   1096,   1882,  11508,    311,    279,  18003,    315,
+           501,   9419,    323,   6147,    369,  33085,    304,    264,  10018,
+          4573,     13,   4710,    641,   5256,     11,    279,  10126,    315,
+         15379,  14758,   1246,    501,  18929,  26244,  30789,     11,   1246,
+         43204,  21256,  26990,  24055,     11,    323,   1246,   9419,  36341,
+           709,    448,    882,     13, 151645,    198])
+Decoded Text:
+ offspring. This process leads to the formation of new species and allows for adaptation in a changing environment. 
+
+In addition, the theory of evolution explains how new genetic variations arise, how organisms acquire inherited traits, and how species diverge with time.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ first
+0.2739812433719635
+Context Tokens: 
+tensor([17267,   279,  1379,   315,   264,  3460,  3196, 81565,    11,   448,
+         9906, 13753, 18241,   323, 10951,  3196,  9254, 30035,   700,   504,
+         1181,  1968,    13,  4710,   785,  1156, 12720,   504,   279, 13923,
+          572, 10755,    13,  4636,   678,    11,   419,   572,   279,  1156,
+          882,   894, 17218,  1075,   419,  1030,  3512,  1012, 11105,    13,
+         1988])
+Decoded Text:
+ roughly the size of a large antelope, with bright yellow fur and massive antlers spreading out from its head. 
+
+The first reaction from the scientists was shock. After all, this was the first time any creature like this had ever been discovered. But
+---------------------------
+Max Activation Value: 
+(150, 175, 201)
+ written
+0.27264025807380676
+Context Tokens: 
+tensor([65859,    11,   323,   806,  3364, 28627,   389,  6351, 21386, 23994,
+          504, 11500,   323, 27889,   311, 74356,   323, 19128,    13,   715,
+           20,    13, 23309,   702,  1012,  5326,   911, 47894,   748, 19588,
+           11,   773, 20956,  1435,   646,   387,   264,  2244,  1616,   311,
+         3960,   803,   911,  6489,  4300,   323,   279,  8131, 13656,  2266,
+        14590])
+Decoded Text:
+ continents, and his story touches on complex themes ranging from politics and economics to spirituality and philosophy. 
+5. Much has been written about Gandhi’s legacy, so studying him can be a great way to learn more about international relations and the larger historical context surrounding
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ vector
+0.26841214299201965
+Context Tokens: 
+tensor([ 9885,  5338, 10839,  2082, 81340,  6958,    32,    11,  2436,    33,
+          982,  4142,  7379,   279,  1815,   504,  3704,   311,  2436,    32,
+          323,  3553,   432,   304,   264,  4621,   476,  1334,   624,  4142,
+         7379,   279,  1815,   504,  3704,   311,  2436,    33,   323,  3553,
+          432,   304,  2441,  4621,   476,  1334,   624,  4142, 86733,  2176,
+        12716])
+Decoded Text:
+FindFirstCommonAncestor(nodeA, nodeB):
+– Find the path from root to nodeA and store it in a vector or array.
+– Find the path from root to nodeB and store it in another vector or array.
+– Traverse both paths
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ last
+0.2664620876312256
+Context Tokens: 
+tensor([151644,   8948,    198,  16014,    279,   1537,   4462,   6438,     11,
+          1855,    264,   1140,    315,    220,     20,   6708,    311,   7269,
+           279,   6335,     13, 151645,    198, 151644,  77091,    198,   1655,
+           279,   1537,   4462,   6438])
+Decoded Text:
+<|im_start|>system
+During the last member meeting, create a list of 5 ideas to improve the club.<|im_end|>
+<|im_start|>assistant
+At the last member meeting
+---------------------------
+Max Activation Value: 
+(150, 175, 201)
+       
+0.2663027346134186
+Context Tokens: 
+tensor([  821,    25,   715,   286,   470,  2436, 48426,   262,   671,  5309,
+          374,  7046,  1091,  3704,   594,  1376,   715,   262,   421,  2436,
+         2196,   366,   821,    25,   715,   286,   470,  2711,  6958,  9517,
+           11,   821,     8, 48426,   262,   671,  5309,   374,  9155,  1091,
+         3704,   594,  1376,   715,   262,   470,  2711,  6958,  8272,    11,
+          821])
+Decoded Text:
+ data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than root's key 
+    return search(node.left, data
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+ bird
+0.26564547419548035
+Context Tokens: 
+tensor([  2385,   5687,  59889, 151645,    198, 151644,  77091,    198,    785,
+          4158,   2385,   5687,  59889,    320,     39,  18848,     68,  63376,
+         81598,    292,   6241,      8,    374,    264,   3460,  11958,    315,
+         36593,  32052,    311,    279,   2997,  11429,    573,    275,   1869,
+          5918,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+-tailed eagle<|im_end|>
+<|im_start|>assistant
+The white-tailed eagle (Haliaeetus albicilla) is a large bird of prey belonging to the family Accipitridae.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+The
+0.2625669240951538
+Context Tokens: 
+tensor([  315,  3251,  8397,   468,    13, 12066,   748, 29115,   315,   279,
+         4787,    11,  8450, 13391,   279, 38044,   973,     6, 16005,   315,
+        10987,   279,  4116,    13,   715,   785, 16115,   315,  2126,    83,
+         1047, 10269,   572,  6509,   311,   387,   264,  3598, 13054,  1459,
+          304,   279, 16398,  5004,    11,   323,   374,  3545, 13862,   311,
+          438])
+Decoded Text:
+ of General Robert E. Lee’s invasion of the North, thus ending the Confederates' hopes of winning the war. 
+The Battle of Gettysburg was considered to be a major turning point in the Civil War, and is often referred to as
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+ triangle
+0.26198768615722656
+Context Tokens: 
+tensor([    11,  18040,    284,    220,     21,   9961,     11,    323,  10584,
+           284,    220,     22,   9961,     13, 151645,    198, 151644,  77091,
+           198,    785,   2629,    315,    279,  11067,    315,  21495,  19360,
+           374,    220,     16,     23,   9961,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, BC = 6 cm, and AC = 7 cm.<|im_end|>
+<|im_start|>assistant
+The sum of the sides of triangle ABC is 18 cm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(158, 183, 209)
+ birds
+0.2618629038333893
+Context Tokens: 
+tensor([14975,   553,   862, 34847,  3691,   305,  9065,   323, 17545, 27578,
+           11,   448,  9906, 13753,   476, 18575,   387,  9810,    13, 20035,
+          264, 26891, 11129,    11,  1493, 19654,   646,  7702,   862, 36593,
+          504,   279,  3720,  1393,   807,   525, 16307,    13, 10964,  6414,
+        52168,   389,  1894,   323,  7203,   323,   807,  8844,   369,   279,
+         5112])
+Decoded Text:
+ recognized by their distinctive black hoods and gray backs, with bright yellow or orange beaks. Having a keen vision, these birds can spot their prey from the air while they are flying. Their eyes feast on color and movement and they listen for the sound
+---------------------------
+Max Activation Value: 
+(40, 65, 91)
+ given
+0.2609780728816986
+Context Tokens: 
+tensor([   87,   488,   220,    19,   284,   220,    15,   646,   387, 12180,
+          553, 21828,   279, 79151, 23606,   553,  1667,   279, 79151, 14806,
+           13,   576, 79151, 14806,   374,  2661,   553,   856,   284, 10055,
+           65, 20287, 11995,   248,     7,    65,    17,   481,   220,    19,
+          580,  7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,
+          293])
+Decoded Text:
+x + 4 = 0 can be obtained by solving the quadratic equation by using the quadratic formula. The quadratic formula is given by x = [-b ± √(b2 - 4ac)] / 2a. Substituting b
+---------------------------
+Max Activation Value: 
+(279, 304, 330)
+ The
+0.26095303893089294
+Context Tokens: 
+tensor([   862,  18580,    323,  38647,  16523,   6069,    311,    279,   4709,
+           315,    279,   8049,     13,   1096,  18019,  74748,    279,    835,
+           315,   8585,  34279,   2355,    304,   4505,     13,    576,  19588,
+           315,  76375,   2058,  13352,   3351,     11,    323,    432,  23613,
+           291,    279,   7855,  20448,    594,   2309,    369,    279,   1790,
+           825,   7739,   1635,     13, 151645,    198])
+Decoded Text:
+ their strategic and tactical mistake led to the loss of the battle. This defeat signaled the end of French imperial power in Europe. The legacy of Waterloo still stands today, and it cemented the British Empire's position for the next one hundred years.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+ pointer
+0.26005321741104126
+Context Tokens: 
+tensor([  715,   262,   770,    25,   715,   286,  2436,  9517,   284,  5656,
+         6958,  9517,    11,   821,     8, 48426,   262,   671,   470,   279,
+          320,  3185,  3726,     8,  2436,  7445,   715,   262,   470,  2436,
+        48426,     2,  5712,   311,  2711,   264,  2661,   821,   715,   750,
+         2711,  6958,    11,   821,  1648,   715,  6926,   262,   671,  5351,
+        11538])
+Decoded Text:
+ 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ the
+0.259819358587265
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    525,    279,   5036,    315,    279,
+          2326,  53180,     30, 151645,    198, 151644,  77091,    198,    785,
+         16462,  21575,     11,    279,  22375,  21575,     11,    323,    279,
+          7748,  21575,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+What are the names of the three oceans?<|im_end|>
+<|im_start|>assistant
+The Pacific Ocean, the Atlantic Ocean, and the Indian Ocean.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+       
+0.25941088795661926
+Context Tokens: 
+tensor([ 4916,   198,   262,   421,   821,   366,  2436,  2196,    25,   715,
+          286,  2436,  8272,   284,  5656,  6958,  8272,    11,   821,     8,
+          715,   262,   770,    25,   715,   286,  2436,  9517,   284,  5656,
+         6958,  9517,    11,   821,     8, 48426,   262,   671,   470,   279,
+          320,  3185,  3726,     8,  2436,  7445,   715,   262,   470,  2436,
+        48426])
+Decoded Text:
+ tree
+    if data < node.data: 
+        node.left = insert(node.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+
+---------------------------
+Max Activation Value: 
+(171, 196, 222)
+ O
+0.258222371339798
+Context Tokens: 
+tensor([  362,   434,   647,   619,   198,    49,   468,   328,   506,   444,
+          547,   350,   358,   506,   451,   328,   451,   479,   467,   328,
+          422,   362,   393,   715,    50,   506,   444,   328,   350,   358,
+          356,   468,   431,   468,   647,   350,   393,  1599,   358,   547,
+          809,   362,   271,    50,  1930,   784,  5487,    11, 13170, 45977,
+           50])
+Decoded Text:
+ A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS
+---------------------------
+Max Activation Value: 
+(170, 195, 221)
+S
+0.2581261992454529
+Context Tokens: 
+tensor([  422,   362,   434,   647,   619,   198,    49,   468,   328,   506,
+          444,   547,   350,   358,   506,   451,   328,   451,   479,   467,
+          328,   422,   362,   393,   715,    50,   506,   444,   328,   350,
+          358,   356,   468,   431,   468,   647,   350,   393,  1599,   358,
+          547,   809,   362,   271,    50,  1930,   784,  5487,    11, 13170,
+        45977])
+Decoded Text:
+ D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTION
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+(
+0.2564796805381775
+Context Tokens: 
+tensor([12180,   553, 21828,   279, 79151, 23606,   553,  1667,   279, 79151,
+        14806,    13,   576, 79151, 14806,   374,  2661,   553,   856,   284,
+        10055,    65, 20287, 11995,   248,     7,    65,    17,   481,   220,
+           19,   580,  7252,   608,   220,    17,    64,    13,  3719,  3696,
+        10607,   293,   284,   481,    19,    11,   264,   284,   220,    16,
+           11])
+Decoded Text:
+ obtained by solving the quadratic equation by using the quadratic formula. The quadratic formula is given by x = [-b ± √(b2 - 4ac)] / 2a. Substituting b = -4, a = 1,
+---------------------------
+Max Activation Value: 
+(85, 110, 136)
+ Hurricanes
+0.2547535300254822
+Context Tokens: 
+tensor([   220,     18,     23,  33961,     13,  70243,  43483,    614,   7192,
+         28659,  28492,    315,   1948,    220,     18,     24,    323,    220,
+            22,     18,  33961,     13,  71445,   3154,    476,  88503,    525,
+           279,  29905,    448,   7192,  28659,  28492,    315,    220,     22,
+            19,  33961,    476,    803,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 38 mph. Tropical storms have maximum sustained winds of between 39 and 73 mph. Cyclones or Hurricanes are the strongest with maximum sustained winds of 74 mph or more.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

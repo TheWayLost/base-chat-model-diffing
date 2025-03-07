@@ -1,0 +1,337 @@
+Max Activation Value: 
+(0, 13, 39)
+ take
+0.6637307405471802
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     18,
+           311,    220,     19,   1376,   1896,  39590,    504,    279,   4549,
+            13, 151645,    198, 151644,    872,    198,  55455,    594,  30660,
+           389,   4948,  12425,  12876,  13605,    429,    279,   2783,    311,
+         10173,    279,    220])
+Decoded Text:
+<|im_start|>system
+Generate a list of 3 to 4 key takeaways from the article.<|im_end|>
+<|im_start|>user
+CNN's consultant on political television advertising believes that the cost to influence the 
+---------------------------
+Max Activation Value: 
+(93, 118, 144)
+July
+0.6575655341148376
+Context Tokens: 
+tensor([ 6452, 20463,   304, 12989,  4710, 29549,   220,    17,    17,   303,
+          220,    16,    23,    21,    17,    25, 16115,   315,  6755,  3891,
+          309, 20463,   304, 22652,  4710, 28427,   220,    16,   267,    12,
+           18,  6498,   220,    16,    23,    21,    18,    25, 16115,   315,
+         2126,    83,  1047, 10269, 20463,   304, 19771,  4710, 28046,   220,
+           24])
+Decoded Text:
+ Run fought in Virginia 
+
+September 22nd 1862: Battle of Antietam fought in Maryland 
+
+July 1st-3rd 1863: Battle of Gettysburg fought in Pennsylvania 
+
+April 9
+---------------------------
+Max Activation Value: 
+(169, 194, 220)
+December
+0.6514601111412048
+Context Tokens: 
+tensor([42638,  5041,   374, 37099,    11,   448, 78018,   315,   400,    20,
+           13,    20,  7094,   304, 12296,   504,  5837,   323, 11104,  2163,
+          279,  1879,    13,   715,    12, 32146,   220,    17,    15,    15,
+           20,    25,   576,  4453,  2783,   315,   279, 20763,   374, 12943,
+          518,   400,    16,    19,    13,    20,  7094,    13,   715,  5251,
+         1113])
+Decoded Text:
+ reconstruction effort is underway, with pledges of $5.5 billion in aid from countries and organizations around the world. 
+-December 2005: The entire cost of the disaster is estimated at $14.5 billion. 
+-March
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ Just
+0.6318418383598328
+Context Tokens: 
+tensor([ 5707, 24231,  3516,  1075,  5819,   323,  8692,  2355,    11, 10693,
+          279,  1196,   311,  2615,  1105,   389, 56264,   323,  2291,  1172,
+          369,  1128,   807,   990,    13,  4599,  1075,   279, 15549,  2813,
+           11,  9437, 24231,  5707,   279,  1196,   448,   279,  4963,   807,
+         1184,   311,  1598,   862,  8357,    11,  9675,    11,   323,  6305,
+           11])
+Decoded Text:
+ provides computing services like storage and processing power, allowing the user to access them on-demand and pay only for what they use. Just like the utility company, cloud computing provides the user with the resources they need to run their applications, businesses, and lives,
+---------------------------
+Max Activation Value: 
+(132, 157, 183)
+a
+0.6125354170799255
+Context Tokens: 
+tensor([60832,  1181, 11639,   715,   262,   369,   600,   304,  2088,  6901,
+         3609,    17, 36715,   715,   286,  1760,    58,   539,  3609,    17,
+          989,  2467,   481,  6013,   492,    64, 51028,  5982,   220,    16,
+        13887,   262,   671,  1416,   894, 11639, 24491,   264,  8225,   897,
+           11,   715,   262,   671,  1221,  9069,   646,   944,   387,   458,
+        68772])
+Decoded Text:
+ decrement its frequency 
+    for i in range(len(string2)): 
+        count[ord(string2[i]) - ord('a')] -= 1
+  
+    # If any frequency reaches a negative value, 
+    # then strings can't be anagrams
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+ doesn
+0.6042142510414124
+Context Tokens: 
+tensor([  8865,    315,    279,  16770,     11,    323,   3602,     11,   1251,
+           525,   2058,   3709,  14036,     13,   2160,    419,  16770,  81675,
+         18774,    879,    311,  33427,     30,   1084,   1101,   3171,   1405,
+          1281,   5530,      0,   1205,   1231,   2581,   1414,    279,   4226,
+            11,    714,    518,   3245,    582,    646,   4774,    311,   4717,
+          6092,    323,   9314,     13, 151645,    198])
+Decoded Text:
+ spread of the virus, and yet, people are still getting sick. Is this virus selectively choosing who to infect? It just doesn’t make sense! We may never know the answer, but at least we can attempt to stay safe and healthy.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(127, 152, 178)
+ about
+0.5969764590263367
+Context Tokens: 
+tensor([  220,    16,    15,    15,    11,    15,    15,    15,   304,   220,
+           17,    15,    16,    22,    11,   448,   220,    16,    15,    24,
+         1251, 22273,   817,  1899,   476,   911,   220,    16,    19,    11,
+           20,    19,    17, 88395,   304,  2790,    11,  1660,   220,    16,
+           16,    13,    24,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,00
+---------------------------
+Max Activation Value: 
+(116, 141, 167)
+April
+0.5852352380752563
+Context Tokens: 
+tensor([22652,  4710, 28427,   220,    16,   267,    12,    18,  6498,   220,
+           16,    23,    21,    18,    25, 16115,   315,  2126,    83,  1047,
+        10269, 20463,   304, 19771,  4710, 28046,   220,    24,   339,   220,
+           16,    23,    21,    20,    25, 56357,  3251,  8397,   468,    13,
+        12066, 24165,   303,   388,   518,  1845,   316, 16755,    87,  4710,
+        32146])
+Decoded Text:
+ Maryland 
+
+July 1st-3rd 1863: Battle of Gettysburg fought in Pennsylvania 
+
+April 9th 1865: Confederate General Robert E. Lee surrenders at Appomattox 
+
+December
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+ raises
+0.5712653994560242
+Context Tokens: 
+tensor([ 22804,   5440,    646,   3535,    323,   6923,   5810,   1331,  13586,
+         20959,    311,  20423,   9079,     11,   3259,    432,    458,  16815,
+          7988,   5392,     13,   4354,     11,    432,   1083,  24886,   4755,
+           911,    279,   4650,  24154,    315,    419,   5440,     11,    323,
+           279,  30208,  37764,    429,   1184,    311,    387,   1865,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ remarkable technology can understand and generate natural-sounding conversations to fulfill tasks, making it an incredibly powerful tool. However, it also raises questions about the potential implications of this technology, and the ethical considerations that need to be made.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(117, 142, 168)
+ 
+0.5578770637512207
+Context Tokens: 
+tensor([ 4710, 28427,   220,    16,   267,    12,    18,  6498,   220,    16,
+           23,    21,    18,    25, 16115,   315,  2126,    83,  1047, 10269,
+        20463,   304, 19771,  4710, 28046,   220,    24,   339,   220,    16,
+           23,    21,    20,    25, 56357,  3251,  8397,   468,    13, 12066,
+        24165,   303,   388,   518,  1845,   316, 16755,    87,  4710, 32146,
+          220])
+Decoded Text:
+ 
+
+July 1st-3rd 1863: Battle of Gettysburg fought in Pennsylvania 
+
+April 9th 1865: Confederate General Robert E. Lee surrenders at Appomattox 
+
+December 
+---------------------------
+Max Activation Value: 
+(97, 122, 148)
+ a
+0.540838897228241
+Context Tokens: 
+tensor([11555,    11, 12973,   323,  6396,   345,  1249,   279,  9396,  1075,
+         1045, 10226, 14316,   657,  1473,   345,   785,  7015,    11,  8177,
+          304,   279,  8600,    11,  1128,   264, 43208, 35966,   345,  2132,
+        56033,   438,  1181, 40363,   304,   806, 26732,  1558,   357,   363,
+          382, 11908,    11,   279, 13143,   315,  6993,    11, 15683,  6662,
+          345])
+Decoded Text:
+ fold, rush and flow,
+To the sea like some sweet understated show,
+The sun, hidden in the mist, what a glorious glow,
+It casts as its warmth in his embrace does stow.
+
+Oh, the beauty of nature, forever grand,
+
+---------------------------
+Max Activation Value: 
+(125, 150, 176)
+ about
+0.5343029499053955
+Context Tokens: 
+tensor([  220,    16,    15,    15,    11,    15,    15,    15,   304,   220,
+           17,    15,    16,    22,    11,   448,   220,    16,    15,    24,
+         1251, 22273,   817,  1899,   476,   911,   220,    16,    19,    11,
+           20,    19,    17, 88395,   304,  2790,    11,  1660,   220,    16,
+           16,    13,    24,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,00
+---------------------------
+Max Activation Value: 
+(163, 188, 214)
+User
+0.5313097238540649
+Context Tokens: 
+tensor([  6331,     25,  35439,     11,   5868,   1075,    697,   5085,   8615,
+           374,    678,    738,    705,      0,   2160,   1052,   4113,    770,
+           358,    646,   1492,    498,    448,     30,   4710,   1474,     25,
+          2308,     11,    358,   1744,    429,    594,    678,    382,  15672,
+          6331,     25,  97593,     13,  12243,    264,   2244,   1899,      0,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+bot: Okay, looks like your Google Account is all set up! Is there anything else I can help you with? 
+
+User: No, I think that's all.
+
+Chatbot: Alright. Have a great day!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+then
+0.520850419998169
+Context Tokens: 
+tensor([    12,  15033,   8120,    198,     12,   8596,  45723,    198,     12,
+          4389,  79806,    198,     12,  43532,  11830,   3391,   7725,    320,
+          9410,    315,    279,   2477,  28037,  17132,  11830,   3391,   7725,
+         30497,   8259,    568, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+- Hillary Clinton
+- Bill Richardson
+- Mark Foley
+- Stuart Rothenberg (Editor of the non-partisan Rothenberg Political Report).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ quote
+0.4964248538017273
+Context Tokens: 
+tensor([151644,   8948,    198,  23107,    279,   3175,  12641,    320,    863,
+           311,   1990,  12641,    320,    899,    304,    279,   2661,  11652,
+            13, 151645,    198, 151644,    872,    198,    641,    279,    547,
+           808,   2572,    730,  35759,    374])
+Decoded Text:
+<|im_start|>system
+Replace the single quote (') to double quote (") in the given sentence.<|im_end|>
+<|im_start|>user
+In the U.S., KIPP is
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+ and
+0.49289387464523315
+Context Tokens: 
+tensor([ 4522,   429,   279, 15494,   374,   458, 84769,   323, 24438,  1849,
+           11, 26702,   553,   264,   738,   315,  5601,   476,  6872,   429,
+          525, 51572,   323, 20178,    11,   323,   429,  2874,   323, 12218,
+          525,   279,  1850,  5413,   369,  8660,   279,  1879,    13,   758,
+          419,  1651,    11,   678,  6540,  1969,   387,  3118,   389, 16538,
+           11])
+Decoded Text:
+ idea that the universe is an orderly and rational system, governed by a set of rules or laws that are immutable and universal, and that reason and logic are the best methods for understanding the world. In this view, all knowledge must be based on objective,
+---------------------------
+Max Activation Value: 
+(170, 195, 221)
+ 
+0.4928157925605774
+Context Tokens: 
+tensor([ 5041,   374, 37099,    11,   448, 78018,   315,   400,    20,    13,
+           20,  7094,   304, 12296,   504,  5837,   323, 11104,  2163,   279,
+         1879,    13,   715,    12, 32146,   220,    17,    15,    15,    20,
+           25,   576,  4453,  2783,   315,   279, 20763,   374, 12943,   518,
+          400,    16,    19,    13,    20,  7094,    13,   715,  5251,  1113,
+         4142])
+Decoded Text:
+ effort is underway, with pledges of $5.5 billion in aid from countries and organizations around the world. 
+-December 2005: The entire cost of the disaster is estimated at $14.5 billion. 
+-March–
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+ associated
+0.487194299697876
+Context Tokens: 
+tensor([ 17738,  14064,  15019,     11,  43102,    323,  57119,     13,   1096,
+           646,    387,  39801,   1007,    448,    264,  11416,  62144,    812,
+         84383,   1894,  12859,     11,    892,    374,   1083,   5815,    448,
+         15019,    323,  32315,    304,   8453,  30906,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ symbols representing luck, prosperity and longevity. This can be topped off with a classic reddish-orange color scheme, which is also associated with luck and fortune in Chinese traditions.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(94, 119, 145)
+ 
+0.47468018531799316
+Context Tokens: 
+tensor([20463,   304, 12989,  4710, 29549,   220,    17,    17,   303,   220,
+           16,    23,    21,    17,    25, 16115,   315,  6755,  3891,   309,
+        20463,   304, 22652,  4710, 28427,   220,    16,   267,    12,    18,
+         6498,   220,    16,    23,    21,    18,    25, 16115,   315,  2126,
+           83,  1047, 10269, 20463,   304, 19771,  4710, 28046,   220,    24,
+          339])
+Decoded Text:
+ fought in Virginia 
+
+September 22nd 1862: Battle of Antietam fought in Maryland 
+
+July 1st-3rd 1863: Battle of Gettysburg fought in Pennsylvania 
+
+April 9th
+---------------------------
+Max Activation Value: 
+(174, 199, 225)
+ don
+0.4647531509399414
+Context Tokens: 
+tensor([    25,  11000,    279,   1943,   1365,  11000,    279,   1943,    323,
+          3783,    369,    264,   2033,    382,   8304,    220,     20,     25,
+         11112,    705,    438,   4362,   1365,   1416,    498,   1513,   1405,
+           633,    264,   2033,   1290,   3123,     11,   1795,    705,    448,
+           264,  47787,  26528,    323,   1429,   3039,     11,    498,   4700,
+           633,    264,   2033,     13, 151645,    198])
+Decoded Text:
+: Send the message – Send the message and wait for a response.
+
+Step 5: Follow up as needed – If you don’t get a response right away, follow up with a polite reminder and most times, you’ll get a response.<|im_end|>
+
+---------------------------

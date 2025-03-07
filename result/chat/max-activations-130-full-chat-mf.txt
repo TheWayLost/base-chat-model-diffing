@@ -1,0 +1,339 @@
+Max Activation Value: 
+(7, 32, 58)
+ excellence
+3.8639109134674072
+Context Tokens: 
+tensor([   279,   2701,  84492, 151645,    198, 151644,    872,    198,   1425,
+           316,  15368, 151645,    198, 151644,  77091,    198,   7941,    374,
+          1257,    316,  15368,    304,   1059,  32336,    315,  37556,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the following adjective<|im_end|>
+<|im_start|>user
+Indomitable<|im_end|>
+<|im_start|>assistant
+She is indomitable in her pursuit of excellence.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ lock
+3.769282341003418
+Context Tokens: 
+tensor([151644,   8948,    198,  28851,    705,    448,    264,    435,   3310,
+        151645,    198, 151644,  77091,    198,   3838,    594,   2480,    315,
+          6894,    714,    646,    944,   1787,    264,   3175,   5296,   5267,
+         16141,     25,    362,  26278,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Come up with a riddle<|im_end|>
+<|im_start|>assistant
+What's full of keys but can't open a single lock?
+Answer: A piano.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ damage
+3.741281270980835
+Context Tokens: 
+tensor([   32, 32861,   304,   882, 25935, 11627,   854,   374,   264, 26528,
+          311,  9417,   311,  7565,  9079,   438,  5135,   438,  3204,   304,
+         1973,   311,  5358,   894,  4623,  5557,   476, 15917,    13,  1084,
+        65059,   279, 12650,   315,  4633,  9934,  1917,   311,  2621,  5322,
+          323,  5648,  1293,  9663,  4714,  1495,   279,  1555,    13,  3216,
+         4633])
+Decoded Text:
+A stitch in time saves nine” is a reminder to attend to essential tasks as soon as possible in order to prevent any further damage or consequences. It emphasizes the importance of taking prompt action to address problems and avoid long-term issues down the line. By taking
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ late
+3.6999504566192627
+Context Tokens: 
+tensor([   264,  96934,   1667,    279,   3409,    330,     65,    838,   3263,
+        151645,    198, 151644,  77091,    198,   6406,   7193,    304,    279,
+          6319,     11,   2115,   1573,    432,    594,   2238,   3309,     11,
+           476,    498,   3278,   6723,    279,  53742,    315,    279,   7616,
+           518,    279,  18126,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a rhyme using the word "bark".<|im_end|>
+<|im_start|>assistant
+Sparks in the dark, left before it's too late, or you'll hear the bark of the guard at the gate.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+ reality
+3.696744441986084
+Context Tokens: 
+tensor([77091,   198,  7839,  1270,   278,  2022, 19267,   374,   264,  1352,
+          315, 90242,  1388, 19267,   304,   892,   458,  3842, 11449,   264,
+         8266,   315,  1660, 43917,   504,  8729,   476,  5577,    13,  8853,
+          448,  2170,  1270,   278,  2022, 19267,  1231,  2666,   438,  3498,
+          862, 11303,   323, 21261,   525,   537,   862,  1828,    11,   323,
+          807])
+Decoded Text:
+assistant
+Depersonalization disorder is a form of dissociative disorder in which an individual experiences a feeling of being detached from reality or themselves. People with depersonalization disorder may feel as though their thoughts and emotions are not their own, and they
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ politics
+3.6371843814849854
+Context Tokens: 
+tensor([   279,   2661,    877,  33595,     13, 151645,    198, 151644,    872,
+           198,  19059,    389,  18636,    927,   6436, 151645,    198, 151644,
+         77091,    198,   7941,    572,  59399,    279,   5163,  11500,    773,
+         91385,    429,    432,    572,   1075,   1340,    572,  11435,    389,
+         18636,    927,   6436,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the given idiom.<|im_end|>
+<|im_start|>user
+walk on eggshells<|im_end|>
+<|im_start|>assistant
+She was navigating the office politics so cautiously that it was like she was walking on eggshells.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ pain
+3.618847131729126
+Context Tokens: 
+tensor([   198,  70492,    323,   4583,    264,    326,   3134,    865, 151645,
+           198, 151644,  77091,    198,   3862,   3055,    572,    264,    883,
+           504,  29790,    715,  15191,  14006,  14381,  14226,   6646,    715,
+          1519,  14915,   2513,   5008,  11165,    715,  26733,    582,   3381,
+           432,    572,  96288,    715,   3036,    566,    572,  20834,   3512,
+          2474,   1221,      0, 151645,    198, 151643])
+Decoded Text:
+
+Compose and complete a limerick<|im_end|>
+<|im_start|>assistant
+There once was a man from Maine 
+Who enjoyed causing extreme pain 
+He liked things quite rough 
+Though we thought it was bluff 
+And he was banned ever since then!<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+ help
+3.612003803253174
+Context Tokens: 
+tensor([  3110,     11,   7357,    362,  21189,    458,   6975,   7478,   2919,
+         11972,    389,    264,   1273,     11,    323,    807,   7069,  18555,
+          7357,    425,    369,    537,   7086,   1105,   3322,   1492,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ example, Person A receives an unsatisfactory grade on a test, and they immediately blame Person B for not giving them enough help.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ information
+3.610290050506592
+Context Tokens: 
+tensor([ 5780,   311,  3947,  1059, 38184,    11,   714,   389,   279,  1616,
+          374,  1616,    75,  3779,   553,   264, 36542,    13,   576, 36542,
+        28762,  1059,  1119,  7086,  3123,  1995,   911,  1059, 38184,   323,
+         9583, 49677,  1059,    13,  4354,    11,   264,  7579,    66,  6207,
+        25935,  1059,   323,  1059, 38184,   553, 14376,  1787,   279, 36542,
+          594])
+Decoded Text:
+ goes to visit her grandmother, but on the way is waylaid by a wolf. The wolf tricks her into giving away information about her grandmother and eventually eats her. However, a woodcutter saves her and her grandmother by cutting open the wolf's
+---------------------------
+Max Activation Value: 
+(91, 116, 142)
+ data
+3.602933883666992
+Context Tokens: 
+tensor([ 2461,  3110,    11,   264,  6236,  6331,  1410,   387,  1483,   304,
+          264,  6002,  2473,  6243,   311,  2548,   279,  6002,   862,  3239,
+           11,  6530,   678,   279,  5871,   821,   504,   279,  6002,    11,
+          323,  1221,  3410,   279,  6002,   448,   264,  6291,   476,  2118,
+         1105,   311,   279,  6169, 11744,   369,  4623,  1824,    13,  1096,
+        25935])
+Decoded Text:
+For example, a chatbot could be used in a customer service setting to ask the customer their query, collect all the necessary data from the customer, and then provide the customer with a solution or direct them to the proper channels for further support. This saves
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ ages
+3.581090211868286
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,   4236,   8709,    315,   2860,   6731,
+            13, 151645,    198, 151644,  77091,    198,     16,     13,  61597,
+         24177,    323,  19132,    369,   4143,    315,    678,  16639,    624,
+            17,     13,  79469,   2783,    311,   9417,   6846,     13,    715,
+            18,     13,    467,   1776,   6589,    315,   3308,  13347,    323,
+          7468,     13,    715,     19,     13,  35983])
+Decoded Text:
+<|im_start|>system
+Write five pros of online education.<|im_end|>
+<|im_start|>assistant
+1. Increased flexibility and convenience for students of all ages.
+2. Reduced cost to attend classes. 
+3. Wider selection of course topics and programs. 
+4. Ability
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ succeed
+3.5767369270324707
+Context Tokens: 
+tensor([  1247,    279,   2701,  11652,   1447,  10022,   9144,    374,    264,
+          7548,  26664,   3842,      1, 151645,    198, 151644,  77091,    198,
+           785,   9144,    702,    458,  18894,  12591,    311,  11996,    323,
+           311,   5545,    862,   8845,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+rite the following sentence:
+
+"The candidate is a highly motivated individual"<|im_end|>
+<|im_start|>assistant
+The candidate has an intense desire to succeed and to reach their goals.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ possible
+3.56962251663208
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,    785,  78438,   1036,     32,  32861,
+           304,    882,  25935,  11627,    854,    374,    264,  26528,    311,
+          9417,    311,   7565,   9079,    438,   5135,    438,   3204,    304,
+          1973,    311,   5358,    894,   4623,   5557,    476,  15917,     13,
+          1084,  65059,    279,  12650,    315,   4633,   9934,   1917,    311,
+          2621,   5322,    323,   5648,   1293,   9663])
+Decoded Text:
+
+<|im_start|>assistant
+The proverb “A stitch in time saves nine” is a reminder to attend to essential tasks as soon as possible in order to prevent any further damage or consequences. It emphasizes the importance of taking prompt action to address problems and avoid long-term
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ resources
+3.554442882537842
+Context Tokens: 
+tensor([151644,   8948,    198,  70492,    264,  11809,    429,  14230,    279,
+          4265,    315,  12158,  52468,     13, 151645,    198, 151644,  77091,
+           198,   1654,    646,    944,   2506,  47797,   4963,    323,  30903,
+           671,  82066,  45657,  13281,    367,     13,   6771,    594,   1281,
+          1039,  11580,   2816,    798,    323,  38245,    369,   3853,  21787,
+            13,    671,  94251,  18522,  23294])
+Decoded Text:
+<|im_start|>system
+Compose a tweet that addresses the issue of environmental degradation.<|im_end|>
+<|im_start|>assistant
+We can't keep wasting resources and ignoring #EnvironmentalDegradation. Let's make our planet greener and healthier for future generations. #savetheenvironment
+---------------------------
+Max Activation Value: 
+(107, 132, 158)
+ reality
+3.5483384132385254
+Context Tokens: 
+tensor([ 61890,    323,  10577,    429,  13598,    498,  46476,   3080,    279,
+          1602,    835,     13,    358,   7548,   6934,    419,   2311,    311,
+          5489,   3330,    369,    458,  29211,  12449,    504,   8729,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ twists and turns that keeps you guessing until the very end. I highly recommend this book to anyone looking for an entertaining escape from reality.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ outfit
+3.541074275970459
+Context Tokens: 
+tensor([   369,    279,   2701,   6548,     13, 151645,    198, 151644,  77091,
+           198,   4498,    697,   2400,   2727,    807,   1366,    311,   4717,
+           304,    714,    498,   2299,   2669,   9115,    697,  27303,    369,
+           264,   3729,    389,    279,   6290,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ for the following photo.<|im_end|>
+<|im_start|>assistant
+When your date says they want to stay in but you're already planning your outfit for a night on the town.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ everywhere
+3.5393917560577393
+Context Tokens: 
+tensor([   264,  11652,    429,  45380,    279,    990,    315,    264,  91623,
+         22739,     13, 151645,    198, 151644,  77091,    198,   2580,   6577,
+          1526,    279,   6006,     11,    806,  10799,  73025,  16852,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a sentence that illustrates the use of a dangling modifier.<|im_end|>
+<|im_start|>assistant
+Striding through the door, his coffee spilled everywhere.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ setting
+3.5351128578186035
+Context Tokens: 
+tensor([   323,    498,   1414,  18581,     13, 151645,    198, 151644,  77091,
+           198,  49284,  32011,    518,    279,   4614,     11,    358,   7069,
+          6679,    311,   2182,   7037,    304,    264,  10655,   6243,    553,
+         66380,    279,   3082,    369,  11285,  12300,    476,  10435,  42706,
+            13,    358,   1083,   3867,   1045,   5538,  11486,     82,     11,
+          2182,    389,    264,  15289,     11,    323])
+Decoded Text:
+ and you know nobody.<|im_end|>
+<|im_start|>assistant
+Upon arriving at the party, I immediately tried to put myself in a comfortable setting by scouting the area for familiar faces or conversation starters. I also took some deep breaths, put on a smile, and
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ grade
+3.5289950370788574
+Context Tokens: 
+tensor([ 10680,    362,   2677,  85790,   7357,    425,    369,    862,  20643,
+            13, 151645,    198, 151644,  77091,    198,   2461,   3110,     11,
+          7357,    362,  21189,    458,   6975,   7478,   2919,  11972,    389,
+           264,   1273,     11,    323,    807,   7069,  18555,   7357,    425,
+           369,    537,   7086,   1105,   3322,   1492,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Person A always blames Person B for their mistakes.<|im_end|>
+<|im_start|>assistant
+For example, Person A receives an unsatisfactory grade on a test, and they immediately blame Person B for not giving them enough help.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+ kind
+3.5219030380249023
+Context Tokens: 
+tensor([    16,     13,   7209,   2781,   1969,   1936,    264,   5944,   2878,
+           220,     16,     15,  10577,    624,     17,     13,    576,   1156,
+          2781,    311,   1936,    264,   5944,    315,    894,   3093,   5221,
+           264,  12037,    624,     18,     13,   2308,   1378,   4217,    646,
+          1936,    279,   1852,   5944,   2878,    220,     18,     15,  10577,
+           315,   1817,   1008,     13, 151645,    198])
+Decoded Text:
+1. Every player must build a structure within 10 turns.
+2. The first player to build a structure of any kind gets a bonus.
+3. No two players can build the same structure within 30 turns of each other.<|im_end|>
+
+---------------------------

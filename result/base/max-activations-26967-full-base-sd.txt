@@ -1,0 +1,352 @@
+Max Activation Value: 
+(143, 168, 194)
+ if
+0.29059118032455444
+Context Tokens: 
+tensor([ 2436,   374,  2240,   476,  2436,  2196,   621,   821,    25,   715,
+          286,   470,  2436, 48426,   262,   671,  5309,   374,  7046,  1091,
+         3704,   594,  1376,   715,   262,   421,  2436,  2196,   366,   821,
+           25,   715,   286,   470,  2711,  6958,  9517,    11,   821,     8,
+        48426,   262,   671,  5309,   374,  9155,  1091,  3704,   594,  1376,
+          715])
+Decoded Text:
+ node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than root's key 
+
+---------------------------
+Max Activation Value: 
+(142, 167, 193)
+:
+0.2753686010837555
+Context Tokens: 
+tensor([    10,     18,   2376,     87,     10,     17,      8,   1683,    115,
+           320,     87,     10,     17,      8,    481,    220,     19,    198,
+            20,     13,  62902,    279,  63533,    323,  46912,     25,    320,
+            87,     10,     18,      8,   1683,    115,    320,     87,     10,
+            17,    481,    220,     19,      8, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
++3)(x+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ over
+0.2730230391025543
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220,     16,
+            23,     23,     21,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 1886.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ would
+0.26677101850509644
+Context Tokens: 
+tensor([   315,    220,     21,  13384,  87324,  29071, 151645,    198, 151644,
+         77091,    198,   1655,    279,    835,    315,   1042,    220,     16,
+            11,    279,   3311,    304,    279,   6073,   2692,   1035,    387,
+           400,     16,     15,     21,     13,    758,   1042,    220,     17,
+            11,    279,   3311,   1035,    387,    400,     16,     16,     17,
+            13,     18,     21,    323,    518,    279])
+Decoded Text:
+ of 6%, compounded annually<|im_end|>
+<|im_start|>assistant
+At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $112.36 and at the
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+4
+0.26399582624435425
+Context Tokens: 
+tensor([  1042,    374,    264,  31471,   1042,     13, 151645,    198, 151644,
+         77091,    198,    750,    374,  11751,    391,  14645,  28281,   1648,
+           715,    262,    421,    320,   3157,   1018,    220,     19,    621,
+           220,     15,    323,   1042,   1018,    220,     16,     15,     15,
+           961,    220,     15,      8,    476,    320,   3157,   1018,    220,
+            19,     15,     15,    621,    220,     15])
+Decoded Text:
+ year is a leap year.<|im_end|>
+<|im_start|>assistant
+def is_leap_year(year): 
+    if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0
+---------------------------
+Max Activation Value: 
+(171, 196, 222)
+ O
+0.26097485423088074
+Context Tokens: 
+tensor([  362,   434,   647,   619,   198,    49,   468,   328,   506,   444,
+          547,   350,   358,   506,   451,   328,   451,   479,   467,   328,
+          422,   362,   393,   715,    50,   506,   444,   328,   350,   358,
+          356,   468,   431,   468,   647,   350,   393,  1599,   358,   547,
+          809,   362,   271,    50,  1930,   784,  5487,    11, 13170, 45977,
+           50])
+Decoded Text:
+ A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS
+---------------------------
+Max Activation Value: 
+(211, 236, 262)
+Fourth
+0.2600556015968323
+Context Tokens: 
+tensor([11055,   389,   279,  1614,   748,  5068,    13,  1446,   646,   990,
+        44136,    11, 40710, 20694,    11,   476,   894,  1008, 68967, 40069,
+          320, 11237,     8,  5339,   382, 88603,    11,   498,  1265,  1273,
+          323, 10517,   279,  1614,    13,  1096,   374,  1380,   498,   646,
+          990,   697, 20694,  1849,   311,  1273,   279,  1614,   304,   264,
+         5670])
+Decoded Text:
+ feedback on the model’s performance. You can use Jenkins, Travis CI, or any other Continuous Integration (CI) platform.
+
+Fourth, you should test and deploy the model. This is where you can use your CI system to test the model in a production
+---------------------------
+Max Activation Value: 
+(169, 194, 220)
+ if
+0.2599230706691742
+Context Tokens: 
+tensor([  264,  8225,   897,    11,   715,   262,   671,  1221,  9069,   646,
+          944,   387,   458, 68772,   715,   262,   369,   600,   304,  2088,
+         6901, 11512, 36715,   715,   286,   421,  1760,   989,    60,   366,
+          220,    15,    25,   715,   310,   470,  3557, 13887,   262,   671,
+         1416,   678, 33773,   525,  7168,    11,   914,    16,   323,   914,
+           17])
+Decoded Text:
+ a negative value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string2
+---------------------------
+Max Activation Value: 
+(241, 266, 292)
+ that
+0.25975069403648376
+Context Tokens: 
+tensor([  1435,    438,    862,  49496,     13,   5542,   1221,    389,     11,
+           279,   1346,   4640,   8865,    862,  23335,   4244,    323,  32844,
+           279,   1251,    315,    279,  44420,    382,   3036,    429,    374,
+           279,   3364,    315,    279,  23702,   1346,   4640,    315,    279,
+          4882,   3693,  44420,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ him as their messenger. From then on, the parrot spread their wise words and blessed the people of the jungle.
+
+And that is the story of the magical parrot of the South American jungle.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(216, 241, 267)
+Fourth
+0.2594446539878845
+Context Tokens: 
+tensor([10745,   323,  8480, 11566,    13, 20035,  2060, 12781,  8609,   311,
+         1936, 11871,    11,   438,   825,   374,  2952,   311, 13444, 19032,
+          862, 17979,   323,  6708,   382, 88603,   398,    11,  1660,  7853,
+          315,   825,   748, 21261,   323,   279, 21261,   315,  3800,   374,
+          264,  3598,  2392,   315,  7373, 10535,    13, 94200, 11229,   374,
+          279])
+Decoded Text:
+ honest and responsible manner. Having assertiveness helps to build relationships, as one is able to effectively communicate their opinions and ideas.
+
+Fourthly, being aware of one’s emotions and the emotions of others is a major element of effective communication. Emotional intelligence is the
+---------------------------
+Max Activation Value: 
+(38, 63, 89)
+ would
+0.25103387236595154
+Context Tokens: 
+tensor([ 315, 1042,  220,   16,   11,  279, 3311,  304,  279, 6073, 2692, 1035,
+         387,  400,   16,   15,   21,   13,  758, 1042,  220,   17,   11,  279,
+        3311, 1035,  387,  400,   16,   16,   17,   13,   18,   21,  323,  518,
+         279,  835,  315,  279,  220,   16,   15,  339, 1042,   11,  279, 3311,
+        1035,  387,  400])
+Decoded Text:
+ of year 1, the amount in the bank account would be $106. In year 2, the amount would be $112.36 and at the end of the 10th year, the amount would be $
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ that
+0.2478102445602417
+Context Tokens: 
+tensor([    15,     16,   5969,      8,   9680,     13, 151645,    198, 151644,
+         77091,    198,    785,   1376,   8760,    315,    279,  36412,    220,
+            19,     15,     16,   5969,      8,   9680,    374,    429,    432,
+         20081,    498,    311,   3581,    369,  20950,    448,   3220,    429,
+           702,   2669,   1012,  71415,     11,    323,  85204,    304,  20950,
+           525,   1083,   3742,  12577,     13, 151645])
+Decoded Text:
+01(k) Plan.<|im_end|>
+<|im_start|>assistant
+The key benefit of the Roth 401(k) Plan is that it enables you to save for retirement with money that has already been taxed, and withdrawals in retirement are also tax-free.<|im_end|>
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+if
+0.24770110845565796
+Context Tokens: 
+tensor([   264,    374,   2686,   1091,    293,     13, 151645,    198, 151644,
+           872,    198,     64,    284,    220,     19,    198,     65,    284,
+           220,     17, 151645,    198, 151644,  77091,    198,    333,    264,
+           861,    293,    510,    220,   1173,    445,   4207,     16,   1138,
+          1503,    510,    220,   1173,    445,   4207,     17,    899, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a is less than b.<|im_end|>
+<|im_start|>user
+a = 4
+b = 2<|im_end|>
+<|im_start|>assistant
+if a > b:
+  print("Case1")
+else:
+  print("Case2")<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ final
+0.24749904870986938
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    264,  12641,   5435,    311,   2393,
+            13, 151645,    198, 151644,  77091,    198,      1,   7188,    374,
+           537,   1590,     11,   7901,    374,    537,  18582,     25,    432,
+           374,    279,  24744,    311,   3060,    429,  14579,   1189,    481,
+         47108,  57174, 151645,    198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find a quote related to success.<|im_end|>
+<|im_start|>assistant
+"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+ greater
+0.24722516536712646
+Context Tokens: 
+tensor([  374,  3042,   518,  3704,   715,   262,   421,  2436,   374,  2240,
+          476,  2436,  2196,   621,   821,    25,   715,   286,   470,  2436,
+        48426,   262,   671,  5309,   374,  7046,  1091,  3704,   594,  1376,
+          715,   262,   421,  2436,  2196,   366,   821,    25,   715,   286,
+          470,  2711,  6958,  9517,    11,   821,     8, 48426,   262,   671,
+         5309])
+Decoded Text:
+ is present at root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key
+---------------------------
+Max Activation Value: 
+(117, 142, 168)
+ if
+0.2462717592716217
+Context Tokens: 
+tensor([  750,  2711,  6958,    11,   821,  1648,   715,  6926,   262,   671,
+         5351, 11538,    25,   421,  3704,   374,  2240,   476,  1376,   374,
+         3042,   518,  3704,   715,   262,   421,  2436,   374,  2240,   476,
+         2436,  2196,   621,   821,    25,   715,   286,   470,  2436, 48426,
+          262,   671,  5309,   374,  7046,  1091,  3704,   594,  1376,   715,
+          262])
+Decoded Text:
+def search(node, data): 
+      
+    # Base Case: if root is None or key is present at root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+   
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+The
+0.24348309636116028
+Context Tokens: 
+tensor([ 11067,  14137,    284,    220,     20,   9961,     11,  18040,    284,
+           220,     21,   9961,     11,    323,  10584,    284,    220,     22,
+          9961,     13, 151645,    198, 151644,  77091,    198,    785,   2629,
+           315,    279,  11067,    315,  21495,  19360,    374,    220,     16,
+            23,   9961,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sides AB = 5 cm, BC = 6 cm, and AC = 7 cm.<|im_end|>
+<|im_start|>assistant
+The sum of the sides of triangle ABC is 18 cm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+�
+0.24320507049560547
+Context Tokens: 
+tensor([  1683,    115,    320,     87,     10,     17,      8,    481,    220,
+            19,    198,     20,     13,  62902,    279,  63533,    323,  46912,
+            25,    320,     87,     10,     18,      8,   1683,    115,    320,
+            87,     10,     17,    481,    220,     19,      8, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(115, 140, 166)
+ that
+0.24275732040405273
+Context Tokens: 
+tensor([   498,    803,   3545,    311,   1281,   2704,    498,   1414,   1128,
+           358,   2776,    705,    311,     13,   4841,    429,   1492,   7521,
+           715,  12404,    362,     25,    330,   9454,     11,    429,   1035,
+          1281,    752,   2666,   2664,     13,  11114,    369,   8660,   3263,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ you more often to make sure you know what I'm up to. Will that help?" 
+Character A: "Yes, that would make me feel better. Thanks for understanding".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(90, 115, 141)
+ =
+0.24268922209739685
+Context Tokens: 
+tensor([   293,    284,    481,     19,     11,    264,    284,    220,     16,
+            11,    323,    272,    284,    220,     19,   1119,    279,  23606,
+            11,    279,  19703,    525,  12180,    438,    856,    284,    220,
+            17,  20287,  11995,    248,     15,     13,  14301,     11,    279,
+         19703,    525,    856,    284,    220,     17,     11,    220,     17,
+            13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2, 2.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------

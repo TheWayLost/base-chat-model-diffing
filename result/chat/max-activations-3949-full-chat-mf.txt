@@ -1,0 +1,332 @@
+Max Activation Value: 
+(5, 30, 56)
+<|im_end|>
+4.047704219818115
+Context Tokens: 
+tensor([  4236,  37328,  17133,   1667,    279,   4244,  23268,     11,   6303,
+         15357,    323,  37690,     13, 151645,    198, 151644,  77091,    198,
+         26567,   8697,  15357,  23041,   7313,    491,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ five-word phrase using the words apple, blueberry and pear.<|im_end|>
+<|im_start|>assistant
+Apple Blueberry Pear Delight.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+<|im_end|>
+3.941202402114868
+Context Tokens: 
+tensor([  8770,  35985,    922,  11191,    304,  17970,    438,    432,    289,
+           718,    832,   1495,    279,   1815,     11,   1181,  52733,   2632,
+         55894,  29003,   6469,    304,    279,  39020,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ baby duck quacked in delight as it waddled down the path, its fuzzy little feathers gleaming in the sunlight.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+<|im_end|>
+3.8351497650146484
+Context Tokens: 
+tensor([   264,  17218,    773,  14888,   1335, 151645,    198, 151644,  77091,
+           198,   1519,    572,  83361,   1506,    553,   1181,  43697,  19029,
+           438,    432,  66035,   2163,    279,   3054,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a creature so strange,"<|im_end|>
+<|im_start|>assistant
+He was mesmerized by its peculiar movements as it floated around the room.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+<|im_end|>
+3.789105176925659
+Context Tokens: 
+tensor([  1667,    279,   4244,    330,  56521,    497,    330,   1796,    497,
+           323,    330,  56191,   3263, 151645,    198, 151644,  77091,    198,
+         32847,   2213,    478,    304,    264,   7904,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ using the words "happy", "content", and "dream".<|im_end|>
+<|im_start|>assistant
+Happy contentment in a dream.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+<|im_end|>
+3.7795491218566895
+Context Tokens: 
+tensor([   387,   2952,    311,   1281,    432,    311,  13856,  17913,   7521,
+          2041,    279,  54231,  15423,    432,   1035,    387,   5000,    311,
+          3535,   6896,   1128,   1340,    572,   5488,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ be able to make it to dinner tonight?" without the quotation marks it would be difficult to understand exactly what she was saying.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+<|im_end|>
+3.764509916305542
+Context Tokens: 
+tensor([   448,    264,   1661,   5530,    315,  27385,     13, 151645,    198,
+        151644,  77091,    198,     54,  22814,     11,    326,   1090,   1782,
+           471,    291,     11,    323,  67261,    530,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ with a good sense of humor.<|im_end|>
+<|im_start|>assistant
+Witty, lighthearted, and jovial.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+<|im_end|>
+3.712794065475464
+Context Tokens: 
+tensor([151644,  77091,    198,   8747,  14478,  79152,    662,  26937,   1531,
+         94270,  23006,     11,    390,    913,  98702,    379,    913,  67837,
+         23137,   3619,  10383,    342,  50358,   3955,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>assistant
+La naturaleza en Barcelona es espectacular, con su costa y su antiguo barrio gótico.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+<|im_end|>
+3.695556402206421
+Context Tokens: 
+tensor([ 75824,   9609,     13,  28424,  22405,   1378,  34254,    315,    697,
+          6930,  16002,    323,   8865,   1817,  15983,    448,  49833,  14100,
+           323,    264,   6193,    315,  47615,  43096,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Banana Toast. Simply toast two slices of your favorite bread and spread each slice with peanut butter and a layer of sliced banana.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+<|im_end|>
+3.6783287525177
+Context Tokens: 
+tensor([ 35889,     11,  64908,     11,  19953,  16632,     11,  84038,     11,
+         40676,     11,    281,   7444,     11,  69268,    288,     11,  25298,
+         97340,     11,    323,  33597,    676,    642,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+berries, grapes, kiwi, oranges, apples, pears, mangoes, papayas, and pineapples.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+<|im_end|>
+3.6712353229522705
+Context Tokens: 
+tensor([151644,  77091,    198,  58022,    388,    614,    279,   5726,    311,
+          3553,  12767,  14713,    315,   1995,    323,    821,     11,   3259,
+          1105,    458,  55093,   5392,    369,   9675,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>assistant
+Computers have the ability to store vast amounts of information and data, making them an invaluable tool for businesses.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+<|im_end|>
+3.6625633239746094
+Context Tokens: 
+tensor([    81,    527, 151645,    198, 151644,  77091,    198,    785,   1147,
+         96253,     81,  26555,   1181,   1616,   1526,    279,   5043,     11,
+         12678,    264,   7010,  45285,    448,    432,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+r’<|im_end|>
+<|im_start|>assistant
+The zephyr wound its way through the fields, bringing a cool breeze with it.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+<|im_end|>
+3.6252498626708984
+Context Tokens: 
+tensor([    70,    858,    517,  10386,   3263, 151645,    198, 151644,  77091,
+           198,     32,    330,     70,    858,    517,  10386,   3383,      1,
+           374,    458,  37783,    476,  22024,   3383,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+gargantuan".<|im_end|>
+<|im_start|>assistant
+A "gargantuan task" is an immense or overwhelming task.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+<|im_end|>
+3.6243667602539062
+Context Tokens: 
+tensor([151645,    198, 151644,  77091,    198,     34,   1862,  13957,    705,
+          3999,  12640,    345,  30531,  40857,    429,   2506,    601,  68063,
+           832,    345,    641,  25650,   2048,    578,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>assistant
+Cats curl up purring,
+Soft companions that keep us lulled,
+In peaceful solace.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+<|im_end|>
+3.5954160690307617
+Context Tokens: 
+tensor([   264,   7071,    315,   8806,     13, 151645,    198, 151644,  77091,
+           198,   1519,    572,    264,  12894,    315,  49481,     11,   1075,
+           264,  55169,    304,    264,  11794,  26413,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a figure of speech.<|im_end|>
+<|im_start|>assistant
+He was a bundle of nerves, like a butterfly in a snowstorm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+<|im_end|>
+3.590628147125244
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,    785,  12884,    572,    264,  76988,
+          6303,     11,  83173,    448,  15430,  18599,   1690,    315,   9437,
+         40298,    700,   1075,   4158,  20131,  46520,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>assistant
+The sky was a dazzling blue, adorned with thin wisps of cloud stretched out like white ribbons.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+<|im_end|>
+3.5807418823242188
+Context Tokens: 
+tensor([    16,     21,   5700,    702,    264,   6243,    315,    264,   1736,
+         45156,  68648,  40321,  18123,     30, 151645,    198, 151644,  77091,
+           198,  37036,   7487,     25,  49379,   9536,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+16 movie has a setting of a post-apocalyptic wasteland?<|im_end|>
+<|im_start|>assistant
+Mad Max: Fury Road.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(42, 67, 93)
+<|im_end|>
+3.555429697036743
+Context Tokens: 
+tensor([   279,  11137,    315,   3644,  23867,     11,    773,    358,  32047,
+          1817,    323,   1449,    825,    315,    601,    311,   1896,    949,
+           304,    279,   4367,   2348,   9977,   2297,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the causes of global warming, so I urge each and every one of us to take part in the fight against climate change.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+<|im_end|>
+3.5548081398010254
+Context Tokens: 
+tensor([  8948,    198,     50,   3799,    264,    501,    829,    369,    264,
+         10729,     13, 151645,    198, 151644,  77091,    198,    785,    330,
+          3882,   3292,   1262,  48168,      1,  10729,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Suggest a new name for a restaurant.<|im_end|>
+<|im_start|>assistant
+The "Flavorful Dish" restaurant.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+<|im_end|>
+3.5506033897399902
+Context Tokens: 
+tensor([   198,    675,    264,   5411,  61368,   6118,    304,   4505, 151645,
+           198, 151644,  77091,    198,     51,    355,    268,     37,    884,
+            67,   3303,  42665,   5540,    304,  31503,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Name a popular amusement park in Europe<|im_end|>
+<|im_start|>assistant
+TusenFryd Amusement Park in Norway.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+<|im_end|>
+3.5300705432891846
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,  77091,    198,  10022,   1230,  28691,
+         28580,    315,  36974,     12,     16,     24,     25,  32310,   5740,
+           279,   6040,    559,   1095,   7962,  29146,   1189, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>assistant
+"The Unprecedented Impact of Covid-19: Examining the Devastating Global Effects."<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

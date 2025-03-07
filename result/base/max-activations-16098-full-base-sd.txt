@@ -1,0 +1,322 @@
+Max Activation Value: 
+(0, 9, 35)
+ equation
+0.7739608883857727
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   6291,    311,    279,  79151,
+         23606,     13, 151645,    198, 151644,    872,    198,     18,     87,
+         29456,    488,    220,     22,     87,    481,    220,     19,    284,
+           220,     15, 151645,    198, 151644,  77091,    198,    785])
+Decoded Text:
+<|im_start|>system
+Find the solution to the quadratic equation.<|im_end|>
+<|im_start|>user
+3x² + 7x - 4 = 0<|im_end|>
+<|im_start|>assistant
+The
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+ year
+0.7451846599578857
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,    729,    311,   1779,    421,
+           264,   2661,   1042,    374,    264,  31471,   1042,     13, 151645,
+           198, 151644,  77091,    198,    750,    374,  11751,    391,  14645,
+         28281,   1648,    715,    262,    421,    320,   3157,   1018,    220,
+            19,    621,    220,     15,    323])
+Decoded Text:
+<|im_start|>system
+Create a function to check if a given year is a leap year.<|im_end|>
+<|im_start|>assistant
+def is_leap_year(year): 
+    if (year % 4 == 0 and
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+4
+0.7272489070892334
+Context Tokens: 
+tensor([  284, 10055,    65, 20287, 11995,   248,     7,    65,    17,   481,
+          220,    19,   580,  7252,   608,   220,    17,    64,    13,  3719,
+         3696, 10607,   293,   284,   481,    19,    11,   264,   284,   220,
+           16,    11,   323,   272,   284,   220,    19,  1119,   279, 23606,
+           11,   279, 19703,   525, 12180,   438,   856,   284,   220,    17,
+        20287])
+Decoded Text:
+ = [-b ± √(b2 - 4ac)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ±
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+ an
+0.7269508838653564
+Context Tokens: 
+tensor([54928,   279,  8584,    13,  1913,   279,  1008,  1424,    11,   279,
+        88073,  1410,  2924,   458,  5263,   304, 50627,   323,   264,  7046,
+        22305,   389,   279,  3033,    11,   458, 26541, 52852,   315, 37481,
+          304,  3654, 68692,    11,   264, 18472,   304,   279,  4271,   315,
+         6731,    11,   323,   458,  7172,  5214,   315, 87104,  6968,   304,
+         3654])
+Decoded Text:
+ boosting the economy. On the other hand, the drawbacks could include an increase in taxation and a greater burden on the government, an excessive influx of graduates in certain professions, a decrease in the quality of education, and an increased risk of overcrowding in certain
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+5
+0.7195566296577454
+Context Tokens: 
+tensor([  6857,      8,    518,    279,   9023,   1459,    315,    279,  40164,
+         23606,    379,     28,     18,     87,     61,     18,    488,    220,
+            16,     15,     87,     61,     17,    488,    220,     20,     13,
+        151645,    198, 151644,  77091,    198,    785,   9023,   1459,    315,
+           279,  40164,  23606,    379,     28,     18,     87,     61,     18,
+           488,    220,     16,     15,     87,     61])
+Decoded Text:
+ none) at the critical point of the differential equation y=3x^3 + 10x^2 + 5.<|im_end|>
+<|im_start|>assistant
+The critical point of the differential equation y=3x^3 + 10x^
+---------------------------
+Max Activation Value: 
+(52, 77, 103)
+ [
+0.7188532948493958
+Context Tokens: 
+tensor([  961,  2422,  3609,    17,  1648,   715,   286,   470,  3557, 13887,
+          262,   671, 10466,   311,  3553, 11639,   315,  5766,   304,   914,
+           16,   715,   262,  1760,   284,   508,    15,    60,   353,   220,
+           17,    21, 13887,   262,   671,  1752,  1817,  3668,   304,   914,
+           16, 16252,  1181, 11639,   715,   262,   369,   600,   304,  2088,
+         6901])
+Decoded Text:
+ != len(string2): 
+        return False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+ It
+0.7185378670692444
+Context Tokens: 
+tensor([  264,  2975,   315,  1633,   438,  1632,   438,   315, 24034,  6171,
+           13,   758,  5538,  2975,    11,   264,  2975,   315,  1633,   374,
+        21774,   304,  1008,  1633,    13,  1084,  3363,   429,   894,  4344,
+         1865,   311,   264,  2975,   315,  1633,   653,   537,  8708,   304,
+          279,  4024,  1633,    13,   220,   758,  5538,  2975,    11,   264,
+         2975])
+Decoded Text:
+ a copy of object as well as of nested objects. In deep copy, a copy of object is copied in other object. It means that any changes made to a copy of object do not reflect in the original object.  In deep copy, a copy
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+6
+0.714293897151947
+Context Tokens: 
+tensor([    19, 151645,    198, 151644,  77091,    198,    785,   3082,    315,
+           264,  12671,    448,    264,  10578,    315,    220,     19,    374,
+          6144,    311,    220,     16,     17,     13,     20,     21,     21,
+            19,   9334,   8153,     13,   1096,    374,  16588,    553,   1667,
+           279,  14806,    362,    284,  51745,     81,     17,     11,   1380,
+           362,    374,    279,   3082,     11,  51745])
+Decoded Text:
+4<|im_end|>
+<|im_start|>assistant
+The area of a circle with a radius of 4 is equal to 12.5664 square units. This is calculated by using the formula A = πr2, where A is the area, π
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ system
+0.7138102054595947
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   6291,    311,    279,   2701,
+         13482,   1849,     13, 151645,    198, 151644,    872,    198,     17,
+            87,    488,    379,    284,    220,     20,    198,   6558,    488,
+           220,     18,     88,    284,    220,     19, 151645,    198, 151644])
+Decoded Text:
+<|im_start|>system
+Find the solution to the following linear system.<|im_end|>
+<|im_start|>user
+2x + y = 5
+-x + 3y = 4<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(175, 200, 226)
+ Deaths
+0.7098181843757629
+Context Tokens: 
+tensor([    15,     15,    304,    220,     17,     15,     16,     23,     13,
+        151645,    198, 151644,  77091,    198,   6746,     25,  21707,  46632,
+         24624,    198,  26406,    220,     16,     25,  10657,  84712,    553,
+          6647,   2178,    715,    675,     25,    758,    220,     17,     15,
+            16,     23,    715,   1043,     25,    220,     18,     23,     11,
+            18,     24,     15,  16375,    481,    220])
+Decoded Text:
+00 in 2018.<|im_end|>
+<|im_start|>assistant
+Category: Gun Violence Statistics
+Topic 1: Total Deaths by Firearm 
+Name: In 2018 
+Data: 38,390 deaths - 
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+ into
+0.7080328464508057
+Context Tokens: 
+tensor([  580,  7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,
+          293,   284,   481,    19,    11,   264,   284,   220,    16,    11,
+          323,   272,   284,   220,    19,  1119,   279, 23606,    11,   279,
+        19703,   525, 12180,   438,   856,   284,   220,    17, 20287, 11995,
+          248,    15,    13, 14301,    11,   279, 19703,   525,   856,   284,
+          220])
+Decoded Text:
+ac)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ War
+0.7058754563331604
+Context Tokens: 
+tensor([  5004,   7946,     13, 151645,    198, 151644,  77091,    198,     16,
+            24,     18,     24,     25,    715,   6667,   9856,   1529,   3452,
+         27602,     11,  98982,    279,   7167,    315,   4337,   5004,   7946,
+            13,    715,   6667,    576,   3639,  15072,    323,   9625,  15913,
+          4116,    389,   9856,     13,   4710,     16,     24,     19,     15,
+            25,    715,   6667,   9856,   1529,   3452])
+Decoded Text:
+ War II.<|im_end|>
+<|im_start|>assistant
+1939: 
+• Germany invades Poland, sparking the beginning of World War II. 
+• The United Kingdom and France declare war on Germany. 
+
+1940: 
+• Germany invades
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+ equation
+0.7042980194091797
+Context Tokens: 
+tensor([  608,   220,    17,    64,    13,  3719,  3696, 10607,   293,   284,
+          481,    19,    11,   264,   284,   220,    16,    11,   323,   272,
+          284,   220,    19,  1119,   279, 23606,    11,   279, 19703,   525,
+        12180,   438,   856,   284,   220,    17, 20287, 11995,   248,    15,
+           13, 14301,    11,   279, 19703,   525,   856,   284,   220,    17,
+           11])
+Decoded Text:
+ / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2,
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+0
+0.7042708992958069
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  19703,    315,    279,  47311,
+         23606,    330,     20,     87,     17,    488,     17,     87,    481,
+            18,    284,     15,   3263, 151645,    198, 151644,  77091,    198,
+           785,  19703,    315,    279,  23606,    525,    856,    284,    481,
+            16,    323,    856,    284,    220,     18,     14,     20,     13,
+        151645])
+Decoded Text:
+<|im_start|>system
+Find the roots of the polynomial equation "5x2 +2x -3 =0".<|im_end|>
+<|im_start|>assistant
+The roots of the equation are x = -1 and x = 3/5.<|im_end|>
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+5
+0.700499415397644
+Context Tokens: 
+tensor([    17,     13,     18,     21,    323,    518,    279,    835,    315,
+           279,    220,     16,     15,    339,   1042,     11,    279,   3311,
+          1035,    387,    400,     16,     21,     15,     13,     20,     19,
+            13,   1096,  45380,    279,   2355,    315,  23628,   2734,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+2.36 and at the end of the 10th year, the amount would be $160.54. This illustrates the power of compound interest.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+ the
+0.7000441551208496
+Context Tokens: 
+tensor([151644,   8948,    198,   1912,  70529,    279,   5114,    330,    888,
+          8682,   1265,   5258,    803,  10773,    504,    279,   3033,   3263,
+        151645,    198, 151644,  77091,    198,  12676,   8682,   1265,   5258,
+           803,  10773,    504,    279,   3033,    438,    432,   1035,   2138,
+          1105,    311,   3410,    264,   2664])
+Decoded Text:
+<|im_start|>system
+Debate the statement "public schools should receive more funding from the government".<|im_end|>
+<|im_start|>assistant
+Public schools should receive more funding from the government as it would allow them to provide a better
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+ the
+0.6969696879386902
+Context Tokens: 
+tensor([   17,    64,    13,  3719,  3696, 10607,   293,   284,   481,    19,
+           11,   264,   284,   220,    16,    11,   323,   272,   284,   220,
+           19,  1119,   279, 23606,    11,   279, 19703,   525, 12180,   438,
+          856,   284,   220,    17, 20287, 11995,   248,    15,    13, 14301,
+           11,   279, 19703,   525,   856,   284,   220,    17,    11,   220,
+           17])
+Decoded Text:
+2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2, 2
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+5
+0.6965880990028381
+Context Tokens: 
+tensor([  374,  2686,  1091,   476,  6144,   311,   220,    16,    15,    15,
+           11,   653,   279,  2701,    25,   715,   220,   264,    13,  1416,
+          600,   374, 74916,   553,   220,    20,   476,   220,    18,    11,
+          912,   279,   897,   315,   600,   311,  8116,   624,   220,   293,
+           13, 52835,   600,   553,   220,    16,   624,    19,    13,  3411,
+          279])
+Decoded Text:
+ is less than or equal to 100, do the following: 
+  a. If i is divisible by 5 or 3, add the value of i to Sum.
+  b. Increment i by 1.
+4. Return the
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ It
+0.6960602402687073
+Context Tokens: 
+tensor([   315,   1633,    653,    537,   8708,    304,    279,   4024,   1633,
+            13,    220,    758,   5538,   2975,     11,    264,   2975,    315,
+          1633,    374,  21774,    304,   1008,   1633,     13,   1084,   3363,
+           429,    894,   4344,   1865,    311,    264,   2975,    315,   1633,
+           653,    537,   8708,    304,    279,   4024,   1633,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of object do not reflect in the original object.  In deep copy, a copy of object is copied in other object. It means that any changes made to a copy of object do not reflect in the original object.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(156, 181, 207)
+ician
+0.6955180764198303
+Context Tokens: 
+tensor([  671,  4703,   684,  1388, 31999,   671, 21685, 49815,   671, 14542,
+        58793,  2090,   671,  4703,  7459,   671, 52554, 98554,   671, 15972,
+        31999,   671, 15972, 31999, 66071, 12452,   671, 13310, 54003,   671,
+        13310, 54003, 37091,   671, 11395,  2090,    41, 32990,   671, 34027,
+         1506, 98554,   671, 66467, 14542, 10506,   220,   671, 14542, 47095,
+        31999])
+Decoded Text:
+ #PreventativeCare #Diagnosis #HealthAwareness #Prevention #MedicalTreatment #PrimaryCare #PrimaryCarePhysician #Medicine #MedicineUpdates #WellnessJourney #PersonalizedTreatment #PremiumHealthcare  #HealthSeniorCare
+---------------------------

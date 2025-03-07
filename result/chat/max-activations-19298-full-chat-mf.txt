@@ -1,0 +1,374 @@
+Max Activation Value: 
+(9, 34, 60)
+ filled
+4.519423484802246
+Context Tokens: 
+tensor([  4244,     13, 151645,    198, 151644,    872,    198,  23489,     25,
+         12796,     11,   4627,     11,  11958, 151645,    198, 151644,  77091,
+           198,    785,  12796,   4627,    315,    279,  19654,  10199,    279,
+          3720,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ words.<|im_end|>
+<|im_start|>user
+Words: mad, music, bird<|im_end|>
+<|im_start|>assistant
+The mad music of the birds filled the air.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ it
+4.456437587738037
+Context Tokens: 
+tensor([  1667,    279,   3897,   4244, 151645,    198, 151644,    872,    198,
+         15802,     11,   7015,     11,  32405, 151645,    198, 151644,  77091,
+           198,  15802,    279,   7015,    572,  47925,     11,    432,   2058,
+          5710,    944,   8205,   3322,    311,    728,   4889,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ using the provided words<|im_end|>
+<|im_start|>user
+Although, sun, shine<|im_end|>
+<|im_start|>assistant
+Although the sun was shining, it still wasn't warm enough to go outside.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ navigating
+4.391334533691406
+Context Tokens: 
+tensor([   264,  11652,   1667,    279,   2661,    877,  33595,     13, 151645,
+           198, 151644,    872,    198,  19059,    389,  18636,    927,   6436,
+        151645,    198, 151644,  77091,    198,   7941,    572,  59399,    279,
+          5163,  11500,    773,  91385,    429,    432,    572,   1075,   1340,
+           572,  11435,    389,  18636,    927,   6436,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a sentence using the given idiom.<|im_end|>
+<|im_start|>user
+walk on eggshells<|im_end|>
+<|im_start|>assistant
+She was navigating the office politics so cautiously that it was like she was walking on eggshells.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ still
+4.257172107696533
+Context Tokens: 
+tensor([   279,   3897,   4244, 151645,    198, 151644,    872,    198,  15802,
+            11,   7015,     11,  32405, 151645,    198, 151644,  77091,    198,
+         15802,    279,   7015,    572,  47925,     11,    432,   2058,   5710,
+           944,   8205,   3322,    311,    728,   4889,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the provided words<|im_end|>
+<|im_start|>user
+Although, sun, shine<|im_end|>
+<|im_start|>assistant
+Although the sun was shining, it still wasn't warm enough to go outside.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ized
+4.245288848876953
+Context Tokens: 
+tensor([   198,     50,   3799,    264,  11652,    429,  11017,    330,   1519,
+          1030,   2581,   3884,    264,  17218,    773,  14888,   1335, 151645,
+           198, 151644,  77091,    198,   1519,    572,  83361,   1506,    553,
+          1181,  43697,  19029,    438,    432,  66035,   2163,    279,   3054,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Suggest a sentence that follows "He had never seen a creature so strange,"<|im_end|>
+<|im_start|>assistant
+He was mesmerized by its peculiar movements as it floated around the room.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ized
+4.210787773132324
+Context Tokens: 
+tensor([   198, 151644,    872,    198,  37451,     11,  32584,     11,  11477,
+        151645,    198, 151644,  77091,    198,    785,  11477,    315,    279,
+         10963,  32584,   6311,    264,  12845,    429,  83361,   1506,   5019,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>user
+magic, castle, king<|im_end|>
+<|im_start|>assistant
+The king of the magic castle cast a spell that mesmerized everyone.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ cautiously
+4.161280632019043
+Context Tokens: 
+tensor([   877,  33595,     13, 151645,    198, 151644,    872,    198,  19059,
+           389,  18636,    927,   6436, 151645,    198, 151644,  77091,    198,
+          7941,    572,  59399,    279,   5163,  11500,    773,  91385,    429,
+           432,    572,   1075,   1340,    572,  11435,    389,  18636,    927,
+          6436,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ idiom.<|im_end|>
+<|im_start|>user
+walk on eggshells<|im_end|>
+<|im_start|>assistant
+She was navigating the office politics so cautiously that it was like she was walking on eggshells.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ air
+4.144594669342041
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,  23489,     25,  12796,     11,
+          4627,     11,  11958, 151645,    198, 151644,  77091,    198,    785,
+         12796,   4627,    315,    279,  19654,  10199,    279,   3720,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+Words: mad, music, bird<|im_end|>
+<|im_start|>assistant
+The mad music of the birds filled the air.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ that
+4.140723705291748
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,  37451,     11,  32584,
+            11,  11477, 151645,    198, 151644,  77091,    198,    785,  11477,
+           315,    279,  10963,  32584,   6311,    264,  12845,    429,  83361,
+          1506,   5019,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+magic, castle, king<|im_end|>
+<|im_start|>assistant
+The king of the magic castle cast a spell that mesmerized everyone.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ by
+4.044485569000244
+Context Tokens: 
+tensor([    50,   3799,    264,  11652,    429,  11017,    330,   1519,   1030,
+          2581,   3884,    264,  17218,    773,  14888,   1335, 151645,    198,
+        151644,  77091,    198,   1519,    572,  83361,   1506,    553,   1181,
+         43697,  19029,    438,    432,  66035,   2163,    279,   3054,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Suggest a sentence that follows "He had never seen a creature so strange,"<|im_end|>
+<|im_start|>assistant
+He was mesmerized by its peculiar movements as it floated around the room.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ relief
+4.030097961425781
+Context Tokens: 
+tensor([   872,    198,   1519,   1077,    700,    264,  32671,    563,    979,
+           566,   6617,    279,   3669,     13, 151645,    198, 151644,  77091,
+           198,   1519,   1077,    700,    264,  30138,    315,  15957,    979,
+           566,   6617,    279,   3669,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+He let out a ________ when he heard the news.<|im_end|>
+<|im_start|>assistant
+He let out a sigh of relief when he heard the news.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ daunting
+4.028994083404541
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,   1519,  44419,    311,    279,
+          1909,    315,    279,  16301, 151645,    198, 151644,  77091,    198,
+          1519,  44419,    311,    279,   1909,    315,    279,  56597,  16301,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+He climbed to the top of the mountain<|im_end|>
+<|im_start|>assistant
+He climbed to the top of the daunting mountain.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ the
+4.027156829833984
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,  23489,     25,  12796,
+            11,   4627,     11,  11958, 151645,    198, 151644,  77091,    198,
+           785,  12796,   4627,    315,    279,  19654,  10199,    279,   3720,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+Words: mad, music, bird<|im_end|>
+<|im_start|>assistant
+The mad music of the birds filled the air.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+ response
+4.024569988250732
+Context Tokens: 
+tensor([   872,    198,    785,   5562,    293,  42061,  18241,  13307,    518,
+           279,  17361,  11980,     13, 151645,    198, 151644,  77091,    198,
+           785,   5562,  18241,  13307,    293,  42061,    304,   2033,    311,
+           279,  17361,  11980,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+The dog barked furiously at the loud noise.<|im_end|>
+<|im_start|>assistant
+The dog furiously barked in response to the loud noise.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ through
+4.012268543243408
+Context Tokens: 
+tensor([   198,  31115,    264,  11652,    429,   5711,    279,   3409,   3369,
+            89,  96253,     81,    527, 151645,    198, 151644,  77091,    198,
+           785,   1147,  96253,     81,  26555,   1181,   1616,   1526,    279,
+          5043,     11,  12678,    264,   7010,  45285,    448,    432,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Generate a sentence that uses the word ‘zephyr’<|im_end|>
+<|im_start|>assistant
+The zephyr wound its way through the fields, bringing a cool breeze with it.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ a
+4.004999160766602
+Context Tokens: 
+tensor([  2661,   4244,     13, 151645,    198, 151644,    872,    198,  37451,
+            11,  32584,     11,  11477, 151645,    198, 151644,  77091,    198,
+           785,  11477,    315,    279,  10963,  32584,   6311,    264,  12845,
+           429,  83361,   1506,   5019,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ given words.<|im_end|>
+<|im_start|>user
+magic, castle, king<|im_end|>
+<|im_start|>assistant
+The king of the magic castle cast a spell that mesmerized everyone.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ was
+3.9513356685638428
+Context Tokens: 
+tensor([  9245,    264,  11652,   1667,    279,   2661,    877,  33595,     13,
+        151645,    198, 151644,    872,    198,  19059,    389,  18636,    927,
+          6436, 151645,    198, 151644,  77091,    198,   7941,    572,  59399,
+           279,   5163,  11500,    773,  91385,    429,    432,    572,   1075,
+          1340,    572,  11435,    389,  18636,    927,   6436,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ construct a sentence using the given idiom.<|im_end|>
+<|im_start|>user
+walk on eggshells<|im_end|>
+<|im_start|>assistant
+She was navigating the office politics so cautiously that it was like she was walking on eggshells.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+ to
+3.9453656673431396
+Context Tokens: 
+tensor([  2701,  11652,    311,   1281,    432,    264,   4583,  11652,     13,
+        151645,    198, 151644,    872,    198,  42246,    264,   6672, 151645,
+           198, 151644,  77091,    198,     40,   1079,  10838,    311,   1281,
+           264,   6672,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ following sentence to make it a complete sentence.<|im_end|>
+<|im_start|>user
+Making a difference<|im_end|>
+<|im_start|>assistant
+I am determined to make a difference.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+'t
+3.9409468173980713
+Context Tokens: 
+tensor([  4244, 151645,    198, 151644,    872,    198,  15802,     11,   7015,
+            11,  32405, 151645,    198, 151644,  77091,    198,  15802,    279,
+          7015,    572,  47925,     11,    432,   2058,   5710,    944,   8205,
+          3322,    311,    728,   4889,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ words<|im_end|>
+<|im_start|>user
+Although, sun, shine<|im_end|>
+<|im_start|>assistant
+Although the sun was shining, it still wasn't warm enough to go outside.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ potentially
+3.9312384128570557
+Context Tokens: 
+tensor([   264,  11652,     13, 151645,    198, 151644,    872,    198,   4370,
+          5298,     11,  22977,     11,  49489,    367,     11,  11097, 151645,
+           198, 151644,  77091,    198,  33975,  22977,   1410,  13581,  49489,
+          5577,   1526,  18929,  33686,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a sentence.<|im_end|>
+<|im_start|>user
+genetic, beings, teleportation, Human<|im_end|>
+<|im_start|>assistant
+Human beings could potentially teleport themselves through genetic manipulation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

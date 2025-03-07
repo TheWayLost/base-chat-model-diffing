@@ -1,0 +1,473 @@
+Max Activation Value: 
+(30, 55, 81)
+ 
+
+0.1819317489862442
+Context Tokens: 
+tensor([    11,    220,     16,     15,     11,    220,     22, 151645,    198,
+        151644,  77091,    198,   2833,    315,  31423,    715,   9248,    715,
+            21,    310,    760,  31906,  15340,    715,   7360,    715,     23,
+           310,    760,  31906,  15340,    715,   7360,    715,     16,     15,
+          1843,    760,  31906,  15340,    715,   7360,    715,     22,    310,
+           760,  31906,  15340, 151645,    198, 151643])
+Decoded Text:
+, 10, 7<|im_end|>
+<|im_start|>assistant
+Number of flavors 
+ |
+ 
+6            | 
+ 
+---------- 
+|
+ 
+8            | 
+ 
+---------- 
+|
+ 
+10           | 
+ 
+---------- 
+|
+ 
+7            | 
+ 
+----------<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+|
+
+0.17543961107730865
+Context Tokens: 
+tensor([    23,     11,    220,     16,     15,     11,    220,     22, 151645,
+           198, 151644,  77091,    198,   2833,    315,  31423,    715,   9248,
+           715,     21,    310,    760,  31906,  15340,    715,   7360,    715,
+            23,    310,    760,  31906,  15340,    715,   7360,    715,     16,
+            15,   1843,    760,  31906,  15340,    715,   7360,    715,     22,
+           310,    760,  31906,  15340, 151645,    198])
+Decoded Text:
+8, 10, 7<|im_end|>
+<|im_start|>assistant
+Number of flavors 
+ |
+ 
+6            | 
+ 
+---------- 
+|
+ 
+8            | 
+ 
+---------- 
+|
+ 
+10           | 
+ 
+---------- 
+|
+ 
+7            | 
+ 
+----------<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ |
+
+0.16716401278972626
+Context Tokens: 
+tensor([   304,    264,   3553,     25,    220,     21,     11,    220,     23,
+            11,    220,     16,     15,     11,    220,     22, 151645,    198,
+        151644,  77091,    198,   2833,    315,  31423,    715,   9248,    715,
+            21,    310,    760,  31906,  15340,    715,   7360,    715,     23,
+           310,    760,  31906,  15340,    715,   7360,    715,     16,     15,
+          1843,    760,  31906,  15340,    715,   7360])
+Decoded Text:
+ in a store: 6, 8, 10, 7<|im_end|>
+<|im_start|>assistant
+Number of flavors 
+ |
+ 
+6            | 
+ 
+---------- 
+|
+ 
+8            | 
+ 
+---------- 
+|
+ 
+10           | 
+ 
+---------- 
+|
+
+---------------------------
+Max Activation Value: 
+(134, 159, 185)
+
+
+
+0.15757642686367035
+Context Tokens: 
+tensor([12140,  6513,  5267,    32,    13,  4509,  1000,   198,    33,    13,
+        31578, 19425,   198,    34,    13, 53270,   495,  1000,   198,    35,
+           13, 46583,   749,   495,  1000,   271,    20,    13,  3555,   525,
+          279,  1378,  1887, 13966, 29514,   525,  1865,   315,  5267,    32,
+           13, 31993,   323,  3015,   198,    33,    13, 22087,   323,  3015,
+          198])
+Decoded Text:
+ vertical growth?
+A. Stratus
+B. Cumulus
+C. Altostratus
+D. Nimbostratus
+
+5. What are the two main ingredients clouds are made of?
+A. Dust and water
+B. Wind and water
+
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+ non
+0.1482517570257187
+Context Tokens: 
+tensor([  2813,    429,   6696,   1182,    311,    279,   3942,    374,   5100,
+            13,   5100,    702,  33368,    916,    400,     16,   7094,  11192,
+           304,   8350,    323,   3162,    311,   8682,    323,   2477,   9838,
+         29222,   2163,    279,   1879,   2474,    220,     16,     24,     23,
+            18,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ company that gives back to the community is Microsoft. Microsoft has donated over $1 billion dollars in cash and software to schools and non-profits around the world since 1983.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+:
+0.14533768594264984
+Context Tokens: 
+tensor([ 1939, 95049,    25, 27553,    11,   537,  2238,  3873,    13,  2585,
+          911,   498,  1939,  1658,    25, 35316,  1661,    11,  1101, 21413,
+          419,  6233,  1899,   382, 95049,    25, 21607,    11,   432,   594,
+        23511,    13,  2055,    11,  1128,   653,   498,   653,   369,   264,
+         5382,  1939,  1658,    25,   358,  2776,   264,  3162, 23576,   382,
+        95049])
+Decoded Text:
+?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this beautiful day.
+
+Woman: Yeah, it's gorgeous. So, what do you do for a living?
+
+Man: I'm a software engineer.
+
+Woman
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+,
+
+
+0.13885389268398285
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   6524,    311,    697,   3853,
+           656,    220,     16,     15,   1635,    504,   1431,     13, 151645,
+           198, 151644,  77091,    198,  30665,   3853,    752,   3554,     40,
+          3900,    498,    525,   1632,    323,    518,    264,   1459,    304,
+          2272,    429,    498,    525,   6247,    323,  40734,     13,    358,
+          1079,   4378,    311,    498,    438,    264])
+Decoded Text:
+<|im_start|>system
+Write a letter to your future self 10 years from now.<|im_end|>
+<|im_start|>assistant
+Dear future me,
+
+I hope you are well and at a point in life that you are happy and fulfilled. I am writing to you as a
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+:
+0.13546840846538544
+Context Tokens: 
+tensor([  264,  3162, 23576,   382, 95049,    25, 45717,    11,   429, 10362,
+         2167, 26291,   382,  1658,    25, 21607,    11,   432,   374,    13,
+         3555,   911,   498,  1939, 95049,    25,   358,  2776,   264,  2213,
+         6916,    13,   358,  3270,   369,  5257, 13037,   323, 31847,   382,
+         1658,    25, 23931,    11,   429, 10362,  1075,   264,  2696,   315,
+         2464])
+Decoded Text:
+ a software engineer.
+
+Woman: Wow, that sounds really fascinating.
+
+Man: Yeah, it is. What about you?
+
+Woman: I'm a content writer. I write for various websites and magazines.
+
+Man: Cool, that sounds like a lot of fun
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ 
+0.13515998423099518
+Context Tokens: 
+tensor([   264,   5492,    304,    356,  17121,     13, 151645,    198, 151644,
+         77091,    198,  68043,    220,     16,    198,     34,    220,    479,
+           220,    434,    220,    356,    198,     33,  65468,    220,    434,
+           220,    479,    220,    356,    271,   1143,  29869,    198,     34,
+           220,    479,    220,    362,  13398,    269,    220,    434,    198,
+            34,    220,    479,    220,    362,  13398])
+Decoded Text:
+ a song in C Major.<|im_end|>
+<|im_start|>assistant
+Verse 1
+C  G  F  C
+B-flat  F  G  C
+
+Chorus
+C  G  A-minor  F
+C  G  A-min
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ about
+0.1336923986673355
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3669,  31163,    911,  13923,
+         41587,    264,    501,   1616,    311,   4240,  53180,     13, 151645,
+           198, 151644,  77091,    198,  71226,   7379,  66579,   6730,    311,
+          9590,    506,  42220,      0, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Write a news headline about scientists discovering a new way to clean oceans.<|im_end|>
+<|im_start|>assistant
+Scientists Find Revolutionary Method to Clean Oceans!<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(99, 124, 150)
+
+
+
+0.13039569556713104
+Context Tokens: 
+tensor([23522, 20332,  5267,    32,    13,  4509,  1000,   198,    33,    13,
+        53270,   495,  1000,   198,    34,    13, 31578, 19425,   198,    35,
+           13, 46583,   749,   495,  1000,   271,    19,    13, 15920,   943,
+          315,  9437,   702,   279, 81617, 12140,  6513,  5267,    32,    13,
+         4509,  1000,   198,    33,    13, 31578, 19425,   198,    34,    13,
+        53270])
+Decoded Text:
+ cotton balls?
+A. Stratus
+B. Altostratus
+C. Cumulus
+D. Nimbostratus
+
+4. Which type of cloud has the tallest vertical growth?
+A. Stratus
+B. Cumulus
+C. Alto
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+:
+0.12937386333942413
+Context Tokens: 
+tensor([   30,  4710, 12792,    25,   358,  4172,  1075,   311,  1973,   264,
+         3460, 24353, 20783, 22502,   382, 15672,  6331,    25,  8513,     0,
+         5765,  4960, 89671,  1939, 12792,    25,  2980,   358,   912, 47151,
+         1939, 15672,  6331,    25, 22555,  3166,   481,   264,  3460, 24353,
+        20783, 22502,   448, 47151,    13, 40933,   770,    30,  4710, 12792,
+           25])
+Decoded Text:
+? 
+
+Customer: I'd like to order a large pepperoni pizza.
+
+Chatbot: Great! Any extra toppings?
+
+Customer: Can I add mushrooms?
+
+Chatbot: Sure thing - a large pepperoni pizza with mushrooms. Anything else? 
+
+Customer:
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ do
+0.1269000917673111
+Context Tokens: 
+tensor([  374,   279,  1850,  2311,   498,   614,  3512,  1349,    30,   715,
+           12,  3555,  1035,   498,   653,   421,   498,  1030,   264,  3526,
+        11192,    30,   715,    12,  3555,   653,   498,  1401,   369,   304,
+          264,  8263,    30,   715,    12,  3555,  6931,  1035,   498,  1075,
+          311, 22729,    30,   715,    12,  3555,   374,   279,  1850,  6573,
+          315])
+Decoded Text:
+ is the best book you have ever read? 
+- What would you do if you had a million dollars? 
+- What do you look for in a partner? 
+- What career would you like to pursue? 
+- What is the best piece of
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ on
+0.12660224735736847
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    220,     16,   1331,  18380,
+         12126,    389,    279,   2701,   3669,   4549,     13, 151645,    198,
+        151644,    872,    198,    785,  26194,  24900,  11610,    686,    387,
+         61620,    311,    220,     17,     15,     17,     16,   4152,    311])
+Decoded Text:
+<|im_start|>system
+Generate a 1-sentence summary on the following news article.<|im_end|>
+<|im_start|>user
+The Tokyo Olympic Games will be postponed to 2021 due to
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+ 
+
+0.12447269260883331
+Context Tokens: 
+tensor([   220,     23,     11,    220,     16,     15,     11,    220,     22,
+        151645,    198, 151644,  77091,    198,   2833,    315,  31423,    715,
+          9248,    715,     21,    310,    760,  31906,  15340,    715,   7360,
+           715,     23,    310,    760,  31906,  15340,    715,   7360,    715,
+            16,     15,   1843,    760,  31906,  15340,    715,   7360,    715,
+            22,    310,    760,  31906,  15340, 151645])
+Decoded Text:
+ 8, 10, 7<|im_end|>
+<|im_start|>assistant
+Number of flavors 
+ |
+ 
+6            | 
+ 
+---------- 
+|
+ 
+8            | 
+ 
+---------- 
+|
+ 
+10           | 
+ 
+---------- 
+|
+ 
+7            | 
+ 
+----------<|im_end|>
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+
+
+
+0.122017040848732
+Context Tokens: 
+tensor([  448,   264, 11174, 17196,  5267,    32,    13, 31578, 19425,   198,
+           33,    13,  4509,  1000,   198,    34,    13, 40909, 20341,   198,
+           35,    13, 53270,   495,  1000,   271,    18,    13, 15920,   943,
+          315,  9437,   374,  3545,  7481,   438,  3330,  1075,   264, 26306,
+          315, 23522, 20332,  5267,    32,    13,  4509,  1000,   198,    33,
+           13])
+Decoded Text:
+ with a rain shower?
+A. Cumulus
+B. Stratus
+C. Cirrus
+D. Altostratus
+
+3. Which type of cloud is often described as looking like a pile of cotton balls?
+A. Stratus
+B.
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+,
+0.12019018828868866
+Context Tokens: 
+tensor([   304,    279,   6797,    349,  13638,  83610,     13, 151645,    198,
+        151644,  77091,    198,    785,   6797,    349,  13638,  83610,  11449,
+          3040,  12460,  15584,    313,  29223,     11,   7324,     11,  41674,
+            11,    323,  12406,     13,  11954,    279,  10464,     11,    279,
+          9104,    374,  11136,   8205,     11,  62757,     11,    323,  23034,
+            13,    576,   7324,  12434,   4017,  19879])
+Decoded Text:
+ in the temperate forest biome.<|im_end|>
+<|im_start|>assistant
+The temperate forest biome experiences four distinct seasons--spring, summer, autumn, and winter. During the spring, the weather is typically warm, rainy, and mild. The summer brings hot temperatures
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ Non
+0.11939607560634613
+Context Tokens: 
+tensor([  2519,  10561,     69,   2519, 151645,    198, 151644,  77091,    198,
+          2476,     16,     25,  15633,    821,    198,   2476,     17,     25,
+         62797,    938,    821,    198,   2476,     18,     25,  11581,  18779,
+         18485,    938,    821, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+jsklfjs<|im_end|>
+<|im_start|>assistant
+Label1: Character data
+Label2: Alphabetical data
+Label3: Non-alphabetical data<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(234, 259, 285)
+ World
+0.11856125295162201
+Context Tokens: 
+tensor([    13,    715,   6667,    576,   3639,   4180,  21025,    279,  24510,
+         32506,    389,  56292,  91477,    323,  29062,  56409,     13,    715,
+          6667,   6323,  24165,    303,    388,     11,  13391,   4337,   5004,
+          7946,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+. 
+• The United States drops the atomic bombs on Hiroshima and Nagasaki. 
+• Japan surrenders, ending World War II.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ |
+0.11810292303562164
+Context Tokens: 
+tensor([  4115,    510,  10680,    362,     25,    220,     21,    198,  10680,
+           425,     25,    220,     22,    198,  10680,    356,     25,    220,
+            23, 151645,    198, 151644,  77091,    198,  10680,    760,  21045,
+           315,  23774,    320,    258,   4115,    340,  16565,     91,    771,
+         14328,     32,    257,    760,    220,     21,    715,     33,    257,
+           760,    220,     22,    715,     34,    257])
+Decoded Text:
+ hours:
+Person A: 6
+Person B: 7
+Person C: 8<|im_end|>
+<|im_start|>assistant
+Person | Duration of Sleep (in hours)
+------|--------------------------
+A     | 6 
+B     | 7 
+C    
+---------------------------

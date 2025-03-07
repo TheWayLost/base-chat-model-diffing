@@ -1,0 +1,351 @@
+Max Activation Value: 
+(106, 131, 157)
+ after
+3.9744679927825928
+Context Tokens: 
+tensor([ 29338,    311,  14298,    624,     22,     13,  34006,   1667,    650,
+         83837,  11348,  20118,    624,     23,     13,  43438,   2989,   3542,
+         13814,    624,     24,     13,  23240,   1487,    700,   1283,   1667,
+           697,  20638,    624,     16,     15,     13,  14695,   5274,    432,
+           650,  84906,    304,    584,    476,  35618,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ responding to emails.
+7. Avoid using untrusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(146, 171, 197)
+ at
+3.7192108631134033
+Context Tokens: 
+tensor([  323,  2331,   697, 29587,  1140,   389,   279, 20969,    13,   715,
+           12,  9129,  3607, 12440,   311,  7949, 64793,   424,   624,    12,
+         7405,  2704,   697, 37581,   374,   518,   279,  1290,  9315,   624,
+           12, 12243,   264,  1849,   311,  3754, 92167,   304,   279, 37581,
+           13,   715,    12, 44514,   678, 66640,  5479,   315,  3607,    11,
+         2670])
+Decoded Text:
+ and base your grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the fridge. 
+- Eat all edible parts of food, including
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+ temperature
+3.702059507369995
+Context Tokens: 
+tensor([29587,  1140,   389,   279, 20969,    13,   715,    12,  9129,  3607,
+        12440,   311,  7949, 64793,   424,   624,    12,  7405,  2704,   697,
+        37581,   374,   518,   279,  1290,  9315,   624,    12, 12243,   264,
+         1849,   311,  3754, 92167,   304,   279, 37581,    13,   715,    12,
+        44514,   678, 66640,  5479,   315,  3607,    11,  2670, 43714,   323,
+        49950])
+Decoded Text:
+ grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the fridge. 
+- Eat all edible parts of food, including stems and skins
+---------------------------
+Max Activation Value: 
+(148, 173, 199)
+ right
+3.701601266860962
+Context Tokens: 
+tensor([  697, 29587,  1140,   389,   279, 20969,    13,   715,    12,  9129,
+         3607, 12440,   311,  7949, 64793,   424,   624,    12,  7405,  2704,
+          697, 37581,   374,   518,   279,  1290,  9315,   624,    12, 12243,
+          264,  1849,   311,  3754, 92167,   304,   279, 37581,    13,   715,
+           12, 44514,   678, 66640,  5479,   315,  3607,    11,  2670, 43714,
+          323])
+Decoded Text:
+ your grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the fridge. 
+- Eat all edible parts of food, including stems and
+---------------------------
+Max Activation Value: 
+(147, 172, 198)
+ the
+3.682264804840088
+Context Tokens: 
+tensor([ 2331,   697, 29587,  1140,   389,   279, 20969,    13,   715,    12,
+         9129,  3607, 12440,   311,  7949, 64793,   424,   624,    12,  7405,
+         2704,   697, 37581,   374,   518,   279,  1290,  9315,   624,    12,
+        12243,   264,  1849,   311,  3754, 92167,   304,   279, 37581,    13,
+          715,    12, 44514,   678, 66640,  5479,   315,  3607,    11,  2670,
+        43714])
+Decoded Text:
+ base your grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the fridge. 
+- Eat all edible parts of food, including stems
+---------------------------
+Max Activation Value: 
+(40, 65, 91)
+ changed
+3.6078882217407227
+Context Tokens: 
+tensor([  6514,    315,  11931,     11,  39482,    323,  42047,  11931,     11,
+          5109,     11,    323,  17738,     11,    323,    374,   4911,    311,
+           279,   2473,     13,   1084,   1265,   1083,    387,   5497,  15502,
+           311,   1492,   5978,    279,   8426,   2188,    315,   4763,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ mix of letters, uppercase and lowercase letters, numbers, and symbols, and is unique to the service. It should also be changed regularly to help ensure the highest level of security.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(119, 144, 170)
+ in
+3.5243632793426514
+Context Tokens: 
+tensor([    23,     13,  43438,   2989,   3542,  13814,    624,     24,     13,
+         23240,   1487,    700,   1283,   1667,    697,  20638,    624,     16,
+            15,     13,  14695,   5274,    432,    650,  84906,    304,    584,
+           476,  35618,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(118, 143, 169)
+ while
+3.522885322570801
+Context Tokens: 
+tensor([   803,  11050,   2114,    323,   7949,   4802,  10431,     13,  17375,
+            11,  66705,  56569,    389,   4802,  28611,    323,  10018,  25785,
+            11,   1741,    438,  13054,   1007,    279,  15239,   1393,  76726,
+           825,    594,  17832,    323,  27686,  15097,    304,   9255,   3015,
+            11,    646,   1083,   1492,   7949,   4802,  15293,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ more efficient home and reduce energy usage. Finally, educating oneself on energy conservation and changing habits, such as turning off the tap while brushing one's teeth and washing clothes in cold water, can also help reduce energy consumption.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(116, 141, 167)
+ it
+3.4965407848358154
+Context Tokens: 
+tensor([ 11348,  20118,    624,     23,     13,  43438,   2989,   3542,  13814,
+           624,     24,     13,  23240,   1487,    700,   1283,   1667,    697,
+         20638,    624,     16,     15,     13,  14695,   5274,    432,    650,
+         84906,    304,    584,    476,  35618,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(145, 170, 196)
+ is
+3.4264190196990967
+Context Tokens: 
+tensor([11912,   323,  2331,   697, 29587,  1140,   389,   279, 20969,    13,
+          715,    12,  9129,  3607, 12440,   311,  7949, 64793,   424,   624,
+           12,  7405,  2704,   697, 37581,   374,   518,   279,  1290,  9315,
+          624,    12, 12243,   264,  1849,   311,  3754, 92167,   304,   279,
+        37581,    13,   715,    12, 44514,   678, 66640,  5479,   315,  3607,
+           11])
+Decoded Text:
+ advance and base your grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the fridge. 
+- Eat all edible parts of food,
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ all
+3.4244887828826904
+Context Tokens: 
+tensor([ 14762,     13, 151645,    198, 151644,  77091,    198,  37095,  11369,
+          6078,    369,    518,   3245,    220,     17,     15,   6486,    448,
+         26785,    323,   8205,   3015,     13,  32134,    392,    678,   5671,
+           315,    279,   6078,    323,   1948,    279,  19225,     13,  57368,
+           325,    323,   9058,   6078,   6587,    448,    264,   4240,   5567,
+         42613,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ technique.<|im_end|>
+<|im_start|>assistant
+Always wash hands for at least 20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers. Rinse and dry hands completely with a clean paper towel.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(99, 124, 150)
+ frequently
+3.4098567962646484
+Context Tokens: 
+tensor([  5443,  27830,    979,  18458,    389,   7746,    476,  29338,    311,
+         14298,    624,     22,     13,  34006,   1667,    650,  83837,  11348,
+         20118,    624,     23,     13,  43438,   2989,   3542,  13814,    624,
+            24,     13,  23240,   1487,    700,   1283,   1667,    697,  20638,
+           624,     16,     15,     13,  14695,   5274,    432,    650,  84906,
+           304,    584,    476,  35618,     13, 151645])
+Decoded Text:
+ Use caution when clicking on links or responding to emails.
+7. Avoid using untrusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ least
+3.379196882247925
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   5912,    369,   6169,   1424,
+          2630,  19049,  14762,     13, 151645,    198, 151644,  77091,    198,
+         37095,  11369,   6078,    369,    518,   3245,    220,     17,     15,
+          6486,    448,  26785,    323,   8205,   3015,     13,  32134,    392,
+           678,   5671,    315,    279,   6078,    323,   1948,    279,  19225,
+            13,  57368,    325,    323])
+Decoded Text:
+<|im_start|>system
+Create a rule for proper hand-washing technique.<|im_end|>
+<|im_start|>assistant
+Always wash hands for at least 20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers. Rinse and
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ leaving
+3.3603551387786865
+Context Tokens: 
+tensor([151644,  77091,    198,  37020,   5510,    311,   7949,   4802,  15293,
+          2924,     25,  83845,  35268,  14346,   7611,    979,    537,    304,
+           990,     26,  13054,   1007,    279,  12711,    979,   9380,    264,
+          3054,     26,  27765,    311,  13113,    476,  96316,   3100,  16110,
+          1279,     26,  26632,  11379,   1737,  13176,    287,   3100,  31167,
+            26,    323,   1667,   5810,   3100,   1526])
+Decoded Text:
+<|im_start|>assistant
+Five ways to reduce energy consumption include: unplugging electronic devices when not in use; turning off the lights when leaving a room; switching to LED or CFL lightbulbs; installing motion-detecting light switches; and using natural light through
+---------------------------
+Max Activation Value: 
+(134, 159, 185)
+ correctly
+3.3570070266723633
+Context Tokens: 
+tensor([ 6133,   323,  3800,   911,  3607, 12291,   624,    12,  9680, 20969,
+          304, 11912,   323,  2331,   697, 29587,  1140,   389,   279, 20969,
+           13,   715,    12,  9129,  3607, 12440,   311,  7949, 64793,   424,
+          624,    12,  7405,  2704,   697, 37581,   374,   518,   279,  1290,
+         9315,   624,    12, 12243,   264,  1849,   311,  3754, 92167,   304,
+          279])
+Decoded Text:
+ yourself and others about food waste.
+- Plan meals in advance and base your grocery list on the meals. 
+- Store food correctly to reduce spoilage.
+- Make sure your fridge is at the right temperature.
+- Have a system to track leftovers in the
+---------------------------
+Max Activation Value: 
+(115, 140, 166)
+ leave
+3.3411688804626465
+Context Tokens: 
+tensor([ 83837,  11348,  20118,    624,     23,     13,  43438,   2989,   3542,
+         13814,    624,     24,     13,  23240,   1487,    700,   1283,   1667,
+           697,  20638,    624,     16,     15,     13,  14695,   5274,    432,
+           650,  84906,    304,    584,    476,  35618,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+trusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(118, 143, 169)
+attended
+3.3252103328704834
+Context Tokens: 
+tensor([   624,     23,     13,  43438,   2989,   3542,  13814,    624,     24,
+            13,  23240,   1487,    700,   1283,   1667,    697,  20638,    624,
+            16,     15,     13,  14695,   5274,    432,    650,  84906,    304,
+           584,    476,  35618,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(104, 129, 155)
+ log
+3.313343048095703
+Context Tokens: 
+tensor([  7746,    476,  29338,    311,  14298,    624,     22,     13,  34006,
+          1667,    650,  83837,  11348,  20118,    624,     23,     13,  43438,
+          2989,   3542,  13814,    624,     24,     13,  23240,   1487,    700,
+          1283,   1667,    697,  20638,    624,     16,     15,     13,  14695,
+          5274,    432,    650,  84906,    304,    584,    476,  35618,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ links or responding to emails.
+7. Avoid using untrusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+ out
+3.2715837955474854
+Context Tokens: 
+tensor([   476,  29338,    311,  14298,    624,     22,     13,  34006,   1667,
+           650,  83837,  11348,  20118,    624,     23,     13,  43438,   2989,
+          3542,  13814,    624,     24,     13,  23240,   1487,    700,   1283,
+          1667,    697,  20638,    624,     16,     15,     13,  14695,   5274,
+           432,    650,  84906,    304,    584,    476,  35618,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ or responding to emails.
+7. Avoid using untrusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(117, 142, 168)
+ un
+3.2567121982574463
+Context Tokens: 
+tensor([ 20118,    624,     23,     13,  43438,   2989,   3542,  13814,    624,
+            24,     13,  23240,   1487,    700,   1283,   1667,    697,  20638,
+           624,     16,     15,     13,  14695,   5274,    432,    650,  84906,
+           304,    584,    476,  35618,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it unattended in public or unlocked.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

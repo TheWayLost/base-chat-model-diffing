@@ -1,0 +1,747 @@
+Max Activation Value: 
+(49, 74, 100)
+<|endoftext|>
+0.20203585922718048
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+<|endoftext|>
+0.188469797372818
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(171, 196, 222)
+<|endoftext|>
+0.18586567044258118
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(349, 374, 400)
+<|endoftext|>
+0.18552961945533752
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(141, 166, 192)
+<|endoftext|>
+0.18518157303333282
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(121, 146, 172)
+<|endoftext|>
+0.1844705492258072
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+<|endoftext|>
+0.18431653082370758
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+.
+0.18069304525852203
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   3119,    369,   1667,    825,
+          6460,   1985,   3132,     13, 151645,    198, 151644,  77091,    198,
+         20485,    369,   5643,    533,  30833,    510,     16,     13,    220,
+            16,     15,   4420,     25,   2573,    264,   5795,    369,    279,
+          6460,    323])
+Decoded Text:
+<|im_start|>system
+Create a plan for using one hour productively.<|im_end|>
+<|im_start|>assistant
+Plan for Productive Hour:
+1. 10 minutes: Set a goal for the hour and
+---------------------------
+Max Activation Value: 
+(147, 172, 198)
+<|endoftext|>
+0.17565636336803436
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+<|endoftext|>
+0.17089387774467468
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(161, 186, 212)
+<|endoftext|>
+0.1707724779844284
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+ges
+0.1693735271692276
+Context Tokens: 
+tensor([ 4510, 86373,   553, 14376,  3460, 43916, 10010,   504, 14046, 36865,
+         4019,   323, 42376,   323, 32410,  1105,  1119,  1992,   448,   279,
+         1492,   315, 34326,  6188, 94412,  4188,    11, 63946,    11,   323,
+        22360,   512,  3004,    13,  2379,  1083,  1483,  7737, 47679,    11,
+          512,  3004,    11,   323,   264,  1849,   315,  5546, 13327,   311,
+         4828])
+Decoded Text:
+ pyramids by cutting large limestone blocks from nearby quarries and dragging and lifting them into place with the help of specially designed sledges, ropes, and wooden levers. They also used pulleys, levers, and a system of counterweights to raise
+---------------------------
+Max Activation Value: 
+(174, 199, 225)
+<|endoftext|>
+0.16797833144664764
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(173, 198, 224)
+<|endoftext|>
+0.16767087578773499
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(216, 241, 267)
+<|endoftext|>
+0.16750134527683258
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ squared
+0.16647547483444214
+Context Tokens: 
+tensor([  738,   315,  1946,  7332,    13,   758,   419,  1614,    11,   264,
+         1555,   374, 28341,   311,   264,   738,   315,   821,  3501,  1741,
+          429,   279,  2629,   315,   279, 52263,  6010,   315,   279,   821,
+         3501,   504,   279,  1555,   374, 81078,    13,  1096,  1555,   315,
+         1850,  4946,   646,  1221,   387,  1483,   311, 16045,   279,   897,
+          315])
+Decoded Text:
+ set of input variables. In this model, a line is fitted to a set of data points such that the sum of the squared distance of the data points from the line is minimized. This line of best fit can then be used to estimate the value of
+---------------------------
+Max Activation Value: 
+(165, 190, 216)
+<|endoftext|>
+0.16590383648872375
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ born
+0.1650771051645279
+Context Tokens: 
+tensor([   264,   2805,   3364,    448,    458,  16500,  26646,     13, 151645,
+           198, 151644,  77091,    198,  11095,   3001,    572,    264,   5220,
+           315,  27712,  13143,     11,   1340,   1030,   1012,   9223,    448,
+           458,  46925,    287,    323,  35201,   3579,    429,   1410,  83361,
+           551,   5489,   1340,   3697,   3941,     13,  97225,   1340,   3937,
+            11,   1340,    572,  22865,    553,  62598])
+Decoded Text:
+ a short story with an unexpected twist.<|im_end|>
+<|im_start|>assistant
+Monica was a woman of legendary beauty, she had been born with an enchanting and delicate face that could mesmerize anyone she came across. Everywhere she went, she was surrounded by admir
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ is
+0.1641913205385208
+Context Tokens: 
+tensor([ 5636,    13,  1084,  5707,   264, 16710,  1616,   311,  6757,  7611,
+          304,   279,  1803,    11, 39499,   279,  1184,   369,   458,  4960,
+         2355, 26389,    13,   576, 44569,   374, 16830,   323, 29144,    11,
+         3259,   432,  4135,   311,  3553,   323,  7557,    13, 22827,    11,
+          279,  3349,   315, 11348,  1803,  5597,   388,   374,  5990,  5008,
+        16637])
+Decoded Text:
+ road. It provides a convenient way to charge devices in the car, eliminating the need for an extra power outlet. The charger is compact and lightweight, making it easy to store and transport. Moreover, the price of USB car chargers is usually quite affordable
+---------------------------
+Max Activation Value: 
+(55, 80, 106)
+ a
+0.16317611932754517
+Context Tokens: 
+tensor([151644,  77091,    198,  20470,   7274,    374,    264,  11521,   1882,
+           429,   4990,  38110,   1119,  17879,    323,  26643,    389,   5440,
+           311,   1492,  11625,   5322,     13,   1084,    374,    264,   1196,
+         64424,   5486,    429,  23497,    389,  31045,   6849,  19554,     13,
+          1084,  33644,    389,    279,  14692,    594,  65894,    311,  31072,
+          1251,    594,   3880,     11,   5440,    594])
+Decoded Text:
+<|im_start|>assistant
+Design thinking is a creative process that takes stakeholders into consideration and draws on technology to help solve problems. It is a user-centric approach that focuses on achieving successful outcomes. It relies on the designer's toolkit to integrate people's needs, technology's
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+.
+0.16242922842502594
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,   4549,     11,  62079,   1181,
+          1887,   3501,    304,    220,     16,     15,     15,    289,    299,
+          5356,     13, 151645,    198, 151644,    872,    198,    641,    220,
+            17,     15,     16,     16,     11,    279,   3639,  19140,  14275,
+           429,   3015,    323,  76523,    525,   3738,   3188,     13,   1096])
+Decoded Text:
+<|im_start|>system
+Given a article, summarize its main points in 100 wrods.<|im_end|>
+<|im_start|>user
+In 2011, the United Nations declared that water and sanitation are human rights. This
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+
+
+0.16089709103107452
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    220,     20,  12538,    369,   7373,
+           882,   6240,     13, 151645,    198, 151644,  77091,    198,     16,
+            13,   2573,  25489,   8845,     25,  39398,  88153,   8845,    323,
+         25489,  87144,    369,  26568,   1105,    624,     17,     13,  31399,
+         26310,   9079,     25])
+Decoded Text:
+<|im_start|>system
+Name 5 techniques for effective time management.<|im_end|>
+<|im_start|>assistant
+1. Set realistic goals: Establish achievable goals and realistic timelines for completing them.
+2. Prioritize tasks:
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+
+
+0.16087095439434052
+Context Tokens: 
+tensor([  6891,    323,   7428,    315,   2176,   9677,    527,  29155,     11,
+           438,   1632,    438,  14838,    894,  60813,    323,  57065,    315,
+          2176,   9677,     13, 151645,    198, 151644,  77091,    198,  24973,
+           264,   5116,   7460,  17879,    315,   3807,   5777,  16170,     13,
+          1084,    374,   2989,    311,   6979,    279,   6891,    323,   7428,
+           315,   2176,   9677,    527,  29155,     11])
+Decoded Text:
+ scope and purpose of both parties’ obligations, as well as listing any warranties and liabilities of both parties.<|im_end|>
+<|im_start|>assistant
+Creating a contract requires consideration of several legal principles. It is important to define the scope and purpose of both parties’ obligations,
+---------------------------
+Max Activation Value: 
+(276, 301, 327)
+<|endoftext|>
+0.16009922325611115
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(112, 137, 163)
+<|endoftext|>
+0.15937931835651398
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+
+
+
+
+
+Max Activation Value: 
+(45, 70, 96)
+,
+0.36348453164100647
+Context Tokens: 
+tensor([  9492,   2924,    279,    366,   1983,     29,   4772,     11,    279,
+           366,   2599,     29,   4772,     11,    323,    279,    366,   2102,
+            29,   4772,     13,   6944,   5424,   2924,   8201,     11,    892,
+          3410,   5107,   1995,    911,    279,   2392,    594,   6993,    323,
+          2213,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ tags include the <head> tag, the <body> tag, and the <title> tag. Other elements include attributes, which provide additional information about the element's nature and content.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+ March
+0.34653326869010925
+Context Tokens: 
+tensor([   355,  25442,   9156,   5724,  70856,    323,  35683,  11782,   9156,
+         70725,    355,     11,    304,    279,   9891,   4678,    389,    279,
+          5223,    288,    315,   5470,    320,     16,     20,   5470,      8,
+           315,    220,     19,     19,  18040,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+us Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+2
+0.34477466344833374
+Context Tokens: 
+tensor([ 10380,    705,    279,  49837,   1459,    315,   3015,     13, 151645,
+           198, 151644,  77091,    198,    785,  49837,   1459,    315,   3015,
+           374,    220,     16,     15,     15,  30937,    320,     17,     16,
+            17,  58472,    701,    518,   5297,  44375,   7262,     13,   3197,
+         31713,    518,   5080,  39750,     11,   3015,    594,  49837,   1459,
+         12703,     13,   1752,   3110,     11,   3015])
+Decoded Text:
+Look up the boiling point of water.<|im_end|>
+<|im_start|>assistant
+The boiling point of water is 100°C (212°F), at standard atmospheric pressure. When heated at higher pressures, water's boiling point increases. For example, water
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ liberty
+0.3377765417098999
+Context Tokens: 
+tensor([  279, 16533, 11137,   315,   279, 92474,  1033,  5008,  2155,    13,
+          576,  8585, 22126,   572, 16227, 13771,   553,  3590,   323,  6955,
+        92234,   323,   264, 12591,   369, 30120,    11, 19853,   279,  3693,
+        22126,   572, 13771, 16227,   553,   264,  5530,   315, 50115,  5815,
+          448, 36583,  5912,   323, 50627,    13, 11733, 92474,  7117,   911,
+        27155])
+Decoded Text:
+ the underlying causes of the revolutions were quite different. The French Revolution was driven largely by social and economic inequalities and a desire for liberty, whereas the American Revolution was largely driven by a sense of injustice associated with colonial rule and taxation. Both revolutions brought about profound
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+,
+0.33684441447257996
+Context Tokens: 
+tensor([    15,     15,  16539,    323,    458,   2734,   4379,    315,    220,
+            21,  13384,  87324,  29071, 151645,    198, 151644,  77091,    198,
+          1655,    279,    835,    315,   1042,    220,     16,     11,    279,
+          3311,    304,    279,   6073,   2692,   1035,    387,    400,     16,
+            15,     21,     13,    758,   1042,    220,     17,     11,    279,
+          3311,   1035,    387,    400,     16,     16])
+Decoded Text:
+00 deposit and an interest rate of 6%, compounded annually<|im_end|>
+<|im_start|>assistant
+At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $11
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+<|endoftext|>
+0.3295156955718994
+Context Tokens: 
+tensor([ 50437,  12884,    773,  12767,    345,  74676,   9759,    304,  21162,
+          4384,  35144,    345,   5050,   4746,    773,   1561,    448,  15888,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Night sky so vast,
+Bright stars in silence twinkle,
+My heart soars with joy.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(350, 375, 401)
+<|endoftext|>
+0.31752991676330566
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(41, 66, 92)
+2
+0.3160892724990845
+Context Tokens: 
+tensor([ 5080, 39750,    11,  3015,   594, 49837,  1459, 12703,    13,  1752,
+         3110,    11,  3015,   686, 43690,   518,   264,  9315,   315,   220,
+           16,    16,    20, 30937,   320,    17,    18,    24, 58472,     8,
+          518,   458, 44375,  7262,   315,   220,    16,  3619,    13,  2411,
+         5080, 39750,    11,  1741,   438,  1846, 10321,   518,   279,  5622,
+          315])
+Decoded Text:
+ higher pressures, water's boiling point increases. For example, water will boil at a temperature of 115°C (239°F) at an atmospheric pressure of 1 bar. At higher pressures, such as those experienced at the bottom of
+---------------------------
+Max Activation Value: 
+(86, 111, 137)
+7
+0.3152600824832916
+Context Tokens: 
+tensor([  1846,  10321,    518,    279,   5622,    315,    279,  17951,     11,
+           279,  49837,   1459,    315,   3015,    646,    387,    438,   1550,
+           438,    220,     18,     22,     19,  30937,    320,     22,     15,
+            20,  58472,    568, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ those experienced at the bottom of the ocean, the boiling point of water can be as high as 374°C (705°F).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ guidance
+0.31464865803718567
+Context Tokens: 
+tensor([77091,   198, 37332, 11129,  3118,  8357,   646,   387,  1483,   304,
+          264,  8045,   315,  6457,  8357,    11,   504,  8457, 22982,   323,
+         6380,   311, 33833,   323, 31658, 18821,    13, 17407, 11129,   646,
+          387,  1483,   304,  6457, 31658,    11,  1741,   438,   304, 62655,
+         1800,   263,   681, 64506,   320, 78670,     8,   323,  1198, 19292,
+         8364])
+Decoded Text:
+assistant
+Computer vision based applications can be used in a variety of medical applications, from disease diagnosis and treatment to surgical and imaging guidance. Computer vision can be used in medical imaging, such as in Magnetic Resonance Imaging (MRI) and Computed Tom
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+�
+0.3101712763309479
+Context Tokens: 
+tensor([ 99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,
+         99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,
+         99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,  99, 136,
+         99, 136,  99, 136,  99, 136,  99, 136,  99])
+Decoded Text:
+�̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦̦
+---------------------------
+Max Activation Value: 
+(37, 62, 88)
+)
+0.3076196312904358
+Context Tokens: 
+tensor([ 25442,   9156,   5724,  70856,    323,  35683,  11782,   9156,  70725,
+           355,     11,    304,    279,   9891,   4678,    389,    279,   5223,
+           288,    315,   5470,    320,     16,     20,   5470,      8,    315,
+           220,     19,     19,  18040,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ for
+0.3044305741786957
+Context Tokens: 
+tensor([  8948,    198,  20470,    264,   7149,   3119,    369,   8682,    304,
+           279,   1538,    315,    458,  17445,  10582,  32619,     13, 151645,
+           198, 151644,  77091,    198,     32,   7149,   3119,    369,   8682,
+           304,    279,   1538,    315,    458,  17445,  10582,  32619,   1265,
+          2924,   7354,    369,   5570,    323,   4143,    311,   1896,   1573,
+            11,   2337,     11,    323,   1283,    458])
+Decoded Text:
+system
+Design a safety plan for schools in the event of an armed intruder.<|im_end|>
+<|im_start|>assistant
+A safety plan for schools in the event of an armed intruder should include steps for staff and students to take before, during, and after an
+---------------------------
+Max Activation Value: 
+(190, 215, 241)
+<|endoftext|>
+0.29625770449638367
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(93, 118, 144)
+<|endoftext|>
+0.29452529549598694
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+<|endoftext|>
+0.2905076742172241
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+ and
+0.2901982367038727
+Context Tokens: 
+tensor([  323,  4228,  2820,  4682,    11,  3410, 70023,  2453,    11,   323,
+        40903,  6457, 15966,    13, 53843,   686,  3545,  8498,   448,  1008,
+        18478, 15387,  1741,   438, 36365,   323, 34316,  1573,  3259,   264,
+        22982,   476, 88344,   264,  6380,    13,  2379,   525,  1083, 50820,
+          448, 66705,  6835,   389,   279, 15276,   323,  7567,   315,   862,
+        22183])
+Decoded Text:
+ and treat health conditions, provide preventive care, and oversee medical procedures. Doctors will often consult with other healthcare professionals such as nurses and specialists before making a diagnosis or prescribing a treatment. They are also tasked with educating patients on the risks and benefits of their treatments
+---------------------------
+Max Activation Value: 
+(42, 67, 93)
+<|endoftext|>
+0.289356529712677
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(55, 80, 106)
+<|endoftext|>
+0.288324236869812
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ for
+0.28790438175201416
+Context Tokens: 
+tensor([   198,  27374,    323,  12872,    279,  12783,    315,    458,  71046,
+           323,    264,  35938,     13, 151645,    198, 151644,  77091,    198,
+         97882,   2973,    323,  18761,    525,   2176,   8480,    369,   3259,
+         11181,    429,  10173,    279,   6305,    315,   3800,     13,   4354,
+            11,    862,  12783,    323,  19827,    311,   5480,  27746,   3545,
+          1745,  11941,     13,   4710,    785,   1887])
+Decoded Text:
+
+Compare and contrast the roles of an educator and a politician.<|im_end|>
+<|im_start|>assistant
+Educators and politicians are both responsible for making decisions that influence the lives of others. However, their roles and approaches to decision-making often differ significantly. 
+
+The main
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+<|endoftext|>
+0.28770774602890015
+Context Tokens: 
+tensor([  5263,   6961,   5702,   5866,    624,     12,  11778,   9423,    315,
+          7963,  82443,   3516,    311,   8722,   2615,    311,   2820,   9462,
+           504,   8699,  10468,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ increase physical activity levels.
+- Take advantage of telemedicine services to gain access to health advice from remote locations.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ attributes
+0.28542232513427734
+Context Tokens: 
+tensor([   315,   9492,   2924,    279,    366,   1983,     29,   4772,     11,
+           279,    366,   2599,     29,   4772,     11,    323,    279,    366,
+          2102,     29,   4772,     13,   6944,   5424,   2924,   8201,     11,
+           892,   3410,   5107,   1995,    911,    279,   2392,    594,   6993,
+           323,   2213,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of tags include the <head> tag, the <body> tag, and the <title> tag. Other elements include attributes, which provide additional information about the element's nature and content.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+.
+0.28541508316993713
+Context Tokens: 
+tensor([  311,  7548,  6934,  3757,  9082,    13,   358,   614,  3881,  1435,
+          369,  3807,  1635,    11,   323,   358,   646,   348,  3026,   369,
+          806, 16614,   323,   975, 64847,    13,  1260,   374,  7548, 12875,
+          323, 11521,    11,  9016, 14720,    11,   323,   458, 24364, 11182,
+          850,    13,  1260,   374,   264,  3974, 62960,   323,   458,  9073,
+        86671])
+Decoded Text:
+ to highly recommend John Smith. I have known him for several years, and I can vouch for his integrity and work ethic. He is highly capable and creative, extremely reliable, and an exceptional collaborator. He is a quick learner and an excellent communicator
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+<|im_end|>
+0.2828691899776459
+Context Tokens: 
+tensor([ 11652,     13, 151645,    198, 151644,    872,    198,   9488,    220,
+            16,     25,   3746,   3590,   3687,   9362,    715,   9488,    220,
+            17,     25,   1084,    374,   2989,    369,   9675, 151645,    198,
+        151644,  77091,    198,   2132,    374,   2989,    369,   9675,    311,
+           614,    264,   3746,   3590,   3687,   9362,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sentence.<|im_end|>
+<|im_start|>user
+Fragment 1: strong social media presence 
+Fragment 2: It is important for businesses<|im_end|>
+<|im_start|>assistant
+It is important for businesses to have a strong social media presence.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(181, 206, 232)
+<|endoftext|>
+0.2828596532344818
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

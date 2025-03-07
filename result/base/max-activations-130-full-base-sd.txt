@@ -1,0 +1,338 @@
+Max Activation Value: 
+(0, 6, 32)
+ and
+0.21763978898525238
+Context Tokens: 
+tensor([151644,   8948,    198,   4418,    279,   4549,    323,  10542,    279,
+          8622,   4522,     13, 151645,    198, 151644,    872,    198,   8420,
+           374,    279,   4549,     13,   4710,  33548,    374,    264,   3146,
+           315,  27730,  26735,     11,  15459])
+Decoded Text:
+<|im_start|>system
+Read the article and identify the central idea.<|im_end|>
+<|im_start|>user
+Here is the article. 
+
+India is a country of varied cultures, languages
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ (
+0.21029411256313324
+Context Tokens: 
+tensor([   15,    15,   311,   220,    20,    15,    11,    15,    15,    15,
+        10951,  3046,  3145,  8147,    11,   892, 10000,   504,   279,  9396,
+          323, 14501,   220,    18,  8756,   320,    19,    13,    23, 13136,
+            8,   311,   279, 43006,  1909,    13,   362,  2205, 13016, 57173,
+          264, 14538,  4752,   279,  5240,  3117,   311,  5545, 19085,   311,
+         4367])
+Decoded Text:
+00 to 50,000 massive basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+.
+0.20404435694217682
+Context Tokens: 
+tensor([  1682,    594,   1156,   1899,    315,   2906, 151645,    198, 151644,
+         77091,    198,   2132,    572,    279,   1156,   1899,    315,   2906,
+            11,    323,   2632,  60597,    572,   8266,  22596,     13,   2932,
+           572,    773,  12035,    311,   3367,   1059,    501,  60090,    323,
+         11079,     11,    714,   1083,    264,   2699,  26115,     13,   2932,
+         14858,   1119,    279,  24017,    323,   7069])
+Decoded Text:
+ child's first day of school<|im_end|>
+<|im_start|>assistant
+It was the first day of school, and little Mia was feeling nervous. She was so excited to meet her new classmates and teacher, but also a bit scared. She walked into the classroom and immediately
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+most
+0.19586478173732758
+Context Tokens: 
+tensor([  785,  9237,   594, 13617,   525,   279, 39612,    11,   279, 70432,
+           11,   279, 15955,  6200,    11,   323,   279,  9179,  6200,    13,
+          576, 39612,   374,   279, 15955,  3562,  6193,    11, 23415,   315,
+         5437,  8463, 23035,    13,   576, 70432,   374,   279, 12045,    11,
+        27950,  6193,   315,  6946,  3685,   279, 39612,    13,   576, 15955,
+         6200])
+Decoded Text:
+The Earth's layers are the crust, the mantle, the outer core, and the inner core. The crust is the outermost layer, composed of silicate rocks. The mantle is the thick, dense layer of rock below the crust. The outer core
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ the
+0.19502554833889008
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   5099,   7706,    315,    264,
+          1555,  10238,  18169,    279,   3501,    320,     18,     11,    220,
+            19,      8,    323,    320,     16,     16,     11,    220,     16,
+            15,    568, 151645,    198, 151644,  77091,    198,    785,   5099,
+          7706,    315])
+Decoded Text:
+<|im_start|>system
+Find the midpoints of a line segment joining the points (3, 4) and (11, 10).<|im_end|>
+<|im_start|>assistant
+The midpoints of
+---------------------------
+Max Activation Value: 
+(91, 116, 142)
+ when
+0.19399233162403107
+Context Tokens: 
+tensor([  387,  2814,   304,   264,  2421,  2849,   382,  6127, 46731,   220,
+           17,    25, 97593,    11,   429, 10362,  2244,     0,   358,  3278,
+         1779,   847,   975,   448,   498,   979,   498,  2299,  2814,   323,
+         1281,   894,  1590,  4344,   382,  6127, 46731,   220,    16,    25,
+        44141,  1075,   264,  3119,    13,  1205,  1265,   633,   419,  2390,
+         8060])
+Decoded Text:
+ be done in a few days.
+
+Colleague 2: Alright, that sounds great! I'll check my work with you when you're done and make any final changes.
+
+Colleague 1: Sounds like a plan. We should get this project finished
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ essay
+0.19375135004520416
+Context Tokens: 
+tensor([151644,   8948,    198,   8078,    264,  23776,    369,    264,   8544,
+           369,    264,  65243,   8895,     13, 151645,    198, 151644,  77091,
+           198,    785,  32911,    315,  12325,  37786,    323,   4093,  14290,
+         37786,    315,  11791,    304,   5633,  78616,  39395,     13,   4710,
+         62407,    702])
+Decoded Text:
+<|im_start|>system
+Make a suggestion for a topic for a persuasive essay.<|im_end|>
+<|im_start|>assistant
+The Topic of Advantages and Disadvantages of Technology in Our Everyday Lives. 
+
+Technology has
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+.
+0.188775435090065
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   6524,    311,    279,   6440,
+           315,    264,   2205,  16803,  36710,    697,   9459,    389,    264,
+          1482,   4265,     13, 151645,    198, 151644,  77091,    198,  30665,
+         12580,   3554,     40,   1079,   4378,    311,   3158,    847,   9459,
+           389,    279,   1482,   4265,    315,    508,   4208,   4265,    936,
+           358])
+Decoded Text:
+<|im_start|>system
+Write a letter to the editor of a local newspaper expressing your opinion on a current issue.<|im_end|>
+<|im_start|>assistant
+Dear Editor,
+
+I am writing to express my opinion on the current issue of [insert issue]. I
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ and
+0.18679913878440857
+Context Tokens: 
+tensor([22596,    13,  2932,   572,   773, 12035,   311,  3367,  1059,   501,
+        60090,   323, 11079,    11,   714,  1083,   264,  2699, 26115,    13,
+         2932, 14858,  1119,   279, 24017,   323,  7069, 13686,  1052,  1033,
+          803,  4143,  1091,  1340,  3601,    13,  2932,  6966,  2163,   304,
+         1079,  1370,  1114,   518,   678,   279,  1008,  6837,    11,  3080,
+          279])
+Decoded Text:
+ nervous. She was so excited to meet her new classmates and teacher, but also a bit scared. She walked into the classroom and immediately noticed there were more students than she expected. She looked around in amazement at all the other kids, until the
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ ::
+0.18678565323352814
+Context Tokens: 
+tensor([151644,   8948,    198,   8331,    279,   2701,    821,   7289,    323,
+          2550,    279,   4396,  12159,   1102, 151645,    198, 151644,    872,
+           198,  94568,     25,    386,   8666,   1127,   3504,    758,  54429,
+            25, 151645,    198, 151644,  77091,    198,    641,  54429,     25,
+           758,  54429,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Match the following data sets and output the correct corresponding result<|im_end|>
+<|im_start|>user
+Humans: Mammals :: Insects:<|im_end|>
+<|im_start|>assistant
+Insects: Insects.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+,
+0.18668478727340698
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,   3364,     11,  10542,    279,
+         45584,     13, 151645,    198, 151644,    872,    198,  17938,     25,
+          3757,   1030,   1012,  19962,    304,   2906,    369,   1635,     13,
+          3776,   1899,     11,    566,   6635])
+Decoded Text:
+<|im_start|>system
+Given a story, identify the protagonist.<|im_end|>
+<|im_start|>user
+Story: John had been struggling in school for years. One day, he decided
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ essay
+0.18598712980747223
+Context Tokens: 
+tensor([151644,   8948,    198,  28851,    705,    448,    458,   7040,   8544,
+           369,    264,  65243,   8895,     13, 151645,    198, 151644,  77091,
+           198,   2082,   7040,   8544,    369,    264,  65243,   8895,   1410,
+           387,    279,    897,    315,   5080,   6731,    323,   3170,    432,
+          1265,    387])
+Decoded Text:
+<|im_start|>system
+Come up with an interesting topic for a persuasive essay.<|im_end|>
+<|im_start|>assistant
+An interesting topic for a persuasive essay could be the value of higher education and why it should be
+---------------------------
+Max Activation Value: 
+(167, 192, 218)
+Gun
+0.18598586320877075
+Context Tokens: 
+tensor([    16,     13,     24,    817,    220,     16,     15,     15,     11,
+            15,     15,     15,    304,    220,     17,     15,     16,     23,
+            13, 151645,    198, 151644,  77091,    198,      1,  63907,  46632,
+         65047,   1127,   4371,    315,   7779,     25,    362,   9192,   1119,
+          6647,   2178,  22031,   2719,  46976,    304,    279,   2274,      1,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+1.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>assistant
+"Gun Violence Spirals Out of Control: A Look into Firearm Mortality Rates in the US"<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ and
+0.18531320989131927
+Context Tokens: 
+tensor([151644,   8948,    198,  47447,    311,    279,   2661,   3364,    323,
+          3410,    279,  15659, 151645,    198, 151644,    872,    198,  12522,
+            11,   1052,   1033,   1378,   1850,   4780,     13,   2379,   1033,
+          2677,   3786,    323,   6094,   4297,   1948,   1817])
+Decoded Text:
+<|im_start|>system
+Refer to the given story and provide the moral<|im_end|>
+<|im_start|>user
+Once, there were two best friends. They were always together and shared everything between each
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ about
+0.18510524928569794
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,   1495,    279,   1376,   3501,    315,
+           279,   2661,   4549,     13, 151645,    198, 151644,    872,    198,
+          1986,   4549,    374,    911,    279,  10000,    315,  20443,  11229,
+           304,    279,   3853,    320,   2428,   1110,   2136,  63496,    905,
+          4322,  17217,   7382,   1064,  37821,  16488,  20052,   8509,  12034,
+           988,   2371])
+Decoded Text:
+<|im_start|>system
+Write down the key points of the given article.<|im_end|>
+<|im_start|>user
+This article is about the rise of artificial intelligence in the future (https://www.linkedin.com/pulse/rise-artificial-intelligence-yash-g
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ (
+0.18485823273658752
+Context Tokens: 
+tensor([17003, 32062,  4357,   304,   279,  1879,   624,    12,  1084,  5990,
+        14521,   220,    17,    11,    16,    23,    15,   311,   220,    17,
+           11,    17,    15,    15,  8756,   320,    18,    11,    20,    15,
+           15,   311,   220,    18,    11,    22,    15,    15, 13136,     8,
+          916,   264,  6514,   315, 10063,    11,   305, 14385,    11,   323,
+        16301])
+Decoded Text:
+ challenging cycling events in the world.
+- It usually covers 2,180 to 2,200 miles (3,500 to 3,700 km) over a mix of flat, hilly, and mountain
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ as
+0.18402646481990814
+Context Tokens: 
+tensor([151644,   8948,    198,   8078,    419,  11652,    803,  47787,     13,
+        151645,    198, 151644,    872,    198,   2610,   1265,    653,    429,
+           438,   5135,    438,   3204, 151645,    198, 151644,  77091,    198,
+          2679,   3204,     11,   1410,    498,   4486,    653,    429,    438,
+          5135,    438,   3204,     30, 151645,    198, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+Make this sentence more polite.<|im_end|>
+<|im_start|>user
+You should do that as soon as possible<|im_end|>
+<|im_start|>assistant
+If possible, could you please do that as soon as possible?<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(168, 193, 219)
+       
+0.1839955449104309
+Context Tokens: 
+tensor([24491,   264,  8225,   897,    11,   715,   262,   671,  1221,  9069,
+          646,   944,   387,   458, 68772,   715,   262,   369,   600,   304,
+         2088,  6901, 11512, 36715,   715,   286,   421,  1760,   989,    60,
+          366,   220,    15,    25,   715,   310,   470,  3557, 13887,   262,
+          671,  1416,   678, 33773,   525,  7168,    11,   914,    16,   323,
+          914])
+Decoded Text:
+ reaches a negative value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+.
+0.18380986154079437
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    448,   8311,
+          4244,     13, 151645,    198, 151644,    872,    198,    785,  30743,
+           572,   6157,  10454,  76736,    291,    304,  16205,     13, 151645,
+           198, 151644,  77091,    198,    785,   3054,    572,   6157,  10454])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly becoming
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ tower
+0.18353991210460663
+Context Tokens: 
+tensor([11017,  1447,    16,    13, 14561,   279,   308, 53758,   504,   279,
+         5916, 21271,   311,   279, 53458, 21271,    11,   825,   518,   264,
+          882,    11,  1667,   279,  1590, 21271,   438,   279, 23863,   271,
+           17,    13, 14561,   279, 55129, 13364,   504,   279, 53458, 21271,
+          311,   279,  1590, 21271,   271,    18,    13, 14561,   279,   308,
+           12])
+Decoded Text:
+ follows:
+
+1. Move the n disks from the starting tower to the auxiliary tower, one at a time, using the final tower as the spare
+
+2. Move the nth disk from the auxiliary tower to the final tower
+
+3. Move the n-
+---------------------------

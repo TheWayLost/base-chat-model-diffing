@@ -1,0 +1,347 @@
+Max Activation Value: 
+(149, 174, 200)
+�
+0.26032763719558716
+Context Tokens: 
+tensor([  1683,    115,    320,     87,     10,     17,      8,    481,    220,
+            19,    198,     20,     13,  62902,    279,  63533,    323,  46912,
+            25,    320,     87,     10,     18,      8,   1683,    115,    320,
+            87,     10,     17,    481,    220,     19,      8, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(106, 131, 157)
+4
+0.25936537981033325
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+3
+0.24747727811336517
+Context Tokens: 
+tensor([37729,   279, 63533,    25,   320,    87,    61,    17,    10,    20,
+           87,    10,    21,     8,   284,   320,    87,    10,    18,  2376,
+           87,    10,    17,     8,   715,    18,    13, 61242,  1437,   279,
+        46912,    25,   320,    87,    12,    17,     8,   284,   320,    87,
+           10,    17,   481,   220,    19,     8,   284,   320,    87,    10,
+           17])
+Decoded Text:
+ Factor the numerator: (x^2+5x+6) = (x+3)(x+2) 
+3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2
+---------------------------
+Max Activation Value: 
+(92, 117, 143)
+def
+0.24523292481899261
+Context Tokens: 
+tensor([    8, 48426,   262,   671,   470,   279,   320,  3185,  3726,     8,
+         2436,  7445,   715,   262,   470,  2436, 48426,     2,  5712,   311,
+         2711,   264,  2661,   821,   715,   750,  2711,  6958,    11,   821,
+         1648,   715,  6926,   262,   671,  5351, 11538,    25,   421,  3704,
+          374,  2240,   476,  1376,   374,  3042,   518,  3704,   715,   262,
+          421])
+Decoded Text:
+) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case: if root is None or key is present at root 
+    if
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ase
+0.24093671143054962
+Context Tokens: 
+tensor([ 41284,     11,  65582,  22826,    481,    220,     17,  92100, 151645,
+           198, 151644,  77091,    198,   4703,  19963,    697,  23387,    311,
+           220,     18,     20,     15,  12348,     13,  13532,    519,    323,
+         19828,    264,    220,     24,  24241,   4778,  19145,   7215,    382,
+           641,    264,   3460,  19212,     11,   6514,   3786,    220,     17,
+         25374,  19828,     11,    220,     16,  10525])
+Decoded Text:
+ teaspoon, Vanilla Extract - 2 teaspoons<|im_end|>
+<|im_start|>assistant
+Preheat your oven to 350 degrees. Grease and flour a 9-inch round cake pan.
+
+In a large bowl, mix together 2 cups flour, 1 cup
+---------------------------
+Max Activation Value: 
+(86, 111, 137)
+4
+0.24055136740207672
+Context Tokens: 
+tensor([ 6132,    25,  4467,  7757, 85897,  6132,   374,   264,  8823,   383,
+        34456, 12111,   311,  1477,   458, 44868,  3644, 53667,   369,   264,
+         2661, 16538,   729,    13,  4710,    19,    13, 74126, 40325,    25,
+          362, 18929, 12111,  5711, 40893, 18940,  1741,   438, 26374,    11,
+         6589,    11,   323, 48380,   311,  6077,  9904,   304,  2711,   369,
+          264])
+Decoded Text:
+aling: Simulated annealing is a metaheuristic algorithm to find an approximate global optimum for a given objective function. 
+
+4. Genetic Algorithm: A genetic algorithm uses evolutionary concepts such as mutation, selection, and crossover to sample solutions in search for a
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+1
+0.2362166792154312
+Context Tokens: 
+tensor([   279,   5383,    304,    419,   8500,    315,   5109,     30, 151645,
+           198, 151644,    872,    198,     17,     11,    220,     19,     11,
+           220,     21,     11,    220,     23,     11,    220,     16,     15,
+        151645,    198, 151644,  77091,    198,    785,   5383,    374,   1817,
+          1372,    374,   7703,    553,    220,     17,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the pattern in this sequence of numbers?<|im_end|>
+<|im_start|>user
+2, 4, 6, 8, 10<|im_end|>
+<|im_start|>assistant
+The pattern is each number is increasing by 2.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(155, 180, 206)
+ aside
+0.23527933657169342
+Context Tokens: 
+tensor([  279, 67698,   323,  4296,  3080, 74496,   291,    11,   911,   220,
+           20,  4420,   624,    19,    13, 10783,   279, 67698,   323, 30635,
+          504,   279,  7215,   323,   738, 15663,   624,    20,    13,  4968,
+        19963,   279, 23387,   311,   220,    19,    15,    15, 12348,   434,
+          624,    21,    13,   758,   264,  3460, 19212,    11,  9382,  3786,
+          279])
+Decoded Text:
+ the spinach and cook until wilted, about 5 minutes.
+4. Remove the spinach and garlic from the pan and set aside.
+5. Preheat the oven to 400 degrees F.
+6. In a large bowl, beat together the
+---------------------------
+Max Activation Value: 
+(160, 185, 211)
+Instructions
+0.2335994988679886
+Context Tokens: 
+tensor([41284, 25298, 40454,   715,    12,   220,    16, 61511, 41020, 24937,
+          715,    12,   220,    16,   646, 88864, 40513,   715,    12, 27040,
+          323, 24353,   311, 12656,  4710, 55291,    25,   715,    16,    13,
+         4968, 19963, 23387,   311,   220,    18,    22,    20, 58472,    13,
+          715,    17,    13, 46812, 34167,    11, 47807,  8669,    11, 37327,
+           11])
+Decoded Text:
+ teaspoon paprika 
+- 1 tablespoon tomato paste 
+- 1 can diced tomatoes 
+- Salt and pepper to taste 
+
+Instructions: 
+1. Preheat oven to 375°F. 
+2. Combine potatoes, lentils, onion,
+---------------------------
+Max Activation Value: 
+(220, 245, 271)
+ase
+0.2334400862455368
+Context Tokens: 
+tensor([ 8199,    11, 25298, 40454,    11,   323, 12021,   323, 24353,   304,
+          264,  3460, 19212,    13, 19219,  3080, 13966,   525,  1632, 10856,
+           13,   715,    18,    13, 13532,   519,   264, 27815, 10834,   448,
+        17233, 22899,    13,   715,    19,    13, 22526,   279, 20980,  1119,
+         2613, 20332,   323,  1992,  1105,   389,   279, 27815, 10834,    13,
+          715])
+Decoded Text:
+ander, paprika, and salt and pepper in a large bowl. Mix until ingredients are well combined. 
+3. Grease a baking sheet with cooking spray. 
+4. Shape the mixture into small balls and place them on the baking sheet. 
+
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+.
+0.23287706077098846
+Context Tokens: 
+tensor([41284, 12021,    26,   220,    16,    14,    19, 41284,  4910,  3691,
+        24353,    26,   220,    16,    14,    17, 10525,  8811, 12644,    13,
+         4710, 55291,    25,   715,    16,    13, 26070,   279, 32113,  5590,
+          304,   264,  3460,  3338,   916, 11051,  8628,    13,  2691,   279,
+        37327,   323, 30635,   323,  4296,  3080,  8413,    11,   911,   220,
+           18])
+Decoded Text:
+ teaspoon salt; 1/4 teaspoon ground black pepper; 1/2 cup heavy cream. 
+
+Instructions: 
+1. Heat the olive oil in a large pot over medium heat. Add the onion and garlic and cook until soft, about 3
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ubits
+0.23185895383358002
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1246,  30128,  18495,    975,     13,
+        151645,    198, 151644,  77091,    198,  44220,    372,  18495,    990,
+         30128,   9472,     11,    476,   2804,  81402,     11,   4518,    315,
+          8606,   9472,    311,  16164,   1995,     13,   4220,   2804,  81402,
+           646,    975,   3786,    304,   5203,     11,  10693,   1105,    311,
+          1882,    323,   3553,    821])
+Decoded Text:
+<|im_start|>system
+Describe how quantum computers work.<|im_end|>
+<|im_start|>assistant
+Quantum computers use quantum bits, or qubits, instead of traditional bits to encode information. These qubits can work together in groups, allowing them to process and store data
+---------------------------
+Max Activation Value: 
+(151, 176, 202)
+bots
+0.2318371683359146
+Context Tokens: 
+tensor([ 2473, 18239,    11,   438,   279,  6236,  6331,   646,  3410,   264,
+        38292,    11,   803,  7373,  2033,   311,   279,  6002,  3239,    13,
+        31906,   641,  5256,    11,  6236, 61905,   646,  1083,   387,  1483,
+          369,  3460, 12934,  6002,  1824,   323,  8493,    13,  1752,  3110,
+           11,   264,  6236,  6331,   646,   387,  1483,   311,  3624, 17112,
+        35971])
+Decoded Text:
+ service representative, as the chatbot can provide a quicker, more effective response to the customer query. 
+ 
+In addition, chatbots can also be used for large-scale customer support and marketing. For example, a chatbot can be used to send targeted promotions
+---------------------------
+Max Activation Value: 
+(118, 143, 169)
+.
+0.2315441220998764
+Context Tokens: 
+tensor([29105,   323,   283,  4517, 58886,   198,    16,   320,    16,    15,
+        53708,     8,  6328, 47615,  5394,   956,   198, 20170, 29105,  4158,
+        19653,   271, 55291,  1447,    16,    13, 26070,  5590,   304,   264,
+         3460,  3338,   916, 11051,  8628,   624,    17,    13,  2691, 44597,
+           11, 30635,    11, 28419, 57473,    11, 69021,    11, 12021,    11,
+        24353])
+Decoded Text:
+ cooked andouille sausage
+1 (10 ounce) package sliced okra
+Hot cooked white rice
+
+Instructions:
+
+1. Heat oil in a large pot over medium heat.
+2. Add onions, garlic, bell peppers, celery, salt, pepper
+---------------------------
+Max Activation Value: 
+(212, 237, 263)
+ into
+0.2307654768228531
+Context Tokens: 
+tensor([  624,    22,    13, 64192,   304,   279, 67698,    11,   282,  1915,
+           11, 40352,    11,   323,  8811, 12644,    11, 26792,  1632,   624,
+           23,    13, 25968,   279, 20980,  1119,   279,   855, 26877,  4349,
+        39612,   624,    24,    13,  6909,   448,   279, 74120,   521, 77616,
+        17163,   624,    16,    15,    13, 52074,   369,   220,    17,    20,
+           12])
+Decoded Text:
+.
+7. Stir in the spinach, feta, bacon, and heavy cream, mixing well.
+8. Pour the mixture into the pre-made pie crust.
+9. Top with the shredded cheddar cheese.
+10. Bake for 25-
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+ase
+0.22947700321674347
+Context Tokens: 
+tensor([ 18575,  22815, 151645,    198, 151644,  77091,    198,   2101,  12388,
+            12,  41969,  32760,     25,   4968,  19963,  23387,    311,    220,
+            18,     20,     15,  12348,    434,     13,  13532,    519,    264,
+           220,     24,  24241,   4778,  19145,   7215,     13,    758,    264,
+         19212,     11,   6514,   3786,    220,     16,  10525,    315,  18575,
+         22815,     11,    220,     16,  10525,    315])
+Decoded Text:
+ orange juice<|im_end|>
+<|im_start|>assistant
+Almond-Orange Cake: Preheat oven to 350 degrees F. Grease a 9-inch round cake pan. In a bowl, mix together 1 cup of orange juice, 1 cup of
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+-a
+0.22789384424686432
+Context Tokens: 
+tensor([  2428,   1110,   2136,   1858,  37555,   6830,  15194,  54482,   4846,
+         65698,   7563,    359,   7725,  30617,   3426,  50402,     12,  12537,
+          5477,  40652,  34689,  25682,   1786,   5963,    285,   7409,     24,
+            17,     22,     16,     17,     23,     21,   2564, 151645,    198,
+        151644,  77091,    198,     38,  65698,    663,    359,   7725,    374,
+         33047,    264,   3644,  12537,  33954,   7203])
+Decoded Text:
+https://www.independent.co.uk/environment/greta-thunberg-climate-change- youth-strike-school-us-crisis-a9271286.html<|im_end|>
+<|im_start|>assistant
+Greta Thunberg is inspiring a global youth-led movement
+---------------------------
+Max Activation Value: 
+(205, 230, 256)
+ and
+0.2274305373430252
+Context Tokens: 
+tensor([33404, 13876,   291,    11,   911,   220,    17,  4420,   624,    19,
+           13,  2691, 44893,    11, 40513,   323,  4446,   311,   264, 43690,
+          624,    20,    13,  2691, 16158,   323, 58886,    11,  7949,  8628,
+          311,  3347,   323, 61815,   369,   220,    16,    20,  4420,   198,
+           21,    13,  2691,  5394,   956,   323,  4296,   458,  5107,   220,
+           16])
+Decoded Text:
+ lightly browned, about 2 minutes.
+4. Add broth, tomatoes and bring to a boil.
+5. Add chicken and sausage, reduce heat to low and simmer for 15 minutes
+6. Add okra and cook an additional 1
+---------------------------
+Max Activation Value: 
+(190, 215, 241)
+ Stir
+0.22655080258846283
+Context Tokens: 
+tensor([   19,    15,    15, 12348,   434,   624,    21,    13,   758,   264,
+         3460, 19212,    11,  9382,  3786,   279, 18805,    11, 12021,    11,
+          323, 24353,   624,    22,    13, 64192,   304,   279, 67698,    11,
+          282,  1915,    11, 40352,    11,   323,  8811, 12644,    11, 26792,
+         1632,   624,    23,    13, 25968,   279, 20980,  1119,   279,   855,
+        26877])
+Decoded Text:
+400 degrees F.
+6. In a large bowl, beat together the eggs, salt, and pepper.
+7. Stir in the spinach, feta, bacon, and heavy cream, mixing well.
+8. Pour the mixture into the pre-made
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ clubs
+0.22637055814266205
+Context Tokens: 
+tensor([ 46762,    288,    304,   1948,   1817,   3832,     13,   4636,   2906,
+            11,    807,    614,    279,   6012,    311,  15759,    304,   4960,
+         94049,  56233,   7488,   1741,    438,   9833,     11,  18890,     11,
+           323,   1008,   7488,     13,    576,   1899,   5990,  33036,    448,
+          4143,   2087,   2114,    323,  20045,    369,    279,   1790,   1899,
+            13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ recesses in between each subject. After school, they have the chance to participate in extra-curricular activities such as sports, clubs, and other activities. The day usually finishes with students going home and preparing for the next day.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------

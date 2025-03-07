@@ -1,0 +1,328 @@
+Max Activation Value: 
+(0, 9, 35)
+ words
+0.2875276803970337
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    448,   8311,
+          4244,     13, 151645,    198, 151644,    872,    198,    785,  30743,
+           572,   6157,  10454,  76736,    291,    304,  16205,     13, 151645,
+           198, 151644,  77091,    198,    785,   3054,    572,   6157])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+�
+0.2804412543773651
+Context Tokens: 
+tensor([  1683,    115,    320,     87,     10,     17,      8,    481,    220,
+            19,    198,     20,     13,  62902,    279,  63533,    323,  46912,
+            25,    320,     87,     10,     18,      8,   1683,    115,    320,
+            87,     10,     17,    481,    220,     19,      8, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ title
+0.27307838201522827
+Context Tokens: 
+tensor([151644,   8948,    198,     50,   3799,    458,   8311,   2265,    369,
+           279,   3685,  21085, 151645,    198, 151644,    872,    198,     32,
+          3644,  27422,   9575,    279,  46509,   4958,    311,    312,   5655,
+         19642,   1181,  12378,    323,  10515,    311])
+Decoded Text:
+<|im_start|>system
+Suggest an appropriate title for the below passage<|im_end|>
+<|im_start|>user
+A global pandemic forced the hospitality industry to re-evaluate its practices and adapt to
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ the
+0.26926711201667786
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  30232,    315,    279,   1555,
+         12299,   1526,    279,   3501,    320,     17,     11,    481,     18,
+             8,    323,    320,     16,     11,    481,     17,    568, 151645,
+           198, 151644,    872,    198,      7,     17,   4999,     18,      8,
+           320])
+Decoded Text:
+<|im_start|>system
+Find the slope of the line passing through the points (2, -3) and (1, -2).<|im_end|>
+<|im_start|>user
+(2,-3) (
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.26624712347984314
+Context Tokens: 
+tensor([151644,   8948,    198,  10253,    279,   4244,    504,    279,   1140,
+          3685,    311,   5155,    304,    279,  78540,    304,    279,  11652,
+            13, 151645,    198, 151644,    872,    198,    785,   8426,  16162,
+           304,    279,   1879,    374,  30743,   1304])
+Decoded Text:
+<|im_start|>system
+Use the words from the list below to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ __
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.2649826407432556
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   1985,    315,    279,   5109,
+        151645,    198, 151644,    872,    198,     20,    323,    220,     23,
+        151645,    198, 151644,  77091,    198,    785,   1985,    315,    220,
+            20,    323,    220,     23,    374,    220])
+Decoded Text:
+<|im_start|>system
+Find the product of the numbers<|im_end|>
+<|im_start|>user
+5 and 8<|im_end|>
+<|im_start|>assistant
+The product of 5 and 8 is 
+---------------------------
+Max Activation Value: 
+(173, 198, 224)
+ <
+0.2647433578968048
+Context Tokens: 
+tensor([  715,   262,   671,  1221,  9069,   646,   944,   387,   458, 68772,
+          715,   262,   369,   600,   304,  2088,  6901, 11512, 36715,   715,
+          286,   421,  1760,   989,    60,   366,   220,    15,    25,   715,
+          310,   470,  3557, 13887,   262,   671,  1416,   678, 33773,   525,
+         7168,    11,   914,    16,   323,   914,    17,   715,   262,   671,
+          525])
+Decoded Text:
+ 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string2 
+    # are
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ word
+0.2642260491847992
+Context Tokens: 
+tensor([151644,   8948,    198,   4072,    279,   1212,  15121,   3409,    311,
+          1281,    279,  11652,   4396,     13, 151645,    198, 151644,    872,
+           198,    785,  40513,    525,  56696,    369,   3735,     13, 151645,
+           198, 151644,  77091,    198,    785,  40513])
+Decoded Text:
+<|im_start|>system
+Change the underlined word to make the sentence correct.<|im_end|>
+<|im_start|>user
+The tomatoes are ripe for pick.<|im_end|>
+<|im_start|>assistant
+The tomatoes
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ the
+0.26089775562286377
+Context Tokens: 
+tensor([151644,   8948,    198,  16141,    279,   2701,   3405,    911,    279,
+          3840,    315,  18495, 151645,    198, 151644,    872,    198,   4498,
+           572,    279,   1156,   6366,  35492,     30, 151645,    198, 151644,
+         77091,    198,    785,   1156,   6366,    572,  35492])
+Decoded Text:
+<|im_start|>system
+Answer the following question about the history of computers<|im_end|>
+<|im_start|>user
+When was the first computer invented?<|im_end|>
+<|im_start|>assistant
+The first computer was invented
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ be
+0.26063627004623413
+Context Tokens: 
+tensor([1042,  220,   16,   11,  279, 3311,  304,  279, 6073, 2692, 1035,  387,
+         400,   16,   15,   21,   13,  758, 1042,  220,   17,   11,  279, 3311,
+        1035,  387,  400,   16,   16,   17,   13,   18,   21,  323,  518,  279,
+         835,  315,  279,  220,   16,   15,  339, 1042,   11,  279, 3311, 1035,
+         387,  400,   16])
+Decoded Text:
+ year 1, the amount in the bank account would be $106. In year 2, the amount would be $112.36 and at the end of the 10th year, the amount would be $1
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+.
+0.26035723090171814
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    448,   8311,
+          4244,     13, 151645,    198, 151644,    872,    198,    785,  30743,
+           572,   6157,  10454,  76736,    291,    304,  16205,     13, 151645,
+           198, 151644,  77091,    198,    785,   3054,    572,   6157,  10454])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly becoming
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ question
+0.2595914304256439
+Context Tokens: 
+tensor([151644,   8948,    198,  16141,    279,   2701,   3405,    911,    279,
+          3840,    315,  18495, 151645,    198, 151644,    872,    198,   4498,
+           572,    279,   1156,   6366,  35492,     30, 151645,    198, 151644,
+         77091,    198,    785,   1156,   6366])
+Decoded Text:
+<|im_start|>system
+Answer the following question about the history of computers<|im_end|>
+<|im_start|>user
+When was the first computer invented?<|im_end|>
+<|im_start|>assistant
+The first computer
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+0.2552335262298584
+Context Tokens: 
+tensor([   198,  28715,    389,    279,   2701,  21085,     11,   8253,    279,
+          3150,    748,  18915,   6974,    279,   4522,    429,   4628,    374,
+           279,   1429,   2989,   8168,    304,   5670, 151645,    198, 151644,
+           872,    198,    785,   5244,    389,   4628,    304,   5670,   3351,
+           374,   3545,  75506,     13,  26668,  62139,    323,  83960,    646,
+          1896,    264,   1182,  43058,    311,    279])
+Decoded Text:
+
+Based on the following passage, determine the author’s attitude towards the idea that speed is the most important factor in production<|im_end|>
+<|im_start|>user
+The focus on speed in production today is often misguided. Technical proficiency and craftsmanship can take a backseat to the
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.2539616525173187
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   5109,
+           220,     21,    323,    220,     16,     17,     13, 151645,    198,
+        151644,    872,    198,     21,    488,    220,     16,     17, 151645,
+           198, 151644,  77091,    198,     16,     23])
+Decoded Text:
+<|im_start|>system
+Find the sum of the numbers 6 and 12.<|im_end|>
+<|im_start|>user
+6 + 12<|im_end|>
+<|im_start|>assistant
+18
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.2539616525173187
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236,  11067,     13, 151645,
+           198, 151644,  77091,    198,    785,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236])
+Decoded Text:
+<|im_start|>system
+Find the sum of the interior angles of a polygon with five sides.<|im_end|>
+<|im_start|>assistant
+The sum of the interior angles of a polygon with five
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.2539616525173187
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  11067,
+           315,    279,   2701,  21495,     13, 151645,    198, 151644,    872,
+           198,  51942,  19360,    702,  11067,  14137,    284,    220,     20,
+          9961,     11,  18040,    284,    220,     21])
+Decoded Text:
+<|im_start|>system
+Find the sum of the sides of the following triangle.<|im_end|>
+<|im_start|>user
+Triangle ABC has sides AB = 5 cm, BC = 6
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.2539616525173187
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   1156,
+           220,     18,     15,   6785,  25780,     13, 151645,    198, 151644,
+         77091,    198,    785,   2629,    315,    279,   1156,    220,     18,
+            15,   6785,  25780,    374,    220,     19])
+Decoded Text:
+<|im_start|>system
+Find the sum of the first 30 positive integers.<|im_end|>
+<|im_start|>assistant
+The sum of the first 30 positive integers is 4
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+.
+0.2526945471763611
+Context Tokens: 
+tensor([151644,   8948,    198,     50,  70206,    279,   2701,   7493,   1119,
+          1181,  44548,   1352,     13, 151645,    198, 151644,    872,    198,
+            17,   2075,    488,    220,     24,      8,    488,    220,     17,
+          2075,    488,    220,     22,      8, 151645,    198, 151644,  77091,
+           198,     19])
+Decoded Text:
+<|im_start|>system
+Simplify the following expression into its simplest form.<|im_end|>
+<|im_start|>user
+2(x + 9) + 2(x + 7)<|im_end|>
+<|im_start|>assistant
+4
+---------------------------
+Max Activation Value: 
+(73, 98, 124)
+ it
+0.25141292810440063
+Context Tokens: 
+tensor([ 96926,   5866,    304,    279,  17951,    311,   5263,    323,    369,
+           279,  17951,    311,   3635,    803,  83803,     13,   1096,   1882,
+           374,   3881,    438,  17951,  13621,   2404,    323,    432,    646,
+           614,   6001,  24154,    369,  28591,  60851,     11,   2670,  96957,
+           304,    279,   3607,   8781,    323,  11046,   5866,    315,  72019,
+            13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ acidity levels in the ocean to increase and for the ocean to become more acidic. This process is known as ocean acidification and it can have serious implications for marine ecosystems, including disruptions in the food chain and reduced levels of biodiversity.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ of
+0.24714386463165283
+Context Tokens: 
+tensor([   284,    220,     20,   9961,     11,  18040,    284,    220,     21,
+          9961,     11,    323,  10584,    284,    220,     22,   9961,     13,
+        151645,    198, 151644,  77091,    198,    785,   2629,    315,    279,
+         11067,    315,  21495,  19360,    374,    220,     16,     23,   9961,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ = 5 cm, BC = 6 cm, and AC = 7 cm.<|im_end|>
+<|im_start|>assistant
+The sum of the sides of triangle ABC is 18 cm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

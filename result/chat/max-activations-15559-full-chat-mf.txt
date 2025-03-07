@@ -1,0 +1,341 @@
+Max Activation Value: 
+(9, 34, 60)
+ smaller
+12.119451522827148
+Context Tokens: 
+tensor([  1448,    354,  39127,     13, 151645,    198, 151644,  77091,    198,
+            16,     13,   2573,   8845,    323,   1855,    458,   1917,   3119,
+           624,     17,     13,  15623,   9079,   1495,   1119,   9155,     11,
+         88153,   8845,     13,    715,     18,     13,  32192,    349,  47088,
+           323,   2393,  12242,    973,    624,     19,     13,  12243,    264,
+          6785,  18915,    323,  35621,     13,    715])
+Decoded Text:
+-motivation.<|im_end|>
+<|im_start|>assistant
+1. Set goals and create an action plan.
+2. Break tasks down into smaller, achievable goals. 
+3. Celebrate successes and success motivates.
+4. Have a positive attitude and outlook. 
+
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ smaller
+11.898073196411133
+Context Tokens: 
+tensor([   13, 31399, 26310,  9079,    25, 10762,   551,   697,   311, 29559,
+         1140,   323,  5244,   389,   279,  1429,  2989,  9079,  1156,   624,
+           18,    13, 15623,  9079,  1119,  9155, 26757,    25, 15623,   705,
+         3460,  9079,  1119,  2613,    11, 70028,  7354,   624,    19,    13,
+        19785,   697,  5098,    25, 19785,   697,   882,   323,  1281,  5185,
+          315])
+Decoded Text:
+. Prioritize tasks: Organize your to-do list and focus on the most important tasks first.
+3. Break tasks into smaller chunks: Break up large tasks into small, manageable steps.
+4. Track your progress: Track your time and make note of
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ smaller
+11.838208198547363
+Context Tokens: 
+tensor([151645,    198, 151644,  77091,    198,   2082,   7373,    882,   6240,
+          8282,   1265,   2924,   6243,   2797,    323,  25489,   8845,     11,
+          9115,   8305,     11,  14719,   9079,   1495,   1119,   9155,  26757,
+            11,   1660,  16645,     11,  44677,   4849,   9079,     11,    323,
+         19429,  10735,    389,    279,   3383,    518,   1424,     13,  22406,
+            11,    432,    594,   2989,    311,   6588])
+Decoded Text:
+<|im_end|>
+<|im_start|>assistant
+An effective time management strategy should include setting clear and realistic goals, planning ahead, breaking tasks down into smaller chunks, being organized, prioritizing tasks, and staying focused on the task at hand. Additionally, it's important to practice
+---------------------------
+Max Activation Value: 
+(139, 164, 190)
+ smaller
+11.712630271911621
+Context Tokens: 
+tensor([ 5538, 25938,   323, 22257, 15747, 42585,    13,   715,    12, 11778,
+          705,   264,   501, 31528,   311,  4717, 24367,    13,   715,    12,
+        15623,  2409,  9079,  1495,  1119,  9155,    11,   803, 70028,  9079,
+           13,   715,    12, 26984,  6785,   656, 92680,   311,  2506,   697,
+        62583,  1550,    13,   715,    12, 18976,   311,   264, 41763,   476,
+        21789])
+Decoded Text:
+ deep breathing and progressive muscle relaxation. 
+- Take up a new hobby to stay occupied. 
+- Break big tasks down into smaller, more manageable tasks. 
+- Practice positive self-talk to keep your morale high. 
+- Talk to a therapist or trusted
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ manageable
+10.01242446899414
+Context Tokens: 
+tensor([ 1140,   323,  5244,   389,   279,  1429,  2989,  9079,  1156,   624,
+           18,    13, 15623,  9079,  1119,  9155, 26757,    25, 15623,   705,
+         3460,  9079,  1119,  2613,    11, 70028,  7354,   624,    19,    13,
+        19785,   697,  5098,    25, 19785,   697,   882,   323,  1281,  5185,
+          315,  7488,   429,  1896,   705,  2238,  1753,   882,   624,    20,
+           13])
+Decoded Text:
+ list and focus on the most important tasks first.
+3. Break tasks into smaller chunks: Break up large tasks into small, manageable steps.
+4. Track your progress: Track your time and make note of activities that take up too much time.
+5.
+---------------------------
+Max Activation Value: 
+(92, 117, 143)
+ manageable
+9.97628402709961
+Context Tokens: 
+tensor([ 8538,  3383,   389,   697,   311, 29559,  1140,    13,   715,    19,
+           13,   220,    17,    15,  4420,    25, 15623,  1495,   279,  1790,
+         3383,   389,   697,  1140,  1119, 70028, 26757,    11,   323,  3270,
+          700,   279,  7354,   498,  1184,   311,  4583,   432,    13,   715,
+           20,    13,   220,    20,  4420,    25, 11778,   264,  2805,  1438,
+          311])
+Decoded Text:
+ biggest task on your to-do list. 
+4. 20 minutes: Break down the next task on your list into manageable chunks, and write out the steps you need to complete it. 
+5. 5 minutes: Take a short break to
+---------------------------
+Max Activation Value: 
+(42, 67, 93)
+ small
+9.701245307922363
+Context Tokens: 
+tensor([  311, 29559,  1140,   323,  5244,   389,   279,  1429,  2989,  9079,
+         1156,   624,    18,    13, 15623,  9079,  1119,  9155, 26757,    25,
+        15623,   705,  3460,  9079,  1119,  2613,    11, 70028,  7354,   624,
+           19,    13, 19785,   697,  5098,    25, 19785,   697,   882,   323,
+         1281,  5185,   315,  7488,   429,  1896,   705,  2238,  1753,   882,
+          624])
+Decoded Text:
+ to-do list and focus on the most important tasks first.
+3. Break tasks into smaller chunks: Break up large tasks into small, manageable steps.
+4. Track your progress: Track your time and make note of activities that take up too much time.
+
+---------------------------
+Max Activation Value: 
+(142, 167, 193)
+ manageable
+9.663795471191406
+Context Tokens: 
+tensor([22257, 15747, 42585,    13,   715,    12, 11778,   705,   264,   501,
+        31528,   311,  4717, 24367,    13,   715,    12, 15623,  2409,  9079,
+         1495,  1119,  9155,    11,   803, 70028,  9079,    13,   715,    12,
+        26984,  6785,   656, 92680,   311,  2506,   697, 62583,  1550,    13,
+          715,    12, 18976,   311,   264, 41763,   476, 21789, 35428,   421,
+         5871])
+Decoded Text:
+ progressive muscle relaxation. 
+- Take up a new hobby to stay occupied. 
+- Break big tasks down into smaller, more manageable tasks. 
+- Practice positive self-talk to keep your morale high. 
+- Talk to a therapist or trusted mentor if necessary
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ manageable
+9.544292449951172
+Context Tokens: 
+tensor([ 7298, 14021,   374,   311,   738, 88153,  8845,   369,  6133,    13,
+         5145,   448,  4285,  8845,   429,   498,   646,  3520, 22054,    13,
+        15623,   705,   279,  8845,  1119, 70028, 26757,   323,  1477,   264,
+         1616,   311,  6629,   697,  5098,    13,  1096,   686,  1492,   498,
+         2666,   264,  5530,   315, 60138,   323,  2393,    13, 23512,   279,
+         5702])
+Decoded Text:
+ daily routine is to set achievable goals for yourself. Start with simple goals that you can actually accomplish. Break up the goals into manageable chunks and find a way to measure your progress. This will help you feel a sense of accomplishment and success. Schedule the activity
+---------------------------
+Max Activation Value: 
+(101, 126, 152)
+ manageable
+9.335440635681152
+Context Tokens: 
+tensor([24808,   323, 21101,   264,  3119,   315,  1917,   311,  3960,   279,
+         9947,   624,    20,    13,  2573, 68276,    25,  2573,  8845,   323,
+         1438,   279,  1882,  1495,  1119, 70028,  7354,   624,    21,    13,
+        26984, 15502,    25, 10224,   279,  7361,  1119,  6588,   389,   264,
+         5792,  8037,   323,  3754,  5098,   624,    22,    13,  7405, 13234,
+           25])
+Decoded Text:
+ timeline and outline a plan of action to learn the skill.
+5. Set milestones: Set goals and break the process down into manageable steps.
+6. Practice regularly: Put the skills into practice on a regular basis and track progress.
+7. Make connections:
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ achievable
+8.96320629119873
+Context Tokens: 
+tensor([ 39127,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+          2573,   8845,    323,   1855,    458,   1917,   3119,    624,     17,
+            13,  15623,   9079,   1495,   1119,   9155,     11,  88153,   8845,
+            13,    715,     18,     13,  32192,    349,  47088,    323,   2393,
+         12242,    973,    624,     19,     13,  12243,    264,   6785,  18915,
+           323,  35621,     13,    715,     20,     13])
+Decoded Text:
+ivation.<|im_end|>
+<|im_start|>assistant
+1. Set goals and create an action plan.
+2. Break tasks down into smaller, achievable goals. 
+3. Celebrate successes and success motivates.
+4. Have a positive attitude and outlook. 
+5.
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ chunks
+8.25353717803955
+Context Tokens: 
+tensor([31399, 26310,  9079,    25, 10762,   551,   697,   311, 29559,  1140,
+          323,  5244,   389,   279,  1429,  2989,  9079,  1156,   624,    18,
+           13, 15623,  9079,  1119,  9155, 26757,    25, 15623,   705,  3460,
+         9079,  1119,  2613,    11, 70028,  7354,   624,    19,    13, 19785,
+          697,  5098,    25, 19785,   697,   882,   323,  1281,  5185,   315,
+         7488])
+Decoded Text:
+ Prioritize tasks: Organize your to-do list and focus on the most important tasks first.
+3. Break tasks into smaller chunks: Break up large tasks into small, manageable steps.
+4. Track your progress: Track your time and make note of activities
+---------------------------
+Max Activation Value: 
+(38, 63, 89)
+ smaller
+8.119601249694824
+Context Tokens: 
+tensor([12944, 14527, 24098,    13,  4710,  5338,   398,    11,  4237, 31806,
+         2138,  3847,   311,  2615,   821, 10596,    13,  1096,   374,  1576,
+          821,   374, 10865,   705,  1119,  9155, 26757,   323,  9768,  3941,
+         5248, 16293,    11, 10693, 10596,  2615,   323, 56370,    13,  1096,
+        12703,  8084,  5068,   323,  1196, 23689,   382, 15666,   398,    11,
+         4237])
+Decoded Text:
+ improved fault tolerance. 
+
+Firstly, distributed databases allow users to access data faster. This is because data is broken up into smaller chunks and stored across multiple servers, allowing faster access and retrieval. This increases overall performance and user satisfaction.
+
+Secondly, distributed
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ chunks
+8.105807304382324
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,   2082,   7373,    882,   6240,   8282,
+          1265,   2924,   6243,   2797,    323,  25489,   8845,     11,   9115,
+          8305,     11,  14719,   9079,   1495,   1119,   9155,  26757,     11,
+          1660,  16645,     11,  44677,   4849,   9079,     11,    323,  19429,
+         10735,    389,    279,   3383,    518,   1424,     13,  22406,     11,
+           432,    594,   2989,    311,   6588,    656])
+Decoded Text:
+
+<|im_start|>assistant
+An effective time management strategy should include setting clear and realistic goals, planning ahead, breaking tasks down into smaller chunks, being organized, prioritizing tasks, and staying focused on the task at hand. Additionally, it's important to practice self
+---------------------------
+Max Activation Value: 
+(93, 118, 144)
+ chunks
+7.900274276733398
+Context Tokens: 
+tensor([ 3383,   389,   697,   311, 29559,  1140,    13,   715,    19,    13,
+          220,    17,    15,  4420,    25, 15623,  1495,   279,  1790,  3383,
+          389,   697,  1140,  1119, 70028, 26757,    11,   323,  3270,   700,
+          279,  7354,   498,  1184,   311,  4583,   432,    13,   715,    20,
+           13,   220,    20,  4420,    25, 11778,   264,  2805,  1438,   311,
+        14501])
+Decoded Text:
+ task on your to-do list. 
+4. 20 minutes: Break down the next task on your list into manageable chunks, and write out the steps you need to complete it. 
+5. 5 minutes: Take a short break to stretch
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ chunks
+7.709648132324219
+Context Tokens: 
+tensor([14021,   374,   311,   738, 88153,  8845,   369,  6133,    13,  5145,
+          448,  4285,  8845,   429,   498,   646,  3520, 22054,    13, 15623,
+          705,   279,  8845,  1119, 70028, 26757,   323,  1477,   264,  1616,
+          311,  6629,   697,  5098,    13,  1096,   686,  1492,   498,  2666,
+          264,  5530,   315, 60138,   323,  2393,    13, 23512,   279,  5702,
+          438])
+Decoded Text:
+ routine is to set achievable goals for yourself. Start with simple goals that you can actually accomplish. Break up the goals into manageable chunks and find a way to measure your progress. This will help you feel a sense of accomplishment and success. Schedule the activity as
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+ into
+7.663152694702148
+Context Tokens: 
+tensor([26984,  5538, 25938,   323, 22257, 15747, 42585,    13,   715,    12,
+        11778,   705,   264,   501, 31528,   311,  4717, 24367,    13,   715,
+           12, 15623,  2409,  9079,  1495,  1119,  9155,    11,   803, 70028,
+         9079,    13,   715,    12, 26984,  6785,   656, 92680,   311,  2506,
+          697, 62583,  1550,    13,   715,    12, 18976,   311,   264, 41763,
+          476])
+Decoded Text:
+ Practice deep breathing and progressive muscle relaxation. 
+- Take up a new hobby to stay occupied. 
+- Break big tasks down into smaller, more manageable tasks. 
+- Practice positive self-talk to keep your morale high. 
+- Talk to a therapist or
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ into
+7.5589447021484375
+Context Tokens: 
+tensor([   656,   1448,    354,  39127,     13, 151645,    198, 151644,  77091,
+           198,     16,     13,   2573,   8845,    323,   1855,    458,   1917,
+          3119,    624,     17,     13,  15623,   9079,   1495,   1119,   9155,
+            11,  88153,   8845,     13,    715,     18,     13,  32192,    349,
+         47088,    323,   2393,  12242,    973,    624,     19,     13,  12243,
+           264,   6785,  18915,    323,  35621,     13])
+Decoded Text:
+ self-motivation.<|im_end|>
+<|im_start|>assistant
+1. Set goals and create an action plan.
+2. Break tasks down into smaller, achievable goals. 
+3. Celebrate successes and success motivates.
+4. Have a positive attitude and outlook.
+---------------------------
+Max Activation Value: 
+(141, 166, 192)
+ more
+7.470817565917969
+Context Tokens: 
+tensor([  323, 22257, 15747, 42585,    13,   715,    12, 11778,   705,   264,
+          501, 31528,   311,  4717, 24367,    13,   715,    12, 15623,  2409,
+         9079,  1495,  1119,  9155,    11,   803, 70028,  9079,    13,   715,
+           12, 26984,  6785,   656, 92680,   311,  2506,   697, 62583,  1550,
+           13,   715,    12, 18976,   311,   264, 41763,   476, 21789, 35428,
+          421])
+Decoded Text:
+ and progressive muscle relaxation. 
+- Take up a new hobby to stay occupied. 
+- Break big tasks down into smaller, more manageable tasks. 
+- Practice positive self-talk to keep your morale high. 
+- Talk to a therapist or trusted mentor if
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+ steps
+7.408128261566162
+Context Tokens: 
+tensor([  323,  5244,   389,   279,  1429,  2989,  9079,  1156,   624,    18,
+           13, 15623,  9079,  1119,  9155, 26757,    25, 15623,   705,  3460,
+         9079,  1119,  2613,    11, 70028,  7354,   624,    19,    13, 19785,
+          697,  5098,    25, 19785,   697,   882,   323,  1281,  5185,   315,
+         7488,   429,  1896,   705,  2238,  1753,   882,   624,    20,    13,
+        23512])
+Decoded Text:
+ and focus on the most important tasks first.
+3. Break tasks into smaller chunks: Break up large tasks into small, manageable steps.
+4. Track your progress: Track your time and make note of activities that take up too much time.
+5. Schedule
+---------------------------

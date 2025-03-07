@@ -1,0 +1,354 @@
+Max Activation Value: 
+(48, 73, 99)
+;
+
+0.44026947021484375
+Context Tokens: 
+tensor([   297,  93578,    348,   3831,    323,  34131,    345,   4498,    678,
+           518,   3055,    358,   5485,    264,  13428,    345,     32,   3468,
+            11,    315,  20748,    294,   2649,    347,   8669,    280,  39726,
+           577,    279,  21800,     11,  23969,    279,  12408,    345,  97244,
+           287,    323,  27966,    304,    279,  45285,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+}\
+0.43915697932243347
+Context Tokens: 
+tensor([ 21495,    448,  11067,  28990,    220,     23,   6226,     11,    220,
+            20,   6226,     11,    323,    220,     21,   6226,    374,    220,
+            17,     15,   6226,     59,  33810,     90,     17,  11035,    568,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ triangle with sides measuring 8cm, 5cm, and 6cm is 20cm\(^{2}\).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+0
+0.4334620237350464
+Context Tokens: 
+tensor([   198,   8289,    284,    220,     18, 151645,    198, 151644,  77091,
+           198,    785,   8123,    315,    264,  25366,    448,  10578,    220,
+            18,    374,    220,     16,     16,     18,     13,     15,     24,
+            22,  40899,   2889,  54236,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Radius = 3<|im_end|>
+<|im_start|>assistant
+The volume of a sphere with radius 3 is 113.097 cubic centimeters.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+7
+0.4306947886943817
+Context Tokens: 
+tensor([   284,    220,     21,   9961,     11,    356,    284,    220,     19,
+          9961, 151645,    198, 151644,  77091,    198,    785,   3082,    315,
+           279,  21495,    374,    220,     16,     16,     13,     22,     22,
+            24,   9961,  29456,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ = 6 cm, C = 4 cm<|im_end|>
+<|im_start|>assistant
+The area of the triangle is 11.779 cm².<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ at
+0.4306620955467224
+Context Tokens: 
+tensor([12375, 27630, 19501,   382,    40, 39220,  4172, 39566,   438,   264,
+         9437,   198,  4792, 47902,   389,  1550,   297, 93578,   348,  3831,
+          323, 34131,   345,  4498,   678,   518,  3055,   358,  5485,   264,
+        13428,   345,    32,  3468,    11,   315, 20748,   294,  2649,   347,
+         8669,   280, 39726,   577,   279, 21800,    11, 23969,   279, 12408,
+          345])
+Decoded Text:
+ William Wordsworth.
+
+I wander'd lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+0
+0.427645742893219
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  19703,    315,    279,  47311,
+         23606,    330,     20,     87,     17,    488,     17,     87,    481,
+            18,    284,     15,   3263, 151645,    198, 151644,  77091,    198,
+           785,  19703,    315,    279,  23606,    525,    856,    284,    481,
+            16,    323,    856,    284,    220,     18,     14,     20,     13,
+        151645])
+Decoded Text:
+<|im_start|>system
+Find the roots of the polynomial equation "5x2 +2x -3 =0".<|im_end|>
+<|im_start|>assistant
+The roots of the equation are x = -1 and x = 3/5.<|im_end|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+____
+0.4271506071090698
+Context Tokens: 
+tensor([   531,    264,  26193,   2197,     13, 151645,    198, 151644,    872,
+           198,  13079,   9082,    374,    264,  15207,    304,    279,   3213,
+          9901,     13, 151645,    198, 151644,  77091,    198,   2130,    563,
+           374,    264,  15207,    304,    279,   3213,   9901,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+act a confidential document.<|im_end|>
+<|im_start|>user
+John Smith is a suspect in the recent murder.<|im_end|>
+<|im_start|>assistant
+______ is a suspect in the recent murder.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ correct
+0.41864120960235596
+Context Tokens: 
+tensor([   374,    537,  12607,    504,    279,   1102,    315,    279,  13316,
+           729,     13,   1096,   3363,    429,    364,   2408,    917,      6,
+           686,   7146,    330,   9707,   4337,   3263,    576,   4396,   2038,
+          1265,    387,    847,    917,    284,    847,    917,  17181,    445,
+            39,   1827, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ is not assigned from the result of the strip function. This means that 'mystring' will remain "Hello World". The correct code should be mystring = mystring.strip("H").<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+2
+0.4186234772205353
+Context Tokens: 
+tensor([  3076,    315,    220,     16,     15,    323,    220,     16,     20,
+           374,   1124,  11520,  26888,     90,     16,     15,   4955,   1733,
+           220,     16,     20,  51185,     16,     17,     13,     17,     20,
+            59,    568, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ mean of 10 and 15 is \(\sqrt{10\times 15}=12.25\).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+1
+0.4172510802745819
+Context Tokens: 
+tensor([  2661,    279,  10578,    374,    510,     34,    284,    220,     17,
+           353,  51745,    353,    435,    345,   2870,    356,    374,    279,
+         74926,     11,  51745,    374,    220,     18,     13,     16,     19,
+           323,    435,    374,    279,  10578,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ given the radius is:
+C = 2 * π * r,
+where C is the circumference, π is 3.14 and r is the radius.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(284, 309, 335)
+.
+0.41690298914909363
+Context Tokens: 
+tensor([   15,    13,    18,   817,   220,    16,    15,    15,    11,    15,
+           15,    15,   311,   220,    16,    17,   817,   220,    16,    15,
+           15,    11,    15,    15,    15,    13,  4710,  6746,    25, 21707,
+        46632, 24624,   715, 26406,   220,    18,    25,   547,   808,    13,
+        24624,   198,   675,    25,   758,   220,    17,    15,    16,    23,
+          198])
+Decoded Text:
+0.3 per 100,000 to 12 per 100,000. 
+
+Category: Gun Violence Statistics 
+Topic 3: U.S. Statistics
+Name: In 2018
+
+---------------------------
+Max Activation Value: 
+(104, 129, 155)
+ However
+0.4162866473197937
+Context Tokens: 
+tensor([27383,    13,   576,  2197, 29257, 16555,  9569, 27383,   438,   279,
+         1160,   315, 37998,  4345,  1995,   369,   279,  7428,   315, 16124,
+          476,  1008, 38170, 14056,    13,  4354,    11,   432,  1558,   537,
+         4263,   279,  3151,  5413,  1483,   311, 21585,  7698,  9569, 27383,
+           11,  1741,   438, 98097, 14298,   476, 39731,  8776,    13, 22406,
+           11])
+Decoded Text:
+ theft. The document accurately describes identity theft as the act of stealing personal information for the purpose of fraud or other malicious acts. However, it does not discuss the specific methods used to perpetrate identity theft, such as phishing emails or malware attacks. Additionally,
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ all
+0.41539573669433594
+Context Tokens: 
+tensor([  553, 12375, 27630, 19501,   382,    40, 39220,  4172, 39566,   438,
+          264,  9437,   198,  4792, 47902,   389,  1550,   297, 93578,   348,
+         3831,   323, 34131,   345,  4498,   678,   518,  3055,   358,  5485,
+          264, 13428,   345,    32,  3468,    11,   315, 20748,   294,  2649,
+          347,  8669,   280, 39726,   577,   279, 21800,    11, 23969,   279,
+        12408])
+Decoded Text:
+ by William Wordsworth.
+
+I wander'd lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees
+---------------------------
+Max Activation Value: 
+(52, 77, 103)
+is
+0.4153915047645569
+Context Tokens: 
+tensor([   715,  65006,  36776,   4489,    553,    619,   2013,   2013,     13,
+         79303,    715,   6691,  18971,    315,  19939,    323,   6647,    553,
+          9857,    431,   2013,     13,  11565,    715,  11278,    285,  12258,
+         30909,  56786,    553,  25179,  31828,   1515,    715,  13431,  55150,
+           553,  24986,  15681,  94794,    715,  65006,   6210,  72078,  41059,
+           553,  19626,  36412,     69,   1854, 151645])
+Decoded Text:
+ 
+-The Hobbit by J.R.R. Tolkien 
+-A Song of Ice and Fire by George R.R. Martin 
+-His Dark Materials trilogy by Philip Pullman 
+-Eragon by Christopher Paolini 
+-The Kingkiller Chronicle by Patrick Rothfuss<|im_end|>
+---------------------------
+Max Activation Value: 
+(73, 98, 124)
+1
+0.4151197671890259
+Context Tokens: 
+tensor([   23,    11,    19,    23,    20,   296,   701, 32580,   506, 40001,
+          320,    23,    11,    16,    23,    23,   296,   701,   422, 43156,
+          351, 20679,   320,    23,    11,    16,    21,    22,   296,   701,
+         2363,   300,  9835,   320,    23,    11,    16,    21,    18,   296,
+          701,   451, 19372,  4270, 13718,   320,    23,    11,    16,    17,
+           21])
+Decoded Text:
+8,485 m), Cho Oyu (8,188 m), Dhaulagiri (8,167 m), Manaslu (8,163 m), Nanga Parbat (8,126
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ once
+0.4148339033126831
+Context Tokens: 
+tensor([27630, 19501,   382,    40, 39220,  4172, 39566,   438,   264,  9437,
+          198,  4792, 47902,   389,  1550,   297, 93578,   348,  3831,   323,
+        34131,   345,  4498,   678,   518,  3055,   358,  5485,   264, 13428,
+          345,    32,  3468,    11,   315, 20748,   294,  2649,   347,  8669,
+          280, 39726,   577,   279, 21800,    11, 23969,   279, 12408,   345,
+        97244])
+Decoded Text:
+ Wordsworth.
+
+I wander'd lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Flutter
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+8
+0.41398680210113525
+Context Tokens: 
+tensor([ 69919,   5344,     30, 151645,    198, 151644,  77091,    198,    785,
+          5344,    389,    264,    220,     16,  20972,   3072,   4152,    311,
+           279,  69919,   5344,    374,    220,     24,     13,     23,    451,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ gravitational force?<|im_end|>
+<|im_start|>assistant
+The force on a 1 kg mass due to the gravitational force is 9.8 N.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ing
+0.4132120907306671
+Context Tokens: 
+tensor([   358,   5485,    264,  13428,    345,     32,   3468,     11,    315,
+         20748,    294,   2649,    347,   8669,    280,  39726,    577,    279,
+         21800,     11,  23969,    279,  12408,    345,  97244,    287,    323,
+         27966,    304,    279,  45285,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+1
+0.4097019135951996
+Context Tokens: 
+tensor([   23,    11,    16,    23,    23,   296,   701,   422, 43156,   351,
+        20679,   320,    23,    11,    16,    21,    22,   296,   701,  2363,
+          300,  9835,   320,    23,    11,    16,    21,    18,   296,   701,
+          451, 19372,  4270, 13718,   320,    23,    11,    16,    17,    21,
+          296,   701,   323,  1527,  6861,   399,    64,   320,    23,    11,
+           15])
+Decoded Text:
+8,188 m), Dhaulagiri (8,167 m), Manaslu (8,163 m), Nanga Parbat (8,126 m), and Annapurna (8,0
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+anged
+0.4084346890449524
+Context Tokens: 
+tensor([   11,   821,     8,   715,   262,   770,    25,   715,   286,  2436,
+         9517,   284,  5656,  6958,  9517,    11,   821,     8, 48426,   262,
+          671,   470,   279,   320,  3185,  3726,     8,  2436,  7445,   715,
+          262,   470,  2436, 48426,     2,  5712,   311,  2711,   264,  2661,
+          821,   715,   750,  2711,  6958,    11,   821,  1648,   715,  6926,
+          262])
+Decoded Text:
+, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+   
+---------------------------

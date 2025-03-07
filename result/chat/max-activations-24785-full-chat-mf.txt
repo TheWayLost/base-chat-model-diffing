@@ -1,0 +1,412 @@
+Max Activation Value: 
+(0, 23, 49)
+,
+8.83233642578125
+Context Tokens: 
+tensor([151644,   8948,    198,  23227,    551,    279,   2701,   1119,    220,
+            19,  11059,     13, 151645,    198, 151644,    872,    198,  50241,
+          3362,     11,  21958,     11,   8162,     11,  51210, 151645,    198,
+        151644,  77091,    198,   6746,    220,     16,     25,  75824,    715,
+         10054,    220,     17,     25,  21958,    715,  10054,    220,     18,
+            25,   8162,    715,   6746])
+Decoded Text:
+<|im_start|>system
+Organize the following into 4 categories.<|im_end|>
+<|im_start|>user
+Banana, Orange, Apple, Lemon<|im_end|>
+<|im_start|>assistant
+Category 1: Banana 
+ Category 2: Orange 
+ Category 3: Apple 
+Category
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+,
+8.585144996643066
+Context Tokens: 
+tensor([151644,   8948,    198,     34,   7593,    551,    279,   2701,   3589,
+          1119,  23880,    323,  25322,     13, 151645,    198, 151644,    872,
+           198,  41969,     11,   3261,  89229,     11,  85935,     11,  22730,
+         25908, 151645,    198, 151644,  77091,    198,  42612,    455,   4788,
+            25,   3261,  89229,     11,  85935,    198,     37,  67898,     25,
+         21958,     11,  22730,  25908, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Categorize the following items into vegetables and fruits.<|im_end|>
+<|im_start|>user
+Orange, Carrots, Onion, Bananas<|im_end|>
+<|im_start|>assistant
+Vegetables: Carrots, Onion
+Fruits: Orange, Bananas<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+,
+8.440980911254883
+Context Tokens: 
+tensor([   315,  25322,   1119,   1378,  11059,     25,    434,  67898,    448,
+         19056,    323,  25322,   2041,  19056,     13, 151645,    198, 151644,
+           872,    198,  87747,     11,  23268,     11,  72600,     11,  67246,
+        151645,    198, 151644,  77091,    198,     37,  67898,    448,  19056,
+            25,  23268,     11,  72600,    198,     37,  67898,   2041,  19056,
+            25,  43096,     11,  67246, 151645,    198])
+Decoded Text:
+ of fruits into two categories: Fruits with seeds and fruits without seeds.<|im_end|>
+<|im_start|>user
+banana, apple, strawberry, avocado<|im_end|>
+<|im_start|>assistant
+Fruits with seeds: apple, strawberry
+Fruits without seeds: banana, avocado<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+,
+8.353310585021973
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   1119,   9898,
+            11,  10779,     11,    323,  32972, 151645,    198, 151644,    872,
+           198,  85839,   4916,     11,  23285,  16144,     11,  45740, 151645,
+           198, 151644,  77091,    198,  85839,   4916,     25,  17838,    198,
+         42540,  16144,     25,  49316,    198,  78089,     25,  21292, 151645,
+           198, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Classify the following into animals, plants, and minerals<|im_end|>
+<|im_start|>user
+Oak tree, copper ore, elephant<|im_end|>
+<|im_start|>assistant
+Oak tree: Plant
+ Copper ore: Mineral
+ Elephant: Animal<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+,
+8.29520320892334
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  15298,    438,
+          2987,   9314,    476,  52708,   1447,     44,  13571,  34167,     11,
+         53653,  32466,     11,  13808,   3854,  40320, 151645,    198, 151644,
+         77091,    198,     44,  13571,  34167,     25,   1230,  37028,    715,
+         22571,  32240,  63546,     25,   1230,  37028,    715,  32904,   3854,
+         40320])
+Decoded Text:
+<|im_start|>system
+Classify the following foods as either healthy or unhealthy:
+
+Mashed potatoes, Caesar salad, Poached salmon<|im_end|>
+<|im_start|>assistant
+Mashed potatoes: Unhealthy 
+Caesar Salad: Unhealthy 
+Poached salmon
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+,
+8.277549743652344
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2661,   3589,   4092,
+           311,    862,   2997,     13, 151645,    198, 151644,    872,    198,
+            47,   7256,    263,     11,  45770,     11,   4492,   7183, 151645,
+           198, 151644,  77091,    198,     47,   7256,    263,   1365,  23331,
+           198,     35,   1942,   1365,  23331,    198,  13218,   7183,   1365,
+         23331, 151645,    198, 151643])
+Decoded Text:
+<|im_start|>system
+Classify the given items according to their family.<|im_end|>
+<|im_start|>user
+Pigeon, Duck, Swallow<|im_end|>
+<|im_start|>assistant
+Pigeon – Bird
+Duck – Bird
+Swallow – Bird<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+,
+8.215471267700195
+Context Tokens: 
+tensor([   279,   2701,   3589,   1119,    825,    315,    279,   2701,  11059,
+            25,   3607,     11,  17438,     11,    476,  14549,     13, 151645,
+           198, 151644,    872,    198,  84195,     11,  33289,     11,  23268,
+        151645,    198, 151644,  77091,    198,  84195,     25,  29239,    198,
+         29754,    596,     25,  53658,    198,  26567,     25,  12098, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the following items into one of the following categories: food, clothing, or furniture.<|im_end|>
+<|im_start|>user
+Chair, jeans, apple<|im_end|>
+<|im_start|>assistant
+Chair: Furniture
+Jeans: Clothing
+Apple: Food<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+,
+8.127118110656738
+Context Tokens: 
+tensor([151644,   8948,    198,  22550,    287,    279,   2701,   5837,   3118,
+           389,    862,  29730,    817,  52055,     13, 151645,    198, 151644,
+           872,    198,  22282,     11,  42776,     11,   6864,     11,   7279,
+        151645,    198, 151644,  77091,    198,     16,     13,   7279,    198,
+            17,     13,   6864,    198,     18,     13,   5616,    198,     19,
+            13,  42776, 151645,    198, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Ranking the following countries based on their GDP per capita.<|im_end|>
+<|im_start|>user
+China, Hungary, Canada, USA<|im_end|>
+<|im_start|>assistant
+1. USA
+2. Canada
+3. China
+4. Hungary<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+,
+8.055693626403809
+Context Tokens: 
+tensor([151644,   8948,    198,     34,   7593,    551,    279,   2661,   1140,
+           315,   9898,     13, 151645,    198, 151644,    872,    198,  45339,
+         26924,     11,  28390,     11,  21851, 151645,    198, 151644,  77091,
+           198,     44,   8666,    278,    320,  45339,  26924,     11,  21851,
+           701,   1644,    610,  57344,    320,  72908,      8, 151645,    198,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+Categorize the given list of animals.<|im_end|>
+<|im_start|>user
+Elephant, Spider, Cow<|im_end|>
+<|im_start|>assistant
+Mammal (Elephant, Cow), Arachnid (Spider)<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+,
+8.053837776184082
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   3589,    438,
+          2987,   6437,    476,  14473,     13, 151645,    198, 151644,    872,
+           198,  28253,     11,  13163,     11,   9509, 151645,    198, 151644,
+         77091,    198,  28253,     25,  14473,     11,  30919,     25,   6437,
+            11,  12500,     25,   6437,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Classify the following items as either solid or liquid.<|im_end|>
+<|im_start|>user
+Water, sugar, steel<|im_end|>
+<|im_start|>assistant
+Water: liquid, Sugar: solid, Steel: solid.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+,
+8.019997596740723
+Context Tokens: 
+tensor([151644,   8948,    198,  10231,    279,   1140,    315,   3589,    553,
+          3349,     13, 151645,    198, 151644,    872,    198,  26567,     11,
+         75824,     11,  21958,    481,    400,     18,     11,    400,     16,
+            11,    400,     17, 151645,    198, 151644,  77091,    198,  50241,
+          3362,    481,    400,     16,     11,  21958,    481,    400,     17])
+Decoded Text:
+<|im_start|>system
+Sort the list of items by price.<|im_end|>
+<|im_start|>user
+Apple, Banana, Orange - $3, $1, $2<|im_end|>
+<|im_start|>assistant
+Banana - $1, Orange - $2
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+,
+8.001124382019043
+Context Tokens: 
+tensor([151644,   8948,    198,  23227,    551,    279,   2701,   1119,    220,
+            19,  11059,     13, 151645,    198, 151644,    872,    198,  50241,
+          3362,     11,  21958,     11,   8162,     11,  51210, 151645,    198,
+        151644,  77091,    198,   6746,    220,     16,     25,  75824,    715,
+         10054,    220,     17,     25,  21958,    715,  10054,    220,     18,
+            25,   8162])
+Decoded Text:
+<|im_start|>system
+Organize the following into 4 categories.<|im_end|>
+<|im_start|>user
+Banana, Orange, Apple, Lemon<|im_end|>
+<|im_start|>assistant
+Category 1: Banana 
+ Category 2: Orange 
+ Category 3: Apple
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+,
+7.981035232543945
+Context Tokens: 
+tensor([151644,   8948,    198,  45695,    279,   2701,   1140,  27790,   2673,
+            13, 151645,    198, 151644,    872,    198,  22377,     11,  74194,
+            11,  43096,     11,  38734, 151645,    198, 151644,  77091,    198,
+         19099,   4330,     11,  43096,     11,  74194,     11,  23268, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+Reverse the following list alphabetically.<|im_end|>
+<|im_start|>user
+apple, carrot, banana, potato<|im_end|>
+<|im_start|>assistant
+potato, banana, carrot, apple<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+,
+7.959049224853516
+Context Tokens: 
+tensor([  3040,  74217,     11,   5157,    279,    825,    879,   1030,    279,
+          1429,   6849,  38961, 151645,    198, 151644,    872,    198,   8949,
+         65934,     11,   8596,  35493,     11,  68539,  39538,     11,  11885,
+          2823,  53701, 151645,    198, 151644,  77091,    198,  38627,   2823,
+         53701,   1030,    279,   1429,   6849,  38961,    438,    264,  12156,
+            11,    438,    566,    702,   7172,   8176])
+Decoded Text:
+ four CEOs, choose the one who had the most successful tenure<|im_end|>
+<|im_start|>user
+Mark Zuckerberg, Bill Gates, Elon Musk, Jeff Bezos<|im_end|>
+<|im_start|>assistant
+Jeff Bezos had the most successful tenure as a CEO, as he has increased Amazon
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+,
+7.956064224243164
+Context Tokens: 
+tensor([151644,   8948,    198,     34,   7593,    551,    279,   2701,   3589,
+          1119,  23880,    323,  25322,     13, 151645,    198, 151644,    872,
+           198,  41969,     11,   3261,  89229,     11,  85935,     11,  22730,
+         25908, 151645,    198, 151644,  77091,    198,  42612,    455,   4788,
+            25,   3261,  89229,     11,  85935,    198,     37,  67898,     25,
+         21958,     11,  22730,  25908])
+Decoded Text:
+<|im_start|>system
+Categorize the following items into vegetables and fruits.<|im_end|>
+<|im_start|>user
+Orange, Carrots, Onion, Bananas<|im_end|>
+<|im_start|>assistant
+Vegetables: Carrots, Onion
+Fruits: Orange, Bananas
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+,
+7.843286514282227
+Context Tokens: 
+tensor([   279,   1140,    315,   9898,   1119,   1378,  11059,   4092,    311,
+           862,  70599, 151645,    198, 151644,    872,    198,  19371,   1127,
+            25,   8251,     11,  51735,     11,  45198,   6241,     11,  45740,
+            11,  51735,     11,  50019, 151645,    198, 151644,  77091,    198,
+         41957,   1737,     86,   6293,   9898,     25,   8251,     11,  51735,
+            11,  45198,   6241,     11,  45740,    198])
+Decoded Text:
+ the list of animals into two categories according to their habitats<|im_end|>
+<|im_start|>user
+Animals: cat, tiger, gorilla, elephant, tiger, whale<|im_end|>
+<|im_start|>assistant
+Land-dwelling animals: cat, tiger, gorilla, elephant
+
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+,
+7.8245954513549805
+Context Tokens: 
+tensor([151644,   8948,    198,  10231,    279,   2701,   1140,    304,  83298,
+          1973,     13, 151645,    198, 151644,    872,    198,  25406,  72231,
+            11,  29239,     11,   1818,   2300, 151645,    198, 151644,  77091,
+           198,     37,  24578,     11,   8055,  72231,     11,   1818,   2300,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+Sort the following list in alphabetical order.<|im_end|>
+<|im_start|>user
+Camouflage, Furniture, Plaster<|im_end|>
+<|im_start|>assistant
+Furniture, Camouflage, Plaster<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+,
+7.821900367736816
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,   2997,   4916,   3118,    389,
+           279,   2661,   5036,     13, 151645,    198, 151644,    872,    198,
+         13079,     11,  50870,     11,  12375,     11,   8397, 151645,    198,
+        151644,  77091,    198,  13079,    198,   7360,     10,    381,  12061,
+         22410,    198,    262,   9248,    262,    488,    381,  44787,    198,
+           262,   9248,    262,    488])
+Decoded Text:
+<|im_start|>system
+Construct a family tree based on the given names.<|im_end|>
+<|im_start|>user
+John, Martha, William, Robert<|im_end|>
+<|im_start|>assistant
+John
+|
++----Martha
+    |
+    +----William
+    |
+    +
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+,
+7.792575836181641
+Context Tokens: 
+tensor([151644,   8948,    198,     34,   7593,    551,    279,   2701,   3589,
+           438,   2987,  14549,    476,   9780,   3589,     13, 151645,    198,
+        151644,    872,    198,  84195,     11,  61202,     11,  47850, 151645,
+           198, 151644,  77091,    198,     37,  24578,     11,  19354,   1509,
+            11,  19354,   1509, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Categorize the following items as either furniture or kitchen items.<|im_end|>
+<|im_start|>user
+Chair, Knife, Fork<|im_end|>
+<|im_start|>assistant
+Furniture, Kitchen item, Kitchen item<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+,
+7.755648136138916
+Context Tokens: 
+tensor([   279,   1140,    315,  25322,   1119,   1378,  11059,     25,    434,
+         67898,    448,  19056,    323,  25322,   2041,  19056,     13, 151645,
+           198, 151644,    872,    198,  87747,     11,  23268,     11,  72600,
+            11,  67246, 151645,    198, 151644,  77091,    198,     37,  67898,
+           448,  19056,     25,  23268,     11,  72600,    198,     37,  67898,
+          2041,  19056,     25,  43096,     11,  67246])
+Decoded Text:
+ the list of fruits into two categories: Fruits with seeds and fruits without seeds.<|im_end|>
+<|im_start|>user
+banana, apple, strawberry, avocado<|im_end|>
+<|im_start|>assistant
+Fruits with seeds: apple, strawberry
+Fruits without seeds: banana, avocado
+---------------------------

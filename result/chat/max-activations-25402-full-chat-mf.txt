@@ -1,0 +1,335 @@
+Max Activation Value: 
+(0, 13, 39)
+ correct
+0.7391839623451233
+Context Tokens: 
+tensor([151644,   8948,    198,   4036,    419,  11652,    323,   1281,   2704,
+           432,    374,  68125,   7022,   4396,     13, 151645,    198, 151644,
+           872,    198,     40,   3937,    311,    279,  11919,  33253,     11,
+           323,   1865,   2704,   3695,   1045,  18404,     13, 151645,    198,
+        151644,  77091,    198])
+Decoded Text:
+<|im_start|>system
+Edit this sentence and make sure it is grammatically correct.<|im_end|>
+<|im_start|>user
+I went to the shopping mall, and made sure buy some presents.<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+E
+0.6901273727416992
+Context Tokens: 
+tensor([    16,     15,    311,   2331,    220,     16,     21,     13, 151645,
+           198, 151644,    872,    198,   2833,     25,    220,     16,     16,
+            15, 151645,    198, 151644,  77091,    198,     21,     36, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+10 to base 16.<|im_end|>
+<|im_start|>user
+Number: 110<|im_end|>
+<|im_start|>assistant
+6E<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+upiter
+0.6351126432418823
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    264,  11580,    504,   1039,  12941,
+          1849,     13, 151645,    198, 151644,  77091,    198,     41,  19519,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Name a planet from our solar system.<|im_end|>
+<|im_start|>assistant
+Jupiter<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Tag
+0.6262590885162354
+Context Tokens: 
+tensor([151644,   8948,    198,   5668,    279,   4128,    315,    279,   2701,
+          1467, 151645,    198, 151644,    872,    198,     42,    546,   7157,
+          2677,   1030,    264,  11677,    369,   1947,     13,   2932,   4829,
+           311,  22729])
+Decoded Text:
+<|im_start|>system
+Tag the language of the following text<|im_end|>
+<|im_start|>user
+Kareena always had a passion for art. She wanted to pursue
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_start|>
+0.566209077835083
+Context Tokens: 
+tensor([151644,   8948,    198,  28851,    705,    448,    264,    435,   3310,
+        151645,    198, 151644,  77091,    198,   3838,    594,   2480,    315,
+          6894,    714,    646,    944,   1787,    264,   3175,   5296,   5267,
+         16141,     25,    362,  26278,     13, 151645,    198, 151643, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+Come up with a riddle<|im_end|>
+<|im_start|>assistant
+What's full of keys but can't open a single lock?
+Answer: A piano.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.5462803244590759
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   5109,     11,
+          1477,    279,   7192,    897,     13, 151645,    198, 151644,    872,
+           198,   1649,     25,    314,     16,     15,     11,    220,     18,
+            11,    220,     17,     20])
+Decoded Text:
+<|im_start|>system
+Given a set of numbers, find the maximum value.<|im_end|>
+<|im_start|>user
+Set: {10, 3, 25
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.5462803244590759
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   8063,   5109,
+           320,     16,     11,     17,     11,    220,     18,     11,    220,
+            19,     11,    220,     20,     11,    220,     21,     11,    220,
+            22,     11,    220,     23])
+Decoded Text:
+<|im_start|>system
+Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.5462803244590759
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,  23261,     11,
+         10339,    279,  49700,   6131,    553,   1105,     13, 151645,    198,
+        151644,    872,    198,    785,   3729,    374,   3908,    323,    582,
+          1410,    728,   8380, 151645])
+Decoded Text:
+<|im_start|>system
+Given a set of lyrics, explain the meanings implied by them.<|im_end|>
+<|im_start|>user
+The night is young and we could go wild<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.5462803244590759
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   3501,     11,
+         11047,    279,   3082,    315,    279,   6083,   3465,     13, 151645,
+           198, 151644,    872,    198,      7,     16,     11,    220,     17,
+             8,    320,     17,     11])
+Decoded Text:
+<|im_start|>system
+Given a set of points, calculate the area of the shape created.<|im_end|>
+<|im_start|>user
+(1, 2) (2,
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+<|im_start|>
+0.5300309062004089
+Context Tokens: 
+tensor([    20,     15,     15,   1189, 151645,    198, 151644,    872,    198,
+             1,   2082,   9788,   1465,  10017,     13,   4600,   2038,     25,
+           220,     20,     15,     15,   1189, 151645,    198, 151644,  77091,
+           198,    785,   1465,   2038,    220,     20,     15,     15,    374,
+           458,   5306,   3538,   1465,     11,  18860,    429,   2494,    702,
+          8048,   4969,    389,    279,   3538,   3108])
+Decoded Text:
+500."<|im_end|>
+<|im_start|>user
+"An unknown error occurred. Error code: 500."<|im_end|>
+<|im_start|>assistant
+The error code 500 is an internal server error, indicating that something has gone wrong on the server side
+---------------------------
+Max Activation Value: 
+(225, 250, 276)
+bot
+0.5286855697631836
+Context Tokens: 
+tensor([   13,  2160,  1052,  4113,   770,   358,   646,  1492,   498,   448,
+           30,  4710, 12792,    25,  2308,    11,   429,   594,   432,    13,
+         9731,   498,    13,  4710, 15672,  6331,    25,  1446,  2299, 10565,
+           13, 12243,   264,  2244,  1899,     0,  5209,   653,   537, 38566,
+          311,  5545,   700,   421,   498,   614,   894,  1008,  4755,    13,
+         7684])
+Decoded Text:
+. Is there anything else I can help you with? 
+
+Customer: No, that's it. Thank you. 
+
+Chatbot: You're welcome. Have a great day! Please do not hesitate to reach out if you have any other questions. Good
+---------------------------
+Max Activation Value: 
+(113, 138, 164)
+ T
+0.5250710844993591
+Context Tokens: 
+tensor([   262,    434,    688,    434,    198,    220,    434,    262,    434,
+           262,    350,    262,    350,    688,    350,    198,    220,    434,
+           262,    434,    262,    434,    262,    350,    688,    350, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+    F          F
+  F    F    T    T          T
+  F    F    F    T          T<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ correct
+0.5232140421867371
+Context Tokens: 
+tensor([151644,   8948,    198,   4036,    279,   1467,    773,    429,    432,
+           374,  68125,    774,   5774,   4396,     13, 151645,    198, 151644,
+           872,    198,   2132,    387,   1075,    429,   1045,   3039, 151645,
+           198, 151644,  77091,    198,   2132,    374,   1075,    429,   7025,
+            13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Edit the text so that it is grammaticaly correct.<|im_end|>
+<|im_start|>user
+It be like that some times<|im_end|>
+<|im_start|>assistant
+It is like that sometimes.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ correct
+0.5195567011833191
+Context Tokens: 
+tensor([151644,   8948,    198,   3872,    279,  11652,  68125,   7022,   4396,
+            30, 151645,    198, 151644,    872,    198,    785,   8171,    572,
+          5619,    448,   1059,  23069,     13, 151645,    198, 151644,  77091,
+           198,   9454,     11,    279,  11652,    374,  68125])
+Decoded Text:
+<|im_start|>system
+Is the sentence grammatically correct?<|im_end|>
+<|im_start|>user
+The boy was playing with her toys.<|im_end|>
+<|im_start|>assistant
+Yes, the sentence is gramm
+---------------------------
+Max Activation Value: 
+(41, 66, 92)
+ T
+0.518213152885437
+Context Tokens: 
+tensor([30757,    47,  1464,  1207,     8,   348,   320,    49,  1464,   328,
+          340,   220,   350,   262,   350,   262,   350,   262,   350,   688,
+          350,   198,   220,   350,   262,   350,   262,   434,   262,   434,
+          688,   434,   198,   220,   350,   262,   434,   262,   350,   262,
+          350,   688,   350,   198,   220,   350,   262,   434,   262,   434,
+          262])
+Decoded Text:
+ (~P -> Q) v (R -> S)
+  T    T    T    T          T
+  T    T    F    F          F
+  T    F    T    T          T
+  T    F    F   
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+aly
+0.5056107640266418
+Context Tokens: 
+tensor([151644,   8948,    198,   4036,    279,   1467,    773,    429,    432,
+           374,  68125,    774,   5774,   4396,     13, 151645,    198, 151644,
+           872,    198,   2132,    387,   1075,    429,   1045,   3039, 151645,
+           198, 151644,  77091,    198,   2132,    374,   1075,    429,   7025,
+            13, 151645])
+Decoded Text:
+<|im_start|>system
+Edit the text so that it is grammaticaly correct.<|im_end|>
+<|im_start|>user
+It be like that some times<|im_end|>
+<|im_start|>assistant
+It is like that sometimes.<|im_end|>
+---------------------------
+Max Activation Value: 
+(113, 138, 164)
+ there
+0.5029305219650269
+Context Tokens: 
+tensor([  9419,    311,   3635,  51256,     11,   6388,    311,   4623,   4709,
+           315,  72019,     13,   3892,  96793,    646,   1083,   2990,    311,
+          7172,  12499,  39489,    304,    279,  16566,    438,   1052,    525,
+         16745,  12408,    311,   1896,    705,    279,   6819,   2337,   7249,
+         73667,     11,    892,    646,  16792,    311,   9977,   2297,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ species to become endangered, leading to further loss of biodiversity. Deforestation can also lead to increased carbon dioxide in the atmosphere as there are fewer trees to take up the gas during photosynthesis, which can contribute to climate change.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(87, 112, 138)
+ C
+0.5013434886932373
+Context Tokens: 
+tensor([  220,   362, 13398,   269,   220,   434,   198,    34,   220,   479,
+          220,   362, 13398,   269,   220,   434,   271, 32848,   715,    37,
+          220,   422,   220,   479,   220,   356,   198,    32, 13398,   269,
+          220,   422,   220,   362, 13398,   269,   220,   434,   271,  1143,
+        29869,   198,    34,   220,   479,   220,   362, 13398,   269,   220,
+          434])
+Decoded Text:
+  A-minor  F
+C  G  A-minor  F
+
+Bridge 
+F  D  G  C
+A-minor  D  A-minor  F
+
+Chorus
+C  G  A-minor  F
+---------------------------
+Max Activation Value: 
+(0, 1, 27)
+system
+0.501186728477478
+Context Tokens: 
+tensor([151644,   8948,    198,  27374,    323,  12872,   1378,   4494,    315,
+          6366,  14155,     13, 151645,    198, 151644,  77091,    198,   3862,
+           525,   1378,   1887,   4494,    315,   6366,  14155,     25,   8774])
+Decoded Text:
+<|im_start|>system
+Compare and contrast two types of computer networks.<|im_end|>
+<|im_start|>assistant
+There are two main types of computer networks: Local
+---------------------------
+Max Activation Value: 
+(0, 1, 27)
+system
+0.501186728477478
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   1882,    315,   7249,
+         73667,    323,   3170,    374,    432,   2989,     30, 151645,    198,
+        151644,  77091,    198,  31772,  73667,    374,    279,   1882,    553])
+Decoded Text:
+<|im_start|>system
+What is the process of photosynthesis and why is it important?<|im_end|>
+<|im_start|>assistant
+Photosynthesis is the process by
+---------------------------

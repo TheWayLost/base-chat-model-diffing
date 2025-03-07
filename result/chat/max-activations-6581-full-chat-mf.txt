@@ -1,0 +1,317 @@
+Max Activation Value: 
+(0, 20, 46)
+Coffee
+0.9157607555389404
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,   3482,   2150,    369,    264,
+          2562,    311,   5263,   6002,  19805,     13, 151645,    198, 151644,
+           872,    198,  82280,   3539,     13, 151645,    198, 151644,  77091,
+           198,  82280,   3539,  14304,     82,   3910,   1265,    387,   6188,
+           448,   1196,   3139,    304,   3971,     13,   1084,   1265,    614,
+          2797])
+Decoded Text:
+<|im_start|>system
+Develop a web page for a business to increase customer engagement.<|im_end|>
+<|im_start|>user
+Coffee Co.<|im_end|>
+<|im_start|>assistant
+Coffee Co.’s website should be designed with user experience in mind. It should have clear
+---------------------------
+Max Activation Value: 
+(267, 292, 318)
+ This
+0.9075660705566406
+Context Tokens: 
+tensor([38207,    13, 10328,   279,  8585,  8437, 18875, 84592,   291,   279,
+        20120,    11,   862, 18580,   323, 38647, 16523,  6069,   311,   279,
+         4709,   315,   279,  8049,    13,  1096, 18019, 74748,   279,   835,
+          315,  8585, 34279,  2355,   304,  4505,    13,   576, 19588,   315,
+        76375,  2058, 13352,  3351,    11,   323,   432, 23613,   291,   279,
+         7855])
+Decoded Text:
+ warfare. Although the French forces greatly outnumbered the allies, their strategic and tactical mistake led to the loss of the battle. This defeat signaled the end of French imperial power in Europe. The legacy of Waterloo still stands today, and it cemented the British
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+coffee
+0.9055373668670654
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   8177,   1943,    304,    279,
+           914,    315,   4244, 151645,    198, 151644,    872,    198,  78117,
+         93805,   2123, 151645,    198, 151644,  77091,    198,    785,   8177,
+          1943,    374,    330,  87760,    482,  30557,   3263, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find the hidden message in the string of words<|im_end|>
+<|im_start|>user
+coffee aficionado<|im_end|>
+<|im_start|>assistant
+The hidden message is "caffeine lover".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ of
+0.8681362867355347
+Context Tokens: 
+tensor([   284,    220,     20,   9961,     11,  18040,    284,    220,     21,
+          9961,     11,    323,  10584,    284,    220,     22,   9961,     13,
+        151645,    198, 151644,  77091,    198,    785,   2629,    315,    279,
+         11067,    315,  21495,  19360,    374,    220,     16,     23,   9961,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ = 5 cm, BC = 6 cm, and AC = 7 cm.<|im_end|>
+<|im_start|>assistant
+The sum of the sides of triangle ABC is 18 cm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   4244,    553,
+           862,  68125,  61072,  11059,     25,   4227,     11,   7040,     11,
+          6157, 151645,    198, 151644,  77091,    198,  66946,     25,   4227,
+            26,   2410])
+Decoded Text:
+<|im_start|>system
+Classify the following words by their grammatical categories: walk, interesting, quickly<|im_end|>
+<|im_start|>assistant
+Verb: walk; Ad
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  11652,    438,
+          6785,     11,   8225,     11,    476,  20628,     13, 151645,    198,
+        151644,    872,    198,     40,   2776,   2087,    311,    279,   3553,
+         16577,     13])
+Decoded Text:
+<|im_start|>system
+Classify the following sentence as positive, negative, or neutral.<|im_end|>
+<|im_start|>user
+I'm going to the store tomorrow.
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   5025,   1948,   3757,
+           323,  10244,     13, 151645,    198, 151644,    872,    198,  13079,
+           323,  10244,    525,  36683,     13, 151645,    198, 151644,  77091,
+           198,  13079])
+Decoded Text:
+<|im_start|>system
+Classify the relationship between John and Mary.<|im_end|>
+<|im_start|>user
+John and Mary are siblings.<|im_end|>
+<|im_start|>assistant
+John
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,    821,    448,
+          2326,   9201,     13, 151645,    198, 151644,    872,    198,     69,
+          2519,  10561,     69,  43390,   4886,  11008,   2519,  10561,     69,
+          2519,  10561])
+Decoded Text:
+<|im_start|>system
+Classify the following data with three labels.<|im_end|>
+<|im_start|>user
+fjsklfjdsklfjsklfjskl
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   5114,    438,
+           830,    476,    895,     13, 151645,    198, 151644,    872,    198,
+           785,  13506,   7154,    374,    279,   8426,   5473,    304,    279,
+          2274,     13])
+Decoded Text:
+<|im_start|>system
+Classify the following statement as true or false.<|im_end|>
+<|im_start|>user
+The Supreme Court is the highest court in the US.
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  11652,    438,
+          2987,    264,  45350,    476,  17071,  60075,     13, 151645,    198,
+        151644,    872,    198,    785,   3054,    572,    773,   4017,    432,
+          6476,   1075])
+Decoded Text:
+<|im_start|>system
+Classify the following sentence as either a metaphor or hyperbole.<|im_end|>
+<|im_start|>user
+The room was so hot it felt like
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    419,   1467,    438,  42654,
+           476,  11581,  73431,     13, 151645,    198, 151644,    872,    198,
+           785,  15494,    374,  12943,    311,    387,   2163,    220,     16,
+            18,     13])
+Decoded Text:
+<|im_start|>system
+Classify this text as Fiction or Non-fiction.<|im_end|>
+<|im_start|>user
+The universe is estimated to be around 13.
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2661,  11652,    438,
+          2987,   8225,    476,   6785,     13, 151645,    198, 151644,    872,
+           198,     40,   1366,    311,  16835,    847,   2618,     13, 151645,
+           198, 151644])
+Decoded Text:
+<|im_start|>system
+Classify the given sentence as either negative or positive.<|im_end|>
+<|im_start|>user
+I want to quit my job.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  10455,    438,
+           264,  30371,    315,  11507,     13,   9258,    220,     16,    369,
+         30371,     11,    323,    220,     15,    369,    902,  30371,     13,
+        151645,    198])
+Decoded Text:
+<|im_start|>system
+Classify the following incident as a breach of protocol. Output 1 for breach, and 0 for no breach.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2661,   1946,    438,
+          2987,    264,  32794,     11,   3364,     11,    476,   5492,     13,
+        151645,    198, 151644,    872,    198,  12522,   5193,    264,  32333,
+         32101,    658])
+Decoded Text:
+<|im_start|>system
+Classify the given input as either a poem, story, or song.<|im_end|>
+<|im_start|>user
+Once upon a midnight dreary
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,   1119,   9898,
+            11,  10779,     11,    323,  32972, 151645,    198, 151644,    872,
+           198,  85839,   4916,     11,  23285,  16144,     11,  45740, 151645,
+           198, 151644])
+Decoded Text:
+<|im_start|>system
+Classify the following into animals, plants, and minerals<|im_end|>
+<|im_start|>user
+Oak tree, copper ore, elephant<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   1509,    438,   2987,
+          9864,    476,  35481,     13, 151645,    198, 151644,    872,    198,
+         50241,   3362, 151645,    198, 151644,  77091,    198,  41415,     25,
+          2308,     11])
+Decoded Text:
+<|im_start|>system
+Classify the item as either animal or vegetable.<|im_end|>
+<|im_start|>user
+Banana<|im_end|>
+<|im_start|>assistant
+Animal: No,
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  11652,   1119,
+           825,    315,    279,   2701,   9201,     25,    508,  30487,     11,
+          8225,     11,  20628,     60, 151645,    198, 151644,    872,    198,
+          5050,  20638])
+Decoded Text:
+<|im_start|>system
+Classify the following sentence into one of the following labels: [positive, negative, neutral]<|im_end|>
+<|im_start|>user
+My laptop
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  13779,   4092,
+           311,   1181,   1894,     13, 151645,    198, 151644,    872,    198,
+         41969, 151645,    198, 151644,  77091,    198,  41969,    374,    264,
+         13753,  84383])
+Decoded Text:
+<|im_start|>system
+Classify the following fruit according to its color.<|im_end|>
+<|im_start|>user
+Orange<|im_end|>
+<|im_start|>assistant
+Orange is a yellow-orange
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2661,   4549,    438,
+          2987,   6785,    476,   8225,  25975,     13, 151645,    198, 151644,
+           872,    198,    785,    501,   1803,    374,    264,  40598,     13,
+           576,  18303])
+Decoded Text:
+<|im_start|>system
+Classify the given article as either positive or negative sentiment.<|im_end|>
+<|im_start|>user
+The new car is a disappointment. The breaks
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Class
+0.8403142094612122
+Context Tokens: 
+tensor([151644,   8948,    198,   1957,   1437,    279,   2701,  11809,   8544,
+        151645,    198, 151644,    872,    198,   7044,   2776,    773,  12035,
+           311,   3947,    847,   2997,    304,   6747,   8958, 151645,    198,
+        151644,  77091])
+Decoded Text:
+<|im_start|>system
+Classify the following tweet topic<|im_end|>
+<|im_start|>user
+"I'm so excited to visit my family in India!"<|im_end|>
+<|im_start|>assistant
+---------------------------

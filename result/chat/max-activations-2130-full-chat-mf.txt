@@ -1,0 +1,313 @@
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.868719100952148
+Context Tokens: 
+tensor([151644,   8948,    198,  11066,    264,  14164,   1948,   1378,  29000,
+            13, 151645,    198, 151644,  77091,    198,    785,  14164,   1265,
+           387,   6188,    448,    279,   4396,  14667,    323,   7236,     13,
+         21144,    804,   1265])
+Decoded Text:
+<|im_start|>system
+Build a bridge between two islands.<|im_end|>
+<|im_start|>assistant
+The bridge should be designed with the correct engineering and materials. Considerations should
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.868719100952148
+Context Tokens: 
+tensor([151644,   8948,    198,  11066,    264,   6236,   6331,  21276,    311,
+          1896,   6002,   1973,     13, 151645,    198, 151644,  77091,    198,
+         12792,     25,  21018,   1052,     11,    358,   4172,   1075,    311,
+          1973,    264,  22502])
+Decoded Text:
+<|im_start|>system
+Build a chatbot dialogue to take customer order.<|im_end|>
+<|im_start|>assistant
+Customer: Hi there, I'd like to order a pizza
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.868719100952148
+Context Tokens: 
+tensor([151644,   8948,    198,  11066,    264,  56763,  36954,    315,    264,
+         11245,  37250,     13, 151645,    198, 151644,  77091,    198,     40,
+           686,   1936,    264,  56763,  36954,    315,    264,  11245,  37250,
+          1667,    264,   8045])
+Decoded Text:
+<|im_start|>system
+Build a miniature replica of a famous landmark.<|im_end|>
+<|im_start|>assistant
+I will build a miniature replica of a famous landmark using a variety
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ an
+7.746042251586914
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    458,  12111,    311,   3378,    279,
+          2701,   5109,     25,    220,     20,     11,    220,     18,     11,
+           220,     24,     11,    220,     16,     13, 151645,    198, 151644,
+         77091,    198,     16])
+Decoded Text:
+<|im_start|>system
+Develop an algorithm to sort the following numbers: 5, 3, 9, 1.<|im_end|>
+<|im_start|>assistant
+1
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ an
+7.746042251586914
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    458,  12111,    311,   1477,    279,
+          7192,   1372,    304,    264,   1140,     13, 151645,    198, 151644,
+         77091,    198,    750,   1477,   6345,  46046,    982,    262,   1932,
+          4273,    284,    220])
+Decoded Text:
+<|im_start|>system
+Develop an algorithm to find the maximum number in a list.<|im_end|>
+<|im_start|>assistant
+def find_max(lst):
+    max_num = 
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.647034645080566
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,   3482,   5980,   3766,    429,
+          1558,    279,   2701, 151645,    198, 151644,    872,    198,  10231,
+            82,   5335,   4092,    311,   5582, 151645,    198, 151644,  77091,
+           198,   1986,   3482])
+Decoded Text:
+<|im_start|>system
+Develop a web-based application that does the following<|im_end|>
+<|im_start|>user
+Sorts images according to category<|im_end|>
+<|im_start|>assistant
+This web
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.647034645080566
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,   3119,    311,   7949,  17728,
+         10431,    304,    264,   2114,     13, 151645,    198, 151644,  77091,
+           198,     32,   3119,    311,   7949,  17728,  10431,    304,    264,
+          2114,    646,   2924])
+Decoded Text:
+<|im_start|>system
+Develop a plan to reduce electricity usage in a home.<|im_end|>
+<|im_start|>assistant
+A plan to reduce electricity usage in a home can include
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.647034645080566
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,   9649,    369,    264,    501,
+          5440,   1985,    429,    646,   6629,   2615,    311,  18478,     13,
+        151645,    198, 151644,  77091,    198,   7981,    501,   5440,   1985,
+           374,    264,   5339])
+Decoded Text:
+<|im_start|>system
+Develop a pitch for a new technology product that can measure access to healthcare.<|im_end|>
+<|im_start|>assistant
+Our new technology product is a platform
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.647034645080566
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,   3482,   2150,    369,    264,
+          2562,    311,   5263,   6002,  19805,     13, 151645,    198, 151644,
+           872,    198,  82280,   3539,     13, 151645,    198, 151644,  77091,
+           198,  82280,   3539])
+Decoded Text:
+<|im_start|>system
+Develop a web page for a business to increase customer engagement.<|im_end|>
+<|im_start|>user
+Coffee Co.<|im_end|>
+<|im_start|>assistant
+Coffee Co
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.647034645080566
+Context Tokens: 
+tensor([151644,   8948,    198,  20444,    264,    220,     19,   3019,   3119,
+           369,  56811,    264,   3491,     13, 151645,    198, 151644,    872,
+           198,   7623,  31928, 151645,    198, 151644,  77091,    198,     16,
+            13,   4230,  46110])
+Decoded Text:
+<|im_start|>system
+Develop a 4 step plan for tackling a problem.<|im_end|>
+<|im_start|>user
+Homelessness<|im_end|>
+<|im_start|>assistant
+1. Create outreach
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    264,   3910,
+           911,  33878,     13, 151645,    198, 151644,  77091,    198,    785,
+         12426,   1265,   4565,    264,   6176,  59512,    429,    374,  65252,
+           323,  32496,     11])
+Decoded Text:
+<|im_start|>system
+Design a logo for a website about recycling.<|im_end|>
+<|im_start|>assistant
+The logo should feature a green motif that is recognizable and memorable,
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    264,   3482,
+          4401,   2813,     13, 151645,    198, 151644,  77091,    198,  20470,
+           264,  12426,    429,    374,   6481,    323,   6584,     13,   5443,
+           264,  10601,    315])
+Decoded Text:
+<|im_start|>system
+Design a logo for a web development company.<|im_end|>
+<|im_start|>assistant
+Design a logo that is modern and professional. Use a combination of
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    279,   2661,
+          2813,     13, 151645,    198, 151644,    872,    198,  13314,   8188,
+        151645,    198, 151644,  77091,    198,     27,   2753,   2550,     29,
+        151645,    198, 151643])
+Decoded Text:
+<|im_start|>system
+Design a logo for the given company.<|im_end|>
+<|im_start|>user
+Example Company<|im_end|>
+<|im_start|>assistant
+<No output><|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,   1736,    369,    264,   3590,
+          3687,   2692,    311,  11926,    279,   2701,   1985, 151645,    198,
+        151644,    872,    198,  55653,  13779,  10876,    645, 151645,    198,
+        151644,  77091,    198])
+Decoded Text:
+<|im_start|>system
+Design a post for a social media account to promote the following product<|im_end|>
+<|im_start|>user
+Fresh fruit smoothie<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,   4625,    311,   3255,   9364,
+         36432,     13, 151645,    198, 151644,  77091,    198,    785,   4625,
+          1265,   6644,   5043,    369,   9364,    829,     11,   2309,     11,
+         16107,     11,    323])
+Decoded Text:
+<|im_start|>system
+Design a database to record employee salaries.<|im_end|>
+<|im_start|>assistant
+The database should contain fields for employee name, position, salary, and
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    264,   6371,
+          3766,     13, 151645,    198, 151644,  77091,    198,    785,  12426,
+          2884,   1265,    387,   4285,     11,   6481,     11,    323,   4911,
+            13,   1084,   1265])
+Decoded Text:
+<|im_start|>system
+Design a logo for a mobile application.<|im_end|>
+<|im_start|>assistant
+The logo design should be simple, modern, and unique. It should
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  15198,   3701,    369,    264,
+           220,     22,   1042,   2310,     13, 151645,    198, 151644,  77091,
+           198,    785,  15198,   3701,   1265,   4565,   9906,    323,  70314,
+          7987,    323,    458])
+Decoded Text:
+<|im_start|>system
+Design a birthday card for a 7 year old.<|im_end|>
+<|im_start|>assistant
+The birthday card should feature bright and cheerful colors and an
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    264,   1682,
+          2453,   4126,     13, 151645,    198, 151644,  77091,    198,    785,
+         12426,   1265,    387,   8205,     11,  56069,    323,  41192,     13,
+          1084,   1265,  28066])
+Decoded Text:
+<|im_start|>system
+Design a logo for a child care center.<|im_end|>
+<|im_start|>assistant
+The logo should be warm, playful and inviting. It should utilize
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  14452,   3239,    369,    279,
+          2701,   3405, 151645,    198, 151644,    872,    198,   3838,    525,
+           279,   4236,   1429,   2989,   5424,    304,    264,   3910,  34589,
+            30, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Design a suitable query for the following question<|im_end|>
+<|im_start|>user
+What are the five most important elements in a website homepage?<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 4, 30)
+ a
+7.60151481628418
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    330,  11654,
+          2660,  13589,    782,   1543,      1, 151645,    198, 151644,  77091,
+           198,    785,   6381,   2660,  13589,    782,   1543,  12426,   1265,
+          4565,    264,  51424])
+Decoded Text:
+<|im_start|>system
+Design a logo for "Acme Limousines"<|im_end|>
+<|im_start|>assistant
+The Acme Limousines logo should feature a rectangular
+---------------------------

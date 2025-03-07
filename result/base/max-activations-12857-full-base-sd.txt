@@ -1,0 +1,326 @@
+Max Activation Value: 
+(103, 128, 154)
+<|im_start|>
+2.8228604793548584
+Context Tokens: 
+tensor([ 23187,  49006,     11,    892,    374,    979,    498,   7146,    279,
+          1852,   1496,    421,    498,    525,  10449,    448,    264,   2155,
+          6961,   1879,    476,   2487,     13, 151645,    198, 151644,  77091,
+           198,  59005,   3840,     11,  60687,    614,  58574,    279,   7286,
+           315,   4345,   9569,     13,  58556,     11,    279,   5244,    572,
+         15503,    389,    279,    656,     11,    714])
+Decoded Text:
+ psychological continuity, which is when you remain the same even if you are presented with a different physical world or body.<|im_end|>
+<|im_start|>assistant
+Throughout history, philosophers have debated the concept of personal identity. Initially, the focus was primarily on the self, but
+---------------------------
+Max Activation Value: 
+(88, 113, 139)
+<|im_start|>
+2.800774335861206
+Context Tokens: 
+tensor([    17,     15,     15,     15,     82,     11,  19619,    304,  11864,
+         25148,    323,   3746,  11502,   7479,     11,    323,   3033,  21786,
+           304,   3412,    323,   4401,     13, 151645,    198, 151644,  77091,
+           198,    785,    547,    808,     13,   8584,    803,   1091,  34617,
+           304,   1379,   1948,    220,     16,     24,     23,     24,    323,
+           220,     17,     15,     16,     24,     11])
+Decoded Text:
+2000s, gains in worker productivity and strong consumer demand, and government investments in research and development.<|im_end|>
+<|im_start|>assistant
+The U.S. economy more than doubled in size between 1989 and 2019,
+---------------------------
+Max Activation Value: 
+(83, 108, 134)
+<|im_start|>
+2.800349473953247
+Context Tokens: 
+tensor([   374,    537,  40196,     11,   3602,    279,   1482,   1584,    315,
+           279,  15093,  11004,    304,    279,   3639,   4180,    702,  80600,
+           323,    702,   3635,  74135,     13, 151645,    198, 151644,  77091,
+           198,    785,   1372,    315,   1251,  19211,    311,  44566,    311,
+           279,   3639,   4180,    702,   7172,     11,   6388,    311,  11004,
+           323,  25573,   2163,    279,   7567,    323])
+Decoded Text:
+ is not uncommon, yet the current state of the immigration debate in the United States has escalated and has become divisive.<|im_end|>
+<|im_start|>assistant
+The number of people wanting to migrate to the United States has increased, leading to debate and controversy around the benefits and
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+<|im_start|>
+2.7713358402252197
+Context Tokens: 
+tensor([   323,   3383,  32662,     13,  15235,    374,   1483,    311,   7269,
+           476,  68611,  68682,   9079,     11,   6157,  10542,  12624,     11,
+           323,   7023,   3853,   4357,     13, 151645,    198, 151644,  77091,
+           198,  15469,    374,    264,   2070,    315,   3920,    429,  21538,
+           311,  45013,    476,  18379,   3738,  17541,   1526,   5440,     13,
+         11445,   8357,    525,  10008,  68682,    323])
+Decoded Text:
+ and task automation. AI is used to improve or automate mundane tasks, quickly identify patterns, and predict future events.<|im_end|>
+<|im_start|>assistant
+AI is a field of study that aims to replicate or enhance human abilities through technology. Its applications are mostly mundane and
+---------------------------
+Max Activation Value: 
+(71, 96, 122)
+<|im_start|>
+2.7498788833618164
+Context Tokens: 
+tensor([  5411,    448,  22742,     11,    438,   1657,    614,  11105,    429,
+           264,   9080,    323,  27730,  29149,   9968,    646,   1492,   1105,
+          5545,    862,  17042,   8845,     13, 151645,    198, 151644,  77091,
+           198,    785,  38095,    315,    264,  62115,  26212, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ popular with athletes, as many have discovered that a rich and varied vegan diet can help them reach their fitness goals.<|im_end|>
+<|im_start|>assistant
+The Benefits of a Vegan Diet<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(79, 104, 130)
+<|im_start|>
+2.732792377471924
+Context Tokens: 
+tensor([  7132,  44512,  70273,    504,   3738,   5702,     11,   1741,    438,
+         19675,  30276,  39273,     13,   1096,  24844,    374,  16626,  13862,
+           311,    438,   9977,   2297,     13, 151645,    198, 151644,  77091,
+           198,  82046,   2297,    374,   8881,    553,  12677,  19675,  30276,
+         39273,     11,  12942,    304,   7172,  31366,    315,  12499,  39489,
+           323,   1008,   8628,  96410,    269,   7132])
+Decoded Text:
+bing gases originating from human activity, such as burning fossil fuels. This phenomenon is commonly referred to as climate change.<|im_end|>
+<|im_start|>assistant
+Climate change is caused by humans burning fossil fuels, resulting in increased concentrations of carbon dioxide and other heat-absorbing
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+<|im_start|>
+2.701627016067505
+Context Tokens: 
+tensor([  1033,    902,   9981,  27723,     11,    714,  19577,  26234,    572,
+          2952,    311,   1477,   1128,   9723,    311,    387,    279,  84536,
+           594,  43210,   2779,   4540,     13, 151645,    198, 151644,  77091,
+           198,    785,   1429,  31327,   5702,   4961,    304,    279,   4282,
+          1895,    374,    279,  18335,    315,    279,  84536,    594,  43210,
+          2779,   4540,     13,   1096,  14807,    429])
+Decoded Text:
+ were no apparent witnesses, but Officer Adams was able to find what appeared to be the perpetrator's discarded cell phone.<|im_end|>
+<|im_start|>assistant
+The most suspicious activity reported in the police report is the discovery of the perpetrator's discarded cell phone. This indicates that
+---------------------------
+Max Activation Value: 
+(161, 186, 212)
+<|im_start|>
+2.662428379058838
+Context Tokens: 
+tensor([    11,   1660,    220,     16,     16,     13,     24,    817,    220,
+            16,     15,     15,     11,     15,     15,     15,    304,    220,
+            17,     15,     16,     23,     13, 151645,    198, 151644,  77091,
+           198,   6746,     25,  21707,  46632,  24624,    198,  26406,    220,
+            16,     25,  10657,  84712,    553,   6647,   2178,    715,    675,
+            25,    758,    220,     17,     15,     16])
+Decoded Text:
+, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>assistant
+Category: Gun Violence Statistics
+Topic 1: Total Deaths by Firearm 
+Name: In 201
+---------------------------
+Max Activation Value: 
+(163, 188, 214)
+<|im_start|>
+2.657823324203491
+Context Tokens: 
+tensor([    11,   1660,    220,     16,     16,     13,     24,    817,    220,
+            16,     15,     15,     11,     15,     15,     15,    304,    220,
+            17,     15,     16,     23,     13, 151645,    198, 151644,  77091,
+           198,      1,  63907,  46632,  65047,   1127,   4371,    315,   7779,
+            25,    362,   9192,   1119,   6647,   2178,  22031,   2719,  46976,
+           304,    279,   2274,      1, 151645,    198])
+Decoded Text:
+, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>assistant
+"Gun Violence Spirals Out of Control: A Look into Firearm Mortality Rates in the US"<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+<|im_start|>
+2.628821611404419
+Context Tokens: 
+tensor([   419,   5010,   1736,     11,    582,   3278,   4263,   1128,   3643,
+         50283,   2571,    773,  15050,    323,    279,   4650,  24154,    315,
+           419,    943,    315,  15235,     13, 151645,    198, 151644,  77091,
+           198,  14444,    594,  50283,   2571,   5440,    702,   6587,  13791,
+          1506,    279,   1616,  15235,    646,  16282,    448,  12677,     13,
+          1096,  22804,   5440,    646,   3535,    323])
+Decoded Text:
+ this blog post, we'll discuss what makes Duplex so incredible and the potential implications of this type of AI.<|im_end|>
+<|im_start|>assistant
+Google's Duplex technology has completely revolutionized the way AI can interact with humans. This remarkable technology can understand and
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+<|im_start|>
+2.624098539352417
+Context Tokens: 
+tensor([   311,    279,  43006,   1909,     13,    362,   2205,  13016,  57173,
+           264,  14538,   4752,    279,   5240,   3117,    311,   5545,  19085,
+           311,   4367,    264,  20762,     13, 151645,    198, 151644,  77091,
+           198,    785,  40741,    594,  44346,   3117,    374,   7407,    304,
+          1527,  10666,     11,  16926,  14648,     11,    323,    374,   1865,
+           705,    315,    220,     19,     15,     11])
+Decoded Text:
+ to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.<|im_end|>
+<|im_start|>assistant
+The Giant's Causeway is located in Antrim, Northern Ireland, and is made up of 40,
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+<|im_start|>
+2.6087913513183594
+Context Tokens: 
+tensor([  5978,    279,   4763,    315,    279,  34924,   1882,     11,    438,
+          1632,    438,  21394,    311,   6016,    279,   2906,    504,   1036,
+         91936,  42739,   1663,   5557,  11204, 151645,    198, 151644,  77091,
+           198,     32,   1968,  11079,    518,    264,   2906,    304,  35837,
+           702,   1012,  21612,    369,  41308,   1361,    304,  23568,  34924,
+            13,   9726,    987,   1087,  10820,  69854])
+Decoded Text:
+ ensure the security of the marking process, as well as failing to protect the school from “potential reputational damage”.<|im_end|>
+<|im_start|>assistant
+A head teacher at a school in Birmingham has been suspended for irregularities in examination marking. Inspectors identified inflated
+---------------------------
+Max Activation Value: 
+(65, 90, 116)
+<|im_start|>
+2.6026463508605957
+Context Tokens: 
+tensor([  3233,  27008,    323,  12060,   1149,  42578,     11,   7290,    432,
+           646,   2176,  24611,   4419,    304,   1467,    323,   7283,  32930,
+         32189,    315,   1493,   4419,     13, 151645,    198, 151644,  77091,
+           198,   1986,   5567,  38919,   2607,   1388,   9460,    363,    523,
+          9942,    320,     38,  14419,    701,    264,    501,   5538,   6832,
+         14762,    429,  32411,   3233,    954,  52498])
+Decoded Text:
+ autoencoder and wavelet transformer, meaning it can both compress features in text and enable structured extraction of these features.<|im_end|>
+<|im_start|>assistant
+This paper introduces Generative Autowavelets (GAW), a new deep learning technique that combines autoencoders
+---------------------------
+Max Activation Value: 
+(87, 112, 138)
+<|im_start|>
+2.601330280303955
+Context Tokens: 
+tensor([  1246,    653,    498,   1281,    279,   1429,    315,    432,     30,
+          5692,    525,   1045,  10414,    311,   1492,    498,   4717,  26236,
+          1393,   3238,    504,   2114,     13, 151645,    198, 151644,  77091,
+           198,  33978,    504,   2114,   2337,    279,  19966,     12,     16,
+            24,  27422,    702,   1181,   1828,    738,    315,  11513,     13,
+          1084,    646,    387,   2588,    311,   4717])
+Decoded Text:
+ how do you make the most of it? Here are some tips to help you stay productive while working from home.<|im_end|>
+<|im_start|>assistant
+Working from home during the COVID-19 pandemic has its own set of challenges. It can be hard to stay
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+<|im_start|>
+2.5975306034088135
+Context Tokens: 
+tensor([  9778,  78650,    264,   6995,    748,   4963,     11,   7469,    724,
+          3033,   7375,    311,   6359,   1293,   9663,   3590,   8845,     11,
+           323,  71157,   4756,  11725,     13, 151645,    198, 151644,  77091,
+           198,  10580,  14123,   3163,   4720,    584,   6950,    323,   7469,
+           724,    279,   4963,     11,   7375,    323,  11725,    315,    264,
+          6995,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ crime drains a nation’s resources, weakens government tools to deliver long-term social goals, and destabilizes markets.<|im_end|>
+<|im_start|>assistant
+Corruption impairs public trust and weakens the resources, tools and markets of a nation.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+<|im_start|>
+2.5866081714630127
+Context Tokens: 
+tensor([  6084,     11,  10158,     11,   8180,  77116,   3607,     11,  10306,
+           264,   9314,  18899,     11,   6588,  42585,  12538,     11,   3930,
+         12904,    323,   5506,    990,     13, 151645,    198, 151644,  77091,
+           198,  66734,   2056,   1661,  10502,   2820,    374,   7565,    369,
+          8084,  56830,    323,  17601,   3709,   3322,   6084,     11,  50482,
+            11,  12182,   9314,   3607,     11,  20337])
+Decoded Text:
+ sleep, exercise, eat nutritious food, maintain a healthy lifestyle, practice relaxation techniques, limit alcohol and drug use.<|im_end|>
+<|im_start|>assistant
+Maintaining good mental health is essential for overall wellbeing and involves getting enough sleep, exercising, eating healthy food, maintaining
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+<|im_start|>
+2.529193878173828
+Context Tokens: 
+tensor([    13,   8853,    504,   2155,  35476,   3887,    304,  25281,    323,
+          1352,   3746,  26363,    315,  26509,    892,    525,    279,  16266,
+           315,   1039,   2244,   6995,     13, 151645,    198, 151644,  77091,
+           198,    785,   8622,   4522,    315,    279,   4549,    374,    429,
+          6747,    374,    264,   3146,    315,  16807,   6813,     11,   2670,
+         26735,     11,  15459,    323,  43130,     11])
+Decoded Text:
+. People from different backgrounds live in harmony and form strong bonds of friendship which are the foundation of our great nation.<|im_end|>
+<|im_start|>assistant
+The central idea of the article is that India is a country of diverse components, including cultures, languages and religions,
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+<|im_start|>
+2.502044439315796
+Context Tokens: 
+tensor([   315,    862,   2613,  14126,    624,     12,   3776,   1899,    264,
+         62765,  11994,   1105,    323,  11523,   1105,    311,  14310,     11,
+          6467,    323,    501,   6708,     13, 151645,    198, 151644,  77091,
+           198,    641,    279,   2613,    323,  24203,  14126,     11,   1052,
+         12163,    264,   2997,     13,   1096,   2997,   1030,  12163,    304,
+           279,  46867,    369,  21787,    323,    807])
+Decoded Text:
+ of their small village.
+- One day a traveler visited them and introduced them to technologies, books and new ideas.<|im_end|>
+<|im_start|>assistant
+In the small and isolated village, there lived a family. This family had lived in the countryside for generations and they
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+<|im_start|>
+2.5001444816589355
+Context Tokens: 
+tensor([  1251,    315,    279,  25079,   1033,  26115,    323,  10613,   3123,
+            11,    714,    825,  33200,  46609,  19613,    323,  20463,    279,
+         17651,    448,    806,  20214,     13, 151645,    198, 151644,  77091,
+           198,   9454,     11,    279,   3364,    702,    264,  15659,     13,
+           576,  15659,    315,    279,   3364,    374,    429,  24744,    323,
+         85066,    646,  50530,    678,  23209,     11])
+Decoded Text:
+ people of the kingdom were scared and ran away, but one brave knight stayed and fought the monster with his sword.<|im_end|>
+<|im_start|>assistant
+Yes, the story has a moral. The moral of the story is that courage and bravery can conquer all fears,
+---------------------------
+Max Activation Value: 
+(56, 81, 107)
+<|im_start|>
+2.4879040718078613
+Context Tokens: 
+tensor([   553,   3738,   7488,   1741,    438,  19675,  30276,  39273,     11,
+           323,    421,  53191,    686,    614,   1293,   9663,    323,  32218,
+         24905,    389,    279,  11580,     13, 151645,    198, 151644,  77091,
+           198,     32,   3213,   3920,  10457,    429,   3644,   9977,   2297,
+           374,    825,    315,    279,   1879,    748,   1429,  25352,   4714,
+            13,    758,   5256,    311,  16062,   9396])
+Decoded Text:
+ by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet.<|im_end|>
+<|im_start|>assistant
+A recent study revealed that global climate change is one of the world’s most pressing issues. In addition to rising sea
+---------------------------

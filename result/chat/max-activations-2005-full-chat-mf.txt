@@ -1,0 +1,300 @@
+Max Activation Value: 
+(75, 100, 126)
+<|im_end|>
+4.592529773712158
+Context Tokens: 
+tensor([ 28622,   1618,    311,   1917,     13,  22406,     11,    432,   1265,
+         32064,    362,  16276,   7497,    311,   1273,   2155,  10795,    315,
+           279,   2150,    311,   8552,   1181,  26279,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ compelling call to action. Additionally, it should leverage A/B testing to test different versions of the page to assess its effectiveness.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(76, 101, 127)
+<|im_end|>
+4.5492777824401855
+Context Tokens: 
+tensor([   646,   1083,    387,   1483,    311,   7269,   8493,    323,  12876,
+         20686,    553,  41018,   6002,    821,    311,   1855,    803,   7373,
+         14830,    438,   1632,    438,  34549,  32835,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ can also be used to improve marketing and advertising campaigns by analyzing customer data to create more effective strategies as well as personalized offerings.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+<|im_end|>
+4.5171918869018555
+Context Tokens: 
+tensor([   821,   4709,  26248,   9904,     13,  22406,     11,   5792,  74520,
+          1265,    387,  13075,    311,  10542,    894,   4650,   4763,  43567,
+           323,   1896,   1917,    311,   2621,   1105,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ data loss prevention solutions. Additionally, regular audits should be conducted to identify any potential security weaknesses and take action to address them.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(96, 121, 147)
+<|im_end|>
+4.512334823608398
+Context Tokens: 
+tensor([   279,   5029,    315,    279,   5538,   6832,   1614,     11,   1741,
+           438,   6832,   4379,    323,  25632,   1365,    646,    387,   6915,
+          2385,  48883,    311,    633,   2664,   3059,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the parameters of the deep learning model, such as learning rate and optimizer – can be fine-tuned to get better results.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+<|im_end|>
+4.474448204040527
+Context Tokens: 
+tensor([   576,   1140,   5086,    646,    387,  10615,    553,   1429,   3213,
+           476,   1429,   2989,    323,   9079,    646,    387,   3694,     11,
+         19138,     11,    323,  12864,    438,   8145,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ The list itself can be sorted by most recent or most important and tasks can be added, edited, and marked as completed.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+<|im_end|>
+4.470229148864746
+Context Tokens: 
+tensor([   387,  17821,    911,   1246,    807,    990,    279,  14548,    821,
+            11,    773,    429,   3847,    646,   1281,  15987,  11181,    323,
+           614,   2524,    916,    862,   1828,    821,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ be transparent about how they use the collected data, so that users can make informed decisions and have control over their own data.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+<|im_end|>
+4.467984199523926
+Context Tokens: 
+tensor([    13,  32427,    646,   1083,    387,   1483,    311,   8718,   2781,
+          2820,    323,   1632,  32751,     11,  27362,  23956,    311,   2664,
+         10091,   2781,  35609,    323,  10895,  26248,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+. Analytics can also be used to monitor player health and well-being, enabling coaches to better manage player fatigue and injury prevention.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(69, 94, 120)
+<|im_end|>
+4.453490257263184
+Context Tokens: 
+tensor([    11,    323,   1008,   9760,   5896,  33724,     13,    576,  12111,
+          1265,   1221,    387,  16176,    389,    419,    821,    773,    429,
+           432,    646,  29257,   7023,   5591,   7576,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, and other relevant financial indicators. The algorithm should then be trained on this data so that it can accurately predict stock prices.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(66, 91, 117)
+<|im_end|>
+4.445467472076416
+Context Tokens: 
+tensor([  1429,   6849,   1809,  14830,     13,  12960,   6832,    646,   1083,
+           387,   1483,    311,   3410,    279,   7247,    448,   1931,   7246,
+         11055,    389,   2083,    323,   3842,   5068,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ most successful game strategies. Machine learning can also be used to provide the coach with real-time feedback on team and individual performance.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+<|im_end|>
+4.419806480407715
+Context Tokens: 
+tensor([   646,   1221,    387,   1483,    311,  48129,    501,  19393,  14298,
+           438,   2987,  25328,    476,    537,  25328,   3118,    389,    279,
+          4244,    323,  31747,  12985,    304,   1105,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ can then be used to classify new incoming emails as either spam or not spam based on the words and phrases contained in them.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+<|im_end|>
+4.413738250732422
+Context Tokens: 
+tensor([  1083,    387,   1483,    369,  59236,  27875,     11,   1380,  18495,
+           646,  11140,  12624,    304,    821,    323,   1281,  19898,    911,
+          1128,   1410,   3537,    304,    279,   3853,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ also be used for predictive analytics, where computers can detect patterns in data and make predictions about what could happen in the future.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+<|im_end|>
+4.396968364715576
+Context Tokens: 
+tensor([ 36432,    646,    387,  10277,  20204,   3941,  25215,     13,    576,
+          4625,   1265,   1083,    387,   2952,    311,   6923,   6682,    389,
+         16107,  18024,    369,  25215,    476,   7775,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ salaries can be properly allocated across departments. The database should also be able to generate reports on salary expenses for departments or individuals.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+<|im_end|>
+4.379886627197266
+Context Tokens: 
+tensor([ 10435,    323,   5263,   6002,  19805,     13,  22406,     11,    279,
+          3910,   1265,    614,    458,   4135,   1616,    369,   6310,    311,
+          3645,    279,   2813,    323,   2968,  11055,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ conversation and increase customer engagement. Additionally, the website should have an easy way for customers to contact the company and give feedback.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(52, 77, 103)
+<|im_end|>
+4.379258632659912
+Context Tokens: 
+tensor([    11,   1308,   7766,   9308,     11,  15179,     11,    323,  12914,
+          2038,     11,  73042,   5335,     11,  24611,    287,   3542,     11,
+           323,   1667,    264,   2213,   9691,   3922,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, minifying HTML, CSS, and JavaScript code, optimizing images, compressing files, and using a content delivery network.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+<|im_end|>
+4.378939628601074
+Context Tokens: 
+tensor([  2711,   3619,     11,   4051,   2606,     11,    323,    264,  11919,
+          7406,     13,  23405,     11,    264,   9767,   8160,   1849,   1265,
+           387,  11537,    311,  15440,   9767,  14131,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ search bar, filter options, and a shopping cart. Furthermore, a secure payment system should be implemented to guarantee secure transactions.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+<|im_end|>
+4.3737688064575195
+Context Tokens: 
+tensor([    13,   8085,    911,    279,   2155,   4494,    315,  28707,    323,
+           862,   8357,   1265,    387,   5230,     11,    438,   1632,    438,
+          7746,    311,   4963,    369,   4623,   3412,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+. Information about the different types of robots and their applications should be included, as well as links to resources for further research.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+<|im_end|>
+4.372500419616699
+Context Tokens: 
+tensor([ 26166,  46503,     11,  22570,   6310,   1526,   2766,    476,  17711,
+            11,  76482,   1196,  16185,   2213,     11,    323,   6825,   2213,
+           429,    748,   9760,    311,    279,   1985,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ offline contests, engaging customers through video or podcast, leveraging user-generated content, and creating content that’s relevant to the product.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+<|im_end|>
+4.3711652755737305
+Context Tokens: 
+tensor([   738,   9315,     11,   1393,    279,   9342,   1874,    646,    387,
+         14900,    311,   5080,    323,   4722,  19879,     13,    576,   3059,
+           646,   1221,    387,  29139,    369,  12313,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ set temperature, while the experiment group can be exposed to higher and lower temperatures. The results can then be analyzed for comparison.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(71, 96, 122)
+<|im_end|>
+4.359246730804443
+Context Tokens: 
+tensor([ 22406,     11,    279,    990,    315,   5440,    304,    279,  24017,
+           646,   1492,   2664,  10549,   4143,    369,    279,  26368,    323,
+          1492,    311,  14164,    279,   7377,  21749,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Additionally, the use of technology in the classroom can help better prepare students for the workplace and help to bridge the digital divide.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(56, 81, 107)
+<|im_end|>
+4.356663227081299
+Context Tokens: 
+tensor([  5871,    311,   6777,    700,    279,  12685,   8845,     13,   2379,
+           646,   1083,   3410,    264,   7722,  13057,    892,    646,   1492,
+           311,   1855,    501,   6708,    323,   9904,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ necessary to carry out the desired goals. They can also provide a fresh perspective which can help to create new ideas and solutions.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

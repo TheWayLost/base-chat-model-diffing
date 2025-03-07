@@ -1,0 +1,325 @@
+Max Activation Value: 
+(0, 8, 34)
+5
+6.566686630249023
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,    220,     20,
+         18199,   6708,    369,    458,   3766,    448,    279,   6912,    315,
+          3369,  12723,  23616, 151645,    198, 151644,    872,    198,     27,
+          2152,   1946,     29, 151645,    198, 151644,  77091])
+Decoded Text:
+<|im_start|>system
+Create a list of 5 innovative ideas for an application with the theme of ‘Environment’.<|im_end|>
+<|im_start|>user
+<no input><|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.566686630249023
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,    220,     20,
+          4755,    323,  12159,  11253,    911,    264,   3151,   8544,    315,
+           697,   5754,     13, 151645,    198, 151644,    872,    198,  63838,
+           938,  16595, 151645,    198, 151644,  77091,    198])
+Decoded Text:
+<|im_start|>system
+Create a list of 5 questions and corresponding answers about a specific topic of your choice.<|im_end|>
+<|im_start|>user
+Chemical Engineering<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.566686630249023
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,    220,     20,
+          3589,    429,    525,  16626,   1730,    304,    264,   2906,  53306,
+          2356, 151645,    198, 151644,  77091,    198,     32,   1140,    315,
+           220,     20,   3589,  16626,   1730,    304,    264])
+Decoded Text:
+<|im_start|>system
+Create a list of 5 items that are commonly found in a school auditorium<|im_end|>
+<|im_start|>assistant
+A list of 5 items commonly found in a
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.5498270988464355
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,   4236,  31449,
+          1251,    304,    279,   2661,   2070,     11,   3156,    448,    264,
+          9814,   4008,    315,   1817,   1697,     13, 151645,    198, 151644,
+           872,    198,   9286, 151645,    198, 151644])
+Decoded Text:
+<|im_start|>system
+Create a list of five influential people in the given field, along with a brief description of each person.<|im_end|>
+<|im_start|>user
+Art<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.5498270988464355
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,   4236,  23880,
+           323,    862,  42126,   7567,     13, 151645,    198, 151644,  77091,
+           198,     16,     13,  96742,     25,  96742,    374,    264,   6319,
+         15933,     88,   6176,  35481,  19375,    448])
+Decoded Text:
+<|im_start|>system
+Create a list of five vegetables and their nutritional benefits.<|im_end|>
+<|im_start|>assistant
+1. Kale: Kale is a dark leafy green vegetable packed with
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.5498270988464355
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,   4236,  11245,
+          1251,    504,    279,    220,     17,     15,    339,   9294,    323,
+          3410,    264,   9814,   4008,    315,   1817,    825,     13, 151645,
+           198, 151644,  77091,    198,     16,     13])
+Decoded Text:
+<|im_start|>system
+Create a list of five famous people from the 20th century and provide a brief description of each one.<|im_end|>
+<|im_start|>assistant
+1.
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.5498270988464355
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,   4236,   4185,
+          1467,  39515,  17144, 151645,    198, 151644,  77091,    198,  10839,
+          1467,  39515,  17144,   2924,     25,    715,     16,     13,  55333,
+           320,  83867,   4371,  79548,      8,    715])
+Decoded Text:
+<|im_start|>system
+Create a list of five common text abbreviations<|im_end|>
+<|im_start|>assistant
+Common text abbreviations include: 
+1. LOL (Laugh Out Loud) 
+
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.5498270988464355
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1140,    315,   4236,   3589,
+           311,   3695,    304,  17975,    369,    264,  48684,     13, 151645,
+           198, 151644,  77091,    198,     16,     13,   9959,    715,     17,
+            13,  17263,  13826,    715,     18,     13])
+Decoded Text:
+<|im_start|>system
+Create a list of five items to buy in preparation for a hurricane.<|im_end|>
+<|im_start|>assistant
+1. Water 
+2. Flashlights 
+3.
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.533132076263428
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   4236,   5424,
+           369,    264,  29587,  11919,   1140, 151645,    198, 151644,  77091,
+           198,     16,     13,  75792,    198,     17,     13,  43825,    198,
+            18,     13,  49041,    198,     19,     13])
+Decoded Text:
+<|im_start|>system
+Generate a list of five elements for a grocery shopping list<|im_end|>
+<|im_start|>assistant
+1. Eggs
+2. Milk
+3. Bread
+4.
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.533132076263428
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   4236,   6785,
+         32626,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         30097,   2142,    198,     17,     13,  10115,  90880,    198,     18,
+            13,   2825,  17145,    198,     19,     13])
+Decoded Text:
+<|im_start|>system
+Generate a list of five positive attitudes.<|im_end|>
+<|im_start|>assistant
+1. Optimism
+2. Self-confidence
+3. Gratitude
+4.
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.533132076263428
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   4236,   3204,
+         55233,    369,    458,  14667,   5458,     13, 151645,    198, 151644,
+         77091,    198,  65222,  55233,    369,    458,  14667,   5458,   2924,
+          8267,  14667,     11,   6366,  14667,     11])
+Decoded Text:
+<|im_start|>system
+Generate a list of five possible majors for an engineering student.<|im_end|>
+<|im_start|>assistant
+Possible majors for an engineering student include civil engineering, computer engineering,
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.533132076263428
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   4236,   4185,
+         40660,   6940,   5435,    311,   9898,     13, 151645,    198, 151644,
+         77091,    198,     16,     13,    330,     32,   4131,    604,    594,
+         17857,    698,     17,     13,    330,   3430])
+Decoded Text:
+<|im_start|>system
+Generate a list of five common idioms related to animals.<|im_end|>
+<|im_start|>assistant
+1. "A snail's pace"
+2. "Be
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.531693935394287
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+         11521,   5510,    311,    990,   5440,    304,    279,  24017,     13,
+        151645,    198, 151644,  77091,    198,  37020,  11521,   5510,    311,
+           990,   5440,    304,    279,  24017,   2924,    510])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 creative ways to use technology in the classroom.<|im_end|>
+<|im_start|>assistant
+Five creative ways to use technology in the classroom include:
+
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.531693935394287
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+          5837,    448,    279,   8426,   3738,   4401,   1922,     13, 151645,
+           198, 151644,  77091,    198,     16,     13,  31503,    198,     17,
+            13,  29121,    198,     18,     13,   8330,    198])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 countries with the highest human development index.<|im_end|>
+<|im_start|>assistant
+1. Norway
+2. Switzerland
+3. Australia
+
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.531693935394287
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+         11521,    323,  33047,  82051,     13, 151645,    198, 151644,  77091,
+           198,     16,     13,  94542,  21367,    318,    380,    715,     17,
+            13,   1230,    443,  57727,  74244,    300,    715])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 creative and inspiring usernames.<|im_end|>
+<|im_start|>assistant
+1. StellarOptimist 
+2. UnconstrainedIdeas 
+
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.531693935394287
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+          2513,   5019,   1265,   1414,    911,   3840, 151645,    198, 151644,
+         77091,    198,     16,     13,  11099,    374,   3512,  90245,  19648,
+           323,    374,   1865,    705,    315,    264,   8045])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 things everyone should know about history<|im_end|>
+<|im_start|>assistant
+1. History is ever-evolving and is made up of a variety
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.531693935394287
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+          3589,    582,    525,   1429,   4363,    311,   1477,    304,    264,
+         19277,     13, 151645,    198, 151644,  77091,    198,     16,     13,
+         13852,    481,    625,   4813,     11,    305,  42057])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 items we are most likely to find in a garage.<|im_end|>
+<|im_start|>assistant
+1. Tools - pliers, hammers
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ five
+6.521960735321045
+Context Tokens: 
+tensor([151644,   8948,    198,  46126,    264,   1140,    315,   4236,   3589,
+           429,   1035,   1492,   4325,    728,  32773,     13, 151645,    198,
+        151644,  77091,    198,     12,  66580,    715,     12,  74147,  17899,
+           715,     12,  17263,   4145,    715,     12])
+Decoded Text:
+<|im_start|>system
+Compile a list of five items that would help someone go camping.<|im_end|>
+<|im_start|>assistant
+- Tent 
+- Sleeping bags 
+- Flashlight 
+-
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+5
+6.508402347564697
+Context Tokens: 
+tensor([151644,   8948,    198,  46126,    264,   1140,    315,    220,     20,
+          2274,   5302,   7407,    304,    279,  13699,   4312,     13, 151645,
+           198, 151644,  77091,    198,    785,    220,     20,   2274,   5302,
+          7407,    304,    279,  51157,    525,  18657,     11])
+Decoded Text:
+<|im_start|>system
+Compile a list of 5 US states located in the Mid West.<|im_end|>
+<|im_start|>assistant
+The 5 US states located in the Midwest are Illinois,
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+5
+6.498863220214844
+Context Tokens: 
+tensor([151644,   8948,    198,  16014,    279,   1537,   4462,   6438,     11,
+          1855,    264,   1140,    315,    220,     20,   6708,    311,   7269,
+           279,   6335,     13, 151645,    198, 151644,  77091,    198,   1655,
+           279,   1537,   4462,   6438,     11,    279,   2701,    220,     20,
+          6708,    311,   7269,    279])
+Decoded Text:
+<|im_start|>system
+During the last member meeting, create a list of 5 ideas to improve the club.<|im_end|>
+<|im_start|>assistant
+At the last member meeting, the following 5 ideas to improve the
+---------------------------

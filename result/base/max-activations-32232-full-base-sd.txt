@@ -1,0 +1,326 @@
+Max Activation Value: 
+(49, 74, 100)
+Bes
+0.20203585922718048
+Context Tokens: 
+tensor([ 93578,    348,   3831,    323,  34131,    345,   4498,    678,    518,
+          3055,    358,   5485,    264,  13428,    345,     32,   3468,     11,
+           315,  20748,    294,   2649,    347,   8669,    280,  39726,    577,
+           279,  21800,     11,  23969,    279,  12408,    345,  97244,    287,
+           323,  27966,    304,    279,  45285,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+ is
+0.188469797372818
+Context Tokens: 
+tensor([ 1376,   374,  3042,   518,  3704,   715,   262,   421,  2436,   374,
+         2240,   476,  2436,  2196,   621,   821,    25,   715,   286,   470,
+         2436, 48426,   262,   671,  5309,   374,  7046,  1091,  3704,   594,
+         1376,   715,   262,   421,  2436,  2196,   366,   821,    25,   715,
+          286,   470,  2711,  6958,  9517,    11,   821,     8, 48426,   262,
+          671])
+Decoded Text:
+ key is present at root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    #
+---------------------------
+Max Activation Value: 
+(171, 196, 222)
+ O
+0.18586567044258118
+Context Tokens: 
+tensor([  362,   434,   647,   619,   198,    49,   468,   328,   506,   444,
+          547,   350,   358,   506,   451,   328,   451,   479,   467,   328,
+          422,   362,   393,   715,    50,   506,   444,   328,   350,   358,
+          356,   468,   431,   468,   647,   350,   393,  1599,   358,   547,
+          809,   362,   271,    50,  1930,   784,  5487,    11, 13170, 45977,
+           50])
+Decoded Text:
+ A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS
+---------------------------
+Max Activation Value: 
+(349, 374, 400)
+ suggest
+0.18552961945533752
+Context Tokens: 
+tensor([  498,   264,  2664,  8660,   315,  3644,  4714,    13,  4710,    32,
+        17775, 18560,  6731,   374, 55093,   323,  1265,   537,   387, 84205,
+          291,   553,  1846,   879,  1035,  4190,   429,   432,   374,   264,
+         3166,   315,   279,  3267,    13,  1084,   646, 25386,   498,   448,
+          279,  7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,
+          315])
+Decoded Text:
+ you a better understanding of global issues. 
+
+A liberal arts education is invaluable and should not be overshadowed by those who would suggest that it is a thing of the past. It can equip you with the skills and knowledge necessary to succeed in a variety of
+---------------------------
+Max Activation Value: 
+(141, 166, 192)
+ given
+0.18518157303333282
+Context Tokens: 
+tensor([  1932,   9190,   1956,      8,  10868,    279,   7192,   2629,    448,
+          2890,    989,     60,    438,    279,   1537,   2392,    323,   2890,
+            58,     15,   1112,     72,     60,    438,    279,   2661,   1334,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ maxSum(i) represents the maximum sum with arr[i] as the last element and arr[0...i] as the given array.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(121, 146, 172)
+ V
+0.1844705492258072
+Context Tokens: 
+tensor([506, 328, 362, 431, 809, 356, 444, 468, 393, 362, 358, 647, 431, 506,
+        506, 386, 715,  51, 472, 362, 451, 730, 328, 479, 358, 647, 358, 451,
+        479, 328, 547, 809, 730, 358, 506, 715,  55, 451, 809, 431, 422, 422,
+        506, 362, 472, 506, 547, 444, 358, 422, 362])
+Decoded Text:
+ O S A R Y C L E P A I V R O O M 
+T H A N K S G I V I N G S U Y K I O 
+X N Y R D D O A H O U L I D A
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+ O
+0.18431653082370758
+Context Tokens: 
+tensor([ 51, 472, 362, 451, 730, 328, 479, 358, 647, 358, 451, 479, 328, 547,
+        809, 730, 358, 506, 715,  55, 451, 809, 431, 422, 422, 506, 362, 472,
+        506, 547, 444, 358, 422, 362, 434, 647, 619, 198,  49, 468, 328, 506,
+        444, 547, 350, 358, 506, 451, 328, 451, 479])
+Decoded Text:
+T H A N K S G I V I N G S U Y K I O 
+X N Y R D D O A H O U L I D A F V J
+R E S O L U T I O N S N G
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+’s
+0.18069304525852203
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  21085,     11,
+          8253,    279,   3150,    748,  18915,   6974,    279,   4522,    429,
+          4628,    374,    279,   1429,   2989,   8168,    304,   5670, 151645,
+           198, 151644,    872,    198,    785,   5244,    389,   4628,    304,
+          5670,   3351])
+Decoded Text:
+<|im_start|>system
+Based on the following passage, determine the author’s attitude towards the idea that speed is the most important factor in production<|im_end|>
+<|im_start|>user
+The focus on speed in production today
+---------------------------
+Max Activation Value: 
+(147, 172, 198)
+)
+0.17565636336803436
+Context Tokens: 
+tensor([    17,      8,   1683,    115,    320,     87,     10,     17,      8,
+           481,    220,     19,    198,     20,     13,  62902,    279,  63533,
+           323,  46912,     25,    320,     87,     10,     18,      8,   1683,
+           115,    320,     87,     10,     17,    481,    220,     19,      8,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+�
+0.17089387774467468
+Context Tokens: 
+tensor([  1683,    115,    320,     87,     10,     17,      8,    481,    220,
+            19,    198,     20,     13,  62902,    279,  63533,    323,  46912,
+            25,    320,     87,     10,     18,      8,   1683,    115,    320,
+            87,     10,     17,    481,    220,     19,      8, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(161, 186, 212)
+ S
+0.1707724779844284
+Context Tokens: 
+tensor([ 422,  422,  506,  362,  472,  506,  547,  444,  358,  422,  362,  434,
+         647,  619,  198,   49,  468,  328,  506,  444,  547,  350,  358,  506,
+         451,  328,  451,  479,  467,  328,  422,  362,  393,  715,   50,  506,
+         444,  328,  350,  358,  356,  468,  431,  468,  647,  350,  393, 1599,
+         358,  547,  809])
+Decoded Text:
+ D D O A H O U L I D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+'s
+0.1693735271692276
+Context Tokens: 
+tensor([  5823,    553,    279,   3033,    702,   8881,   1753,  25573,    438,
+           432,   4977,    311,  24631,  17707,    389,   8267,  57355,     13,
+        151645,    198, 151644,  77091,    198,    785,   6916,    594,   9459,
+           374,    429,    279,    501,   2329,   5823,    553,    279,   3033,
+           374,  24631,  24030,    389,   8267,  57355,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ passed by the government has caused much controversy as it seems to infringe on civil liberties.<|im_end|>
+<|im_start|>assistant
+The writer's opinion is that the new law passed by the government is infringing on civil liberties.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(174, 199, 225)
+ T
+0.16797833144664764
+Context Tokens: 
+tensor([  619,   198,    49,   468,   328,   506,   444,   547,   350,   358,
+          506,   451,   328,   451,   479,   467,   328,   422,   362,   393,
+          715,    50,   506,   444,   328,   350,   358,   356,   468,   431,
+          468,   647,   350,   393,  1599,   358,   547,   809,   362,   271,
+           50,  1930,   784,  5487,    11, 13170, 45977,    50,    11,   468,
+        29651])
+Decoded Text:
+ J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS, EASTER
+---------------------------
+Max Activation Value: 
+(173, 198, 224)
+ S
+0.16767087578773499
+Context Tokens: 
+tensor([  647,   619,   198,    49,   468,   328,   506,   444,   547,   350,
+          358,   506,   451,   328,   451,   479,   467,   328,   422,   362,
+          393,   715,    50,   506,   444,   328,   350,   358,   356,   468,
+          431,   468,   647,   350,   393,  1599,   358,   547,   809,   362,
+          271,    50,  1930,   784,  5487,    11, 13170, 45977,    50,    11,
+          468])
+Decoded Text:
+ V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS, E
+---------------------------
+Max Activation Value: 
+(216, 241, 267)
+ individual
+0.16750134527683258
+Context Tokens: 
+tensor([ 1366,   311,  3421,  1105,    13,  1096,  6147,  1105,   311, 67508,
+          862,  1828,  2750,   476, 16396,  5942,  1119,   862,  1682,   748,
+         6731,    13, 22406,    11,   279,  3842,  1506,  6993,   315, 89819,
+          287,  3363,   429,  6562,   614,   279, 11290,   311,   738,   862,
+         1828,  9700,   323, 10279,   979,   862,  2841,  1265,   614,   264,
+         1438])
+Decoded Text:
+ want to cover them. This allows them to weave their own values or belief systems into their child’s education. Additionally, the individualized nature of homeschooling means that parents have the freedom to set their own schedule and decide when their children should have a break
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ squared
+0.16647547483444214
+Context Tokens: 
+tensor([  738,   315,  1946,  7332,    13,   758,   419,  1614,    11,   264,
+         1555,   374, 28341,   311,   264,   738,   315,   821,  3501,  1741,
+          429,   279,  2629,   315,   279, 52263,  6010,   315,   279,   821,
+         3501,   504,   279,  1555,   374, 81078,    13,  1096,  1555,   315,
+         1850,  4946,   646,  1221,   387,  1483,   311, 16045,   279,   897,
+          315])
+Decoded Text:
+ set of input variables. In this model, a line is fitted to a set of data points such that the sum of the squared distance of the data points from the line is minimized. This line of best fit can then be used to estimate the value of
+---------------------------
+Max Activation Value: 
+(165, 190, 216)
+ S
+0.16590383648872375
+Context Tokens: 
+tensor([ 472,  506,  547,  444,  358,  422,  362,  434,  647,  619,  198,   49,
+         468,  328,  506,  444,  547,  350,  358,  506,  451,  328,  451,  479,
+         467,  328,  422,  362,  393,  715,   50,  506,  444,  328,  350,  358,
+         356,  468,  431,  468,  647,  350,  393, 1599,  358,  547,  809,  362,
+         271,   50, 1930])
+Decoded Text:
+ H O U L I D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOL
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ boutique
+0.1650771051645279
+Context Tokens: 
+tensor([  1437,    279,   2701,   3668,    438,    264,  45584,     11,  81059,
+            11,    476,   1008, 151645,    198, 151644,    872,    198,     41,
+         38864,    374,    279,   6372,    315,    264,   6849,  52085, 151645,
+           198, 151644,  77091,    198,   1336,   4578,    263,    380, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ify the following character as a protagonist, antagonist, or other<|im_end|>
+<|im_start|>user
+Jasmine is the owner of a successful boutique<|im_end|>
+<|im_start|>assistant
+Protagonist<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+(
+0.1641913205385208
+Context Tokens: 
+tensor([12180,   553, 21828,   279, 79151, 23606,   553,  1667,   279, 79151,
+        14806,    13,   576, 79151, 14806,   374,  2661,   553,   856,   284,
+        10055,    65, 20287, 11995,   248,     7,    65,    17,   481,   220,
+           19,   580,  7252,   608,   220,    17,    64,    13,  3719,  3696,
+        10607,   293,   284,   481,    19,    11,   264,   284,   220,    16,
+           11])
+Decoded Text:
+ obtained by solving the quadratic equation by using the quadratic formula. The quadratic formula is given by x = [-b ± √(b2 - 4ac)] / 2a. Substituting b = -4, a = 1,
+---------------------------
+Max Activation Value: 
+(55, 80, 106)
+ concentration
+0.16317611932754517
+Context Tokens: 
+tensor([ 7203,   315,  3015, 34615,   374, 16227,   553, 11799,   304,   279,
+         2048,  1070, 19950,  5866,   389,  2987,  3108,   315,   279, 38554,
+           13,  1634,   279,  2048,  1070, 19950,   315,   825,  3108,   315,
+          279, 38554,  9044,  7046,  1091,   279,  1008,    11,   279, 68896,
+        34615,   686,  3271,   504,   279,  2686, 37526,  3108,  8841,   279,
+          803])
+Decoded Text:
+ movement of water molecules is driven by differences in the solute concentration levels on either side of the membrane. As the solute concentration of one side of the membrane becomes greater than the other, the solvent molecules will move from the less concentrated side toward the more
+---------------------------

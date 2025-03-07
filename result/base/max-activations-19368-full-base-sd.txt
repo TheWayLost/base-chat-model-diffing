@@ -1,0 +1,309 @@
+Max Activation Value: 
+(0, 8, 34)
+ polynomial
+0.6823602318763733
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  19703,    315,    279,  47311,
+         23606,    330,     20,     87,     17,    488,     17,     87,    481,
+            18,    284,     15,   3263, 151645,    198, 151644,  77091,    198,
+           785,  19703,    315,    279,  23606,    525,    856])
+Decoded Text:
+<|im_start|>system
+Find the roots of the polynomial equation "5x2 +2x -3 =0".<|im_end|>
+<|im_start|>assistant
+The roots of the equation are x
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ equation
+0.6622918844223022
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   6291,    311,    279,  79151,
+         23606,     13, 151645,    198, 151644,    872,    198,     18,     87,
+         29456,    488,    220,     22,     87,    481,    220,     19,    284,
+           220,     15, 151645,    198, 151644,  77091,    198,    785])
+Decoded Text:
+<|im_start|>system
+Find the solution to the quadratic equation.<|im_end|>
+<|im_start|>user
+3x² + 7x - 4 = 0<|im_end|>
+<|im_start|>assistant
+The
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ Height
+0.6196678876876831
+Context Tokens: 
+tensor([   279,   2661,    489,   2027,     89,    588,     13, 151645,    198,
+        151644,    872,    198,     33,   2264,     25,    220,     16,     18,
+          9961,    323,    220,     16,     21,   9961,     26,  21432,     25,
+           220,     16,     17,   9961, 151645,    198, 151644,  77091,    198,
+            16,     21,     23,   9961,     61,     17, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the given trapezoid.<|im_end|>
+<|im_start|>user
+Bases: 13 cm and 16 cm; Height: 12 cm<|im_end|>
+<|im_start|>assistant
+168 cm^2<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+ig
+0.6164703965187073
+Context Tokens: 
+tensor([ 3639,  4180,   518,   279,   882,    13,  1084, 12864,   279,  1156,
+          882,   264,  4767,   572, 16290,  1119,  5163,   879,   572,   537,
+          504,   279, 11396,   476,  1232,   343,  4614,    13, 23405,    11,
+        24379, 74748,   264, 15155,   311, 95078, 32692,    11,   892,  1030,
+         1012,   264, 66500,  4265,  6814,   279,  3146,    11,   553, 11259,
+          389])
+Decoded Text:
+ United States at the time. It marked the first time a president was elected into office who was not from the Democratic or Whig party. Furthermore, Lincoln signaled a commitment to combating slavery, which had been a contentious issue throughout the country, by standing on
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ system
+0.6146456003189087
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   6291,    311,    279,   2701,
+         13482,   1849,     13, 151645,    198, 151644,    872,    198,     17,
+            87,    488,    379,    284,    220,     20,    198,   6558,    488,
+           220,     18,     88,    284,    220,     19, 151645,    198, 151644])
+Decoded Text:
+<|im_start|>system
+Find the solution to the following linear system.<|im_end|>
+<|im_start|>user
+2x + y = 5
+-x + 3y = 4<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+ those
+0.6128511428833008
+Context Tokens: 
+tensor([  374,   537,   409,   694,  1280,   894, 34226,  4963,    13,  1096,
+         1352,   315,  4802,  5670,   374,  1083,   803, 56240, 11657,  1091,
+         1008,  7586,    11,  1741,   438,  1846,   429, 17188,   389, 19675,
+        30276, 39273,    13, 22406,    11,   432,  1558,   537,  8193,   894,
+        82561,   323,  1558,   537,  1373,  1753, 13404,    13, 11733,   315,
+         1493])
+Decoded Text:
+ is not depleting any finite resources. This form of energy production is also more environmentally friendly than other forms, such as those that rely on burning fossil fuels. Additionally, it does not produce any pollutants and does not require much maintenance. Both of these
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ the
+0.6082802414894104
+Context Tokens: 
+tensor([    15,  16539,    323,    458,   2734,   4379,    315,    220,     21,
+         13384,  87324,  29071, 151645,    198, 151644,  77091,    198,   1655,
+           279,    835,    315,   1042,    220,     16,     11,    279,   3311,
+           304,    279,   6073,   2692,   1035,    387,    400,     16,     15,
+            21,     13,    758,   1042,    220,     17,     11,    279,   3311,
+          1035,    387,    400,     16,     16,     17])
+Decoded Text:
+0 deposit and an interest rate of 6%, compounded annually<|im_end|>
+<|im_start|>assistant
+At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $112
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ equation
+0.6082507371902466
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  19703,    315,    279,  47311,
+         23606,    330,     20,     87,     17,    488,     17,     87,    481,
+            18,    284,     15,   3263, 151645,    198, 151644,  77091,    198,
+           785,  19703,    315,    279,  23606,    525,    856,    284])
+Decoded Text:
+<|im_start|>system
+Find the roots of the polynomial equation "5x2 +2x -3 =0".<|im_end|>
+<|im_start|>assistant
+The roots of the equation are x =
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+,
+0.6057472229003906
+Context Tokens: 
+tensor([151644,   8948,    198,   6435,    279,    220,     17,    303,     11,
+           220,     19,    339,     11,    323,    220,     20,    339,   2392,
+           315,    279,   2701,   1334,     25,    508,     16,     11,    220,
+            17,     11,    220,     18,     11,    220,     19,     11,    220,
+            20,     11])
+Decoded Text:
+<|im_start|>system
+Delete the 2nd, 4th, and 5th element of the following array: [1, 2, 3, 4, 5,
+---------------------------
+Max Activation Value: 
+(103, 128, 154)
+ expense
+0.6050971746444702
+Context Tokens: 
+tensor([18915,  6974,   279,  4522,   429,  4628,   374,   279,  1429,  2989,
+         8168,   304,  5670,    13,  2379, 17585,   429,   279,  5244,   389,
+         4628,  3545,  4041,   518,   279, 20284,   315, 10916, 62139,   323,
+        83960,    11, 12942,   304,  4722, 22092,  3871,    13, 22406,    11,
+          279,  3150, 23945,   429, 57575,   705,  5670,   646,   387, 63969,
+           11])
+Decoded Text:
+ attitude towards the idea that speed is the most important factor in production. They argue that the focus on speed often comes at the expense of technical proficiency and craftsmanship, resulting in lower-quality products. Additionally, the author implies that speeding up production can be detrimental,
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ Lithuania
+0.603789746761322
+Context Tokens: 
+tensor([    11,  34340,     11,  68362,     11,  36255,     11,   9625,     11,
+          9856,     11,  24427,     11,  42776,     11,  38396,     11,  15344,
+            11,  78158,     11,  21491,  42888,  12429,     11,  70506,     11,
+         64871,     11,  60650,     11,  25662,     11,  31503,     11,  27602,
+            11,  33311,     11,  80685,     11,  78217,     11,  17689,     11,
+         23190,     11,    323,  29121,     13, 151645])
+Decoded Text:
+, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland.<|im_end|>
+---------------------------
+Max Activation Value: 
+(119, 144, 170)
+ G
+0.602306604385376
+Context Tokens: 
+tensor([ 39, 467, 506, 328, 362, 431, 809, 356, 444, 468, 393, 362, 358, 647,
+        431, 506, 506, 386, 715,  51, 472, 362, 451, 730, 328, 479, 358, 647,
+        358, 451, 479, 328, 547, 809, 730, 358, 506, 715,  55, 451, 809, 431,
+        422, 422, 506, 362, 472, 506, 547, 444, 358])
+Decoded Text:
+H W O S A R Y C L E P A I V R O O M 
+T H A N K S G I V I N G S U Y K I O 
+X N Y R D D O A H O U L I
+---------------------------
+Max Activation Value: 
+(95, 120, 146)
+'s
+0.6010463237762451
+Context Tokens: 
+tensor([    13,   7405,    279,    501,   2436,    594,   1790,   5785,    279,
+          1852,    438,    279,   1537,   2436,    594,   1790,   5785,     13,
+           715,     21,     13,   7405,    279,   1537,   2436,    594,   1790,
+          5785,    387,    279,    501,   2436,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+. Make the new node's next reference the same as the last node's next reference. 
+6. Make the last node's next reference be the new node.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ A
+0.6008008718490601
+Context Tokens: 
+tensor([  3046,   3145,   8147,     11,    892,  10000,    504,    279,   9396,
+           323,  14501,    220,     18,   8756,    320,     19,     13,     23,
+         13136,      8,    311,    279,  43006,   1909,     13,    362,   2205,
+         13016,  57173,    264,  14538,   4752,    279,   5240,   3117,    311,
+          5545,  19085,    311,   4367,    264,  20762,     13, 151645,    198,
+        151644,  77091,    198,    785,  40741,    594])
+Decoded Text:
+ basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.<|im_end|>
+<|im_start|>assistant
+The Giant's
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+ an
+0.5996710062026978
+Context Tokens: 
+tensor([54928,   279,  8584,    13,  1913,   279,  1008,  1424,    11,   279,
+        88073,  1410,  2924,   458,  5263,   304, 50627,   323,   264,  7046,
+        22305,   389,   279,  3033,    11,   458, 26541, 52852,   315, 37481,
+          304,  3654, 68692,    11,   264, 18472,   304,   279,  4271,   315,
+         6731,    11,   323,   458,  7172,  5214,   315, 87104,  6968,   304,
+         3654])
+Decoded Text:
+ boosting the economy. On the other hand, the drawbacks could include an increase in taxation and a greater burden on the government, an excessive influx of graduates in certain professions, a decrease in the quality of education, and an increased risk of overcrowding in certain
+---------------------------
+Max Activation Value: 
+(170, 195, 221)
+S
+0.5971764922142029
+Context Tokens: 
+tensor([  422,   362,   434,   647,   619,   198,    49,   468,   328,   506,
+          444,   547,   350,   358,   506,   451,   328,   451,   479,   467,
+          328,   422,   362,   393,   715,    50,   506,   444,   328,   350,
+          358,   356,   468,   431,   468,   647,   350,   393,  1599,   358,
+          547,   809,   362,   271,    50,  1930,   784,  5487,    11, 13170,
+        45977])
+Decoded Text:
+ D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTION
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ the
+0.5971108078956604
+Context Tokens: 
+tensor([151644,   8948,    198,   3379,    279,   1850,  19639,    504,    279,
+         22870,   3685,   2661,    279,   1946,    330,   5050,  20161,    374,
+           304,  32671,    563,   1189, 151645,    198, 151644,    872,    198,
+          5050,  20161,    374,    304,  32671,   4950, 151645])
+Decoded Text:
+<|im_start|>system
+Select the best prediction from the sentences below given the input "My vacation is in ________."<|im_end|>
+<|im_start|>user
+My vacation is in _______.<|im_end|>
+---------------------------
+Max Activation Value: 
+(88, 113, 139)
+ as
+0.5969367623329163
+Context Tokens: 
+tensor([  3696,  10607,    293,    284,    481,     19,     11,    264,    284,
+           220,     16,     11,    323,    272,    284,    220,     19,   1119,
+           279,  23606,     11,    279,  19703,    525,  12180,    438,    856,
+           284,    220,     17,  20287,  11995,    248,     15,     13,  14301,
+            11,    279,  19703,    525,    856,    284,    220,     17,     11,
+           220,     17,     13, 151645,    198, 151643])
+Decoded Text:
+stituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2, 2.<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ It
+0.5943311452865601
+Context Tokens: 
+tensor([   315,   1633,    653,    537,   8708,    304,    279,   4024,   1633,
+            13,    220,    758,   5538,   2975,     11,    264,   2975,    315,
+          1633,    374,  21774,    304,   1008,   1633,     13,   1084,   3363,
+           429,    894,   4344,   1865,    311,    264,   2975,    315,   1633,
+           653,    537,   8708,    304,    279,   4024,   1633,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of object do not reflect in the original object.  In deep copy, a copy of object is copied in other object. It means that any changes made to a copy of object do not reflect in the original object.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+/
+0.593296229839325
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,  11652,    429,  11017,    279,
+          5944,    315,     25,    330,   2403,  30743,    374,   3118,    389,
+            14,   4197,  65892,      1, 151645,    198, 151644,  77091,    198,
+          2403,   2393,    374,   3118,    389,   2588,    975,    323,  38855,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a sentence that follows the structure of: "All ____ is based on/with _____"<|im_end|>
+<|im_start|>assistant
+All success is based on hard work and dedication.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

@@ -1,0 +1,298 @@
+Max Activation Value: 
+(158, 183, 209)
+ birds
+0.36531174182891846
+Context Tokens: 
+tensor([14975,   553,   862, 34847,  3691,   305,  9065,   323, 17545, 27578,
+           11,   448,  9906, 13753,   476, 18575,   387,  9810,    13, 20035,
+          264, 26891, 11129,    11,  1493, 19654,   646,  7702,   862, 36593,
+          504,   279,  3720,  1393,   807,   525, 16307,    13, 10964,  6414,
+        52168,   389,  1894,   323,  7203,   323,   807,  8844,   369,   279,
+         5112])
+Decoded Text:
+ recognized by their distinctive black hoods and gray backs, with bright yellow or orange beaks. Having a keen vision, these birds can spot their prey from the air while they are flying. Their eyes feast on color and movement and they listen for the sound
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+,
+0.3651285767555237
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+,
+0.36475104093551636
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+)
+0.3628685772418976
+Context Tokens: 
+tensor([   315,    220,     15,     13,     22,    389,    264,   5452,    315,
+           481,     16,    311,    220,     16,     13,   1084,    702,    264,
+          5080,  21117,    315,   6785,   4244,    320,     17,      8,   7707,
+           311,   8225,   4244,    320,     15,    568, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of 0.7 on a scale of -1 to 1. It has a higher proportion of positive words (2) compared to negative words (0).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(390, 415, 441)
+ you
+0.35276100039482117
+Context Tokens: 
+tensor([ 7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,   315,
+         5043,   323,  3410,   498,   448, 11449,   429,   498,   646,   990,
+         6814,   697,  2272,    13, 13139,   498, 22729,   264,  6931,   304,
+          279, 35688,    11,   279, 93035,    11,   476,   279, 18560,    11,
+          264, 17775, 18560,  6731,   646,  2968,   498,   279,  9423,   498,
+         1184])
+Decoded Text:
+ skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal arts education can give you the advantage you need
+---------------------------
+Max Activation Value: 
+(104, 129, 155)
+0
+0.3522258996963501
+Context Tokens: 
+tensor([   15,    13,    18,   817,   220,    16,    15,    15,    11,    15,
+           15,    15,   304,   220,    16,    24,    24,    24,   311,   220,
+           16,    17,   817,   220,    16,    15,    15,    11,    15,    15,
+           15,   304,   220,    17,    15,    16,    22,    11,   448,   220,
+           16,    15,    24,  1251, 22273,   817,  1899,   476,   911,   220,
+           16])
+Decoded Text:
+0.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 1
+---------------------------
+Max Activation Value: 
+(102, 127, 153)
+0
+0.3510187566280365
+Context Tokens: 
+tensor([   15,    13,    18,   817,   220,    16,    15,    15,    11,    15,
+           15,    15,   304,   220,    16,    24,    24,    24,   311,   220,
+           16,    17,   817,   220,    16,    15,    15,    11,    15,    15,
+           15,   304,   220,    17,    15,    16,    22,    11,   448,   220,
+           16,    15,    24,  1251, 22273,   817,  1899,   476,   911,   220,
+           16])
+Decoded Text:
+0.3 per 100,000 in 1999 to 12 per 100,000 in 2017, with 109 people dying per day or about 1
+---------------------------
+Max Activation Value: 
+(62, 87, 113)
+,
+0.3335556387901306
+Context Tokens: 
+tensor([   22,    16,    13,   576,  3940,  7425,   705,   311,   220,    18,
+           15,    15,  1251,    11, 14425, 17267,   220,    18,    13,    18,
+         9334,  8756,   315,   279,  3283,    11,   323,  2115,   803,  1091,
+          220,    16,    15,    15,    11,    15,    15,    15,  1251, 22994,
+           13,   576,  5240,   315,   279,  3940,   374,  9788,    11,   714,
+          432])
+Decoded Text:
+71. The fire killed up to 300 people, destroyed roughly 3.3 square miles of the city, and left more than 100,000 people homeless. The cause of the fire is unknown, but it
+---------------------------
+Max Activation Value: 
+(65, 90, 116)
+,
+0.3308202028274536
+Context Tokens: 
+tensor([   13,  1084,   572,   264, 59750,  8049,   892, 19006,   304,  8811,
+        17683,    26,   279,  9145,  5558,   458, 12943,   220,    17,    18,
+           11,    15,    15,    15,  2953,    11,  1393,   279, 56357,   572,
+        12943,   311,   387,   220,    17,    23,    11,    15,    15,    15,
+         2953,    13,   576, 12560, 58654,   429,   279,  9145,  8437, 18401,
+         2524])
+Decoded Text:
+. It was a pivotal battle which resulted in heavy losses; the Union lost an estimated 23,000 men, while the Confederate was estimated to be 28,000 men. The victory ensured that the Union forces maintained control
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ greater
+0.330137699842453
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    458,    421,     12,   1503,   5114,
+           429,  23473,    330,   4207,     16,      1,    421,    264,    374,
+          7046,   1091,    293,     11,    323,  23473,    330,   4207,     17,
+             1,    421,    264,    374,   2686,   1091,    293,     13, 151645,
+           198, 151644,    872,    198,     64,    284,    220,     19])
+Decoded Text:
+<|im_start|>system
+Construct an if-else statement that prints "Case1" if a is greater than b, and prints "Case2" if a is less than b.<|im_end|>
+<|im_start|>user
+a = 4
+---------------------------
+Max Activation Value: 
+(262, 287, 313)
+ both
+0.3271097242832184
+Context Tokens: 
+tensor([   311,    387,   2952,    311,   3412,     11,   2884,    323,   2225,
+         11364,    369,  14919,    476,  45790,   7236,     11,    476,    369,
+         18392,   6350,   6174,     13,  30866,   7361,     11,   2176,  35770,
+           323,   5326,     11,    525,   1083,   2989,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to be able to research, design and develop processes for manufacturing or transforming materials, or for improving existing ones. Communication skills, both verbal and written, are also important.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ed
+0.32664182782173157
+Context Tokens: 
+tensor([  220,    17, 55488, 35481,  5590,   198,    12,   220,    16,  5292,
+          586, 30635,    11, 93827,   198,    12,   220,    16,  2518, 28419,
+        24353,    11,   502, 23602,  2667,   291,   198,    12,   220,    17,
+        25374,   296,  2185, 20427,  8151, 11672,   198,    12,   220,    16,
+        41284, 91123,  5590,   198,    12,   220,    16,    14,    17, 10525,
+        33457])
+Decoded Text:
+ 2 tablespoons vegetable oil
+- 1 clove garlic, minced
+- 1 red bell pepper, julienned
+- 2 cups mung bean sprouts
+- 1 teaspoon sesame oil
+- 1/2 cup coconut
+---------------------------
+Max Activation Value: 
+(184, 209, 235)
+ about
+0.3265746533870697
+Context Tokens: 
+tensor([53954, 22930,    11,  3080, 23880,   525, 89058,    11,   911,   220,
+           16,    15,  4420,   624,    18,    13,  2691, 19828,   323, 23065,
+         3080, 33404, 13876,   291,    11,   911,   220,    17,  4420,   624,
+           19,    13,  2691, 44893,    11, 40513,   323,  4446,   311,   264,
+        43690,   624,    20,    13,  2691, 16158,   323, 58886,    11,  7949,
+         8628])
+Decoded Text:
+ stirring occasionally, until vegetables are softened, about 10 minutes.
+3. Add flour and stir until lightly browned, about 2 minutes.
+4. Add broth, tomatoes and bring to a boil.
+5. Add chicken and sausage, reduce heat
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+1
+0.32650113105773926
+Context Tokens: 
+tensor([  8474,    389,  27815,    264,  19145,     13, 151645,    198, 151644,
+         77091,    198,   8304,    220,     16,     25,   4968,  19963,  23387,
+           311,    220,     18,     20,     15,  58472,    320,     16,     22,
+            21,  30937,    568,  13532,    519,    264,    220,     24,  24241,
+           320,     17,     18,   9961,      8,   4778,  19145,   7215,    476,
+           220,     24,     87,     20,  17122,    320])
+Decoded Text:
+ guide on baking a cake.<|im_end|>
+<|im_start|>assistant
+Step 1: Preheat oven to 350°F (176°C). Grease a 9-inch (23 cm) round cake pan or 9x5 inch (
+---------------------------
+Max Activation Value: 
+(389, 414, 440)
+ Whether
+0.32544583082199097
+Context Tokens: 
+tensor([  279,  7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,
+          315,  5043,   323,  3410,   498,   448, 11449,   429,   498,   646,
+          990,  6814,   697,  2272,    13, 13139,   498, 22729,   264,  6931,
+          304,   279, 35688,    11,   279, 93035,    11,   476,   279, 18560,
+           11,   264, 17775, 18560,  6731,   646,  2968,   498,   279,  9423,
+          498])
+Decoded Text:
+ the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal arts education can give you the advantage you
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ for
+0.32453492283821106
+Context Tokens: 
+tensor([  374,  1496,   803, 26291,    13, 67309,   619,    13,  6798,   279,
+         5700, 24232, 11105,   429, 19654,   644,   374,   803, 26779,  1091,
+         1429, 12677,  7086, 15459,  6668,   369,    13,   576,  4128,   315,
+        19654,   644,   374, 23415,   315,   220,    16,    20,  6770, 10362,
+           11, 27802,  1119, 12460, 47604,  4788,   304,  1973,   311, 19032,
+           13])
+Decoded Text:
+ is even more fascinating. Scientist J. David the movie maker discovered that birdsong is more sophisticated than most humans giving languages credit for. The language of birdsong is composed of 15 basic sounds, arranged into distinct syllables in order to communicate.
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ from
+0.3241797089576721
+Context Tokens: 
+tensor([ 6605,   311,   862, 10245,  6174,   382,   785, 69480, 11691,   279,
+         1943,   315,  2948,   323,  3900,   311,   279, 62780,  3403,    13,
+         8853,   315,   678, 16639,    11,   504,   678, 22479,   315,  2272,
+           11,  6966,   705,   311,   279, 12884,   448,  5775,   323,  1079,
+         1370,  1114,    13,  1634,   279, 69480, 28396,   304,   279,  6010,
+           11])
+Decoded Text:
+ messages to their loved ones.
+
+The balloons carried the message of love and hope to the heavens above. People of all ages, from all walks of life, looked up to the sky with wonder and amazement. As the balloons disappeared in the distance,
+---------------------------
+Max Activation Value: 
+(110, 135, 161)
+ above
+0.3238637149333954
+Context Tokens: 
+tensor([ 3110,   374,  1156, 21091,   553,   264,  2331,  1614,   429, 55878,
+          279,  1429,  4363,  9201,    13,  3719, 38642,    11,   279,  9201,
+          892,   614,   264, 12136,  5456,  3403,   264,  3654, 12171,   525,
+        11882,   553,   279,  1614,    13,   576,  7299,  6942, 23850,  1614,
+          646,  3960, 68816,  1948,  5435,  9201,   323,   646,  1496,  7023,
+        13617])
+Decoded Text:
+ example is first classified by a base model that predicts the most likely labels. Subsequently, the labels which have a confidence score above a certain threshold are chosen by the model. The multi-label classification model can learn correlations between related labels and can even predict layers
+---------------------------
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.32316848635673523
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(125, 150, 176)
+,
+0.3210708498954773
+Context Tokens: 
+tensor([ 2304,   658,   323,  8865,  6157,   448,   279,  1492,   315,  3746,
+        28492,    13,   576,  3940, 14425,   458, 12943,   220,    16,    22,
+           11,    19,    20,    15, 13702,    11,  9380,   458, 12943,   220,
+           16,    15,    15,    11,    15,    15,    15,  1251, 22994,   323,
+        14381,   458, 12943,   400,    17,    15,    15,  3526,   304, 25129,
+           13])
+Decoded Text:
+Leary and spread quickly with the help of strong winds. The fire destroyed an estimated 17,450 buildings, leaving an estimated 100,000 people homeless and causing an estimated $200 million in damages.
+---------------------------

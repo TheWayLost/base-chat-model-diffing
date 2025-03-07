@@ -1,0 +1,301 @@
+Max Activation Value: 
+(136, 161, 187)
+,
+0.18909446895122528
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+,
+0.18205013871192932
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+-
+0.17963314056396484
+Context Tokens: 
+tensor([  5766,    476,   2686,     13, 151645,    198, 151644,    872,    198,
+          2428,   1110,   2136,   1858,  37555,   6830,  15194,  54482,   4846,
+         65698,   7563,    359,   7725,  30617,   3426,  50402,     12,  12537,
+          5477,  40652,  34689,  25682,   1786,   5963,    285,   7409,     24,
+            17,     22,     16,     17,     23,     21,   2564, 151645,    198,
+        151644,  77091,    198,     38,  65698,    663])
+Decoded Text:
+ characters or less.<|im_end|>
+<|im_start|>user
+https://www.independent.co.uk/environment/greta-thunberg-climate-change- youth-strike-school-us-crisis-a9271286.html<|im_end|>
+<|im_start|>assistant
+Greta Th
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ime
+0.17576344311237335
+Context Tokens: 
+tensor([151644,   8948,    198,  27473,    419,  11652,    504,   8585,    311,
+          6364,     13, 151645,    198, 151644,    872,    198,     41,  25184,
+           545,  19463,    409,   1187,  10382,  26378,   7888,     13, 151645,
+           198, 151644,  77091,    198,     40,   2948,    311,    728,  37364,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Translate this sentence from French to English.<|im_end|>
+<|im_start|>user
+J'aime faire de la randonnée.<|im_end|>
+<|im_start|>assistant
+I love to go hiking.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+’s
+0.1739543378353119
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  21085,     11,
+          8253,    279,   3150,    748,  18915,   6974,    279,   4522,    429,
+          4628,    374,    279,   1429,   2989,   8168,    304,   5670, 151645,
+           198, 151644,    872,    198,    785,   5244,    389,   4628,    304,
+          5670,   3351])
+Decoded Text:
+<|im_start|>system
+Based on the following passage, determine the author’s attitude towards the idea that speed is the most important factor in production<|im_end|>
+<|im_start|>user
+The focus on speed in production today
+---------------------------
+Max Activation Value: 
+(125, 150, 176)
+,
+0.17144697904586792
+Context Tokens: 
+tensor([  400,    19,    15,    11,    15,    15,    15,   264,  1042,  1030,
+         5558,   264,  2618,   476, 10321,   264, 13951,   304,  7911,  4152,
+          311, 19966,    12,    16,    24,    11,  1393,   220,    17,    18,
+            4,   315, 28839,  3259,   916,   400,    16,    15,    15,    11,
+           15,    15,    15,  1030, 10321,  2618, 17683,   476,  7911, 46211,
+           13])
+Decoded Text:
+ $40,000 a year had lost a job or experienced a reduction in income due to COVID-19, while 23% of households making over $100,000 had experienced job losses or income reductions.
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+,
+0.15766119956970215
+Context Tokens: 
+tensor([  6682,    429,   1052,   1033,    220,     16,     16,     11,     15,
+            22,     23,  35605,  13904,  88395,    304,    279,    547,    808,
+            13,    304,    220,     17,     15,     16,     15,     11,    448,
+           220,     21,     11,     15,     15,     24,   4961,  15860,    264,
+         56805,    323,    220,     18,     20,     23,   4961,  15860,    264,
+         28132,     13, 151645,    198, 151644,  77091])
+Decoded Text:
+ reports that there were 11,078 firearm-related homicides in the U.S. in 2010, with 6,009 reported involving a handgun and 358 reported involving a rifle.<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ about
+0.1573091447353363
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,   1495,    279,   1376,   3501,    315,
+           279,   2661,   4549,     13, 151645,    198, 151644,    872,    198,
+          1986,   4549,    374,    911,    279,  10000,    315,  20443,  11229,
+           304,    279,   3853,    320,   2428,   1110,   2136,  63496,    905,
+          4322,  17217,   7382,   1064,  37821,  16488,  20052,   8509,  12034,
+           988,   2371])
+Decoded Text:
+<|im_start|>system
+Write down the key points of the given article.<|im_end|>
+<|im_start|>user
+This article is about the rise of artificial intelligence in the future (https://www.linkedin.com/pulse/rise-artificial-intelligence-yash-g
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ Health
+0.15647539496421814
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------
+Max Activation Value: 
+(125, 150, 176)
+ would
+0.15630945563316345
+Context Tokens: 
+tensor([18019,   369, 69427,   594,  8437,   323,  9482, 69427,   594,  5912,
+          916,  9625,    13, 69427,  5561,   572,   505,  2181,   311,   794,
+           13, 71946,    11,  1380,   566,  1035,  2746,   304,   220,    16,
+           23,    17,    16,    13,   576,  8049, 12864,   279,   835,   315,
+         8585, 54849,   315,  4505,   323,   279,  7167,   315,   264,  4168,
+          315])
+Decoded Text:
+ defeat for Napoleon's forces and ended Napoleon's rule over France. Napoleon himself was exiled to St. Helena, where he would die in 1821. The battle marked the end of French domination of Europe and the beginning of a period of
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ phone
+0.15601639449596405
+Context Tokens: 
+tensor([   279,  21682,     13,   2619,   1033,    902,   9981,  27723,     11,
+           714,  19577,  26234,    572,   2952,    311,   1477,   1128,   9723,
+           311,    387,    279,  84536,    594,  43210,   2779,   4540,     13,
+        151645,    198, 151644,  77091,    198,    785,   1429,  31327,   5702,
+          4961,    304,    279,   4282,   1895,    374,    279,  18335,    315,
+           279,  84536,    594,  43210,   2779,   4540])
+Decoded Text:
+ the residence. There were no apparent witnesses, but Officer Adams was able to find what appeared to be the perpetrator's discarded cell phone.<|im_end|>
+<|im_start|>assistant
+The most suspicious activity reported in the police report is the discovery of the perpetrator's discarded cell phone
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+,
+0.1558392494916916
+Context Tokens: 
+tensor([  369, 30874,  7779,   323, 35847,   594,   320, 73458,     8,  5055,
+         5832,   369,  6267, 24624,  6682,   220,    18,    23,    11,    18,
+           24,    15, 16375,   553, 35605,    11,   315,   892,   220,    17,
+           19,    11,    19,    18,    17,  1033,   553, 18144,    13,   576,
+         4379,   315, 35605, 16375,   817,   220,    16,    15,    15,    11,
+           15])
+Decoded Text:
+ for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,0
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ Health
+0.15521754324436188
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+’s
+0.15346549451351166
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  19128,  21085,
+            11,   8253,    279,   3150,    748,   6028,   5693, 151645,    198,
+        151644,    872,    198,   2679,    582,    525,    311,   4411,    304,
+          1039,   1429,  15811,  58439,    369,   8660,    279,   1879,     11,
+           582,   1969,   1156])
+Decoded Text:
+<|im_start|>system
+Based on the following philosophy passage, determine the author’s primary argument<|im_end|>
+<|im_start|>user
+If we are to believe in our most fundamental capacities for understanding the world, we must first
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+,
+0.15325072407722473
+Context Tokens: 
+tensor([  369, 30874,  7779,   323, 35847,   594,   320, 73458,     8,  5055,
+         5832,   369,  6267, 24624,  6682,   220,    18,    23,    11,    18,
+           24,    15, 16375,   553, 35605,    11,   315,   892,   220,    17,
+           19,    11,    19,    18,    17,  1033,   553, 18144,    13,   576,
+         4379,   315, 35605, 16375,   817,   220,    16,    15,    15,    11,
+           15])
+Decoded Text:
+ for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,0
+---------------------------
+Max Activation Value: 
+(183, 208, 234)
+<|endoftext|>
+0.15188176929950714
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(172, 197, 223)
+<|endoftext|>
+0.15188176929950714
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(184, 209, 235)
+<|endoftext|>
+0.15188176929950714
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(182, 207, 233)
+<|endoftext|>
+0.15188176929950714
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(174, 199, 225)
+<|endoftext|>
+0.15188176929950714
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

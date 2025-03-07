@@ -1,0 +1,356 @@
+Max Activation Value: 
+(8, 33, 59)
+
+
+5.562563896179199
+Context Tokens: 
+tensor([   264,   6371,   1809,    911,  17233,     13, 151645,    198, 151644,
+         77091,    198,   8078,  84688,    422,  20527,    481,  12514,    705,
+         16071,    448,   5633,  13411,   4050,      0, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a mobile game about cooking.<|im_end|>
+<|im_start|>assistant
+Make Delicious Dishes - Cook up Fun with Our Mobile Game!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+
+
+5.5594401359558105
+Context Tokens: 
+tensor([    50,   3799,    264,   7988,  12641,     13, 151645,    198, 151644,
+         77091,    198,  84031,    279,   2355,    315,    279,    686,     11,
+          4113,    374,   3204,   1189,   1365,  21693, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Suggest a powerful quote.<|im_end|>
+<|im_start|>assistant
+"With the power of the will, anything is possible." – Unknown<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+
+
+5.558104038238525
+Context Tokens: 
+tensor([ 31115,    264,  85505,  51537,    369,    264,    501,  10729,     13,
+        151645,    198, 151644,  77091,    198,     51,   5525,    279,  55080,
+           481,  15565,    311,   5633,  10771,      0, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Generate a catchy slogan for a new restaurant.<|im_end|>
+<|im_start|>assistant
+Taste the Difference - Come to Our Place!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+
+
+5.556354999542236
+Context Tokens: 
+tensor([  8948,    198,  31115,    264,  51537,   5435,    311,    279,   4573,
+            13, 151645,    198, 151644,  77091,    198,  14367,   5852,   1039,
+         11580,    481,   3581,    279,   1879,      0, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Generate a slogan related to the environment.<|im_end|>
+<|im_start|>assistant
+Preserve our planet - save the world!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+
+
+5.494571208953857
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  47077,    369,    264,    501,
+          8493,   4796,     13, 151645,    198, 151644,  77091,    198,      2,
+          3564,  27169,  89098, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Create a hashtag for a new marketing campaign.<|im_end|>
+<|im_start|>assistant
+#NewBrandAdventure<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+
+
+5.454466819763184
+Context Tokens: 
+tensor([  1365,    432,    594,    705,    311,    678,    315,    601,    311,
+           387,   8480,  60343,   2347,    315,   1039,  11580,     13,    671,
+         82046,   4072,    671,  11646,     54,  32902, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ – it's up to all of us to be responsible stewards of our planet. #ClimateChange #GlobalWarming<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+
+
+5.422379493713379
+Context Tokens: 
+tensor([  3687,   4796,  51537,     13, 151645,    198, 151644,  77091,    198,
+             1,  12480,    279,  12498,    481,  39124,    697,  18707,    311,
+          2272,    448,    314,  14491,   3988,   9863, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ media campaign slogan.<|im_end|>
+<|im_start|>assistant
+"Follow the Future - Bring your dreams to life with {Company Name}"<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+
+
+5.408912658691406
+Context Tokens: 
+tensor([   369,    264,  13143,   1985,     13, 151645,    198, 151644,  77091,
+           198,  10022,  30585,    315,   4695,    481,  57430,   4615,  34869,
+           681,    448,    314,  27169,   3988,   9863, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ for a beauty product.<|im_end|>
+<|im_start|>assistant
+"The Beauty of Now - Unlock Your Radiance with {Brand Name}"<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+
+
+5.396788597106934
+Context Tokens: 
+tensor([  7985,    264,  11652,   8482,    264,  17071,     65,   7762,  45350,
+            13, 151645,    198, 151644,  77091,    198,   5050,   3971,    572,
+         37860,   1075,    264,  31243,    603,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Write a sentence containing a hyperbolic metaphor.<|im_end|>
+<|im_start|>assistant
+My mind was spinning like a cyclone.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+
+
+5.352883815765381
+Context Tokens: 
+tensor([   264,  15173,  21646,     13, 151645,    198, 151644,  77091,    198,
+         10234,   1521,    279,  16158,   5312,    279,  41615,     30,   2014,
+           633,    311,    279,   1008,  43364,      0, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ a funny joke.<|im_end|>
+<|im_start|>assistant
+Why did the chicken cross the playground? To get to the other Slide!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+
+
+5.342014789581299
+Context Tokens: 
+tensor([ 15235,    304,   5821,     13, 151645,    198, 151644,  77091,    198,
+         43953,   5503,    279,  14741,  63847,    448,  15235,     25,    362,
+         12712,    311,    279,  12498,    315,  18097, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ AI in travel.<|im_end|>
+<|im_start|>assistant
+Exploring the Horizons with AI: A Guide to the Future of Travel<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+
+
+5.340855121612549
+Context Tokens: 
+tensor([  6006,    311,    697,  18707,     13,  58021,    304,   6133,    323,
+          2725,    304,    264,  52557,   3853,     13,    671,  39134,     44,
+         10175,    671,  33876,    641,   7771,    721, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ door to your dreams. Believe in yourself and invest in a brighter future. #EducationMatters #InvestInYourself<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+5.319310188293457
+Context Tokens: 
+tensor([   198,   7985,    458,   3110,    315,    264,  17071,  60075,     13,
+        151645,    198, 151644,  77091,    198,     40,   2776,    773,  28956,
+           358,   1410,   8180,    264,  15223,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Write an example of a hyperbole.<|im_end|>
+<|im_start|>assistant
+I'm so hungry I could eat a horse.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+
+
+5.3014140129089355
+Context Tokens: 
+tensor([  7071,    315,   8806,     13, 151645,    198, 151644,  77091,    198,
+          1519,    572,    264,  12894,    315,  49481,     11,   1075,    264,
+         55169,    304,    264,  11794,  26413,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ figure of speech.<|im_end|>
+<|im_start|>assistant
+He was a bundle of nerves, like a butterfly in a snowstorm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+
+
+5.301410675048828
+Context Tokens: 
+tensor([   911,  13923,  41587,    264,    501,   1616,    311,   4240,  53180,
+            13, 151645,    198, 151644,  77091,    198,  71226,   7379,  66579,
+          6730,    311,   9590,    506,  42220,      0, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ about scientists discovering a new way to clean oceans.<|im_end|>
+<|im_start|>assistant
+Scientists Find Revolutionary Method to Clean Oceans!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(29, 54, 80)
+
+
+5.290635108947754
+Context Tokens: 
+tensor([ 45657,  13281,    367,     13,   6771,    594,   1281,   1039,  11580,
+          2816,    798,    323,  38245,    369,   3853,  21787,     13,    671,
+         94251,  18522,  23294,    671,  82066,  78998, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Degradation. Let's make our planet greener and healthier for future generations. #savetheenvironment #EnvironmentalProtection<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+
+
+5.283359050750732
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3405,    448,    279,  16174,
+          1036,  78606,     72,    854, 151645,    198, 151644,  77091,    198,
+          9064,    653,  80440,  11136,   3887,     30, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a question with the keyword “fungi”<|im_end|>
+<|im_start|>assistant
+Where do fungi typically live?<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+
+
+5.279392719268799
+Context Tokens: 
+tensor([ 45380,    279,    990,    315,    264,  91623,  22739,     13, 151645,
+           198, 151644,  77091,    198,   2580,   6577,   1526,    279,   6006,
+            11,    806,  10799,  73025,  16852,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ illustrates the use of a dangling modifier.<|im_end|>
+<|im_start|>assistant
+Striding through the door, his coffee spilled everywhere.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+
+
+5.252556324005127
+Context Tokens: 
+tensor([   279,  16062,   2783,    315,  18478,     13, 151645,    198, 151644,
+         77091,    198,  14542,  10506,  63041,  14722,  46790,  22617,  11471,
+           356,   6128,    323,  43924,  32483,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the rising cost of healthcare.<|im_end|>
+<|im_start|>assistant
+Healthcare Costs Skyrocket amid Pay Cuts and Layoffs.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+
+
+5.245505332946777
+Context Tokens: 
+tensor([  1290,   5754,   1365,    432,    594,    279,   7785,   5754,      0,
+          6771,    594,   5266,    311,    264,   4240,     11,  21803,   3853,
+            13,    671,  34625,    365,    480,  32675, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ right choice – it's the smart choice! Let's commit to a clean, sustainable future. #RenewableEnergy<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

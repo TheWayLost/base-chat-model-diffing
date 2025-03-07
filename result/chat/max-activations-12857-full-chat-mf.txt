@@ -1,0 +1,378 @@
+Max Activation Value: 
+(0, 19, 45)
+°F
+3.4823896884918213
+Context Tokens: 
+tensor([151644,   8948,    198,  12012,    279,   2661,  19879,    504,  68723,
+           311,  61347,     13, 151645,    198, 151644,    872,    198,     23,
+            15,  58472, 151645,    198, 151644,  77091,    198,     17,     21,
+            13,     21,     22,  30937, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Convert the given temperatures from Fahrenheit to Celsius.<|im_end|>
+<|im_start|>user
+80°F<|im_end|>
+<|im_start|>assistant
+26.67°C<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ degrees
+3.456096649169922
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,    943,    315,  21495,
+           504,    279,   2701,    738,    315,  25941,     13, 151645,    198,
+        151644,    872,    198,     23,     15,  12348,     11,    220,     20,
+            15,  12348,     11,    220,     20,     15,  12348, 151645,    198,
+        151644,  77091,    198,    785,  21495,    374,    458,    374,    436,
+           346,    642,  21495,     13])
+Decoded Text:
+<|im_start|>system
+Identify the type of triangle from the following set of angles.<|im_end|>
+<|im_start|>user
+80 degrees, 50 degrees, 50 degrees<|im_end|>
+<|im_start|>assistant
+The triangle is an isosceles triangle.
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+)
+3.4178621768951416
+Context Tokens: 
+tensor([   198,  22043,    264,    738,    315,   3501,     11,  11047,    279,
+          3082,    315,    279,   6083,   3465,     13, 151645,    198, 151644,
+           872,    198,      7,     16,     11,    220,     17,      8,    320,
+            17,     11,    220,     18,      8,    320,     18,     11,    220,
+            17,      8,    320,     19,     11,    220,     20,      8, 151645,
+           198, 151644,  77091,    198,    785,   3082])
+Decoded Text:
+
+Given a set of points, calculate the area of the shape created.<|im_end|>
+<|im_start|>user
+(1, 2) (2, 3) (3, 2) (4, 5)<|im_end|>
+<|im_start|>assistant
+The area
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+ NY
+3.2177116870880127
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  23480,  10729,     13, 151645,
+           198, 151644,    872,    198,  26272,  82187,     11,  12271, 151645,
+           198, 151644,  77091,    198,    785,  23480,  10729,    311,  25748,
+            11,  12271,    374,    451,   8613,  20412,  31395,   8453,  23297,
+            11,   7407,    518,    220,     22,     16])
+Decoded Text:
+<|im_start|>system
+Find the nearest restaurant.<|im_end|>
+<|im_start|>user
+Brooklyn, NY<|im_end|>
+<|im_start|>assistant
+The nearest restaurant to Brooklyn, NY is Nju是 Popular Chinese Spot, located at 71
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ AM
+3.202892541885376
+Context Tokens: 
+tensor([  2701,   1378,  12713,     13, 151645,    198, 151644,    872,    198,
+         28046,    220,     20,     11,    220,     17,     15,     17,     15,
+           481,    220,     16,     15,     25,     15,     15,   6769,  27403,
+           323,   5813,    220,     22,     11,    220,     17,     15,     17,
+            15,    481,    220,     15,     23,     25,     15,     15,   6769,
+         27403, 151645,    198, 151644,  77091,    198])
+Decoded Text:
+ following two dates.<|im_end|>
+<|im_start|>user
+April 5, 2020 - 10:00 AM UTC and April 7, 2020 - 08:00 AM UTC<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+)
+3.195497989654541
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   4734,    897,    315,    419,
+         52933,    263,  23375,   7493,     13, 151645,    198, 151644,    872,
+           198,   9407,      7,  48245,     14,     18,      8, 151645,    198,
+        151644,  77091,    198,    785,   4734,    897,    315,    419,  52933,
+           263,  23375,   7493,    374,    220,     15,     13,     20,     13,
+        151645,    198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find the exact value of this trigonometric expression.<|im_end|>
+<|im_start|>user
+cos(π/3)<|im_end|>
+<|im_start|>assistant
+The exact value of this trigonometric expression is 0.5.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+GHz
+3.11068058013916
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,  12313,   1948,   1378,   3871,
+            13, 151645,    198, 151644,    872,    198,   4816,    362,     25,
+           220,     18,     13,     17,  47243,    220,     23,  55964,   5386,
+         15611,   1599,  65030,    467,  17654,     11,    220,     18,     17,
+          5381,  22038,    198,   4816,    425,     25,    220,     19,     13,
+            20,  47243,    220])
+Decoded Text:
+<|im_start|>system
+Write a comparison between two products.<|im_end|>
+<|im_start|>user
+Product A: 3.2GHz 8‑Core Intel Xeon W processor, 32GB RAM
+Product B: 4.5GHz 
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+]]
+3.097482204437256
+Context Tokens: 
+tensor([    24,     15,  12348,  65670,    323,   2550,    279,   1102,     13,
+        151645,    198, 151644,    872,    198,  15505,     17,     11,    220,
+            18,   1259,    508,     19,     11,    220,     20,   5053, 151645,
+           198, 151644,  77091,    198,  15505,     19,     11,    220,     17,
+          1259,    508,     20,     11,    220,     18,   5053, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+90 degrees clockwise and output the result.<|im_end|>
+<|im_start|>user
+[[2, 3],
+ [4, 5]]<|im_end|>
+<|im_start|>assistant
+[[4, 2],
+ [5, 3]]<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ CA
+3.056899309158325
+Context Tokens: 
+tensor([  2274,     11,   1855,    264,  30281,    892,   4933,    264,  29985,
+           315,    279,   7042,    553,   4231,     13, 151645,    198, 151644,
+           872,    198,  53371,    315,   5836,  12879,     11,   9183,     25,
+           220,     23,     23,     19,     11,     15,     15,     15, 151645,
+           198, 151644,  77091,    198,     32,  30281,   9027,    264,  29985,
+           315,    279,   7042,    315,   5836,  12879])
+Decoded Text:
+ US, create a histogram which shows a breakdown of the population by age.<|im_end|>
+<|im_start|>user
+Population of San Francisco, CA: 884,000<|im_end|>
+<|im_start|>assistant
+A histogram showing a breakdown of the population of San Francisco
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+]
+3.04440975189209
+Context Tokens: 
+tensor([    11,    220,     15,     13,     20,     11,    481,     15,     13,
+            20,     11,    220,     15,     13,     23,     11,    481,     15,
+            13,     24,     11,    220,     15,     13,     19,     60, 151645,
+           198, 151644,  77091,    198,  79082,    821,    738,     25,    508,
+            15,     13,     17,     11,    481,     15,     13,     17,     11,
+           220,     15,     13,     16,     11,    481])
+Decoded Text:
+, 0.5, -0.5, 0.8, -0.9, 0.4]<|im_end|>
+<|im_start|>assistant
+Normalized data set: [0.2, -0.2, 0.1, -
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+th
+3.036454200744629
+Context Tokens: 
+tensor([   198,  19781,    551,    279,   2701,   2400,    311,    279,  21940,
+           220,     23,     21,     15,     16,   3561,     13, 151645,    198,
+        151644,    872,    198,  28427,    220,     17,     21,    339,     11,
+           220,     17,     15,     17,     16, 151645,    198, 151644,  77091,
+           198, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Standardize the following date to the ISO 8601 format.<|im_end|>
+<|im_start|>user
+July 26th, 2021<|im_end|>
+<|im_start|>assistant
+<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+)
+3.027592897415161
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,   8046,   1965,    369,    279,
+          2661,   7493,     13, 151645,    198, 151644,    872,    198,  47326,
+            47,   1464,   1207,      8,    348,    320,     49,   1464,    328,
+             8, 151645,    198, 151644,  77091,    198,     47,    262,   1207,
+           262,    431,    262,    328,    262,  30757,     47,   1464,   1207,
+             8,    348])
+Decoded Text:
+<|im_start|>system
+Construct a truth table for the given expression.<|im_end|>
+<|im_start|>user
+(~P -> Q) v (R -> S)<|im_end|>
+<|im_start|>assistant
+P    Q    R    S    (~P -> Q) v
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+F
+3.0275347232818604
+Context Tokens: 
+tensor([151644,   8948,    198,   1109,    423,    279,   9315,    504,  68723,
+           311,  61347,     13, 151645,    198, 151644,    872,    198,     24,
+            19,     37, 151645,    198, 151644,  77091,    198,     18,     19,
+            13,     19,     34, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Conver the temperature from Fahrenheit to Celsius.<|im_end|>
+<|im_start|>user
+94F<|im_end|>
+<|im_start|>assistant
+34.4C<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+]
+3.022972822189331
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  12756,   1985,    315,  22879,
+          1599,    323,    809,     13, 151645,    198, 151644,    872,    198,
+            55,   5818,     17,     11,    220,     22,     60,    809,   5818,
+            20,     11,    481,     16,     60, 151645,    198, 151644,  77091,
+           198,    785,  12756,   1985,    315,  22879,   1599,    323,    809,
+           374,    220,     16,     24,     13])
+Decoded Text:
+<|im_start|>system
+Find the dot product of vectors X and Y.<|im_end|>
+<|im_start|>user
+X=[2, 7] Y=[5, -1]<|im_end|>
+<|im_start|>assistant
+The dot product of vectors X and Y is 19.
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+.py
+3.008789539337158
+Context Tokens: 
+tensor([151644,   8948,    198,  46126,    264,  13027,   2025,     13, 151645,
+           198, 151644,    872,    198,      2,   1887,   7197,    271,    750,
+         23811,   3932,    262,   1173,    492,   9707,   4337,  98973,    333,
+          1304,    606,    563,    621,  12112,   3817,  16179,    262,  23811,
+           368, 151645,    198, 151644,  77091])
+Decoded Text:
+<|im_start|>system
+Compile a Python program.<|im_end|>
+<|im_start|>user
+# main.py
+
+def hello():
+    print('Hello World!')
+
+if __name__ == '__main__':
+    hello()<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+ CA
+3.0066003799438477
+Context Tokens: 
+tensor([151644,   8948,    198,     50,   3799,    264,   1661,  10729,     13,
+        151645,    198, 151644,    872,    198,  29596,  11902,     11,   9183,
+        151645,    198, 151644,  77091,    198,    641,   9656,  11902,     11,
+          9183,     11,    358,   4190,  20482,    674,   9835,  14811,  10729,
+            13, 151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Suggest a good restaurant.<|im_end|>
+<|im_start|>user
+Los Angeles, CA<|im_end|>
+<|im_start|>assistant
+In Los Angeles, CA, I suggest Rossoblu Italian restaurant.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ Washington
+3.005138635635376
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  18093,  16733,    311,    279,
+          2661,   3728,     13, 151645,    198, 151644,    872,    198,  71672,
+            11,   6515, 151645,    198, 151644,  77091,    198,    785,  18093,
+         16733,    311,  16355,     11,   6515,    374,  16355,   9285,    580,
+          7786,   7179,  20691,    320,  91952,    568, 151645,    198, 151643])
+Decoded Text:
+<|im_start|>system
+Find the closest airport to the given location.<|im_end|>
+<|im_start|>user
+Seattle, Washington<|im_end|>
+<|im_start|>assistant
+The closest airport to Seattle, Washington is Seattle-Tacoma International Airport (SEA).<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+@
+2.9780304431915283
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,   6271,   3705,     11,  10542,
+          1128,    943,    315,   2213,    279,   1196,    374,  17004,     13,
+        151645,    198, 151644,    872,    198,     31,  73405, 151645,    198,
+        151644,  77091,    198,    785,   1196,    569,  73405,    374,  15503,
+         17004,   4948,   2213,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Given a Twitter handle, identify what type of content the user is posting.<|im_end|>
+<|im_start|>user
+@realDonaldTrump<|im_end|>
+<|im_start|>assistant
+The user @realDonaldTrump is primarily posting political content.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+]
+2.9526748657226562
+Context Tokens: 
+tensor([   458,  12111,    311,   1477,    279,   7192,   2629,    304,    264,
+          2661,   1334,     13, 151645,    198, 151644,    872,    198,     58,
+            16,     11,     17,     11,     18,     11,     19,     60, 151645,
+           198, 151644,  77091,    198,     32,   4285,   6291,    374,    311,
+         37546,    279,   1334,    323,   2506,   3754,    315,    279,   7192,
+          2629,  23057,    773,   3041,     13,   1096])
+Decoded Text:
+ an algorithm to find the maximum sum in a given array.<|im_end|>
+<|im_start|>user
+[1,2,3,4]<|im_end|>
+<|im_start|>assistant
+A simple solution is to traverse the array and keep track of the maximum sum encountered so far. This
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+0
+2.920151710510254
+Context Tokens: 
+tensor([ 47866,    279,    882,   6672,    304,   4420,   1948,    279,   2701,
+          1378,  12713,     13, 151645,    198, 151644,    872,    198,  28046,
+           220,     20,     11,    220,     17,     15,     17,     15,    481,
+           220,     16,     15,     25,     15,     15,   6769,  27403,    323,
+          5813,    220,     22,     11,    220,     17,     15,     17,     15,
+           481,    220,     15,     23,     25,     15])
+Decoded Text:
+Calculate the time difference in minutes between the following two dates.<|im_end|>
+<|im_start|>user
+April 5, 2020 - 10:00 AM UTC and April 7, 2020 - 08:0
+---------------------------

@@ -1,0 +1,312 @@
+Max Activation Value: 
+(194, 219, 245)
+Testing
+0.21372434496879578
+Context Tokens: 
+tensor([   13,  1096,   646,   387,  2814,   553,  6825, 25283,   323, 46628,
+          429,   646,   387, 12510,    13,  1096,   686,  1492, 10542,  5322,
+          323,  3410, 11055,    13,   715, 16451,   279,  1985,   374,   458,
+         2989,   949,   315,   279, 13402,   527, 28288,    11,   438,   432,
+         6147, 13402,   311,  6915,  2385,  2886,   862, 52762,  1573,   807,
+          525])
+Decoded Text:
+. This can be done by creating scenarios and prototypes that can be tested. This will help identify problems and provide feedback. 
+Testing the product is an important part of the developers’ workflow, as it allows developers to fine-tune their creations before they are
+---------------------------
+Max Activation Value: 
+(186, 211, 237)
+ causes
+0.20958095788955688
+Context Tokens: 
+tensor([  438, 66064, 60254,  1300,   323,  4344,   304,   279,  9237,   594,
+        26507,   646,  5240, 23867,    11,   714,  1493, 11364,  1896,  1753,
+         5021,   323, 16085,   525,   537, 11137,   315,  1482, 11048,  3644,
+        23867,   382,   785,  6239,   315,  3644, 23867,   525,  6884, 86148,
+          323,   646,  2990,   311, 15386,  4344,   304,   279,  9977,  3941,
+          279])
+Decoded Text:
+ as volcanic eruptions and changes in the Earth's orbit can cause warming, but these processes take much longer and hence are not causes of current rapid global warming.
+
+The effects of global warming are wide-reaching and can lead to severe changes in the climate across the
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+4
+0.2086855173110962
+Context Tokens: 
+tensor([  1042,    374,    264,  31471,   1042,     13, 151645,    198, 151644,
+         77091,    198,    750,    374,  11751,    391,  14645,  28281,   1648,
+           715,    262,    421,    320,   3157,   1018,    220,     19,    621,
+           220,     15,    323,   1042,   1018,    220,     16,     15,     15,
+           961,    220,     15,      8,    476,    320,   3157,   1018,    220,
+            19,     15,     15,    621,    220,     15])
+Decoded Text:
+ year is a leap year.<|im_end|>
+<|im_start|>assistant
+def is_leap_year(year): 
+    if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+ database
+0.20860245823860168
+Context Tokens: 
+tensor([  641,   220,    17,    15,    16,    21,    11,  8176,   594, 27800,
+        17843,  3162, 43347, 18054,   220,    17,    23,  3613,   315,  7992,
+          448, 31658,   504,   264,   584,  4625,   315,  9158, 51489, 27634,
+           13,  1096,  3110, 26366,  1246, 15235,  5942,   646,  1281, 47661,
+        11181,  3118,   389, 19189,   323,  9825, 15470,   892,   374,  3042,
+          304])
+Decoded Text:
+In 2016, Amazon's facial recognition software incorrectly matched 28 members of Congress with imaging from a public database of criminal mugshots. This example highlighted how AI systems can make biased decisions based on racial and gender bias which is present in
+---------------------------
+Max Activation Value: 
+(128, 153, 179)
+,
+0.20210298895835876
+Context Tokens: 
+tensor([  304, 64832, 64116,  9898,  2598,  1829,  1127,   429,  1352, 56116,
+        14155,   323,   646,  7072,    13,   758,  5256,   311,  1660,  6032,
+        29350,   323, 11942, 29350,  2989,    11, 52003, 91722,  3410,  2989,
+         7567,  1741,   438,  3607,    11, 34235,  9135,    11,   323,  9135,
+          504, 14226,  9104,  4357,    13,  4710, 30040,    11,  3738,  7488,
+          614])
+Decoded Text:
+ invertebrate animals called corals that form intricate networks and canoes. In addition to being biologically and ecologically important, coral reefs provide important benefits such as food, coastal protection, and protection from extreme weather events. 
+
+Unfortunately, human activities have
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+,
+0.20116090774536133
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ A
+0.2007485032081604
+Context Tokens: 
+tensor([  3046,   3145,   8147,     11,    892,  10000,    504,    279,   9396,
+           323,  14501,    220,     18,   8756,    320,     19,     13,     23,
+         13136,      8,    311,    279,  43006,   1909,     13,    362,   2205,
+         13016,  57173,    264,  14538,   4752,    279,   5240,   3117,    311,
+          5545,  19085,    311,   4367,    264,  20762,     13, 151645,    198,
+        151644,  77091,    198,    785,  40741,    594])
+Decoded Text:
+ basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.<|im_end|>
+<|im_start|>assistant
+The Giant's
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ Groups
+0.199641615152359
+Context Tokens: 
+tensor([   18,  7094,    11,   458,  6358,  4933,   624,    12, 40345, 13740,
+          389,  2820,  2453,  7484,  2790,   400,    21,    15,  3526,   773,
+         3041,   419,  1042,   624,    12, 34580,   525, 41330, 11519,   504,
+        26645, 34854,  3856,   311,  4948,  3856,   323, 24132, 11178,   448,
+        19188, 12876,   624,    12, 64438,  1184,   311,  1855, 13740,   429,
+         2498])
+Decoded Text:
+3 billion, an analysis shows.
+- Television ads on health care alone total $60 million so far this year.
+- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.
+- Candidates need to create ads that stand
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+,
+0.19872251152992249
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+ contributors
+0.19815689325332642
+Context Tokens: 
+tensor([151644,  77091,    198,   1092,    291,   5380,   3545,   3139,   8231,
+           411,   4152,    311,    279,   3347,  23123,    323,   1293,   3238,
+          4115,   5815,    448,    279,   4808,     13,   6944,  20343,    311,
+          8231,    411,   2924,    279,   9474,   1775,   2249,   6993,    315,
+          2498,   5239,  22358,     11,   1550,   8464,   5866,     11,    323,
+           279,   1184,    311,  14971,    387,    330])
+Decoded Text:
+<|im_start|>assistant
+Comedians often experience burnout due to the low wages and long working hours associated with the profession. Other contributors to burnout include the unforgiving nature of stand-up comedy, high stress levels, and the need to constantly be "
+---------------------------
+Max Activation Value: 
+(106, 131, 157)
+4
+0.19804316759109497
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+ors
+0.19799983501434326
+Context Tokens: 
+tensor([  872,   198,    32,  1968, 11079,   518,   264,  1550,  2906,   304,
+        35837,   702,  1012, 21612,  2701,  6682,   315, 41308,  1361,   304,
+        34924, 68470,    13,  9726,   987,  1087,  1053,   429,  1045, 27611,
+         1030,  1012, 69854,   323,  1882,  3690,   819,  1030, 19590,   311,
+          279,  4714,    13,   576,  1968, 11079,   572,  1053,   311,   614,
+         4641])
+Decoded Text:
+user
+A head teacher at a high school in Birmingham has been suspended following reports of irregularities in marking examinations. Inspectors said that some grades had been inflated and process failings had contributed to the issues. The head teacher was said to have failed
+---------------------------
+Max Activation Value: 
+(48, 73, 99)
+2
+0.19282907247543335
+Context Tokens: 
+tensor([   773,    429,    432,    646,    387,  15985,    803,   9355,     25,
+           320,     87,     61,     17,     10,     20,     87,     10,     21,
+             8, 144422,      7,     87,     12,     17,    340,     17,     13,
+         37729,    279,  63533,     25,    320,     87,     61,     17,     10,
+            20,     87,     10,     21,      8,    284,    320,     87,     10,
+            18,   2376,     87,     10,     17,      8])
+Decoded Text:
+ so that it can be understood more clearly: (x^2+5x+6)÷(x-2)
+2. Factor the numerator: (x^2+5x+6) = (x+3)(x+2)
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ software
+0.1906016767024994
+Context Tokens: 
+tensor([  6534,   1380,    458,  15235,   1849,   1865,    264,  47661,   5480,
+        151645,    198, 151644,  77091,    198,    641,    220,     17,     15,
+            16,     21,     11,   8176,    594,  27800,  17843,   3162,  43347,
+         18054,    220,     17,     23,   3613,    315,   7992,    448,  31658,
+           504,    264,    584,   4625,    315,   9158,  51489,  27634,     13,
+          1096,   3110,  26366,   1246,  15235,   5942])
+Decoded Text:
+ situation where an AI system made a biased decision<|im_end|>
+<|im_start|>assistant
+In 2016, Amazon's facial recognition software incorrectly matched 28 members of Congress with imaging from a public database of criminal mugshots. This example highlighted how AI systems
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+isan
+0.1903655230998993
+Context Tokens: 
+tensor([  7105,    198,     12,  15033,   8120,    198,     12,   8596,  45723,
+           198,     12,   4389,  79806,    198,     12,  43532,  11830,   3391,
+          7725,    320,   9410,    315,    279,   2477,  28037,  17132,  11830,
+          3391,   7725,  30497,   8259,    568, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Obama
+- Hillary Clinton
+- Bill Richardson
+- Mark Foley
+- Stuart Rothenberg (Editor of the non-partisan Rothenberg Political Report).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+-a
+0.1882074773311615
+Context Tokens: 
+tensor([  2428,   1110,   2136,   1858,  37555,   6830,  15194,  54482,   4846,
+         65698,   7563,    359,   7725,  30617,   3426,  50402,     12,  12537,
+          5477,  40652,  34689,  25682,   1786,   5963,    285,   7409,     24,
+            17,     22,     16,     17,     23,     21,   2564, 151645,    198,
+        151644,  77091,    198,     38,  65698,    663,    359,   7725,    374,
+         33047,    264,   3644,  12537,  33954,   7203])
+Decoded Text:
+https://www.independent.co.uk/environment/greta-thunberg-climate-change- youth-strike-school-us-crisis-a9271286.html<|im_end|>
+<|im_start|>assistant
+Greta Thunberg is inspiring a global youth-led movement
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ public
+0.18774518370628357
+Context Tokens: 
+tensor([  198,   641,   220,    17,    15,    16,    21,    11,  8176,   594,
+        27800, 17843,  3162, 43347, 18054,   220,    17,    23,  3613,   315,
+         7992,   448, 31658,   504,   264,   584,  4625,   315,  9158, 51489,
+        27634,    13,  1096,  3110, 26366,  1246, 15235,  5942,   646,  1281,
+        47661, 11181,  3118,   389, 19189,   323,  9825, 15470,   892,   374,
+         3042])
+Decoded Text:
+
+In 2016, Amazon's facial recognition software incorrectly matched 28 members of Congress with imaging from a public database of criminal mugshots. This example highlighted how AI systems can make biased decisions based on racial and gender bias which is present
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ education
+0.1858939230442047
+Context Tokens: 
+tensor([  5440,    323,   1846,    879,    653,    537,     13,  12969,    448,
+          2615,    311,   6481,   5440,     11,   1741,    438,    279,   7602,
+            11,    614,    803,  10488,    369,  10535,     11,   6731,     11,
+           323,   4963,   1091,   1846,    879,   1513,    944,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ technology and those who do not. Those with access to modern technology, such as the internet, have more opportunities for communication, education, and resources than those who don't.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+s
+0.1854335367679596
+Context Tokens: 
+tensor([  7813,     11,    448,    279,   1887,   2053,  24387,   4379,   1431,
+          1495,    311,    220,     15,     13,     20,     15,      4,    504,
+           220,     15,     13,     15,     20,  14360,  40470,     82,    614,
+         28686,    389,    279,   3271,     11,   5488,    429,    419,   1265,
+           614,    264,   6785,   2456,    389,    279,  19461,   8684,   8584,
+            13, 151645,    198, 151644,  77091,    198])
+Decoded Text:
+ rates, with the main refinance rate now down to 0.50% from 0.05%. Analysts have commented on the move, saying that this should have a positive effect on the Eurozone economy.<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ try
+0.18522915244102478
+Context Tokens: 
+tensor([ 5726,   311,  8061,   504, 12379,    13,   576,  1585,  2924, 11601,
+         7049,    11, 31074,    11,  6853,   315,  2118,  6002,  2473,    11,
+          279, 37450,   311,  1490,   476,  1430,   389,   279,  1509,  1573,
+        22577,    11,   323,   279,  5214,   315,  1136, 42057,    13, 27893,
+           11,  2860, 11919,   646,   387,   264,  2244,  1616,   311,  3581,
+         3220])
+Decoded Text:
+ ability to shop from anywhere. The cons include shipping costs, delays, lack of direct customer service, the inability to see or try on the item before purchasing, and the risk of scammers. Overall, online shopping can be a great way to save money
+---------------------------

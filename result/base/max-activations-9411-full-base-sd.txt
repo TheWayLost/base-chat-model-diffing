@@ -1,0 +1,332 @@
+Max Activation Value: 
+(106, 131, 157)
+4
+0.22700846195220947
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ all
+0.2130674123764038
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    501,  11652,    429,   5711,
+           678,    279,   4244,    504,    279,   2661,  11652,    304,    279,
+          1852,   1973,     13, 151645,    198, 151644,    872,    198,     40,
+          3937,    311,    279,   3553,    311,   3695,   1045,  40676])
+Decoded Text:
+<|im_start|>system
+Generate a new sentence that uses all the words from the given sentence in the same order.<|im_end|>
+<|im_start|>user
+I went to the store to buy some apples
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+.
+0.2046300172805786
+Context Tokens: 
+tensor([   220,     16,     17,    323,    220,     16,     23,     13, 151645,
+           198, 151644,    872,    198,     16,     17,    609,    220,     16,
+            23, 151645,    198, 151644,  77091,    198,     21,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 12 and 18.<|im_end|>
+<|im_start|>user
+12 & 18<|im_end|>
+<|im_start|>assistant
+6.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(170, 195, 221)
+S
+0.2002129852771759
+Context Tokens: 
+tensor([  422,   362,   434,   647,   619,   198,    49,   468,   328,   506,
+          444,   547,   350,   358,   506,   451,   328,   451,   479,   467,
+          328,   422,   362,   393,   715,    50,   506,   444,   328,   350,
+          358,   356,   468,   431,   468,   647,   350,   393,  1599,   358,
+          547,   809,   362,   271,    50,  1930,   784,  5487,    11, 13170,
+        45977])
+Decoded Text:
+ D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTION
+---------------------------
+Max Activation Value: 
+(171, 196, 222)
+[i
+0.19811487197875977
+Context Tokens: 
+tensor([  897,    11,   715,   262,   671,  1221,  9069,   646,   944,   387,
+          458, 68772,   715,   262,   369,   600,   304,  2088,  6901, 11512,
+        36715,   715,   286,   421,  1760,   989,    60,   366,   220,    15,
+           25,   715,   310,   470,  3557, 13887,   262,   671,  1416,   678,
+        33773,   525,  7168,    11,   914,    16,   323,   914,    17,   715,
+          262])
+Decoded Text:
+ value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string2 
+   
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.19501563906669617
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   1985,    315,    279,   5109,
+        151645,    198, 151644,    872,    198,     20,    323,    220,     23,
+        151645,    198, 151644,  77091,    198,    785,   1985,    315,    220,
+            20,    323,    220,     23,    374,    220])
+Decoded Text:
+<|im_start|>system
+Find the product of the numbers<|im_end|>
+<|im_start|>user
+5 and 8<|im_end|>
+<|im_start|>assistant
+The product of 5 and 8 is 
+---------------------------
+Max Activation Value: 
+(189, 214, 240)
+S
+0.19154110550880432
+Context Tokens: 
+tensor([  467,   328,   422,   362,   393,   715,    50,   506,   444,   328,
+          350,   358,   356,   468,   431,   468,   647,   350,   393,  1599,
+          358,   547,   809,   362,   271,    50,  1930,   784,  5487,    11,
+        13170, 45977,    50,    11,   468, 29651,    11, 29569, 29401,    11,
+        80857,  7783, 72146,    11, 59917,  2149,    11, 83565, 40092,    11,
+        20533])
+Decoded Text:
+ W S D A P 
+S O L S T I C E R E V T P X I U Y A
+
+SOLSTICE, RESOLUTIONS, EASTER, CYCLE, THANKSGIVING, PASCH, CHRISTMAS, HAL
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.1895897388458252
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   5109,
+           220,     21,    323,    220,     16,     17,     13, 151645,    198,
+        151644,    872,    198,     21,    488,    220,     16,     17, 151645,
+           198, 151644,  77091,    198,     16,     23])
+Decoded Text:
+<|im_start|>system
+Find the sum of the numbers 6 and 12.<|im_end|>
+<|im_start|>user
+6 + 12<|im_end|>
+<|im_start|>assistant
+18
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.1895897388458252
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236,  11067,     13, 151645,
+           198, 151644,  77091,    198,    785,   2629,    315,    279,  14791,
+         25941,    315,    264,  29372,    448,   4236])
+Decoded Text:
+<|im_start|>system
+Find the sum of the interior angles of a polygon with five sides.<|im_end|>
+<|im_start|>assistant
+The sum of the interior angles of a polygon with five
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.1895897388458252
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,  11067,
+           315,    279,   2701,  21495,     13, 151645,    198, 151644,    872,
+           198,  51942,  19360,    702,  11067,  14137,    284,    220,     20,
+          9961,     11,  18040,    284,    220,     21])
+Decoded Text:
+<|im_start|>system
+Find the sum of the sides of the following triangle.<|im_end|>
+<|im_start|>user
+Triangle ABC has sides AB = 5 cm, BC = 6
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.1895897388458252
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   2629,    315,    279,   1156,
+           220,     18,     15,   6785,  25780,     13, 151645,    198, 151644,
+         77091,    198,    785,   2629,    315,    279,   1156,    220,     18,
+            15,   6785,  25780,    374,    220,     19])
+Decoded Text:
+<|im_start|>system
+Find the sum of the first 30 positive integers.<|im_end|>
+<|im_start|>assistant
+The sum of the first 30 positive integers is 4
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.18914145231246948
+Context Tokens: 
+tensor([151644,   8948,    198,  10253,    279,   4244,    504,    279,   1140,
+          3685,    311,   5155,    304,    279,  78540,    304,    279,  11652,
+            13, 151645,    198, 151644,    872,    198,    785,   8426,  16162,
+           304,    279,   1879,    374,  30743,   1304])
+Decoded Text:
+<|im_start|>system
+Use the words from the list below to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ __
+---------------------------
+Max Activation Value: 
+(231, 256, 282)
+ test
+0.18911251425743103
+Context Tokens: 
+tensor([  320, 11237,     8,  5339,   382, 88603,    11,   498,  1265,  1273,
+          323, 10517,   279,  1614,    13,  1096,   374,  1380,   498,   646,
+          990,   697, 20694,  1849,   311,  1273,   279,  1614,   304,   264,
+         5670,  4573,    13,  1416,   279,  7032,  2525,  1182,  6849,    11,
+          498,   646, 10517,   279,  1614,   311,  5670,   382, 23949,    11,
+          498])
+Decoded Text:
+ (CI) platform.
+
+Fourth, you should test and deploy the model. This is where you can use your CI system to test the model in a production environment. If the tests come back successful, you can deploy the model to production.
+
+Finally, you
+---------------------------
+Max Activation Value: 
+(327, 352, 378)
+C
+0.18450206518173218
+Context Tokens: 
+tensor([  374,  2989,   311,  8718,  4344,   304,  3015,  9315,   311,  5358,
+        52003, 12422, 11829,   323,   311,  3412,   323,  3455,  5413,   369,
+        52003, 70045, 33993,    13,  4710,    34,  9819, 70045, 28611,   374,
+          264, 25352,  4265,   429,  7460, 33671,  1917,   504,  7775,    11,
+        11104,    11,   323, 16636,    13,  2014, 49360,   279, 24905,   315,
+         3738])
+Decoded Text:
+ is important to monitor changes in water temperature to prevent coral bleaching and to research and employ methods for coral reef restoration. 
+
+Coral reef conservation is a pressing issue that requires urgent action from individuals, organizations, and governments. To mitigate the impacts of human
+---------------------------
+Max Activation Value: 
+(164, 189, 215)
+(len
+0.18318122625350952
+Context Tokens: 
+tensor([  671,  1416,   894, 11639, 24491,   264,  8225,   897,    11,   715,
+          262,   671,  1221,  9069,   646,   944,   387,   458, 68772,   715,
+          262,   369,   600,   304,  2088,  6901, 11512, 36715,   715,   286,
+          421,  1760,   989,    60,   366,   220,    15,    25,   715,   310,
+          470,  3557, 13887,   262,   671,  1416,   678, 33773,   525,  7168,
+           11])
+Decoded Text:
+ # If any frequency reaches a negative value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero,
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+3
+0.18268483877182007
+Context Tokens: 
+tensor([37729,   279, 63533,    25,   320,    87,    61,    17,    10,    20,
+           87,    10,    21,     8,   284,   320,    87,    10,    18,  2376,
+           87,    10,    17,     8,   715,    18,    13, 61242,  1437,   279,
+        46912,    25,   320,    87,    12,    17,     8,   284,   320,    87,
+           10,    17,   481,   220,    19,     8,   284,   320,    87,    10,
+           17])
+Decoded Text:
+ Factor the numerator: (x^2+5x+6) = (x+3)(x+2) 
+3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.18183273077011108
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   3082,    315,    279,   2661,
+           489,   2027,     89,    588,     13, 151645,    198, 151644,    872,
+           198,     33,   2264,     25,    220,     16,     18,   9961,    323,
+           220,     16,     21,   9961,     26,  21432])
+Decoded Text:
+<|im_start|>system
+Find the area of the given trapezoid.<|im_end|>
+<|im_start|>user
+Bases: 13 cm and 16 cm; Height
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+D
+0.18001434206962585
+Context Tokens: 
+tensor([ 28301,   1437,    279,  12344,    829,    369,    279,  17218,    304,
+           279,   6548,     13, 151645,    198, 151644,  77091,    198,     35,
+           408,  22740,    973,  24790,   4904,   9156,    320,     35,   9011,
+           287,  51112,  48097,  59881,      8, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Identify the scientific name for the creature in the photo.<|im_end|>
+<|im_start|>assistant
+Dendrobates tinctorius (Dyeing Poison Dart frog)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(151, 176, 202)
+R
+0.17983195185661316
+Context Tokens: 
+tensor([547, 809, 730, 358, 506, 715,  55, 451, 809, 431, 422, 422, 506, 362,
+        472, 506, 547, 444, 358, 422, 362, 434, 647, 619, 198,  49, 468, 328,
+        506, 444, 547, 350, 358, 506, 451, 328, 451, 479, 467, 328, 422, 362,
+        393, 715,  50, 506, 444, 328, 350, 358, 356])
+Decoded Text:
+ U Y K I O 
+X N Y R D D O A H O U L I D A F V J
+R E S O L U T I O N S N G W S D A P 
+S O L S T I C
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+Enc
+0.17875531315803528
+Context Tokens: 
+tensor([  1519,    572,    264,  12751,   5302,   1515,    323,  54375,    879,
+           374,   6509,    825,    315,    279,  12196,   6277,  60327,    304,
+          3840,     13, 151645,    198, 151644,  77091,    198,   7408,  45126,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+He was a Roman statesman and philosopher who is considered one of the greatest military commanders in history.<|im_end|>
+<|im_start|>assistant
+Encyclopedia<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

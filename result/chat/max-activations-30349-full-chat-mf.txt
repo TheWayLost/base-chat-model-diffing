@@ -1,0 +1,459 @@
+Max Activation Value: 
+(6, 31, 57)
+ Definition
+6.920394420623779
+Context Tokens: 
+tensor([   369,    264,   8806, 151645,    198, 151644,    872,    198,  26406,
+            25,    576,  38095,    315,   9784,   7816, 151645,    198, 151644,
+         77091,    198,     40,     13,  28338,    715,     12,  19709,    315,
+          9784,   7816,    198,     12,  34807,    315,  38095,    271,   5543,
+            13,  37795,   6267,  38095,    715,     12,  58123,  10115,  13431,
+          5342,    336,    715,     12,  50468,  58100])
+Decoded Text:
+ for a speech<|im_end|>
+<|im_start|>user
+Topic: The Benefits of Social Media<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+- Definition of Social Media
+- Overview of Benefits
+
+II. Mental Health Benefits 
+- Improved Self-Esteem 
+- Stress Reduction
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ Definition
+6.818049430847168
+Context Tokens: 
+tensor([  8948,    198,  31115,    264,   1550,  11591,  21101,    369,    264,
+         15496,    389,  20443,  11229,     13, 151645,    198, 151644,  77091,
+           198,     40,     13,  28338,    715,     32,     13,  19709,    315,
+         58194,  21392,    715,     33,     13,  11099,    315,  15235,    271,
+          5543,     13,  20768,    315,  58194,  21392,    715,     32,     13,
+         41164,  15235,    715,     33,     13,  26099])
+Decoded Text:
+system
+Generate a high-level outline for a presentation on artificial intelligence.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Artificial Intelligence 
+B. History of AI
+
+II. Types of Artificial Intelligence 
+A. Weak AI 
+B. Strong
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ Definition
+6.71195125579834
+Context Tokens: 
+tensor([  2661,   8544,     13, 151645,    198, 151644,    872,    198,  26406,
+            25,    576,   7420,    315,  86587, 151645,    198, 151644,  77091,
+           198,     40,     13,  28338,    715,     32,     13,  19709,    315,
+         20031,    715,     33,     13,  38095,    315,  20031,   4710,   5543,
+            13,  40043,  25311,    315,  86587,    715,     32,     13,  36950,
+         24427,    198,     33,     13,  24545,  22126])
+Decoded Text:
+ given topic.<|im_end|>
+<|im_start|>user
+Topic: The Power of Collaboration<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of collaboration 
+B. Benefits of collaboration 
+
+II. Historical Examples of Collaboration 
+A. Ancient Greece
+B. Industrial Revolution
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ Definition
+6.672220230102539
+Context Tokens: 
+tensor([ 21101,    369,    264,  15496,    911,    279,   1482,   1584,    315,
+           279,   1879,   8584,     13, 151645,    198, 151644,  77091,    198,
+            16,     13,  28338,    715,    256,    264,     13,  19709,    315,
+         34200,    715,    256,    293,     13,  34807,    315,    279,  17121,
+         67218,    362,   1705,    287,    279,   7962,  37561,   4710,     17,
+            13,  73005,    315,  22546,   5984,   2897])
+Decoded Text:
+ outline for a presentation about the current state of the world economy.<|im_end|>
+<|im_start|>assistant
+1. Introduction 
+   a. Definition of Economics 
+   b. Overview of the Major Factors Affecting the Global Economy 
+
+2. Causes of Economic Instability
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ Definition
+6.592560291290283
+Context Tokens: 
+tensor([   198, 151644,    872,    198,  84801,   8544,     25,  11791,    323,
+          1181,  28580,    389,  13278,     13, 151645,    198, 151644,  77091,
+           198,     40,     13,  28338,    715,     32,     13,  19709,    315,
+         11791,    715,     33,     13,  28580,    315,  11791,    389,  13278,
+          4710,   5543,     13,  29146,    315,  11791,    715,     32,     13,
+         43903,  29146,    715,     33,     13,  50857])
+Decoded Text:
+
+<|im_start|>user
+Essay topic: Technology and its Impact on Society.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Technology 
+B. Impact of Technology on Society 
+
+II. Effects of Technology 
+A. Positive Effects 
+B. Negative
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ of
+6.195075988769531
+Context Tokens: 
+tensor([   264,   8806, 151645,    198, 151644,    872,    198,  26406,     25,
+           576,  38095,    315,   9784,   7816, 151645,    198, 151644,  77091,
+           198,     40,     13,  28338,    715,     12,  19709,    315,   9784,
+          7816,    198,     12,  34807,    315,  38095,    271,   5543,     13,
+         37795,   6267,  38095,    715,     12,  58123,  10115,  13431,   5342,
+           336,    715,     12,  50468,  58100,    715])
+Decoded Text:
+ a speech<|im_end|>
+<|im_start|>user
+Topic: The Benefits of Social Media<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+- Definition of Social Media
+- Overview of Benefits
+
+II. Mental Health Benefits 
+- Improved Self-Esteem 
+- Stress Reduction 
+
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ of
+6.155251979827881
+Context Tokens: 
+tensor([  8544,     13, 151645,    198, 151644,    872,    198,  26406,     25,
+           576,   7420,    315,  86587, 151645,    198, 151644,  77091,    198,
+            40,     13,  28338,    715,     32,     13,  19709,    315,  20031,
+           715,     33,     13,  38095,    315,  20031,   4710,   5543,     13,
+         40043,  25311,    315,  86587,    715,     32,     13,  36950,  24427,
+           198,     33,     13,  24545,  22126,   4710])
+Decoded Text:
+ topic.<|im_end|>
+<|im_start|>user
+Topic: The Power of Collaboration<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of collaboration 
+B. Benefits of collaboration 
+
+II. Historical Examples of Collaboration 
+A. Ancient Greece
+B. Industrial Revolution 
+
+
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+ of
+6.115002155303955
+Context Tokens: 
+tensor([   369,    264,  15496,    911,    279,   1482,   1584,    315,    279,
+          1879,   8584,     13, 151645,    198, 151644,  77091,    198,     16,
+            13,  28338,    715,    256,    264,     13,  19709,    315,  34200,
+           715,    256,    293,     13,  34807,    315,    279,  17121,  67218,
+           362,   1705,    287,    279,   7962,  37561,   4710,     17,     13,
+         73005,    315,  22546,   5984,   2897,    715])
+Decoded Text:
+ for a presentation about the current state of the world economy.<|im_end|>
+<|im_start|>assistant
+1. Introduction 
+   a. Definition of Economics 
+   b. Overview of the Major Factors Affecting the Global Economy 
+
+2. Causes of Economic Instability 
+
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ of
+6.060550212860107
+Context Tokens: 
+tensor([151644,    872,    198,  84801,   8544,     25,  11791,    323,   1181,
+         28580,    389,  13278,     13, 151645,    198, 151644,  77091,    198,
+            40,     13,  28338,    715,     32,     13,  19709,    315,  11791,
+           715,     33,     13,  28580,    315,  11791,    389,  13278,   4710,
+          5543,     13,  29146,    315,  11791,    715,     32,     13,  43903,
+         29146,    715,     33,     13,  50857,  29146])
+Decoded Text:
+<|im_start|>user
+Essay topic: Technology and its Impact on Society.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Technology 
+B. Impact of Technology on Society 
+
+II. Effects of Technology 
+A. Positive Effects 
+B. Negative Effects
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ of
+6.031970977783203
+Context Tokens: 
+tensor([   198,  31115,    264,   1550,  11591,  21101,    369,    264,  15496,
+           389,  20443,  11229,     13, 151645,    198, 151644,  77091,    198,
+            40,     13,  28338,    715,     32,     13,  19709,    315,  58194,
+         21392,    715,     33,     13,  11099,    315,  15235,    271,   5543,
+            13,  20768,    315,  58194,  21392,    715,     32,     13,  41164,
+         15235,    715,     33,     13,  26099,  15235])
+Decoded Text:
+
+Generate a high-level outline for a presentation on artificial intelligence.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Artificial Intelligence 
+B. History of AI
+
+II. Types of Artificial Intelligence 
+A. Weak AI 
+B. Strong AI
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+ Definition
+6.0060038566589355
+Context Tokens: 
+tensor([   198,  26406,     25,    576,  15404,    315,  58194,  21392,    304,
+          8025, 151645,    198, 151644,  77091,    198,  11411,    311,   3421,
+           304,    279,  15496,     25,  31906,     16,     13,  19709,    323,
+          3840,    315,  58194,  21392,    715,     17,     13,  38095,    315,
+         58194,  21392,    304,   2562,    715,     18,     13,  25311,    315,
+         58194,  21392,   1660,   1483,    304,   2562])
+Decoded Text:
+
+Topic: The Role of Artificial Intelligence in Business<|im_end|>
+<|im_start|>assistant
+Points to cover in the presentation: 
+ 
+1. Definition and history of Artificial Intelligence 
+2. Benefits of Artificial Intelligence in business 
+3. Examples of Artificial Intelligence being used in business
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ History
+5.858983516693115
+Context Tokens: 
+tensor([   369,    264,  15496,    389,  20443,  11229,     13, 151645,    198,
+        151644,  77091,    198,     40,     13,  28338,    715,     32,     13,
+         19709,    315,  58194,  21392,    715,     33,     13,  11099,    315,
+         15235,    271,   5543,     13,  20768,    315,  58194,  21392,    715,
+            32,     13,  41164,  15235,    715,     33,     13,  26099,  15235,
+          4710,  22615,     13,  31525,    315,  15235])
+Decoded Text:
+ for a presentation on artificial intelligence.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Artificial Intelligence 
+B. History of AI
+
+II. Types of Artificial Intelligence 
+A. Weak AI 
+B. Strong AI 
+
+III. Applications of AI
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+ history
+5.839536666870117
+Context Tokens: 
+tensor([    25,    576,  15404,    315,  58194,  21392,    304,   8025, 151645,
+           198, 151644,  77091,    198,  11411,    311,   3421,    304,    279,
+         15496,     25,  31906,     16,     13,  19709,    323,   3840,    315,
+         58194,  21392,    715,     17,     13,  38095,    315,  58194,  21392,
+           304,   2562,    715,     18,     13,  25311,    315,  58194,  21392,
+          1660,   1483,    304,   2562,    715,     19])
+Decoded Text:
+: The Role of Artificial Intelligence in Business<|im_end|>
+<|im_start|>assistant
+Points to cover in the presentation: 
+ 
+1. Definition and history of Artificial Intelligence 
+2. Benefits of Artificial Intelligence in business 
+3. Examples of Artificial Intelligence being used in business 
+4
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ of
+5.531632900238037
+Context Tokens: 
+tensor([   576,  15404,    315,  58194,  21392,    304,   8025, 151645,    198,
+        151644,  77091,    198,  11411,    311,   3421,    304,    279,  15496,
+            25,  31906,     16,     13,  19709,    323,   3840,    315,  58194,
+         21392,    715,     17,     13,  38095,    315,  58194,  21392,    304,
+          2562,    715,     18,     13,  25311,    315,  58194,  21392,   1660,
+          1483,    304,   2562,    715,     19,     13])
+Decoded Text:
+ The Role of Artificial Intelligence in Business<|im_end|>
+<|im_start|>assistant
+Points to cover in the presentation: 
+ 
+1. Definition and history of Artificial Intelligence 
+2. Benefits of Artificial Intelligence in business 
+3. Examples of Artificial Intelligence being used in business 
+4.
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ of
+5.473520278930664
+Context Tokens: 
+tensor([   264,  15496,    389,  20443,  11229,     13, 151645,    198, 151644,
+         77091,    198,     40,     13,  28338,    715,     32,     13,  19709,
+           315,  58194,  21392,    715,     33,     13,  11099,    315,  15235,
+           271,   5543,     13,  20768,    315,  58194,  21392,    715,     32,
+            13,  41164,  15235,    715,     33,     13,  26099,  15235,   4710,
+         22615,     13,  31525,    315,  15235,    715])
+Decoded Text:
+ a presentation on artificial intelligence.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of Artificial Intelligence 
+B. History of AI
+
+II. Types of Artificial Intelligence 
+A. Weak AI 
+B. Strong AI 
+
+III. Applications of AI 
+
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ of
+5.445160388946533
+Context Tokens: 
+tensor([   198,  26406,     25,    576,  38095,    315,   9784,   7816, 151645,
+           198, 151644,  77091,    198,     40,     13,  28338,    715,     12,
+         19709,    315,   9784,   7816,    198,     12,  34807,    315,  38095,
+           271,   5543,     13,  37795,   6267,  38095,    715,     12,  58123,
+         10115,  13431,   5342,    336,    715,     12,  50468,  58100,    715,
+            12,  61597,  65952,   4710,  22615,     13])
+Decoded Text:
+
+Topic: The Benefits of Social Media<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+- Definition of Social Media
+- Overview of Benefits
+
+II. Mental Health Benefits 
+- Improved Self-Esteem 
+- Stress Reduction 
+- Increased Connections 
+
+III.
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ of
+5.440626621246338
+Context Tokens: 
+tensor([   264,   3412,   5567,    389,    279,   6239,    315,   3590,   3687,
+           389,  10502,   2820,     13, 151645,    198, 151644,  77091,    198,
+            40,     13,  28338,    715,     32,     13,  34807,    315,   3590,
+          3687,    715,     33,     13,  34807,    315,  10502,   2820,   4710,
+          5543,     13,  29146,    315,   9784,   7816,    389,  37795,   6267,
+           715,     32,     13,  80369,    323,  45804])
+Decoded Text:
+ a research paper on the effects of social media on mental health.<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Overview of social media 
+B. Overview of mental health 
+
+II. Effects of Social Media on Mental Health 
+A. Anxiety and Depression
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ and
+5.400160312652588
+Context Tokens: 
+tensor([ 26406,     25,    576,  15404,    315,  58194,  21392,    304,   8025,
+        151645,    198, 151644,  77091,    198,  11411,    311,   3421,    304,
+           279,  15496,     25,  31906,     16,     13,  19709,    323,   3840,
+           315,  58194,  21392,    715,     17,     13,  38095,    315,  58194,
+         21392,    304,   2562,    715,     18,     13,  25311,    315,  58194,
+         21392,   1660,   1483,    304,   2562,    715])
+Decoded Text:
+Topic: The Role of Artificial Intelligence in Business<|im_end|>
+<|im_start|>assistant
+Points to cover in the presentation: 
+ 
+1. Definition and history of Artificial Intelligence 
+2. Benefits of Artificial Intelligence in business 
+3. Examples of Artificial Intelligence being used in business 
+
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ of
+5.29254674911499
+Context Tokens: 
+tensor([   315,    279,   1879,   8584,     13, 151645,    198, 151644,  77091,
+           198,     16,     13,  28338,    715,    256,    264,     13,  19709,
+           315,  34200,    715,    256,    293,     13,  34807,    315,    279,
+         17121,  67218,    362,   1705,    287,    279,   7962,  37561,   4710,
+            17,     13,  73005,    315,  22546,   5984,   2897,    715,    256,
+           264,     13,  28580,    315,   7962,   2022])
+Decoded Text:
+ of the world economy.<|im_end|>
+<|im_start|>assistant
+1. Introduction 
+   a. Definition of Economics 
+   b. Overview of the Major Factors Affecting the Global Economy 
+
+2. Causes of Economic Instability 
+   a. Impact of Globalization
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+ Benefits
+5.229995250701904
+Context Tokens: 
+tensor([   872,    198,  26406,     25,    576,   7420,    315,  86587, 151645,
+           198, 151644,  77091,    198,     40,     13,  28338,    715,     32,
+            13,  19709,    315,  20031,    715,     33,     13,  38095,    315,
+         20031,   4710,   5543,     13,  40043,  25311,    315,  86587,    715,
+            32,     13,  36950,  24427,    198,     33,     13,  24545,  22126,
+          4710,  22615,     13,   9125,  25311,    315])
+Decoded Text:
+user
+Topic: The Power of Collaboration<|im_end|>
+<|im_start|>assistant
+I. Introduction 
+A. Definition of collaboration 
+B. Benefits of collaboration 
+
+II. Historical Examples of Collaboration 
+A. Ancient Greece
+B. Industrial Revolution 
+
+III. Current Examples of
+---------------------------

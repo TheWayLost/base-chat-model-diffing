@@ -1,0 +1,354 @@
+Max Activation Value: 
+(106, 131, 157)
+4
+0.30833742022514343
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(48, 73, 99)
+2
+0.2718575596809387
+Context Tokens: 
+tensor([   773,    429,    432,    646,    387,  15985,    803,   9355,     25,
+           320,     87,     61,     17,     10,     20,     87,     10,     21,
+             8, 144422,      7,     87,     12,     17,    340,     17,     13,
+         37729,    279,  63533,     25,    320,     87,     61,     17,     10,
+            20,     87,     10,     21,      8,    284,    320,     87,     10,
+            18,   2376,     87,     10,     17,      8])
+Decoded Text:
+ so that it can be understood more clearly: (x^2+5x+6)÷(x-2)
+2. Factor the numerator: (x^2+5x+6) = (x+3)(x+2)
+---------------------------
+Max Activation Value: 
+(137, 162, 188)
+ Divide
+0.27051976323127747
+Context Tokens: 
+tensor([   323,  46912,     25,    320,     87,     10,     18,   2376,     87,
+            10,     17,      8,   1683,    115,    320,     87,     10,     17,
+             8,    481,    220,     19,    198,     20,     13,  62902,    279,
+         63533,    323,  46912,     25,    320,     87,     10,     18,      8,
+          1683,    115,    320,     87,     10,     17,    481,    220,     19,
+             8, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ and denominator: (x+3)(x+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+3
+0.2694229185581207
+Context Tokens: 
+tensor([37729,   279, 63533,    25,   320,    87,    61,    17,    10,    20,
+           87,    10,    21,     8,   284,   320,    87,    10,    18,  2376,
+           87,    10,    17,     8,   715,    18,    13, 61242,  1437,   279,
+        46912,    25,   320,    87,    12,    17,     8,   284,   320,    87,
+           10,    17,   481,   220,    19,     8,   284,   320,    87,    10,
+           17])
+Decoded Text:
+ Factor the numerator: (x^2+5x+6) = (x+3)(x+2) 
+3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+ emission
+0.25905850529670715
+Context Tokens: 
+tensor([  5025,   1948,   9977,   2297,    323,  17951,  13621,   2404,     30,
+        151645,    198, 151644,  77091,    198,  82046,   2297,    323,  17951,
+         13621,   2404,    525,  15148,   5435,     13,    576,  40253,    315,
+         12499,  39489,   1119,    279,  16566,     11,  15503,   4152,    311,
+          3738,   5702,     11,    374,   8480,    369,    279,   3644,  10000,
+           304,  19879,     13,   1634,    279,  16566])
+Decoded Text:
+ relationship between climate change and ocean acidification?<|im_end|>
+<|im_start|>assistant
+Climate change and ocean acidification are closely related. The emission of carbon dioxide into the atmosphere, primarily due to human activity, is responsible for the global rise in temperatures. As the atmosphere
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+
+
+0.2569131553173065
+Context Tokens: 
+tensor([  264,   501,  2436,   715,   262,   421,  2436,   374,  2240,    25,
+          715,   286,   470,  6018,  2592,     8, 48426,   262,   671, 18214,
+           11, 63548,  1495,   279,  4916,   198,   262,   421,   821,   366,
+         2436,  2196,    25,   715,   286,  2436,  8272,   284,  5656,  6958,
+         8272,    11,   821,     8,   715,   262,   770,    25,   715,   286,
+         2436])
+Decoded Text:
+ a new node 
+    if node is None: 
+        return Node(data) 
+  
+    # Otherwise, recur down the tree
+    if data < node.data: 
+        node.left = insert(node.left, data) 
+    else: 
+        node
+---------------------------
+Max Activation Value: 
+(231, 256, 282)
+ test
+0.25629985332489014
+Context Tokens: 
+tensor([  320, 11237,     8,  5339,   382, 88603,    11,   498,  1265,  1273,
+          323, 10517,   279,  1614,    13,  1096,   374,  1380,   498,   646,
+          990,   697, 20694,  1849,   311,  1273,   279,  1614,   304,   264,
+         5670,  4573,    13,  1416,   279,  7032,  2525,  1182,  6849,    11,
+          498,   646, 10517,   279,  1614,   311,  5670,   382, 23949,    11,
+          498])
+Decoded Text:
+ (CI) platform.
+
+Fourth, you should test and deploy the model. This is where you can use your CI system to test the model in a production environment. If the tests come back successful, you can deploy the model to production.
+
+Finally, you
+---------------------------
+Max Activation Value: 
+(98, 123, 149)
+
+  
+
+0.2501488924026489
+Context Tokens: 
+tensor([  369,   600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,
+         1760,    58,   539,  3609,    16,   989,  2467,   481,  6013,   492,
+           64, 51028,  1421,   220,    16, 13887,   262,   671,  1752,  1817,
+         3668,   304,   914,    17, 60832,  1181, 11639,   715,   262,   369,
+          600,   304,  2088,  6901,  3609,    17, 36715,   715,   286,  1760,
+           58])
+Decoded Text:
+ for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement its frequency 
+    for i in range(len(string2)): 
+        count[
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+4
+0.24847090244293213
+Context Tokens: 
+tensor([   279,   5662,    374,   6839,  10295,    315,   3681,  21984,    311,
+          3960,    279,  12624,     13,    576,   1614,  55878,    279,   1790,
+          3409,    304,    279,   8500,   3055,  16176,    382,     19,     13,
+         39288,    481,    576,   1614,    374,  25070,    389,  63133,    821,
+           311,   5978,    432,  26674,   1632,    389,    279,   3383,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the machine is shown examples of previous texts to learn the patterns. The model predicts the next word in the sequence once trained.
+
+4. Evaluation - The model is evaluated on unseen data to ensure it performs well on the task.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ of
+0.24846354126930237
+Context Tokens: 
+tensor([   284,    220,     20,   9961,     11,  18040,    284,    220,     21,
+          9961,     11,    323,  10584,    284,    220,     22,   9961,     13,
+        151645,    198, 151644,  77091,    198,    785,   2629,    315,    279,
+         11067,    315,  21495,  19360,    374,    220,     16,     23,   9961,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ = 5 cm, BC = 6 cm, and AC = 7 cm.<|im_end|>
+<|im_start|>assistant
+The sum of the sides of triangle ABC is 18 cm.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+5
+0.2465505301952362
+Context Tokens: 
+tensor([   279,  63533,    323,  46912,     25,    320,     87,     10,     18,
+          2376,     87,     10,     17,      8,   1683,    115,    320,     87,
+            10,     17,      8,    481,    220,     19,    198,     20,     13,
+         62902,    279,  63533,    323,  46912,     25,    320,     87,     10,
+            18,      8,   1683,    115,    320,     87,     10,     17,    481,
+           220,     19,      8, 151645,    198, 151643])
+Decoded Text:
+ the numerator and denominator: (x+3)(x+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+ out
+0.2430385947227478
+Context Tokens: 
+tensor([   633,    311,   1059,   2681,    594,   3753,    369,  36150,     13,
+        151645,    198, 151644,  77091,    198,  61686,  94479,   1059,  80684,
+           389,    279,  32177,  13284,    438,   1340,   6966,    700,    279,
+          3241,    518,    279,   5827,  24633,   9331,  41849,    389,    369,
+          8756,     13,   2932,    572,  27395,    311,   5545,   1059,   6562,
+             6,   3753,    304,    882,    369,  36150])
+Decoded Text:
+ get to her parent's house for Thanksgiving.<|im_end|>
+<|im_start|>assistant
+Alice pounded her fists on the steering wheel as she looked out the window at the gridlocked cars stretching on for miles. She was desperate to reach her parents' house in time for Thanksgiving
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+ fare
+0.2411079704761505
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  16523,    304,    279,   2701,
+         11652,    323,   4396,    432, 151645,    198, 151644,    872,    198,
+          1519,  43045,   1053,    806,  20425,     86,   6436, 151645,    198,
+        151644,  77091,    198,   1519,  43045,   1053,    806,  71543,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Find the mistake in the following sentence and correct it<|im_end|>
+<|im_start|>user
+He sadly said his farewells<|im_end|>
+<|im_start|>assistant
+He sadly said his farewell.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+ give
+0.23687827587127686
+Context Tokens: 
+tensor([   311,   1492,   6923,  10435,    323,   5263,   6002,  19805,     13,
+         22406,     11,    279,   3910,   1265,    614,    458,   4135,   1616,
+           369,   6310,    311,   3645,    279,   2813,    323,   2968,  11055,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to help generate conversation and increase customer engagement. Additionally, the website should have an easy way for customers to contact the company and give feedback.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(215, 240, 266)
+ test
+0.23685839772224426
+Context Tokens: 
+tensor([  748,  5068,    13,  1446,   646,   990, 44136,    11, 40710, 20694,
+           11,   476,   894,  1008, 68967, 40069,   320, 11237,     8,  5339,
+          382, 88603,    11,   498,  1265,  1273,   323, 10517,   279,  1614,
+           13,  1096,   374,  1380,   498,   646,   990,   697, 20694,  1849,
+          311,  1273,   279,  1614,   304,   264,  5670,  4573,    13,  1416,
+          279])
+Decoded Text:
+’s performance. You can use Jenkins, Travis CI, or any other Continuous Integration (CI) platform.
+
+Fourth, you should test and deploy the model. This is where you can use your CI system to test the model in a production environment. If the
+---------------------------
+Max Activation Value: 
+(100, 125, 151)
+4
+0.23486849665641785
+Context Tokens: 
+tensor([86166,   323, 32250, 62723,   715,   256,   293,    13, 28580,   389,
+        40852,   323,  1230, 20461, 46976,   715,   256,   272,    13, 26510,
+          304, 33909,   315, 59741,   271,    19,    13, 73877,   198,   256,
+          264,    13, 22676,   311, 41124,   586, 22546, 80138,   715,   256,
+          293,    13, 87615,   311,  6065,  2020, 22546, 68678,   715,   256,
+          272])
+Decoded Text:
+ Consumption and Investment Patterns 
+   b. Impact on Employment and Unemployment Rates 
+   c. Shift in Distribution of Wealth
+
+4. Conclusion
+   a. Solutions to Achieve Economic Stability 
+   b. Suggestions to Overcome Economic Challenges 
+   c
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+urn
+0.23142558336257935
+Context Tokens: 
+tensor([    25, 151645,    198, 151644,    872,    198,   2428,   1110,   2136,
+          4618,     88,    669,    261,    905,   2899,  10523,   2899,  43447,
+         45666,     14,  34634,  11476,    291,   5380,   1455,    399,   9794,
+        151645,    198, 151644,  77091,    198,   1092,    291,   5380,   3545,
+          3139,   8231,    411,   4152,    311,    279,   3347,  23123,    323,
+          1293,   3238,   4115,   5815,    448,    279])
+Decoded Text:
+:<|im_end|>
+<|im_start|>user
+https://www.newyorker.com/culture/cultural-comment/why-comedians-burn-out<|im_end|>
+<|im_start|>assistant
+Comedians often experience burnout due to the low wages and long working hours associated with the
+---------------------------
+Max Activation Value: 
+(173, 198, 224)
+ <
+0.23087269067764282
+Context Tokens: 
+tensor([  715,   262,   671,  1221,  9069,   646,   944,   387,   458, 68772,
+          715,   262,   369,   600,   304,  2088,  6901, 11512, 36715,   715,
+          286,   421,  1760,   989,    60,   366,   220,    15,    25,   715,
+          310,   470,  3557, 13887,   262,   671,  1416,   678, 33773,   525,
+         7168,    11,   914,    16,   323,   914,    17,   715,   262,   671,
+          525])
+Decoded Text:
+ 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string2 
+    # are
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ both
+0.23042923212051392
+Context Tokens: 
+tensor([151644,   8948,    198,   3872,    279,   2661,   5114,    830,    476,
+           895,     30, 151645,    198, 151644,    872,    198,     32,  58001,
+         28202,    646,   4240,   2176,  88241,    323,   2588,  25945,     13,
+        151645,    198, 151644,  77091,    198,   2514, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+Is the given statement true or false?<|im_end|>
+<|im_start|>user
+A robotic vacuum can clean both carpets and hard floors.<|im_end|>
+<|im_start|>assistant
+True<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(145, 170, 196)
+ Remove
+0.22992047667503357
+Context Tokens: 
+tensor([ 8343, 34434,    11,   911,   825,  9383,   624,    18,    13,  2691,
+          279, 67698,   323,  4296,  3080, 74496,   291,    11,   911,   220,
+           20,  4420,   624,    19,    13, 10783,   279, 67698,   323, 30635,
+          504,   279,  7215,   323,   738, 15663,   624,    20,    13,  4968,
+        19963,   279, 23387,   311,   220,    19,    15,    15, 12348,   434,
+          624])
+Decoded Text:
+ fragrant, about one minute.
+3. Add the spinach and cook until wilted, about 5 minutes.
+4. Remove the spinach and garlic from the pan and set aside.
+5. Preheat the oven to 400 degrees F.
+
+---------------------------

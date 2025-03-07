@@ -1,0 +1,345 @@
+Max Activation Value: 
+(26, 51, 77)
+ email
+3.2987003326416016
+Context Tokens: 
+tensor([  2213,    369,   2711,  21106,    624,     18,     13,   7854,    264,
+          3922,    315,   1182,   7746,    624,     19,     13,   1967,   4355,
+          3590,   3687,  15409,    624,     20,     13,   6452,   2551,  20686,
+           624,     21,     13,   4230,    264,  20249,   3119,    624,     22,
+            13,  23519,  27875,    311,   3754,   5068,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ content for search engines.
+3. Build a network of back links.
+4. Leverage social media platforms.
+5. Run email campaigns.
+6. Create a promotion plan.
+7. Monitor analytics to track performance.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ beta
+3.278214454650879
+Context Tokens: 
+tensor([ 3516,   311,  8865,   279,  3409,    13, 49842,   700,   311,  6371,
+          906,  3395, 13037,    11,  4958, 13904,  6594,    11,   438,  1632,
+          438, 39181, 27084,    13, 16102, 13440,  7032,   311,  6923,   803,
+        30427,   323,  1083,  2908,  7842,   384,  2300, 18805,   304,   279,
+          906,   311, 14907, 19805,    13, 10167,   551,   362, 16276,  7497,
+          311])
+Decoded Text:
+ services to spread the word. Reach out to mobile app review websites, industry-related sites, as well as blogger outlets. Host beta tests to generate more buzz and also consider adding easter eggs in the app to encourage engagement. Utilize A/B testing to
+---------------------------
+Max Activation Value: 
+(187, 212, 238)
+ tax
+3.211191177368164
+Context Tokens: 
+tensor([ 1909,   315,  6668, 12205,    13, 23519,   697,  6668,  5456,   311,
+         1281,  2704,   498,  2299,  3709,   279,  1850, 12506,   389,  5896,
+         3871,   382,    22,    13,  8319,  3742, 20141,   323, 70637,    13,
+        57633,   911,   279,  5257,  3742, 35480,   429,   525,  2500,   646,
+         1492,   498,  3581,  3220,   389,  7911, 13125,   382,    23,    13,
+        33663])
+Decoded Text:
+ top of credit scores. Monitor your credit score to make sure you're getting the best deals on financial products.
+
+7. Research tax credits and deductions. Knowing about the various tax incentives that are available can help you save money on income taxes.
+
+8. Protect
+---------------------------
+Max Activation Value: 
+(91, 116, 142)
+ USB
+3.141913890838623
+Context Tokens: 
+tensor([  821,   979,  1667,   584, 14155,   624,    21,    13,  5443, 27830,
+          979, 18458,   389,  7746,   476, 29338,   311, 14298,   624,    22,
+           13, 34006,  1667,   650, 83837, 11348, 20118,   624,    23,    13,
+        43438,  2989,  3542, 13814,   624,    24,    13, 23240,  1487,   700,
+         1283,  1667,   697, 20638,   624,    16,    15,    13, 14695,  5274,
+          432])
+Decoded Text:
+ data when using public networks.
+6. Use caution when clicking on links or responding to emails.
+7. Avoid using untrusted USB drives.
+8. Backup important files frequently.
+9. Always log out after using your laptop.
+10. Never leave it
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+aster
+3.084311008453369
+Context Tokens: 
+tensor([ 3395, 13037,    11,  4958, 13904,  6594,    11,   438,  1632,   438,
+        39181, 27084,    13, 16102, 13440,  7032,   311,  6923,   803, 30427,
+          323,  1083,  2908,  7842,   384,  2300, 18805,   304,   279,   906,
+          311, 14907, 19805,    13, 10167,   551,   362, 16276,  7497,   311,
+        29436,   279,  1196,  3749,    11,   323,  8718,  1196, 11055, 14971,
+          311])
+Decoded Text:
+ review websites, industry-related sites, as well as blogger outlets. Host beta tests to generate more buzz and also consider adding easter eggs in the app to encourage engagement. Utilize A/B testing to optimize the user interface, and monitor user feedback constantly to
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ demo
+3.0644216537475586
+Context Tokens: 
+tensor([19529,  8493,   624,    12, 49842,   700,   311, 13014, 49243,   323,
+        13037,   624,    12, 11775,   279,   906,  1526,  3409,   315, 10780,
+         4221,  4780,   624,    12,  4230, 16661,  6803,   323, 43812,   311,
+        10339,   279,   906,   594,  4419,   624,    12, 24498, 31062,   323,
+         3281, 35480,   311,  4124, 10902,   388,   624,    12,  7854,   264,
+         6770])
+Decoded Text:
+encer marketing.
+- Reach out to tech bloggers and websites.
+- Share the app through word of mouth among friends.
+- Create demo videos and tutorials to explain the app's features.
+- Offer discounts and special incentives to early adopters.
+- Build a basic
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ email
+3.0577030181884766
+Context Tokens: 
+tensor([  6002,  19805,   1265,   2924,   7488,   1741,    438,   6825,   6002,
+         31783,   7468,     11,  27718,  46503,    323,  86226,     11,  24132,
+         86233,     11,   6825,  28862,   2213,     11,  34888,   2551,  20686,
+            11,  76482,   6002,    821,     11,    323,  34888,   3590,   3687,
+         15409,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ customer engagement should include activities such as creating customer loyalty programs, launching contests and giveaways, targeting influencers, creating viral content, utilizing email campaigns, leveraging customer data, and utilizing social media platforms.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ call
+3.0554122924804688
+Context Tokens: 
+tensor([    13,    715,     17,     13,   2691,  56513,    311,   5263,   9124,
+         14303,    624,     18,     13,   5443,   3590,   3687,  17590,    311,
+         16579,  15255,    624,     19,     13,  29734,   2797,   1618,   4686,
+         25059,  12424,    369,   2989,   2213,    624,     20,     13,  39565,
+         38219,     11,    714,  98632,   2213,    429,    374,   4135,    311,
+         20882,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+. 
+2. Add multimedia to increase visual appeal.
+3. Use social media integration to engage visitors.
+4. Include clear call-to-action buttons for important content.
+5. Provide informative, but succinct content that is easy to digest.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ eye
+3.045567512512207
+Context Tokens: 
+tensor([  4849,   6133,    448,    279,   8544,     26,    220,     17,      8,
+         67201,   9355,     11,   1667,  85832,    311,  45932,   2989,   3501,
+            26,    323,    220,     18,      8,  26984,   3259,   7912,   3645,
+           448,    279,  10650,    311,   2664,  16579,   1105,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+izing yourself with the topic; 2) Speak clearly, using pauses to emphasize important points; and 3) Practice making eye contact with the audience to better engage them.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ word
+2.9932289123535156
+Context Tokens: 
+tensor([ 3590,  3687, 15409,   624,    12, 10167,   551,  6653, 19529,  8493,
+          624,    12, 49842,   700,   311, 13014, 49243,   323, 13037,   624,
+           12, 11775,   279,   906,  1526,  3409,   315, 10780,  4221,  4780,
+          624,    12,  4230, 16661,  6803,   323, 43812,   311, 10339,   279,
+          906,   594,  4419,   624,    12, 24498, 31062,   323,  3281, 35480,
+          311])
+Decoded Text:
+ social media platforms.
+- Utilize influencer marketing.
+- Reach out to tech bloggers and websites.
+- Share the app through word of mouth among friends.
+- Create demo videos and tutorials to explain the app's features.
+- Offer discounts and special incentives to
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+ volunteer
+2.9610462188720703
+Context Tokens: 
+tensor([ 5871, 28690,   476, 21067,   715,    12,  4230,   323, 32900, 34016,
+        58669,   715,    12,  7843,  8493,  8282,   715,    12,  2410, 67787,
+          279,  1538,   715,    12,  4230, 25144, 10488,   715,    12, 31166,
+         3119,   369,   738,  5239,   323, 17576,  1495,   715,    12,  2573,
+          705, 47579,   715,    12,  4230,  1841,  3419,   323, 11055,  7586,
+          715])
+Decoded Text:
+ necessary permits or licenses 
+- Create and disseminate invitations 
+- Develop marketing strategy 
+- Advertise the event 
+- Create volunteer opportunities 
+- Prepare plan for set-up and tear down 
+- Set up decorations 
+- Create sign-in and feedback forms 
+
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ motion
+2.9438304901123047
+Context Tokens: 
+tensor([ 7611,   979,   537,   304,   990,    26, 13054,  1007,   279, 12711,
+          979,  9380,   264,  3054,    26, 27765,   311, 13113,   476, 96316,
+         3100, 16110,  1279,    26, 26632, 11379,  1737, 13176,   287,  3100,
+        31167,    26,   323,  1667,  5810,  3100,  1526,  8131, 11030,   323,
+         1901,  3923,  2796,    13, 22406,    11, 24891,  2310, 33702,   448,
+         4802])
+Decoded Text:
+ devices when not in use; turning off the lights when leaving a room; switching to LED or CFL lightbulbs; installing motion-detecting light switches; and using natural light through larger windows and skylights. Additionally, replacing old appliances with energy
+---------------------------
+Max Activation Value: 
+(85, 110, 136)
+ search
+2.928731918334961
+Context Tokens: 
+tensor([  3590,   3687,     11,    279,  11153,   6741,    646,   5263,   1181,
+         23160,    323,   5545,    264,   8131,   6002,   2331,     13,  22406,
+            11,    279,  11153,   6741,   1265,   2908,  34888,   2711,   4712,
+         25262,   7375,    323,   7375,    311,   8718,    279,   3910,    748,
+          5068,    311,   5978,   2664,   2711,   4712,  32307,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ social media, the fashion brand can increase its visibility and reach a larger customer base. Additionally, the fashion brand should consider utilizing search engine optimization tools and tools to monitor the website’s performance to ensure better search engine rankings.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+ return
+2.899482250213623
+Context Tokens: 
+tensor([   279,  28309,     13,    358,   1035,   1083,  67170,    911,    279,
+         21219,     11,   8160,   5413,     11,    323,  11601,  10186,     13,
+         22406,     11,    358,   1035,   2548,    911,    862,    470,   4842,
+           323,    894,   5107,   3516,    807,   3410,   1741,    438,  13713,
+           323,  28611,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the artwork. I would also inquire about the pricing, payment methods, and shipping policies. Additionally, I would ask about their return policy and any additional services they provide such as installation and conservation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ solar
+2.8873090744018555
+Context Tokens: 
+tensor([   11,  1667,   264,  5796, 12577, 71453,   311,  7949,  3015, 42238,
+          990,    11,  1667,   264,  7785, 74070,   311,  8718,   323,  7500,
+        19879,  9463,    11, 26632,   264, 12941,  4017,  3015, 42238,    11,
+          323, 13054,  1007, 30491,   979,   537,   304,   990,    13, 22406,
+           11,  3259,  2704,   311,  4582,   323, 25349, 11030,   323, 14038,
+        12440])
+Decoded Text:
+, using a touch-free faucet to reduce water heater use, using a smart thermostat to monitor and adjust temperatures automatically, installing a solar hot water heater, and turning off electronics when not in use. Additionally, making sure to install and seal windows and doors correctly
+---------------------------
+Max Activation Value: 
+(119, 144, 170)
+ press
+2.8774046897888184
+Context Tokens: 
+tensor([   12, 70615,   369, 22344,   323,  1661,  8379,   389,   279,   906,
+         3553,   624,    12, 29734,   279,   906,  2656,   304,   697,  2551,
+        11957,   624,    12,  9735, 34282,  3493, 19232,   323, 20686,   624,
+           12, 10751, 60040,  3847,   311,  4379,   323,  3395,   279,   906,
+          389,   279,   906,  3553,   624,    12,  1967,  4355,  1196, 16185,
+         2213])
+Decoded Text:
+- Aim for awards and good reviews on the app store.
+- Include the app link in your email signature.
+- Try promotional press releases and campaigns.
+- Encourage users to rate and review the app on the app store.
+- Leverage user-generated content
+---------------------------
+Max Activation Value: 
+(71, 96, 122)
+ artificial
+2.8606600761413574
+Context Tokens: 
+tensor([   12, 29558, 43790, 67286,   448,  6032,   534, 77030, 26450,   198,
+           12, 64084, 61920,  5942,   198,    12,  1032, 20052, 47845,  9867,
+         6008,  9419,   198,    12, 38174, 20443, 14401,  8166,   323,  6176,
+        13737,   198,    12, 39565, 74938,  5942,   518,  3015,  6380, 10779,
+          198,    12, 31075,  1850, 12378,   369, 28049, 78052,   198,    12,
+        39633])
+Decoded Text:
+- Replace disposable plastics with biodegradable alternatives
+- Improve sewer systems
+- Re-introduce native plant species
+- Foster artificial wetlands and green infrastructure
+- Provide filtration systems at water treatment plants
+- Implement best practices for agricultural runoff
+- Increase
+---------------------------
+Max Activation Value: 
+(54, 79, 105)
+ red
+2.8454623222351074
+Context Tokens: 
+tensor([    21,     13,   4598,  46719,   9842,    715,     22,     13,   3892,
+         95878,   7310,   5479,    715,     23,     13,  52253,   1393,   8664,
+           343,   3260,    715,     24,     13,  28025,    264,   2518,   3100,
+           715,     16,     15,     13,  44535,    476,  41555,    304,   5636,
+           476,  26736,   2884, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+6. Aggressive driving 
+7. Defective vehicle parts 
+8. Driving while fatigued 
+9. Running a red light 
+10. Problems or defects in road or highway design<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(164, 189, 215)
+ credit
+2.8299641609191895
+Context Tokens: 
+tensor([18986,  3119,    13, 20037, 15663,   264, 13348,   315,   697,  7911,
+         1449,  2254,   374,  1376,   311,  6825,  5896, 19753,   382,    21,
+           13, 28737,   389,  1909,   315,  6668, 12205,    13, 23519,   697,
+         6668,  5456,   311,  1281,  2704,   498,  2299,  3709,   279,  1850,
+        12506,   389,  5896,  3871,   382,    22,    13,  8319,  3742, 20141,
+          323])
+Decoded Text:
+ savings plan. Setting aside a portion of your income every month is key to creating financial stability.
+
+6. Stay on top of credit scores. Monitor your credit score to make sure you're getting the best deals on financial products.
+
+7. Research tax credits and
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ anti
+2.821796417236328
+Context Tokens: 
+tensor([  315, 39482,   323, 42047, 11931,    11,  5109,    11,   323,  3281,
+         5766,   624,    17,    13,  5443,  1378, 74097, 16653,   369,   678,
+         9618,   624,    18,    13, 29279,  7147,  8273, 16972,   323,  7147,
+         1448,   278,  1664,  3162,   374,   705,   311,  2400,   624,    19,
+           13,  8278,  4582, 21789,  3162,   504, 14720,  8173,   624,    20,
+           13])
+Decoded Text:
+ of uppercase and lowercase letters, numbers, and special characters.
+2. Use two-factor authentication for all accounts.
+3. Ensure anti-virus and anti-malware software is up to date.
+4. Only install trusted software from reliable sources.
+5.
+---------------------------

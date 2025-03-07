@@ -1,0 +1,380 @@
+Max Activation Value: 
+(133, 158, 184)
+ #
+0.4196649193763733
+Context Tokens: 
+tensor([ 2240,   476,  1376,   374,  3042,   518,  3704,   715,   262,   421,
+         2436,   374,  2240,   476,  2436,  2196,   621,   821,    25,   715,
+          286,   470,  2436, 48426,   262,   671,  5309,   374,  7046,  1091,
+         3704,   594,  1376,   715,   262,   421,  2436,  2196,   366,   821,
+           25,   715,   286,   470,  2711,  6958,  9517,    11,   821,     8,
+        48426])
+Decoded Text:
+ None or key is present at root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ #
+0.41790345311164856
+Context Tokens: 
+tensor([ 1416,   279,  4916,   374,  4287,    11,   470,   264,   501,  2436,
+          715,   262,   421,  2436,   374,  2240,    25,   715,   286,   470,
+         6018,  2592,     8, 48426,   262,   671, 18214,    11, 63548,  1495,
+          279,  4916,   198,   262,   421,   821,   366,  2436,  2196,    25,
+          715,   286,  2436,  8272,   284,  5656,  6958,  8272,    11,   821,
+            8])
+Decoded Text:
+ If the tree is empty, return a new node 
+    if node is None: 
+        return Node(data) 
+  
+    # Otherwise, recur down the tree
+    if data < node.data: 
+        node.left = insert(node.left, data)
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ functional
+0.41130900382995605
+Context Tokens: 
+tensor([151644,   8948,    198,     35,  24308,    279,  15629,   1874,    315,
+           279,   2701,  41930,     13, 151645,    198, 151644,    872,    198,
+          2149,     18,     12,   2149,     17,   7658,  19499,     39, 151645,
+           198, 151644,  77091,    198,    785])
+Decoded Text:
+<|im_start|>system
+Determine the functional group of the following molecule.<|im_end|>
+<|im_start|>user
+CH3-CH2-COOH<|im_end|>
+<|im_start|>assistant
+The
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ #
+0.40477123856544495
+Context Tokens: 
+tensor([13887,   262,   671, 10466,   311,  3553, 11639,   315,  5766,   304,
+          914,    16,   715,   262,  1760,   284,   508,    15,    60,   353,
+          220,    17,    21, 13887,   262,   671,  1752,  1817,  3668,   304,
+          914,    16, 16252,  1181, 11639,   715,   262,   369,   600,   304,
+         2088,  6901,  3609,    16, 36715,   715,   286,  1760,    58,   539,
+         3609])
+Decoded Text:
+
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord(string
+---------------------------
+Max Activation Value: 
+(101, 126, 152)
+ #
+0.39653486013412476
+Context Tokens: 
+tensor([    8,  2436,  7445,   715,   262,   470,  2436, 48426,     2,  5712,
+          311,  2711,   264,  2661,   821,   715,   750,  2711,  6958,    11,
+          821,  1648,   715,  6926,   262,   671,  5351, 11538,    25,   421,
+         3704,   374,  2240,   476,  1376,   374,  3042,   518,  3704,   715,
+          262,   421,  2436,   374,  2240,   476,  2436,  2196,   621,   821,
+           25])
+Decoded Text:
+) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case: if root is None or key is present at root 
+    if node is None or node.data == data:
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ equation
+0.39398670196533203
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   6291,    311,    279,  79151,
+         23606,     13, 151645,    198, 151644,    872,    198,     18,     87,
+         29456,    488,    220,     22,     87,    481,    220,     19,    284,
+           220,     15, 151645,    198, 151644,  77091,    198,    785])
+Decoded Text:
+<|im_start|>system
+Find the solution to the quadratic equation.<|im_end|>
+<|im_start|>user
+3x² + 7x - 4 = 0<|im_end|>
+<|im_start|>assistant
+The
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+every
+0.39090487360954285
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,  11652,   1667,    279,  17133,
+           330,  29015,   1899,   3263, 151645,    198, 151644,  77091,    198,
+            40,    653,   2494,    501,   1449,   1899,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Construct a sentence using the phrase "every day".<|im_end|>
+<|im_start|>assistant
+I do something new every day.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+   
+0.38791656494140625
+Context Tokens: 
+tensor([ 3557, 13887,   262,   671, 10466,   311,  3553, 11639,   315,  5766,
+          304,   914,    16,   715,   262,  1760,   284,   508,    15,    60,
+          353,   220,    17,    21, 13887,   262,   671,  1752,  1817,  3668,
+          304,   914,    16, 16252,  1181, 11639,   715,   262,   369,   600,
+          304,  2088,  6901,  3609,    16, 36715,   715,   286,  1760,    58,
+          539])
+Decoded Text:
+ False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+       
+0.3873662054538727
+Context Tokens: 
+tensor([   17,    21, 13887,   262,   671,  1752,  1817,  3668,   304,   914,
+           16, 16252,  1181, 11639,   715,   262,   369,   600,   304,  2088,
+         6901,  3609,    16, 36715,   715,   286,  1760,    58,   539,  3609,
+           16,   989,  2467,   481,  6013,   492,    64, 51028,  1421,   220,
+           16, 13887,   262,   671,  1752,  1817,  3668,   304,   914,    17,
+        60832])
+Decoded Text:
+26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement
+---------------------------
+Max Activation Value: 
+(83, 108, 134)
+ 
+  
+
+0.38368794322013855
+Context Tokens: 
+tensor([  286,  2436,  9517,   284,  5656,  6958,  9517,    11,   821,     8,
+        48426,   262,   671,   470,   279,   320,  3185,  3726,     8,  2436,
+         7445,   715,   262,   470,  2436, 48426,     2,  5712,   311,  2711,
+          264,  2661,   821,   715,   750,  2711,  6958,    11,   821,  1648,
+          715,  6926,   262,   671,  5351, 11538,    25,   421,  3704,   374,
+         2240])
+Decoded Text:
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case: if root is None
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+ over
+0.3800807297229767
+Context Tokens: 
+tensor([  279,  1429, 40285, 32062,  1538,   304,   279,  1879,    13, 11445,
+         3840,  6009,   304,   220,    16,    24,    15,    18,    11,   979,
+          279,  1156,  1538,   572,  5644,   916,   264,  6010,   315, 17267,
+          220,    17,    11,    15,    15,    15, 40568,   320,    16,    11,
+           17,    15,    15,  8756,     8,   448,  1101,   220,    21,    15,
+        27550])
+Decoded Text:
+ the most prestigious cycling event in the world. Its history began in 1903, when the first event was held over a distance of roughly 2,000 kilometers (1,200 miles) with just 60 competitors
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ #
+0.37721943855285645
+Context Tokens: 
+tensor([ 8272,   284,  5656,  6958,  8272,    11,   821,     8,   715,   262,
+          770,    25,   715,   286,  2436,  9517,   284,  5656,  6958,  9517,
+           11,   821,     8, 48426,   262,   671,   470,   279,   320,  3185,
+         3726,     8,  2436,  7445,   715,   262,   470,  2436, 48426,     2,
+         5712,   311,  2711,   264,  2661,   821,   715,   750,  2711,  6958,
+           11])
+Decoded Text:
+.left = insert(node.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node,
+---------------------------
+Max Activation Value: 
+(98, 123, 149)
+
+  
+
+0.37538614869117737
+Context Tokens: 
+tensor([  369,   600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,
+         1760,    58,   539,  3609,    16,   989,  2467,   481,  6013,   492,
+           64, 51028,  1421,   220,    16, 13887,   262,   671,  1752,  1817,
+         3668,   304,   914,    17, 60832,  1181, 11639,   715,   262,   369,
+          600,   304,  2088,  6901,  3609,    17, 36715,   715,   286,  1760,
+           58])
+Decoded Text:
+ for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement its frequency 
+    for i in range(len(string2)): 
+        count[
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+
+  
+
+0.37535324692726135
+Context Tokens: 
+tensor([  470,  3557, 13887,   262,   671, 10466,   311,  3553, 11639,   315,
+         5766,   304,   914,    16,   715,   262,  1760,   284,   508,    15,
+           60,   353,   220,    17,    21, 13887,   262,   671,  1752,  1817,
+         3668,   304,   914,    16, 16252,  1181, 11639,   715,   262,   369,
+          600,   304,  2088,  6901,  3609,    16, 36715,   715,   286,  1760,
+           58])
+Decoded Text:
+ return False
+  
+    # Dictionary to store frequency of characters in string1 
+    count = [0] * 26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+#
+0.37379586696624756
+Context Tokens: 
+tensor([ 2436,  9517,   284,  5656,  6958,  9517,    11,   821,     8, 48426,
+          262,   671,   470,   279,   320,  3185,  3726,     8,  2436,  7445,
+          715,   262,   470,  2436, 48426,     2,  5712,   311,  2711,   264,
+         2661,   821,   715,   750,  2711,  6958,    11,   821,  1648,   715,
+         6926,   262,   671,  5351, 11538,    25,   421,  3704,   374,  2240,
+          476])
+Decoded Text:
+ node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case: if root is None or
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ On
+0.3736972212791443
+Context Tokens: 
+tensor([ 1850,  5068,    13,  4354,    11,   432,   374,  3545,   279,  1429,
+        11392,  2999,   323,  5707,  7199, 93740,  4152,   311,   279,  6961,
+         9481,   315,   279,  3538,    13,  1913,   279,  1008,  1424,    11,
+         9437,  5980,  5819, 10533,   821,   389,   264,  8699,  3538,    11,
+         8789, 12938,   323, 18401,   553,   264,  4843, 24031,  9109,    13,
+         1096])
+Decoded Text:
+ best performance. However, it is often the most expensive option and provides limited scalability due to the physical limitations of the server. On the other hand, cloud-based storage stores data on a remote server, generally owned and maintained by a third-party provider. This
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ all
+0.3733103573322296
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,    501,  11652,    429,   5711,
+           678,    279,   4244,    504,    279,   2661,  11652,    304,    279,
+          1852,   1973,     13, 151645,    198, 151644,    872,    198,     40,
+          3937,    311,    279,   3553,    311,   3695,   1045,  40676])
+Decoded Text:
+<|im_start|>system
+Generate a new sentence that uses all the words from the given sentence in the same order.<|im_end|>
+<|im_start|>user
+I went to the store to buy some apples
+---------------------------
+Max Activation Value: 
+(270, 295, 321)
+ military
+0.3715822994709015
+Context Tokens: 
+tensor([ 12055,    323,    279,  13388,    315,    547,    808,     13,   6277,
+         20949,     13,  22406,     11,    279,  22500,   5004,   1083,  47763,
+          5497,    279,   1616,    584,   9459,  19334,    279,   6277,    323,
+           279,    990,    315,   5344,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(160, 185, 211)
+ #
+0.36873891949653625
+Context Tokens: 
+tensor([   374,   7046,   1091,   3704,    594,   1376,    715,    262,    421,
+          2436,   2196,    366,    821,     25,    715,    286,    470,   2711,
+          6958,   9517,     11,    821,      8,  48426,    262,    671,   5309,
+           374,   9155,   1091,   3704,    594,   1376,    715,    262,    470,
+          2711,   6958,   8272,     11,    821,      8, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than root's key 
+    return search(node.left, data)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ of
+0.3671421706676483
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   8028,    897,    315,    220,
+            16,     18,     17,    481,    220,     20,      9,     18, 151645,
+           198, 151644,  77091,    198,    785,   8028,    897,    315,    220,
+            16,     18,     17,    481,    220,     20])
+Decoded Text:
+<|im_start|>system
+Find the minimum value of 132 - 5*3<|im_end|>
+<|im_start|>assistant
+The minimum value of 132 - 5
+---------------------------

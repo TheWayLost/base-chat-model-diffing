@@ -1,0 +1,294 @@
+Max Activation Value: 
+(66, 91, 117)
+ to
+3.981929063796997
+Context Tokens: 
+tensor([  411,   323, 53829,  2473,  2500,    13,   576, 16566,   686,   387,
+         8205,   323, 41192,   323,   686,  4565,  1947,   504,  2205, 13511,
+           13,   576,  2562,  3119, 21538,   311,  1936,   264, 21803,   323,
+        33135,  2562,    13,   576,  8039,  5646,  1191,  5239,  7049,   323,
+        14195, 18024,  1741,   438,  8016,    11,  8113,    11, 36432,    11,
+         8493])
+Decoded Text:
+out and catering service available. The atmosphere will be warm and inviting and will feature art from local artists. The business plan aims to build a sustainable and profitable business. The budget includes start-up costs and ongoing expenses such as rent, insurance, salaries, marketing
+---------------------------
+Max Activation Value: 
+(105, 130, 156)
+ involves
+3.8158888816833496
+Context Tokens: 
+tensor([ 5106,    13,   576,  1809,   374,  2765,   979,   264,  2781,   594,
+         6210, 24491,   862, 14704,   594,  3108,   315,   279,  4479,    13,
+          576,  8282,   315,   279,  1809, 17601,  9115,  8305,   323,  3259,
+         7785, 10797,   311,  5978,   697,  9666,  1513,   944,   633, 17006,
+          553,   697, 14704,    13,   576,  2781,   879, 40155,   279, 14704,
+          594])
+Decoded Text:
+ direction. The game is won when a player's King reaches their opponent's side of the board. The strategy of the game involves planning ahead and making smart moves to ensure your pieces don't get captured by your opponent. The player who captures the opponent's
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+ to
+3.7918999195098877
+Context Tokens: 
+tensor([  892,  7263,  3271,  6157,   504,  4522,   311,  4401,   323,  3960,
+          504,   862, 20643,    11,  3259,  2613, 32974,  3156,   279,  1616,
+           13,   576,  1882,   374,  6188,   311,   387, 13153,   480,   323,
+         6707, 29364,    11, 10693,  7263,   311,  7500,   279,  9079,   323,
+        12538,  3118,   389,  1196, 11055,    13, 54006,    11,   279, 82184,
+         6730])
+Decoded Text:
+ which teams move quickly from idea to development and learn from their mistakes, making small adjustments along the way. The process is designed to be repeatable and easily adapted, allowing teams to adjust the tasks and techniques based on user feedback. Ultimately, the Agile Method
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ on
+3.650473117828369
+Context Tokens: 
+tensor([   279,   1616,     11,    566,  51014,    429,  24744,    323,  26509,
+           525,    279,   6894,    311,  72917,  13962,    323,  55401,    264,
+          1879,    315,  23607,     13,   1096,  11514,  23497,    389,  21386,
+           315,   2997,     11,  31783,     11,    323,  25505,     11,  13653,
+         92912,    279,   2355,    315,    279,   3738,   8913,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the way, he discovers that courage and friendship are the keys to overcoming evil and embracing a world of possibilities. This novel focuses on themes of family, loyalty, and acceptance, ultimately illustrating the power of the human spirit.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(128, 153, 179)
+veys
+3.6156153678894043
+Context Tokens: 
+tensor([   387,   2176,   6233,    323,  12421,     11,    438,    279,   1036,
+         13250,   2090,    854,    390,  49269,   2176,  15888,    323,  37284,
+            13,    576,  32794,     11,  13653,     11,    390,  49269,    279,
+         50878,    315,   2272,    714,   1083,    279,   3900,    429,    432,
+           646,   4446,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ be both beautiful and sad, as the “greenness” conveys both joy and grief. The poem, ultimately, conveys the sadness of life but also the hope that it can bring.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(163, 188, 214)
+ an
+3.6019232273101807
+Context Tokens: 
+tensor([  1879,     13,   1260,   1083,  28926,    279,   4401,    315,   4958,
+           323,  35654,     11,    892,   8910,    311,   6481,    551,    279,
+          3146,     13,  14927,   7946,    594,  30302,    572,    458,   2989,
+          3019,    304,  49103,    279,  86049,    315,   9448,   1283,    279,
+         62255,    315,    279,   6364,  16398,   5004,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ world. He also promoted the development of industry and commerce, which helped to modernize the country. Charles II's reign was an important step in restoring the monarchy of England after the turmoil of the English Civil War.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(137, 162, 188)
+ulates
+3.594089984893799
+Context Tokens: 
+tensor([   315,   1246,   1846,  49400,    553,   2355,    614,    279,   8654,
+           311,    387,    773,   1753,    803,   4746,   1717,    323,  68410,
+          1091,   1573,     11,    323,    806,  11618,  42569,  23156,    279,
+          6912,    315,    330,   1782,  21917,    287,  10173,    315,   2355,
+          3263, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of how those corrupted by power have the capacity to be so much more heartless and ruthless than before, and his journey encapsulates the theme of "the corrupting influence of power".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ to
+3.512432813644409
+Context Tokens: 
+tensor([  1809,  67611,     11,    448,   2746,  70745,   7211,  15652,    369,
+           862,   2083,    311,  65728,     13,   2009,    304,    678,     11,
+           264,   3175,  19240,   1809,    702,    279,   4650,    311,  89436,
+           279,  24425,  13527,    315,   9833,  74325,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ game progresses, with die-hard fans hoping for their team to prevail. All in all, a single basketball game has the potential to ignite the passionate soul of sports fandom.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(103, 128, 154)
+ will
+3.505094051361084
+Context Tokens: 
+tensor([   323,  43367,  30927,     13,  64558,   3550,   6240,   1083,   6147,
+         19126,    311,   6707,  27303,    501,   8256,    323,  28276,   5107,
+         16849,     13,  92596,    304,   6169,   3550,   6240,    686,    614,
+          1293,   9663,   7567,    369,   2176,   8256,    323,    279,   7321,
+           438,    264,   4361,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and happier workforce. Proper space management also allows offices to easily outfit new employees and accommodate additional personnel. Investing in proper space management will have long-term benefits for both employees and the organization as a whole.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(147, 172, 198)
+ in
+3.501493215560913
+Context Tokens: 
+tensor([  6961,  10533,     11,    438,   1632,    438,   2664,   6002,   2473,
+          2606,   1075,   2860,  48526,    323,    470,  10186,     13,   2009,
+           315,   1493,   9363,    525,   5619,    264,    949,    304,   9842,
+           279,   6513,    315,   2860,  11919,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ physical stores, as well as better customer service options like online chats and return policies. All of these factors are playing a part in driving the growth of online shopping.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+ focuses
+3.4548330307006836
+Context Tokens: 
+tensor([ 31844,    279,   1616,     11,    566,  51014,    429,  24744,    323,
+         26509,    525,    279,   6894,    311,  72917,  13962,    323,  55401,
+           264,   1879,    315,  23607,     13,   1096,  11514,  23497,    389,
+         21386,    315,   2997,     11,  31783,     11,    323,  25505,     11,
+         13653,  92912,    279,   2355,    315,    279,   3738,   8913,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Along the way, he discovers that courage and friendship are the keys to overcoming evil and embracing a world of possibilities. This novel focuses on themes of family, loyalty, and acceptance, ultimately illustrating the power of the human spirit.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(56, 81, 107)
+ to
+3.4392545223236084
+Context Tokens: 
+tensor([  6243,   8845,     11,  11220,    264,  11682,   3119,    315,   1917,
+            11,  65415,   4963,    323,  67604,   5098,   6974,   9755,     13,
+           576,   5795,    315,    264,   2390,   6645,    374,    311,   5978,
+           279,   2390,    374,   8145,    389,    882,     11,    389,   8039,
+            11,    323,   4092,    311,    279,  10659,    738,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ setting goals, developing a detailed plan of action, coordinating resources and overseeing progress towards completion. The goal of a project manager is to ensure the project is completed on time, on budget, and according to the standards set.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(65, 90, 116)
+ to
+3.435901165008545
+Context Tokens: 
+tensor([  311,  5978,   279,  8426,  2188,   315,  2453,    13,  2932,  1083,
+         5707, 16229,  2213,   311,  1492,  1059,  6835,  4717, 15987,   323,
+         6092,    13, 11112,  1059,  2150,   311,  4717,   705,   311,  2400,
+          448,   279,  5535,  6457,  3669,   323,   311,  3960,   803,   911,
+        18478,   323, 38790,    13,   671, 42724, 72098,   671, 52554, 42724,
+          671])
+Decoded Text:
+ to ensure the highest level of care. She also provides educational content to help her patients stay informed and safe. Follow her page to stay up to date with the latest medical news and to learn more about healthcare and wellness. #DoctorJones #MedicalDoctor #
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ a
+3.4340343475341797
+Context Tokens: 
+tensor([53829,  2473,  2500,    13,   576, 16566,   686,   387,  8205,   323,
+        41192,   323,   686,  4565,  1947,   504,  2205, 13511,    13,   576,
+         2562,  3119, 21538,   311,  1936,   264, 21803,   323, 33135,  2562,
+           13,   576,  8039,  5646,  1191,  5239,  7049,   323, 14195, 18024,
+         1741,   438,  8016,    11,  8113,    11, 36432,    11,  8493,    11,
+          323])
+Decoded Text:
+ catering service available. The atmosphere will be warm and inviting and will feature art from local artists. The business plan aims to build a sustainable and profitable business. The budget includes start-up costs and ongoing expenses such as rent, insurance, salaries, marketing, and
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ allows
+3.4335556030273438
+Context Tokens: 
+tensor([ 13153,    480,    323,   6707,  29364,     11,  10693,   7263,    311,
+          7500,    279,   9079,    323,  12538,   3118,    389,   1196,  11055,
+            13,  54006,     11,    279,  82184,   6730,   2449,   6147,   7263,
+           311,   1855,  18199,   3871,    323,   3516,    429,   3367,    279,
+          3880,    315,   6310,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ repeatable and easily adapted, allowing teams to adjust the tasks and techniques based on user feedback. Ultimately, the Agile Methodology allows teams to create innovative products and services that meet the needs of customers.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(109, 134, 160)
+ a
+3.43192195892334
+Context Tokens: 
+tensor([ 1618,   782, 19692,   261,   879,  4990, 15888,   304, 14432,   279,
+        42143,     6,  8913,   323, 74886,  1105,   369,   279, 24632,   315,
+        46143,    13,  5301, 17991,   374,   264, 37146, 39034,   315,  1246,
+         1846, 49400,   553,  2355,   614,   279,  8654,   311,   387,   773,
+         1753,   803,  4746,  1717,   323, 68410,  1091,  1573,    11,   323,
+          806])
+Decoded Text:
+ callous overseer who takes joy in crushing the miners' spirit and punishing them for the smallest of offenses. His transformation is a stark illustration of how those corrupted by power have the capacity to be so much more heartless and ruthless than before, and his
+---------------------------
+Max Activation Value: 
+(104, 129, 155)
+ have
+3.4316437244415283
+Context Tokens: 
+tensor([ 43367,  30927,     13,  64558,   3550,   6240,   1083,   6147,  19126,
+           311,   6707,  27303,    501,   8256,    323,  28276,   5107,  16849,
+            13,  92596,    304,   6169,   3550,   6240,    686,    614,   1293,
+          9663,   7567,    369,   2176,   8256,    323,    279,   7321,    438,
+           264,   4361,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ happier workforce. Proper space management also allows offices to easily outfit new employees and accommodate additional personnel. Investing in proper space management will have long-term benefits for both employees and the organization as a whole.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(107, 132, 158)
+ to
+3.426748752593994
+Context Tokens: 
+tensor([   311,   3635,   4541,  13026,    304,    862,   1828,   2820,    323,
+         56830,     13,   3216,   4633,    458,   3842,   1506,    323,  60776,
+          5486,     11,   8761,   1388,  15712,    374,  37078,    311,   7269,
+           279,   8084,   2820,    323,  56830,    315,    458,   3842,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to become active participants in their own health and wellbeing. By taking an individualized and holistic approach, integrative medicine is aiming to improve the overall health and wellbeing of an individual.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(58, 83, 109)
+ has
+3.423158884048462
+Context Tokens: 
+tensor([ 13352,    438,    279,   1809,  67611,     11,    448,   2746,  70745,
+          7211,  15652,    369,    862,   2083,    311,  65728,     13,   2009,
+           304,    678,     11,    264,   3175,  19240,   1809,    702,    279,
+          4650,    311,  89436,    279,  24425,  13527,    315,   9833,  74325,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ stands as the game progresses, with die-hard fans hoping for their team to prevail. All in all, a single basketball game has the potential to ignite the passionate soul of sports fandom.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+ to
+3.41357421875
+Context Tokens: 
+tensor([  7149,  14305,     13,  22406,     11,    279,   3033,   5707,   3590,
+          3516,     11,   2670,   6731,     11,   2820,   2453,    323,  13737,
+            13,    758,    419,   1616,     11,    432,  25654,    311,   8172,
+           279,   3880,    315,   2176,    279,   3081,    323,   8232,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ safety regulations. Additionally, the government provides social services, including education, health care and infrastructure. In this way, it seeks to balance the needs of both the market and society.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

@@ -1,0 +1,307 @@
+Max Activation Value: 
+(8, 33, 59)
+ operations
+0.1902850866317749
+Context Tokens: 
+tensor([ 27455,    369,    279,   2661,   2562,     13, 151645,    198, 151644,
+           872,    198,   6954,   7911,     25,    400,    220,     22,     11,
+            20,     15,     15,    198,  47441,   6396,    504,   7525,     25,
+           400,     16,     11,     17,     15,     15,    198,  47441,   6396,
+           504,  24965,     25,    400,     17,     11,     16,     15,     15,
+           198,  47441,   6396,    504,  28542,     25])
+Decoded Text:
+ flows for the given business.<|im_end|>
+<|im_start|>user
+Net income: $ 7,500
+Cash flow from operations: $1,200
+Cash flow from investing: $2,100
+Cash flow from financing:
+---------------------------
+Max Activation Value: 
+(136, 161, 187)
+,
+0.1853291243314743
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(138, 163, 189)
+,
+0.18243567645549774
+Context Tokens: 
+tensor([    15,     16,     22,     11,    448,    220,     16,     15,     24,
+          1251,  22273,    817,   1899,    476,    911,    220,     16,     19,
+            11,     20,     19,     17,  88395,    304,   2790,     11,   1660,
+           220,     16,     16,     13,     24,    817,    220,     16,     15,
+            15,     11,     15,     15,     15,    304,    220,     17,     15,
+            16,     23,     13, 151645,    198, 151644])
+Decoded Text:
+017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ so
+0.17754578590393066
+Context Tokens: 
+tensor([   15,    23,  6223,  1410, 12488,   400,    18,  7094,    11,   458,
+         6358,  4933,   624,    12, 40345, 13740,   389,  2820,  2453,  7484,
+         2790,   400,    21,    15,  3526,   773,  3041,   419,  1042,   624,
+           12, 34580,   525, 41330, 11519,   504, 26645, 34854,  3856,   311,
+         4948,  3856,   323, 24132, 11178,   448, 19188, 12876,   624,    12,
+        64438])
+Decoded Text:
+08 election could exceed $3 billion, an analysis shows.
+- Television ads on health care alone total $60 million so far this year.
+- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.
+- Candidates
+---------------------------
+Max Activation Value: 
+(62, 87, 113)
+,
+0.1770944744348526
+Context Tokens: 
+tensor([   22,    16,    13,   576,  3940,  7425,   705,   311,   220,    18,
+           15,    15,  1251,    11, 14425, 17267,   220,    18,    13,    18,
+         9334,  8756,   315,   279,  3283,    11,   323,  2115,   803,  1091,
+          220,    16,    15,    15,    11,    15,    15,    15,  1251, 22994,
+           13,   576,  5240,   315,   279,  3940,   374,  9788,    11,   714,
+          432])
+Decoded Text:
+71. The fire killed up to 300 people, destroyed roughly 3.3 square miles of the city, and left more than 100,000 people homeless. The cause of the fire is unknown, but it
+---------------------------
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.17149300873279572
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(173, 198, 224)
+ you
+0.17110727727413177
+Context Tokens: 
+tensor([   25,   330,  7771, 31626, 15448,  2878,   498,    11, 62040,   273,
+           13,  1084,   594,   537,  2494,   498,  1477,    11,   714,  2494,
+          498,  2669,   614,    13,  2009,   498,  1184,   311,   653,   374,
+         4411,   304,  6133,  2217,    32,   450,   273,   572,   264,  2699,
+        21815,    11,   714,  1059, 11618,  1030, 15599,  1059,   264, 15172,
+        17755])
+Decoded Text:
+: "Your treasure lies within you, Adele. It's not something you find, but something you already have. All you need to do is believe in yourself."
+
+Adele was a bit confused, but her journey had taught her a valuable lesson
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+ and
+0.16595759987831116
+Context Tokens: 
+tensor([  279,  1852,  1992,   358,   572, 11259,    13, 95548,    11,   358,
+        13686,   847,  6562,  2238,     0,  6065,  2020,   448, 19772,    11,
+          358,  4829,   311,   728,  1182,   323,  3291,  1105,  1246,  1753,
+          358,  2948,  1105,    13,  1988,   438,   358,  6009,   311,  3271,
+           11,   279,  1879,  2163,   752, 37717,   323, 72400,    13,   358,
+         8930])
+Decoded Text:
+ the same place I was standing. Nearby, I noticed my parents too! Overcome with emotion, I wanted to go back and tell them how much I love them. But as I began to move, the world around me twisted and blurred. I opened
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ 
+0.16531744599342346
+Context Tokens: 
+tensor([   13,  1416,   279,  2392,   518,   279,  3347,  7445,   374,  5080,
+         1091,   279,  2392,   518,   279,  1550,  7445,   715,   220,   600,
+           13, 43849,   279,  5424,   198,   220, 14460,    13, 52835,   279,
+         3347,  7445,   553,   220,    16,   198,   220, 62093,    13,  3714,
+        54655,   279,  1550,  7445,   553,   220,    16,   198,    68,    13,
+        44801])
+Decoded Text:
+. If the element at the low pointer is higher than the element at the high pointer 
+  i. Swap the elements
+  ii. Increment the low pointer by 1
+  iii. Decrement the high pointer by 1
+e. Repeat
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ (
+0.1613462269306183
+Context Tokens: 
+tensor([   15,    15,   311,   220,    20,    15,    11,    15,    15,    15,
+        10951,  3046,  3145,  8147,    11,   892, 10000,   504,   279,  9396,
+          323, 14501,   220,    18,  8756,   320,    19,    13,    23, 13136,
+            8,   311,   279, 43006,  1909,    13,   362,  2205, 13016, 57173,
+          264, 14538,  4752,   279,  5240,  3117,   311,  5545, 19085,   311,
+         4367])
+Decoded Text:
+00 to 50,000 massive basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ should
+0.16007941961288452
+Context Tokens: 
+tensor([151644,   8948,    198,   1912,  70529,    279,   5114,    330,    888,
+          8682,   1265,   5258,    803,  10773,    504,    279,   3033,   3263,
+        151645,    198, 151644,  77091,    198,  12676,   8682,   1265,   5258,
+           803,  10773,    504,    279,   3033,    438,    432,   1035,   2138])
+Decoded Text:
+<|im_start|>system
+Debate the statement "public schools should receive more funding from the government".<|im_end|>
+<|im_start|>assistant
+Public schools should receive more funding from the government as it would allow
+---------------------------
+Max Activation Value: 
+(369, 394, 420)
+ environments
+0.15937593579292297
+Context Tokens: 
+tensor([   323,  16636,     13,   2014,  49360,    279,  24905,    315,   3738,
+          7488,     11,    432,    374,   7565,    311,   4211,  28611,  14830,
+          1431,    311,   6016,   1493,   6233,    323,  15172,  21737,    369,
+         21787,    311,   2525,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and governments. To mitigate the impacts of human activities, it is essential to implement conservation strategies now to protect these beautiful and valuable environments for generations to come.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ AN
+0.15891218185424805
+Context Tokens: 
+tensor([ 14937,     13,   1084,   1730,    429,   2100,  47360,     11,  90009,
+           323,  22060,  25185,    678,   3010,  13382,  19898,     11,    448,
+         22060,    700,  28488,    287,    279,   3800,     13,   2100,  47360,
+          1030,   1661,  13403,    714,   4362,    803,   8692,    882,     13,
+        151645,    198, 151644,  77091,    198,    785,   3920,  24109,    279,
+           990,    315,   5662,   6832,  25185,    369])
+Decoded Text:
+ indices. It found that ANNs, SVM and RF algorithms all offer accurate predictions, with RF outperforming the others. ANNs had good accuracy but needed more processing time.<|im_end|>
+<|im_start|>assistant
+The study examined the use of machine learning algorithms for
+---------------------------
+Max Activation Value: 
+(125, 150, 176)
+,
+0.15808726847171783
+Context Tokens: 
+tensor([  400,    19,    15,    11,    15,    15,    15,   264,  1042,  1030,
+         5558,   264,  2618,   476, 10321,   264, 13951,   304,  7911,  4152,
+          311, 19966,    12,    16,    24,    11,  1393,   220,    17,    18,
+            4,   315, 28839,  3259,   916,   400,    16,    15,    15,    11,
+           15,    15,    15,  1030, 10321,  2618, 17683,   476,  7911, 46211,
+           13])
+Decoded Text:
+ $40,000 a year had lost a job or experienced a reduction in income due to COVID-19, while 23% of households making over $100,000 had experienced job losses or income reductions.
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+,
+0.15769343078136444
+Context Tokens: 
+tensor([  369, 30874,  7779,   323, 35847,   594,   320, 73458,     8,  5055,
+         5832,   369,  6267, 24624,  6682,   220,    18,    23,    11,    18,
+           24,    15, 16375,   553, 35605,    11,   315,   892,   220,    17,
+           19,    11,    19,    18,    17,  1033,   553, 18144,    13,   576,
+         4379,   315, 35605, 16375,   817,   220,    16,    15,    15,    11,
+           15])
+Decoded Text:
+ for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide. The rate of firearm deaths per 100,0
+---------------------------
+Max Activation Value: 
+(381, 406, 432)
+ that
+0.15725848078727722
+Context Tokens: 
+tensor([  279,  3267,    13,  1084,   646, 25386,   498,   448,   279,  7361,
+          323,  6540,  5871,   311, 11996,   304,   264,  8045,   315,  5043,
+          323,  3410,   498,   448, 11449,   429,   498,   646,   990,  6814,
+          697,  2272,    13, 13139,   498, 22729,   264,  6931,   304,   279,
+        35688,    11,   279, 93035,    11,   476,   279, 18560,    11,   264,
+        17775])
+Decoded Text:
+ the past. It can equip you with the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+,
+0.15623211860656738
+Context Tokens: 
+tensor([  6682,    429,   1052,   1033,    220,     16,     16,     11,     15,
+            22,     23,  35605,  13904,  88395,    304,    279,    547,    808,
+            13,    304,    220,     17,     15,     16,     15,     11,    448,
+           220,     21,     11,     15,     15,     24,   4961,  15860,    264,
+         56805,    323,    220,     18,     20,     23,   4961,  15860,    264,
+         28132,     13, 151645,    198, 151644,  77091])
+Decoded Text:
+ reports that there were 11,078 firearm-related homicides in the U.S. in 2010, with 6,009 reported involving a handgun and 358 reported involving a rifle.<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ 
+0.1559409648180008
+Context Tokens: 
+tensor([    61,     17,    481,    220,     20,     87,    488,    220,     18,
+            87,    488,    220,     16,     20,    284,    220,     17,     87,
+            61,     17,    488,    220,     23,     87,    488,    220,     16,
+            20,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+^2 - 5x + 3x + 15 = 2x^2 + 8x + 15.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+ investing
+0.1556139439344406
+Context Tokens: 
+tensor([  7911,     25,    400,    220,     22,     11,     20,     15,     15,
+           198,  47441,   6396,    504,   7525,     25,    400,     16,     11,
+            17,     15,     15,    198,  47441,   6396,    504,  24965,     25,
+           400,     17,     11,     16,     15,     15,    198,  47441,   6396,
+           504,  28542,     25,    400,     18,     11,     17,     15,     15,
+        151645,    198, 151644,  77091,    198,  47441])
+Decoded Text:
+ income: $ 7,500
+Cash flow from operations: $1,200
+Cash flow from investing: $2,100
+Cash flow from financing: $3,200<|im_end|>
+<|im_start|>assistant
+Cash
+---------------------------
+Max Activation Value: 
+(43, 68, 94)
+ most
+0.15529149770736694
+Context Tokens: 
+tensor([ 4625, 10533,   678,   279,  3910,   748,   821,   389, 28554,   389,
+          264,  6961,  3538,   323,  6081,   279,  1850,  5068,    13,  4354,
+           11,   432,   374,  3545,   279,  1429, 11392,  2999,   323,  5707,
+         7199, 93740,  4152,   311,   279,  6961,  9481,   315,   279,  3538,
+           13,  1913,   279,  1008,  1424,    11,  9437,  5980,  5819, 10533,
+          821])
+Decoded Text:
+ database stores all the website’s data on-site on a physical server and offers the best performance. However, it is often the most expensive option and provides limited scalability due to the physical limitations of the server. On the other hand, cloud-based storage stores data
+---------------------------

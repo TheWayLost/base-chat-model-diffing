@@ -1,0 +1,316 @@
+Max Activation Value: 
+(0, 10, 36)
+ Supply
+5.524336814880371
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  17508,    315,    279,   7506,
+           315,  29809,     13, 151645,    198, 151644,  77091,    198,    785,
+          7506,    315,  29809,   5302,    429,    438,    279,   3349,    315,
+           264,   1985,    476,   2473,  12703,     11,    279,  12194,  17221])
+Decoded Text:
+<|im_start|>system
+Describe the principle of the Law of Supply.<|im_end|>
+<|im_start|>assistant
+The Law of Supply states that as the price of a product or service increases, the quantity supplied
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ Supply
+5.465201377868652
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  17508,    315,    279,   7506,
+           315,  29809,     13, 151645,    198, 151644,  77091,    198,    785,
+          7506,    315,  29809,   5302,    429,    438,    279,   3349,    315,
+           264,   1985,    476,   2473,  12703,     11,    279,  12194,  17221,
+           311,    279,   3081,   1083,  12703,     11,    438,  23308,    525,
+         82984])
+Decoded Text:
+<|im_start|>system
+Describe the principle of the Law of Supply.<|im_end|>
+<|im_start|>assistant
+The Law of Supply states that as the price of a product or service increases, the quantity supplied to the market also increases, as producers are incentiv
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ demand
+5.338983535766602
+Context Tokens: 
+tensor([151644,   8948,    198,  12480,    279,   2329,    315,   8149,    323,
+          7479,     11,   7512,   1128,   1035,   3537,    311,    279,   3349,
+           315,    264,   1661,    421,    279,   7479,   7172,     13, 151645,
+           198, 151644,  77091,    198,   2679,    279,   7479,    369])
+Decoded Text:
+<|im_start|>system
+Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased.<|im_end|>
+<|im_start|>assistant
+If the demand for
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+erved
+4.980556964874268
+Context Tokens: 
+tensor([   429,  59780,    279,   5512,   7506,    315,  67272,  78911,     13,
+        151645,    198, 151644,  77091,    198,    785,   5512,   7506,    315,
+         67272,  78911,   5302,    429,   4802,    374,   1585,   2771,     11,
+          7290,    429,   4802,    646,    387,  16099,    504,    825,   1352,
+           311,   2441,    714,    432,   4157,    387,   5558,    476,  14425,
+            13,   1752,   3110,     11,    264,   1803])
+Decoded Text:
+ that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be converted from one form to another but it cannot be lost or destroyed. For example, a car
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ supply
+4.693365573883057
+Context Tokens: 
+tensor([151644,   8948,    198,  12480,    279,   2329,    315,   8149,    323,
+          7479,     11,   7512,   1128,   1035,   3537,    311,    279,   3349,
+           315,    264,   1661,    421,    279,   7479,   7172,     13, 151645,
+           198, 151644,  77091,    198,   2679,    279])
+Decoded Text:
+<|im_start|>system
+Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased.<|im_end|>
+<|im_start|>assistant
+If the
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+ demand
+4.148590564727783
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   2329,    315,   7479,     13,
+        151645,    198, 151644,  77091,    198,    785,   2329,    315,   7479,
+          5302,    429,    264,  11502,    594,   7479,    369,    264,   3654,
+          1661,    476,   2473,    374,  64583,    974,   5435,    311,   1181,
+          3349,     13,   3197,    279,   3349,    315,    264])
+Decoded Text:
+<|im_start|>system
+Describe the law of demand.<|im_end|>
+<|im_start|>assistant
+The law of demand states that a consumer's demand for a certain good or service is inversely related to its price. When the price of a
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ demand
+4.0432538986206055
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   2329,    315,   7479,     13,
+        151645,    198, 151644,  77091,    198,    785,   2329,    315,   7479,
+          5302,    429,    264,  11502,    594,   7479,    369,    264,   3654,
+          1661,    476,   2473,    374,  64583,    974])
+Decoded Text:
+<|im_start|>system
+Describe the law of demand.<|im_end|>
+<|im_start|>assistant
+The law of demand states that a consumer's demand for a certain good or service is inversely
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ cons
+3.6384735107421875
+Context Tokens: 
+tensor([  1882,    429,  59780,    279,   5512,   7506,    315,  67272,  78911,
+            13, 151645,    198, 151644,  77091,    198,    785,   5512,   7506,
+           315,  67272,  78911,   5302,    429,   4802,    374,   1585,   2771,
+            11,   7290,    429,   4802,    646,    387,  16099,    504,    825,
+          1352,    311,   2441,    714,    432,   4157,    387,   5558,    476,
+         14425,     13,   1752,   3110,     11,    264])
+Decoded Text:
+ process that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be converted from one form to another but it cannot be lost or destroyed. For example, a
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+odynamics
+3.5891332626342773
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    264,   1882,    429,  59780,    279,
+          5512,   7506,    315,  67272,  78911,     13, 151645,    198, 151644,
+         77091,    198,    785,   5512,   7506,    315,  67272,  78911,   5302,
+           429,   4802,    374,   1585,   2771,     11,   7290,    429,   4802,
+           646,    387,  16099])
+Decoded Text:
+<|im_start|>system
+Describe a process that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be converted
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ Therm
+3.4242513179779053
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    264,   1882,    429,  59780,    279,
+          5512,   7506,    315,  67272,  78911,     13, 151645,    198, 151644,
+         77091,    198,    785,   5512,   7506,    315,  67272,  78911,   5302,
+           429,   4802,    374,   1585,   2771,     11,   7290,    429,   4802,
+           646,    387,  16099,    504,    825,   1352,    311,   2441,    714,
+           432,   4157,    387,   5558,    476])
+Decoded Text:
+<|im_start|>system
+Describe a process that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be converted from one form to another but it cannot be lost or
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ lever
+3.1141207218170166
+Context Tokens: 
+tensor([  8948,    198,   6582,   4324,    349,    389,    279,  17508,    315,
+           279,  27505,   1667,   8311,  21321,  56626,     13, 151645,    198,
+        151644,  77091,    198,    785,  17508,    315,    279,  27505,    374,
+          3118,    389,    279,   2329,    315,    279,  27505,     11,    892,
+          5302,    429,    279,  22148,   9423,    315,    264,  27505,    374,
+          6144,    311,    279,  11341,   1948,    279])
+Decoded Text:
+system
+Elaborate on the principle of the lever using appropriate physics terminology.<|im_end|>
+<|im_start|>assistant
+The principle of the lever is based on the law of the lever, which states that the mechanical advantage of a lever is equal to the ratio between the
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ Therm
+3.112082004547119
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    264,   1882,    429,  59780,    279,
+          5512,   7506,    315,  67272,  78911,     13, 151645,    198, 151644,
+         77091,    198,    785,   5512,   7506,    315,  67272,  78911,   5302,
+           429,   4802,    374,   1585,   2771,     11,   7290,    429,   4802,
+           646,    387])
+Decoded Text:
+<|im_start|>system
+Describe a process that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+odynamics
+3.076993703842163
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    264,   1882,    429,  59780,    279,
+          5512,   7506,    315,  67272,  78911,     13, 151645,    198, 151644,
+         77091,    198,    785,   5512,   7506,    315,  67272,  78911,   5302,
+           429,   4802,    374,   1585,   2771,     11,   7290,    429,   4802,
+           646,    387,  16099,    504,    825,   1352,    311,   2441,    714,
+           432,   4157,    387,   5558,    476,  14425])
+Decoded Text:
+<|im_start|>system
+Describe a process that utilizes the First Law of Thermodynamics.<|im_end|>
+<|im_start|>assistant
+The First Law of Thermodynamics states that energy is conserved, meaning that energy can be converted from one form to another but it cannot be lost or destroyed
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ entropy
+3.0560495853424072
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,    279,   7286,    315,  47502,
+           304,  29845,  78911,     13, 151645,    198, 151644,  77091,    198,
+           641,  29845,  78911,     11,  47502,    374,    264,   6629,    315,
+           279,  86690,    315,    264,   1849,    323,   1181])
+Decoded Text:
+<|im_start|>system
+Explain the concept of entropy in thermodynamics.<|im_end|>
+<|im_start|>assistant
+In thermodynamics, entropy is a measure of the randomness of a system and its
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ and
+3.0462303161621094
+Context Tokens: 
+tensor([151644,   8948,    198,  12480,    279,   2329,    315,   8149,    323,
+          7479,     11,   7512,   1128,   1035,   3537,    311,    279,   3349,
+           315,    264,   1661,    421,    279,   7479,   7172,     13, 151645,
+           198, 151644,  77091,    198,   2679,    279,   7479])
+Decoded Text:
+<|im_start|>system
+Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased.<|im_end|>
+<|im_start|>assistant
+If the demand
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+itarian
+3.0254769325256348
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    458,   3110,    315,    458,  30208,
+          1849,     13, 151645,    198, 151644,  77091,    198,   3966,   3110,
+           315,    458,  30208,   1849,    374,   4094,  20030,   2142,     11,
+           892,   5302,    429,    825,   1265,   2677,   1160,    311,   1281,
+           279,  12196,   8172,    315,  23009,    916,  30075,  66291,    304,
+           264,   8232,     13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Generate an example of an ethical system.<|im_end|>
+<|im_start|>assistant
+One example of an ethical system is utilitarianism, which states that one should always act to make the greatest balance of happiness over unhappiness in a society.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+ feedback
+3.004194736480713
+Context Tokens: 
+tensor([  1634,    279,  24660,   9853,  18568,  28900,     11,    279,  39030,
+         17951,   3685,  90011,    803,   8628,    323,  11137,   3720,   9315,
+           311,  10000,   4623,     11,   6825,    264,   6785,  11055,   6337,
+            13,   1096,  11137,   5107,  28999,  12987,    311,    387,   5880,
+           323,  14177,    973,    279,  10000,    304,   9396,   5866,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ As the polar ice caps shrink, the darker ocean below absorbs more heat and causes air temperature to rise further, creating a positive feedback loop. This causes additional meltwater to be released and accelerates the rise in sea levels.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ consumption
+2.9811742305755615
+Context Tokens: 
+tensor([ 27889,    448,    458,   3110,     13, 151645,    198, 151644,  77091,
+           198,     36,  80092,    374,    279,   3920,    315,   1246,   1251,
+           323,  33675,   1281,  11181,    911,   5670,    323,  15293,    315,
+         11561,    323,   3516,     13,   1752,   3110,     11,    264,  65144,
+          1231,  10279,   1246,   1753,  16002,    311,   8193,    323,   3349,
+           432,  27079,     11,  11649,    389,    279])
+Decoded Text:
+ economics with an example.<|im_end|>
+<|im_start|>assistant
+Economics is the study of how people and societies make decisions about production and consumption of goods and services. For example, a bakery may decide how much bread to produce and price it accordingly, depending on the
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+odynamics
+2.9070041179656982
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   4843,   2329,    315,
+         29845,  78911,     30, 151645,    198, 151644,  77091,    198,    785,
+          4843,   2329,    315,  29845,  78911,   5302,    429,    279,  47502,
+           315,    264,   4727,  25055,    315,    264,  10526,  19699,  19827])
+Decoded Text:
+<|im_start|>system
+What is the third law of thermodynamics?<|im_end|>
+<|im_start|>assistant
+The third law of thermodynamics states that the entropy of a perfect crystal of a pure substance approaches
+---------------------------
+Max Activation Value: 
+(139, 164, 190)
+ cycle
+2.8559727668762207
+Context Tokens: 
+tensor([  438, 12499, 39489,   323,  1008, 82561,    11,   429, 22862,  8628,
+          304,   279, 16566,   323,  5263,   279,  3644,  9315,    13,  1096,
+         4623, 11508,   311,   264, 42410, 10775,  1380,   803, 12499,   374,
+         5880,  6388,   311,  4623, 23867,    13, 34702,   504,  1293,  9663,
+        40316, 28469, 24905,    11,  5810,  4357,  1741,   438, 66064, 60254,
+         1300])
+Decoded Text:
+ as carbon dioxide and other pollutants, that trap heat in the atmosphere and increase the global temperature. This further leads to a vicious cycle where more carbon is released leading to further warming. Apart from long-term anthropogenic impacts, natural events such as volcanic eruptions
+---------------------------

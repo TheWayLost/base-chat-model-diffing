@@ -1,0 +1,351 @@
+Max Activation Value: 
+(76, 101, 127)
+)
+0.5015876293182373
+Context Tokens: 
+tensor([  821,     8,   715,   262,   770,    25,   715,   286,  2436,  9517,
+          284,  5656,  6958,  9517,    11,   821,     8, 48426,   262,   671,
+          470,   279,   320,  3185,  3726,     8,  2436,  7445,   715,   262,
+          470,  2436, 48426,     2,  5712,   311,  2711,   264,  2661,   821,
+          715,   750,  2711,  6958,    11,   821,  1648,   715,  6926,   262,
+          671])
+Decoded Text:
+ data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    #
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+4
+0.47901225090026855
+Context Tokens: 
+tensor([  1042,    374,    264,  31471,   1042,     13, 151645,    198, 151644,
+         77091,    198,    750,    374,  11751,    391,  14645,  28281,   1648,
+           715,    262,    421,    320,   3157,   1018,    220,     19,    621,
+           220,     15,    323,   1042,   1018,    220,     16,     15,     15,
+           961,    220,     15,      8,    476,    320,   3157,   1018,    220,
+            19,     15,     15,    621,    220,     15])
+Decoded Text:
+ year is a leap year.<|im_end|>
+<|im_start|>assistant
+def is_leap_year(year): 
+    if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+'s
+0.4727829098701477
+Context Tokens: 
+tensor([ 83898,    323,   6920,  53343,     13, 151645,    198, 151644,  77091,
+           198,   2120,    351,  13572,   2142,    374,    279,  12299,   1007,
+           315,   4325,    770,    594,    975,    438,    825,    594,   1828,
+          2041,   4187,   5853,    279,   4024,   3150,    476,  19919,     11,
+          1393,   6920,  53343,    374,   1667,    476,  14503,   6125,   4325,
+           770,    594,    975,   2041,  14427,    476])
+Decoded Text:
+ plagiarism and copyright infringement.<|im_end|>
+<|im_start|>assistant
+Plagiarism is the passing off of someone else's work as one's own without crediting the original author or creator, while copyright infringement is using or reproducing someone else's work without approval or
+---------------------------
+Max Activation Value: 
+(73, 98, 124)
+ (
+0.4570927023887634
+Context Tokens: 
+tensor([ 6958,  8272,    11,   821,     8,   715,   262,   770,    25,   715,
+          286,  2436,  9517,   284,  5656,  6958,  9517,    11,   821,     8,
+        48426,   262,   671,   470,   279,   320,  3185,  3726,     8,  2436,
+         7445,   715,   262,   470,  2436, 48426,     2,  5712,   311,  2711,
+          264,  2661,   821,   715,   750,  2711,  6958,    11,   821,  1648,
+          715])
+Decoded Text:
+(node.left, data) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+
+---------------------------
+Max Activation Value: 
+(166, 191, 217)
+'s
+0.44462141394615173
+Context Tokens: 
+tensor([   715,    262,    421,   2436,   2196,    366,    821,     25,    715,
+           286,    470,   2711,   6958,   9517,     11,    821,      8,  48426,
+           262,    671,   5309,    374,   9155,   1091,   3704,    594,   1376,
+           715,    262,    470,   2711,   6958,   8272,     11,    821,      8,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than root's key 
+    return search(node.left, data)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+.com
+0.4440723657608032
+Context Tokens: 
+tensor([  2661,   4549,     13, 151645,    198, 151644,    872,    198,   1986,
+          4549,    374,    911,    279,  10000,    315,  20443,  11229,    304,
+           279,   3853,    320,   2428,   1110,   2136,  63496,    905,   4322,
+         17217,   7382,   1064,  37821,  16488,  20052,   8509,  12034,    988,
+          2371,  47102,  17763,  44553,    764,  18111,   4493,   1370,     37,
+            18,     18,  53272,  22867,     80,  10681])
+Decoded Text:
+ given article.<|im_end|>
+<|im_start|>user
+This article is about the rise of artificial intelligence in the future (https://www.linkedin.com/pulse/rise-artificial-intelligence-yash-goyal/?trackingId=fUBazF33DJTXqrb
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+ pointer
+0.44064876437187195
+Context Tokens: 
+tensor([  715,   262,   770,    25,   715,   286,  2436,  9517,   284,  5656,
+         6958,  9517,    11,   821,     8, 48426,   262,   671,   470,   279,
+          320,  3185,  3726,     8,  2436,  7445,   715,   262,   470,  2436,
+        48426,     2,  5712,   311,  2711,   264,  2661,   821,   715,   750,
+         2711,  6958,    11,   821,  1648,   715,  6926,   262,   671,  5351,
+        11538])
+Decoded Text:
+ 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base Case
+---------------------------
+Max Activation Value: 
+(139, 164, 190)
+'s
+0.4393329620361328
+Context Tokens: 
+tensor([ 3704,   715,   262,   421,  2436,   374,  2240,   476,  2436,  2196,
+          621,   821,    25,   715,   286,   470,  2436, 48426,   262,   671,
+         5309,   374,  7046,  1091,  3704,   594,  1376,   715,   262,   421,
+         2436,  2196,   366,   821,    25,   715,   286,   470,  2711,  6958,
+         9517,    11,   821,     8, 48426,   262,   671,  5309,   374,  9155,
+         1091])
+Decoded Text:
+ root 
+    if node is None or node.data == data: 
+        return node 
+  
+    # Key is greater than root's key 
+    if node.data < data: 
+        return search(node.right, data) 
+  
+    # Key is smaller than
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ those
+0.43556541204452515
+Context Tokens: 
+tensor([ 13075,    553,    279,   3822,    315,   7043,     11,  32008,  19941,
+           429,   5792,  10799,  18643,    766,    388,  10321,  16745,  48809,
+           323,  25335,    504,  48809,    803,   6157,   1091,   1846,    879,
+          1521,    537,   7027,  10799,     13, 151645,    198, 151644,  77091,
+           198,    785,  12418,   3669,    304,    279,   4549,    374,    429,
+           279,   3822,    315,   7043,     11,  32008])
+Decoded Text:
+ conducted by the University of California, Berkeley concluded that regular coffee-drinkers experienced fewer illnesses and recovered from illnesses more quickly than those who did not drink coffee.<|im_end|>
+<|im_start|>assistant
+The fake news in the article is that the University of California, Berkeley
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+ high
+0.432491272687912
+Context Tokens: 
+tensor([  198,    65,    13,  2573,   264,  7445,  1550,   311,   279,  1537,
+         2392,   304,   279,  1334,   198,    66,    13,  5976,   279,  3347,
+         7445,   374,  2686,  1091,   279,  1550,  7445,   715,    67,    13,
+         1416,   279,  2392,   518,   279,  3347,  7445,   374,  5080,  1091,
+          279,  2392,   518,   279,  1550,  7445,   715,   220,   600,    13,
+        43849])
+Decoded Text:
+
+b. Set a pointer high to the last element in the array
+c. While the low pointer is less than the high pointer 
+d. If the element at the low pointer is higher than the element at the high pointer 
+  i. Swap
+---------------------------
+Max Activation Value: 
+(86, 111, 137)
+)
+0.42837807536125183
+Context Tokens: 
+tensor([   10,    21,     8,   284,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,   715,    18,    13, 61242,  1437,   279, 46912,
+           25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533])
+Decoded Text:
++6) = (x+3)(x+2) 
+3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator
+---------------------------
+Max Activation Value: 
+(23, 48, 74)
+ high
+0.4274618625640869
+Context Tokens: 
+tensor([ 1887,  6672,  1948,  1909, 14875,   323,  5622,  5239,  2884, 19827,
+          374,   429,   304,   264,  1909, 14875,  5486,    11,   279,  2884,
+          374,  7881,  3118,   389,   264,  1550, 11591, 23251,   315,   279,
+         1849,   323,  1181,  8845,    11, 26024, 73185,   323, 37838,   279,
+         3565,   438,  5871,    13, 60595,   304,   264,  5622,  5239,  5486,
+           11])
+Decoded Text:
+ main difference between top-down and bottom-up design approaches is that in a top-down approach, the design is developed based on a high-level overview of the system and its goals, gradually refining and specifying the details as necessary. Whereas in a bottom-up approach,
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+’s
+0.4270075857639313
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  21085,     11,
+          8253,    279,   3150,    748,  18915,   6974,    279,   4522,    429,
+          4628,    374,    279,   1429,   2989,   8168,    304,   5670, 151645,
+           198, 151644,    872,    198,    785,   5244,    389,   4628,    304,
+          5670,   3351])
+Decoded Text:
+<|im_start|>system
+Based on the following passage, determine the author’s attitude towards the idea that speed is the most important factor in production<|im_end|>
+<|im_start|>user
+The focus on speed in production today
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ Groups
+0.4262406826019287
+Context Tokens: 
+tensor([   18,  7094,    11,   458,  6358,  4933,   624,    12, 40345, 13740,
+          389,  2820,  2453,  7484,  2790,   400,    21,    15,  3526,   773,
+         3041,   419,  1042,   624,    12, 34580,   525, 41330, 11519,   504,
+        26645, 34854,  3856,   311,  4948,  3856,   323, 24132, 11178,   448,
+        19188, 12876,   624,    12, 64438,  1184,   311,  1855, 13740,   429,
+         2498])
+Decoded Text:
+3 billion, an analysis shows.
+- Television ads on health care alone total $60 million so far this year.
+- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.
+- Candidates need to create ads that stand
+---------------------------
+Max Activation Value: 
+(147, 172, 198)
+)
+0.4256879985332489
+Context Tokens: 
+tensor([    17,      8,   1683,    115,    320,     87,     10,     17,      8,
+           481,    220,     19,    198,     20,     13,  62902,    279,  63533,
+           323,  46912,     25,    320,     87,     10,     18,      8,   1683,
+           115,    320,     87,     10,     17,    481,    220,     19,      8,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ Health
+0.4251948595046997
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ Health
+0.42202046513557434
+Context Tokens: 
+tensor([  821,   525,  2500,   438,   315,   220,    17,    15,    17,    16,
+           11,   279, 40891,   369, 30874,  7779,   323, 35847,   594,   320,
+        73458,     8,  5055,  5832,   369,  6267, 24624,  6682,   220,    18,
+           23,    11,    18,    24,    15, 16375,   553, 35605,    11,   315,
+          892,   220,    17,    19,    11,    19,    18,    17,  1033,   553,
+        18144])
+Decoded Text:
+ data are available as of 2021, the Centers for Disease Control and Prevention's (CDC) National Center for Health Statistics reports 38,390 deaths by firearm, of which 24,432 were by suicide
+---------------------------
+Max Activation Value: 
+(350, 375, 401)
+ that
+0.421259343624115
+Context Tokens: 
+tensor([  264,  2664,  8660,   315,  3644,  4714,    13,  4710,    32, 17775,
+        18560,  6731,   374, 55093,   323,  1265,   537,   387, 84205,   291,
+          553,  1846,   879,  1035,  4190,   429,   432,   374,   264,  3166,
+          315,   279,  3267,    13,  1084,   646, 25386,   498,   448,   279,
+         7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,   315,
+         5043])
+Decoded Text:
+ a better understanding of global issues. 
+
+A liberal arts education is invaluable and should not be overshadowed by those who would suggest that it is a thing of the past. It can equip you with the skills and knowledge necessary to succeed in a variety of fields
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ less
+0.4197743237018585
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,  11809,    315,    220,     16,
+            19,     15,   5766,    476,   2686,    429,  38890,    279,  12650,
+           315,   6731,     13, 151645,    198, 151644,  77091,    198,  39134,
+           374,    279,   1376,    311,  15055,    279,   6006,    311,    697,
+         18707,     13,  58021])
+Decoded Text:
+<|im_start|>system
+Generate a tweet of 140 characters or less that promotes the importance of education.<|im_end|>
+<|im_start|>assistant
+Education is the key to unlock the door to your dreams. Believe
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ handgun
+0.4179111123085022
+Context Tokens: 
+tensor([ 35605,  13904,  88395,    304,    279,    547,    808,     13,    304,
+           220,     17,     15,     16,     15,     11,    448,    220,     21,
+            11,     15,     15,     24,   4961,  15860,    264,  56805,    323,
+           220,     18,     20,     23,   4961,  15860,    264,  28132,     13,
+        151645,    198, 151644,  77091,    198,   2034,   1030,    220,     16,
+            16,     11,     15,     22,     23,   6038])
+Decoded Text:
+ firearm-related homicides in the U.S. in 2010, with 6,009 reported involving a handgun and 358 reported involving a rifle.<|im_end|>
+<|im_start|>assistant
+US had 11,078 gun
+---------------------------

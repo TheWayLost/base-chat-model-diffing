@@ -1,0 +1,422 @@
+Max Activation Value: 
+(2, 27, 53)
+ How
+5.324358940124512
+Context Tokens: 
+tensor([   198,  31115,    264,  43582,  10435,   1948,   1378,   5766, 151645,
+           198, 151644,    872,    198,   1658,    323,   5220, 151645,    198,
+        151644,  77091,    198,   1658,     25,  21018,      0,   2585,    594,
+           432,   2087,   1939,  95049,     25,  27553,     11,    537,   2238,
+          3873,     13,   2585,    911,    498,   1939,   1658,     25,  35316,
+          1661,     11,   1101,  21413,    419,   6233])
+Decoded Text:
+
+Generate a fictional conversation between two characters<|im_end|>
+<|im_start|>user
+Man and woman<|im_end|>
+<|im_start|>assistant
+Man: Hi! How's it going?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this beautiful
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ How
+5.053817272186279
+Context Tokens: 
+tensor([   198,   7985,    264,   5316,    369,    458,  27498,   6236,   6331,
+            13, 151645,    198, 151644,  77091,    198,   1474,     25,  21018,
+          2219,  15672,   6331,     25,  21018,   1052,      0,   2585,    646,
+           358,   1492,    498,   1939,   1474,     25,    358,   1184,   1492,
+          6243,    705,    847,   2692,    271,  15672,   6331,     25,   2308,
+          3491,      0,    358,   2776,   1588,    311])
+Decoded Text:
+
+Write a script for an automated chatbot.<|im_end|>
+<|im_start|>assistant
+User: Hi!
+
+Chatbot: Hi there! How can I help you?
+
+User: I need help setting up my account
+
+Chatbot: No problem! I'm here to
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+ how
+4.921236991882324
+Context Tokens: 
+tensor([  1948,    279,   6645,    323,    279,   6002,     13, 151645,    198,
+        151644,    872,    198,   2753,   1355, 151645,    198, 151644,  77091,
+           198,   2043,     25,    330,  15216,   6556,     11,   1246,    646,
+           358,   1492,    498,  47369,  12792,     25,    330,     40,   2776,
+          3330,    369,    264,    501,  20638,     13,   3155,    498,    614,
+           894,  18564,   7521, 151645,    198, 151643])
+Decoded Text:
+ between the manager and the customer.<|im_end|>
+<|im_start|>user
+Noinput<|im_end|>
+<|im_start|>assistant
+Manager: "Good morning, how can I help you?"
+Customer: "I'm looking for a new laptop. Do you have any recommendations?"<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ how
+4.465532302856445
+Context Tokens: 
+tensor([   264,  21276,   1948,   1378,  17639,  24392,    264,   2390,    807,
+           525,   3238,    389,     13, 151645,    198, 151644,  77091,    198,
+          6127,  46731,    220,     16,     25,  27553,     11,   1246,    594,
+           279,   2390,   2087,   1939,   6127,  46731,    220,     17,     25,
+         27553,   1052,      0,   1084,    594,   2087,   1632,     13,    358,
+          3003,   8060,    279,   1156,   1378,  63592])
+Decoded Text:
+ a dialogue between two colleagues discussing a project they are working on.<|im_end|>
+<|im_start|>assistant
+Colleague 1: Hey, how's the project going?
+
+Colleague 2: Hey there! It's going well. I've finished the first two drafts
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+!
+4.048245906829834
+Context Tokens: 
+tensor([  8948,    198,   7985,    264,   5316,    369,    458,  27498,   6236,
+          6331,     13, 151645,    198, 151644,  77091,    198,   1474,     25,
+         21018,   2219,  15672,   6331,     25,  21018,   1052,      0,   2585,
+           646,    358,   1492,    498,   1939,   1474,     25,    358,   1184,
+          1492,   6243,    705,    847,   2692,    271,  15672,   6331,     25,
+          2308,   3491,      0,    358,   2776,   1588])
+Decoded Text:
+system
+Write a script for an automated chatbot.<|im_end|>
+<|im_start|>assistant
+User: Hi!
+
+Chatbot: Hi there! How can I help you?
+
+User: I need help setting up my account
+
+Chatbot: No problem! I'm here
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ happy
+4.0396833419799805
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,  12792,     25,  21018,     11,    358,
+          2776,   3432,    458,   4265,    448,    847,   1985,    382,  15672,
+          6331,     25,  21018,   1052,     11,    358,   2776,   6247,    311,
+          1492,     13,   3555,   3093,    315,   4265,    525,    498,   3432,
+          1939,  12792,     25,    576,   1985,   4436,    944,   3238,  10277,
+           979,    358,   1430,    311,    990,    432])
+Decoded Text:
+
+<|im_start|>assistant
+Customer: Hi, I'm having an issue with my product.
+
+Chatbot: Hi there, I'm happy to help. What kind of issue are you having?
+
+Customer: The product isn't working properly when I try to use it
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+!
+4.022781848907471
+Context Tokens: 
+tensor([  8948,    198,  31115,    264,  43582,  10435,   1948,   1378,   5766,
+        151645,    198, 151644,    872,    198,   1658,    323,   5220, 151645,
+           198, 151644,  77091,    198,   1658,     25,  21018,      0,   2585,
+           594,    432,   2087,   1939,  95049,     25,  27553,     11,    537,
+          2238,   3873,     13,   2585,    911,    498,   1939,   1658,     25,
+         35316,   1661,     11,   1101,  21413,    419])
+Decoded Text:
+system
+Generate a fictional conversation between two characters<|im_end|>
+<|im_start|>user
+Man and woman<|im_end|>
+<|im_start|>assistant
+Man: Hi! How's it going?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ it
+3.9537155628204346
+Context Tokens: 
+tensor([   264,  43582,  10435,   1948,   1378,   5766, 151645,    198, 151644,
+           872,    198,   1658,    323,   5220, 151645,    198, 151644,  77091,
+           198,   1658,     25,  21018,      0,   2585,    594,    432,   2087,
+          1939,  95049,     25,  27553,     11,    537,   2238,   3873,     13,
+          2585,    911,    498,   1939,   1658,     25,  35316,   1661,     11,
+          1101,  21413,    419,   6233,   1899,    382])
+Decoded Text:
+ a fictional conversation between two characters<|im_end|>
+<|im_start|>user
+Man and woman<|im_end|>
+<|im_start|>assistant
+Man: Hi! How's it going?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this beautiful day.
+
+
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ How
+3.8691108226776123
+Context Tokens: 
+tensor([  1658,    323,   5220, 151645,    198, 151644,  77091,    198,   1658,
+            25,  21018,      0,   2585,    594,    432,   2087,   1939,  95049,
+            25,  27553,     11,    537,   2238,   3873,     13,   2585,    911,
+           498,   1939,   1658,     25,  35316,   1661,     11,   1101,  21413,
+           419,   6233,   1899,    382,  95049,     25,  21607,     11,    432,
+           594,  23511,     13,   2055,     11,   1128])
+Decoded Text:
+Man and woman<|im_end|>
+<|im_start|>assistant
+Man: Hi! How's it going?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this beautiful day.
+
+Woman: Yeah, it's gorgeous. So, what
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+ Welcome
+3.856496810913086
+Context Tokens: 
+tensor([151644,   8948,    198,   4036,    419,   1467,    773,    429,    432,
+         10362,    803,  39561,    323,   6584,     13, 151645,    198, 151644,
+           872,    198,   9707,      0,  20166,    311,    847,   3553,     13,
+          1205,   3010,    264,   6884,   8045,    315,   3871,    518,   2167,
+          2244,   7576,    323,    582,  11222,    311,   3410,    498,    448,
+          9073,   6002,   2473])
+Decoded Text:
+<|im_start|>system
+Edit this text so that it sounds more convincing and professional.<|im_end|>
+<|im_start|>user
+Hello! Welcome to my store. We offer a wide variety of products at really great prices and we promise to provide you with excellent customer service
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ hope
+3.8365323543548584
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    458,   3110,    315,    264,  15908,
+          2551,     13, 151645,    198, 151644,  77091,    198,  30665,    508,
+           675,  49088,     40,   3900,    419,   2551,  13719,    498,   1632,
+            13,    358,   1079,   4378,    311,   6051,    498,    429,    508,
+         16411,    936,    508,   5009,    315,   8544,  29562,   2679,    498,
+           614,    894])
+Decoded Text:
+<|im_start|>system
+Generate an example of a formal email.<|im_end|>
+<|im_start|>assistant
+Dear [Name],
+
+I hope this email finds you well. I am writing to inform you that [topic]. [Description of topic].
+
+If you have any
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ how
+3.760150194168091
+Context Tokens: 
+tensor([  2661,  11652,   1119,   6364,     13, 151645,    198, 151644,    872,
+           198,      1,  81581,     11,   3980,  12304,     89,  44225,   7521,
+        151645,    198, 151644,  77091,    198,   9707,     11,   1246,    525,
+           498,     30, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ given sentence into English.<|im_end|>
+<|im_start|>user
+"Bonjour, comment allez-vous?"<|im_end|>
+<|im_start|>assistant
+Hello, how are you?<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+How
+3.7356009483337402
+Context Tokens: 
+tensor([  4990,   1992,   1948,   1378,   8061,   7824,     13, 151645,    198,
+        151644,    872,    198,   2753,   1355, 151645,    198, 151644,  77091,
+           198,  19795,  25833,    220,     16,     25,    330,   4340,    702,
+          2562,   1012,   2087,   2474,    582,  77781,  47369,  19795,  25833,
+           220,     17,     25,    330,   2132,    594,   1012,   2087,   2664,
+          1091,   3601,     13,   1205,   3003,   3884])
+Decoded Text:
+ takes place between two shop owners.<|im_end|>
+<|im_start|>user
+Noinput<|im_end|>
+<|im_start|>assistant
+Shop Owner 1: "How has business been going since we reopened?"
+Shop Owner 2: "It's been going better than expected. We've seen
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ can
+3.5369603633880615
+Context Tokens: 
+tensor([  7985,    264,   5316,    369,    458,  27498,   6236,   6331,     13,
+        151645,    198, 151644,  77091,    198,   1474,     25,  21018,   2219,
+         15672,   6331,     25,  21018,   1052,      0,   2585,    646,    358,
+          1492,    498,   1939,   1474,     25,    358,   1184,   1492,   6243,
+           705,    847,   2692,    271,  15672,   6331,     25,   2308,   3491,
+             0,    358,   2776,   1588,    311,   1492])
+Decoded Text:
+Write a script for an automated chatbot.<|im_end|>
+<|im_start|>assistant
+User: Hi!
+
+Chatbot: Hi there! How can I help you?
+
+User: I need help setting up my account
+
+Chatbot: No problem! I'm here to help
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ comment
+3.4262137413024902
+Context Tokens: 
+tensor([151644,   8948,    198,  27473,    279,   2661,  11652,   1119,   6364,
+            13, 151645,    198, 151644,    872,    198,      1,  81581,     11,
+          3980,  12304,     89,  44225,   7521, 151645,    198, 151644,  77091,
+           198,   9707,     11,   1246,    525,    498,     30, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Translate the given sentence into English.<|im_end|>
+<|im_start|>user
+"Bonjour, comment allez-vous?"<|im_end|>
+<|im_start|>assistant
+Hello, how are you?<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+!
+3.3650031089782715
+Context Tokens: 
+tensor([  1973,     13, 151645,    198, 151644,  77091,    198,  12792,     25,
+         21018,   1052,     11,    358,   4172,   1075,    311,   1973,    264,
+         22502,    382,  15672,   6331,     25,  21018,   1052,      0,   3555,
+           943,    315,  22502,   1035,    498,   1075,    311,   1973,     30,
+          4710,  12792,     25,    358,   4172,   1075,    311,   1973,    264,
+          3460,  24353,  20783,  22502,    382,  15672])
+Decoded Text:
+ order.<|im_end|>
+<|im_start|>assistant
+Customer: Hi there, I'd like to order a pizza.
+
+Chatbot: Hi there! What type of pizza would you like to order? 
+
+Customer: I'd like to order a large pepperoni pizza.
+
+Chat
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ not
+3.339622735977173
+Context Tokens: 
+tensor([   198, 151644,    872,    198,   1658,    323,   5220, 151645,    198,
+        151644,  77091,    198,   1658,     25,  21018,      0,   2585,    594,
+           432,   2087,   1939,  95049,     25,  27553,     11,    537,   2238,
+          3873,     13,   2585,    911,    498,   1939,   1658,     25,  35316,
+          1661,     11,   1101,  21413,    419,   6233,   1899,    382,  95049,
+            25,  21607,     11,    432,    594,  23511])
+Decoded Text:
+
+<|im_start|>user
+Man and woman<|im_end|>
+<|im_start|>assistant
+Man: Hi! How's it going?
+
+Woman: Hey, not too bad. How about you?
+
+Man: Pretty good, just enjoying this beautiful day.
+
+Woman: Yeah, it's gorgeous
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ What
+3.334176540374756
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,  77091,    198,  12792,     25,  21018,
+          1052,     11,    358,   4172,   1075,    311,   1973,    264,  22502,
+           382,  15672,   6331,     25,  21018,   1052,      0,   3555,    943,
+           315,  22502,   1035,    498,   1075,    311,   1973,     30,   4710,
+         12792,     25,    358,   4172,   1075,    311,   1973,    264,   3460,
+         24353,  20783,  22502,    382,  15672,   6331])
+Decoded Text:
+.<|im_end|>
+<|im_start|>assistant
+Customer: Hi there, I'd like to order a pizza.
+
+Chatbot: Hi there! What type of pizza would you like to order? 
+
+Customer: I'd like to order a large pepperoni pizza.
+
+Chatbot
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ can
+3.2798421382904053
+Context Tokens: 
+tensor([   279,   6645,    323,    279,   6002,     13, 151645,    198, 151644,
+           872,    198,   2753,   1355, 151645,    198, 151644,  77091,    198,
+          2043,     25,    330,  15216,   6556,     11,   1246,    646,    358,
+          1492,    498,  47369,  12792,     25,    330,     40,   2776,   3330,
+           369,    264,    501,  20638,     13,   3155,    498,    614,    894,
+         18564,   7521, 151645,    198, 151643, 151643])
+Decoded Text:
+ the manager and the customer.<|im_end|>
+<|im_start|>user
+Noinput<|im_end|>
+<|im_start|>assistant
+Manager: "Good morning, how can I help you?"
+Customer: "I'm looking for a new laptop. Do you have any recommendations?"<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(24, 49, 75)
+ hope
+3.2796225547790527
+Context Tokens: 
+tensor([  1654,    525,   4378,    311,   6051,    498,    429,    697,   1973,
+           374,   5527,    311,    387,  27259,     13, 151645,    198, 151644,
+         77091,    198,  30665,    508,    675,  49088,   1654,   3900,    498,
+           525,   3730,   1632,     13,   4710,   1654,    525,   4378,    311,
+          6051,    498,    429,    697,   1973,    374,   5527,    311,    387,
+         27259,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+We are writing to inform you that your order is ready to be shipped.<|im_end|>
+<|im_start|>assistant
+Dear [Name],
+
+We hope you are doing well. 
+
+We are writing to inform you that your order is ready to be shipped.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------

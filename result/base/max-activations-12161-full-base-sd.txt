@@ -1,0 +1,313 @@
+Max Activation Value: 
+(5, 30, 56)
+Insert
+0.27568870782852173
+Context Tokens: 
+tensor([   498,   1855,    264,  26045,   1965,    304,  21029,     30, 151645,
+           198, 151644,  77091,    198,   1249,   1855,    264,  26045,   1965,
+           304,   5100,  21029,     11,   3293,    279,    330,  13780,      1,
+          5651,     11,   4205,    279,    330,     47,  16084,   2556,      1,
+          3137,     11,   3293,    279,    821,   2088,     11,    323,   5157,
+          1380,    279,  26045,   1965,    686,    387])
+Decoded Text:
+ you create a pivot table in Excel?<|im_end|>
+<|im_start|>assistant
+To create a pivot table in Microsoft Excel, select the "Insert" tab, click the "PivotTable" button, select the data range, and choose where the pivot table will be
+---------------------------
+Max Activation Value: 
+(74, 99, 125)
+’re
+0.2563400864601135
+Context Tokens: 
+tensor([ 7988, 15235,    11,   279, 15770, 58400,   374,   279,  4727, 21741,
+          369,  5489,   389,   279,   728,   879,  6801,   311,  4717,  8433,
+          323, 15987,    13, 13139,   498,  3129,   518,   279,  5163,   476,
+         2114,    11,   279, 15770, 58400,   702,   498,  9761,   448,  1181,
+        18199,  4419,    13,  2055,  1513,  1405,  3783,    11,   633,   697,
+        15770])
+Decoded Text:
+ powerful AI, the SmartBat is the perfect companion for anyone on the go who wants to stay connected and informed. Whether you’re at the office or home, the SmartBat has you covered with its innovative features. So don’t wait, get your Smart
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ acid
+0.2563239336013794
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   5025,   1948,   9977,
+          2297,    323,  17951,  13621,   2404,     30, 151645,    198, 151644,
+         77091,    198,  82046,   2297,    323,  17951,  13621,   2404,    525,
+         15148,   5435,     13,    576,  40253,    315,  12499,  39489,   1119,
+           279,  16566])
+Decoded Text:
+<|im_start|>system
+What is the relationship between climate change and ocean acidification?<|im_end|>
+<|im_start|>assistant
+Climate change and ocean acidification are closely related. The emission of carbon dioxide into the atmosphere
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+:
+0.2455221265554428
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,  11652,    429,  11017,    279,
+          5944,    315,     25,    330,   2403,  30743,    374,   3118,    389,
+            14,   4197,  65892,      1, 151645,    198, 151644,  77091,    198,
+          2403,   2393,    374,   3118,    389,   2588,    975,    323,  38855,
+            13])
+Decoded Text:
+<|im_start|>system
+Generate a sentence that follows the structure of: "All ____ is based on/with _____"<|im_end|>
+<|im_start|>assistant
+All success is based on hard work and dedication.
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+’re
+0.24516735970973969
+Context Tokens: 
+tensor([  287,  5662,  6832,  4119,   646,  2803, 63030,   518,  1156,    11,
+          714,  3055,   498,  1438,  1495,   279,  1882,    11,   432,   748,
+        28292,  4285,    13, 13139,   498,  3129, 60317,   264,  1614,   389,
+          697,  1828,  5670,  4573,   476, 17461,   432,   311,   458,  6350,
+        23172,  1849,    11,   279,  7354,   311,   653,   773,   525, 30339,
+           13])
+Decoded Text:
+ing machine learning models can seem intimidating at first, but once you break down the process, it’s surprisingly simple. Whether you’re deploying a model on your own production environment or pushing it to an existing deployment system, the steps to do so are straightforward.
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ declar
+0.24503590166568756
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   9445,   1388,   5114,    911,
+           279,  12650,    315,  22184,    279,   4573,     13, 151645,    198,
+        151644,  77091,    198,  61547,    287,    279,   4573,    374,   7565,
+           311,  46895,    264,   9314])
+Decoded Text:
+<|im_start|>system
+Create a declarative statement about the importance of protecting the environment.<|im_end|>
+<|im_start|>assistant
+Protecting the environment is essential to preserving a healthy
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ At
+0.24009256064891815
+Context Tokens: 
+tensor([ 6305,    11,   323,   358,  2776, 12035,   311,  1490,  1128,   501,
+         5510,   582,   646, 32064, 15235,   311,  1281,  2272,   803, 11050,
+           11, 31080,   323,  9767,    13,  2411,   279,  1852,   882,    11,
+          358,  1744,   432,   594,  2989,   311,   387, 62342,   315,  1181,
+         9481,   323,   311,  5486,   279,  4401,   323,  8129,   315, 15235,
+          448])
+Decoded Text:
+ lives, and I'm excited to see what new ways we can leverage AI to make life more efficient, enjoyable and secure. At the same time, I think it's important to be mindful of its limitations and to approach the development and implementation of AI with
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+ try
+0.23993681371212006
+Context Tokens: 
+tensor([   11,  1246,  1753,   279,  6588,  2750,  8720,  2453,    11,   323,
+          894,  3281, 35383,  8900,    13, 42183,  1265,  8464,   429,  6835,
+          686,  5258, 34549,  2453,   323,  1430,   311,  1855,   458, 16566,
+          315,  6950,   323,  6838,   382,   785,  4796,  1265,  1083, 45932,
+         3281,  6081,   323, 31062,   429,   525,  2500,    11,  2670,  1910,
+         1779])
+Decoded Text:
+, how much the practice values patient care, and any special amenities offered. Ads should stress that patients will receive personalized care and try to create an atmosphere of trust and comfort.
+
+The campaign should also emphasize special offers and discounts that are available, including free check
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ weak
+0.23947079479694366
+Context Tokens: 
+tensor([  7375,    311,   6359,   1293,   9663,   3590,   8845,     11,    323,
+         71157,   4756,  11725,     13, 151645,    198, 151644,  77091,    198,
+         10580,  14123,   3163,   4720,    584,   6950,    323,   7469,    724,
+           279,   4963,     11,   7375,    323,  11725,    315,    264,   6995,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ tools to deliver long-term social goals, and destabilizes markets.<|im_end|>
+<|im_start|>assistant
+Corruption impairs public trust and weakens the resources, tools and markets of a nation.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(32, 57, 83)
+ artificial
+0.2381034940481186
+Context Tokens: 
+tensor([151645,    198, 151644,  77091,    198,  11613,   3204,   5413,    369,
+         51897,   3425,    458,   2551,    374,    264,  25328,    476,    537,
+           525,  58989,   5662,   6832,   4119,   1741,    438,  20443,  29728,
+         14155,    323,  12812,    533,   9154,    288,  71291,     11,    476,
+           458,   6975,    454,  77990,   5662,   6832,   1714,   1741,    438,
+         58354,    323,  62948,  17984,     13, 151645])
+Decoded Text:
+<|im_end|>
+<|im_start|>assistant
+Two possible methods for predicting whether an email is a spam or not are supervised machine learning models such as artificial neural networks and Naive Bayes classifiers, or an unsupervised machine learning method such as clustering and anomaly detection.<|im_end|>
+---------------------------
+Max Activation Value: 
+(389, 414, 440)
+ Whether
+0.2380022257566452
+Context Tokens: 
+tensor([  279,  7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,
+          315,  5043,   323,  3410,   498,   448, 11449,   429,   498,   646,
+          990,  6814,   697,  2272,    13, 13139,   498, 22729,   264,  6931,
+          304,   279, 35688,    11,   279, 93035,    11,   476,   279, 18560,
+           11,   264, 17775, 18560,  6731,   646,  2968,   498,   279,  9423,
+          498])
+Decoded Text:
+ the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal arts education can give you the advantage you
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+At
+0.23786158859729767
+Context Tokens: 
+tensor([  6073,   2692,    448,    458,   2856,    400,     16,     15,     15,
+         16539,    323,    458,   2734,   4379,    315,    220,     21,  13384,
+         87324,  29071, 151645,    198, 151644,  77091,    198,   1655,    279,
+           835,    315,   1042,    220,     16,     11,    279,   3311,    304,
+           279,   6073,   2692,   1035,    387,    400,     16,     15,     21,
+            13,    758,   1042,    220,     17,     11])
+Decoded Text:
+ bank account with an initial $100 deposit and an interest rate of 6%, compounded annually<|im_end|>
+<|im_start|>assistant
+At the end of year 1, the amount in the bank account would be $106. In year 2,
+---------------------------
+Max Activation Value: 
+(357, 382, 408)
+ past
+0.23519490659236908
+Context Tokens: 
+tensor([ 4710,    32, 17775, 18560,  6731,   374, 55093,   323,  1265,   537,
+          387, 84205,   291,   553,  1846,   879,  1035,  4190,   429,   432,
+          374,   264,  3166,   315,   279,  3267,    13,  1084,   646, 25386,
+          498,   448,   279,  7361,   323,  6540,  5871,   311, 11996,   304,
+          264,  8045,   315,  5043,   323,  3410,   498,   448, 11449,   429,
+          498])
+Decoded Text:
+ 
+
+A liberal arts education is invaluable and should not be overshadowed by those who would suggest that it is a thing of the past. It can equip you with the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+ United
+0.2281605452299118
+Context Tokens: 
+tensor([12055,   304,  2263,  4953,  2210,  1948,   279,  4787,    11,   892,
+          572, 21411,   553,   279, 19390,  9145,   323,   279,  4882,    11,
+          892,   572, 21411,   553,   279,  3639,  4180,    13,   576, 43710,
+        67770, 45150, 75682,   916,   264,  4168,   315,   220,    16,    18,
+         2849,   304,  6527,   220,    16,    24,    21,    17,    11,   448,
+          279])
+Decoded Text:
+ conflict in Indochina between the North, which was backed by the Soviet Union and the South, which was backed by the United States. The Cuban Missile Crisis unfolded over a period of 13 days in October 1962, with the
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ such
+0.22779534757137299
+Context Tokens: 
+tensor([ 60743,   7735,    476,    264,  48204,   1506,  13042,    315,    264,
+         33878,   9544,     13,    576,  12426,   1265,   1083,   2924,   1467,
+           429,  91506,    279,   3910,    594,   7428,     11,   1741,    438,
+           330,   3820,  16021,      1,    476,    330,  10850,   7840,   3263,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ recycle symbol or a stylized representation of a recycling bin. The logo should also include text that communicates the website's purpose, such as "Recycling" or "Go Green".<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ all
+0.224539116024971
+Context Tokens: 
+tensor([   315,   9437,  24231,     13, 151645,    198, 151644,  77091,    198,
+         16055,  24231,   6081,    264,   1372,    315,  22146,    429,   1281,
+           432,    458,  18879,   6291,    369,   9675,    315,    678,  12282,
+            13,   1084,   5707,   2783,  18986,   4152,    311,    279,   3347,
+         13737,   9162,   4362,    311,   2225,    476,   2615,    264,   9437,
+          5980,   2473,     11,  93740,   4152,    311])
+Decoded Text:
+ of cloud computing.<|im_end|>
+<|im_start|>assistant
+Cloud computing offers a number of advantages that make it an attractive solution for businesses of all sizes. It provides cost savings due to the low infrastructure investment needed to develop or access a cloud-based service, scalability due to
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ true
+0.22395138442516327
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   3170,    279,   2701,   5114,
+           374,    830,     13, 151645,    198, 151644,    872,    198,     32,
+          6849,   6625,   9649,   1265,  16579,    279,   4650,  25114,     13,
+        151645,    198, 151644,  77091,    198,     32,   6849,   6625,   9649])
+Decoded Text:
+<|im_start|>system
+Explain why the following statement is true.<|im_end|>
+<|im_start|>user
+A successful sales pitch should engage the potential buyer.<|im_end|>
+<|im_start|>assistant
+A successful sales pitch
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ active
+0.22250355780124664
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    279,   2701,  14311,    304,
+           279,   4541,   7743, 151645,    198, 151644,    872,    198,    785,
+           501,   4842,    686,    387,  11537,    553,    279,   8256,    304,
+           279,   6240,   9292,     13, 151645,    198, 151644,  77091,    198])
+Decoded Text:
+<|im_start|>system
+Rewrite the following paragraph in the active voice<|im_end|>
+<|im_start|>user
+The new policy will be implemented by the employees in the management department.<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(223, 248, 274)
+ur
+0.2208336442708969
+Context Tokens: 
+tensor([ 12793,     13,   4710,   2354,    279,   5440,    323,   6540,   2500,
+           311,    601,     11,    279,   3383,    315,  34990,   1095,    323,
+         69717,    311,   9977,   2297,    374,    537,   1640,    324,  16557,
+           480,     13,   1988,    304,   1973,    311,   3581,   1039,  11580,
+            11,  21750,   1917,    374,   4362,    481,    323,   4937,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ imagine. 
+
+With the technology and knowledge available to us, the task of mitigating and adapting to climate change is not insurmountable. But in order to save our planet, collective action is needed - and fast.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ vector
+0.22040535509586334
+Context Tokens: 
+tensor([ 9885,  5338, 10839,  2082, 81340,  6958,    32,    11,  2436,    33,
+          982,  4142,  7379,   279,  1815,   504,  3704,   311,  2436,    32,
+          323,  3553,   432,   304,   264,  4621,   476,  1334,   624,  4142,
+         7379,   279,  1815,   504,  3704,   311,  2436,    33,   323,  3553,
+          432,   304,  2441,  4621,   476,  1334,   624,  4142, 86733,  2176,
+        12716])
+Decoded Text:
+FindFirstCommonAncestor(nodeA, nodeB):
+– Find the path from root to nodeA and store it in a vector or array.
+– Find the path from root to nodeB and store it in another vector or array.
+– Traverse both paths
+---------------------------

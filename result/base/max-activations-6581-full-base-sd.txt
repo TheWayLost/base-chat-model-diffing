@@ -1,0 +1,344 @@
+Max Activation Value: 
+(77, 102, 128)
+ node
+0.411624550819397
+Context Tokens: 
+tensor([    8,   715,   262,   770,    25,   715,   286,  2436,  9517,   284,
+         5656,  6958,  9517,    11,   821,     8, 48426,   262,   671,   470,
+          279,   320,  3185,  3726,     8,  2436,  7445,   715,   262,   470,
+         2436, 48426,     2,  5712,   311,  2711,   264,  2661,   821,   715,
+          750,  2711,  6958,    11,   821,  1648,   715,  6926,   262,   671,
+         5351])
+Decoded Text:
+) 
+    else: 
+        node.right = insert(node.right, data) 
+  
+    # return the (unchanged) node pointer 
+    return node 
+  
+# Function to search a given data 
+def search(node, data): 
+      
+    # Base
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+<|im_end|>
+0.37588590383529663
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   7290,    315,    279,
+           877,  33595,    330,     32,  49069,   6781,    374,    264,  49069,
+         15303,  43869, 151645,    198, 151644,  77091,    198,    785,  17133,
+           330,     32,  49069,   6781,    374,    264,  49069,  15303,      1,
+          3363,    429,    421,    498,   3581,   3220,     11,    432,    374,
+          1075])
+Decoded Text:
+<|im_start|>system
+What is the meaning of the idiom "A penny saved is a penny earned"?<|im_end|>
+<|im_start|>assistant
+The phrase "A penny saved is a penny earned" means that if you save money, it is like
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+       
+0.3698231875896454
+Context Tokens: 
+tensor([   17,    21, 13887,   262,   671,  1752,  1817,  3668,   304,   914,
+           16, 16252,  1181, 11639,   715,   262,   369,   600,   304,  2088,
+         6901,  3609,    16, 36715,   715,   286,  1760,    58,   539,  3609,
+           16,   989,  2467,   481,  6013,   492,    64, 51028,  1421,   220,
+           16, 13887,   262,   671,  1752,  1817,  3668,   304,   914,    17,
+        60832])
+Decoded Text:
+26
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement
+---------------------------
+Max Activation Value: 
+(168, 193, 219)
+       
+0.36590057611465454
+Context Tokens: 
+tensor([24491,   264,  8225,   897,    11,   715,   262,   671,  1221,  9069,
+          646,   944,   387,   458, 68772,   715,   262,   369,   600,   304,
+         2088,  6901, 11512, 36715,   715,   286,   421,  1760,   989,    60,
+          366,   220,    15,    25,   715,   310,   470,  3557, 13887,   262,
+          671,  1416,   678, 33773,   525,  7168,    11,   914,    16,   323,
+          914])
+Decoded Text:
+ reaches a negative value, 
+    # then strings can't be anagrams 
+    for i in range(len(count)): 
+        if count[i] < 0: 
+            return False
+  
+    # If all frequencies are zero, string1 and string
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+1
+0.36509621143341064
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   6524,    311,    697,   3853,
+           656,    220,     16,     15,   1635,    504,   1431,     13, 151645,
+           198, 151644,  77091,    198,  30665,   3853,    752,   3554,     40,
+          3900,    498,    525,   1632,    323,    518,    264,   1459,    304,
+          2272])
+Decoded Text:
+<|im_start|>system
+Write a letter to your future self 10 years from now.<|im_end|>
+<|im_start|>assistant
+Dear future me,
+
+I hope you are well and at a point in life
+---------------------------
+Max Activation Value: 
+(145, 170, 196)
+.
+
+
+0.3648484945297241
+Context Tokens: 
+tensor([  481, 24009,   458, 22570,  1943,   429,   390, 49269,   697,  2734,
+           11, 14758,  3170,   498,  3129, 18739,   700,   323,  3643,   264,
+         1681,   476, 17064,   264,  3405,   382,  8304,   220,    19,    25,
+        11000,   279,  1943,  1365, 11000,   279,  1943,   323,  3783,   369,
+          264,  2033,   382,  8304,   220,    20,    25, 11112,   705,   438,
+         4362])
+Decoded Text:
+ - Craft an engaging message that conveys your interest, explains why you’re reaching out and makes a request or asks a question.
+
+Step 4: Send the message – Send the message and wait for a response.
+
+Step 5: Follow up as needed
+---------------------------
+Max Activation Value: 
+(389, 414, 440)
+ Whether
+0.360208660364151
+Context Tokens: 
+tensor([  279,  7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,
+          315,  5043,   323,  3410,   498,   448, 11449,   429,   498,   646,
+          990,  6814,   697,  2272,    13, 13139,   498, 22729,   264,  6931,
+          304,   279, 35688,    11,   279, 93035,    11,   476,   279, 18560,
+           11,   264, 17775, 18560,  6731,   646,  2968,   498,   279,  9423,
+          498])
+Decoded Text:
+ the skills and knowledge necessary to succeed in a variety of fields and provide you with experiences that you can use throughout your life. Whether you pursue a career in the sciences, the humanities, or the arts, a liberal arts education can give you the advantage you
+---------------------------
+Max Activation Value: 
+(218, 243, 269)
+.
+0.3600892126560211
+Context Tokens: 
+tensor([    11,    714,    566,   2058,  42357,    979,    566,    572,   1101,
+           264,   3213,   7770,  19023,     11,  42903,    315,    279,   5106,
+           304,    892,    806,   2272,   1035,   1896,   1435,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+0.358460009098053
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,   1128,    264,   3691,  14178,    374,
+        151645,    198, 151644,  77091,    198,     32,   3691,  14178,    374,
+           458,   1633,    304,   3550,   6693,  69919,   6815,    374,    773,
+          3746,    429,   4302,     11,    537,   1496,   3100,     11])
+Decoded Text:
+<|im_start|>system
+Describe what a black hole is<|im_end|>
+<|im_start|>assistant
+A black hole is an object in space whose gravitational pull is so strong that nothing, not even light,
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+<|im_end|>
+0.35727402567863464
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   1128,    374,    264,  29728,
+          3922, 151645,    198, 151644,  77091,    198,     32,  29728,   3922,
+           374,    458,  20443,  11229,    320,  15469,      8,   1849,  14606,
+           553,    279,   5944,    323,  30201,    315,    279,   3738,   8109])
+Decoded Text:
+<|im_start|>system
+Explain what is a neural network<|im_end|>
+<|im_start|>assistant
+A neural network is an artificial intelligence (AI) system inspired by the structure and functioning of the human brain
+---------------------------
+Max Activation Value: 
+(92, 117, 143)
+ It
+0.35689210891723633
+Context Tokens: 
+tensor([ 23405,     11,    279,  12111,    594,   5726,    311,  15442,    279,
+         12650,    315,   1817,   4565,    646,   1492,    311,  10542,    279,
+          1429,   2989,   4419,    304,    279,  10337,     13,   1084,    646,
+          1083,   3410,  20017,   1119,    279,    821,     11,    892,    646,
+           387,   1483,    311,   1281,   4623,  11181,    911,    279,   1614,
+           323,   1181,   5029,     13, 151645,    198])
+Decoded Text:
+ Furthermore, the algorithm's ability to evaluate the importance of each feature can help to identify the most important features in the dataset. It can also provide insight into the data, which can be used to make further decisions about the model and its parameters.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+0.35651031136512756
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,    279,  74514,   6261,   8041,
+          2498,    369,     30, 151645,    198, 151644,  77091,    198,    934,
+          8041,  13352,    369,  21159,   8319,  31223,  16379,     13,   1084,
+           374,    458,   9088,    315,    279,    547,    808,     13,   5887,
+           315,  16373])
+Decoded Text:
+<|im_start|>system
+What does the acronym ARPA stand for?<|im_end|>
+<|im_start|>assistant
+ARPA stands for Advanced Research Projects Agency. It is an agency of the U.S. Department of Defense
+---------------------------
+Max Activation Value: 
+(166, 191, 217)
+Third
+0.3562709093093872
+Context Tokens: 
+tensor([ 5421,   389,  1246,   279,  1943,   374, 15985,    13, 20690,  7853,
+          315,   279,  2477, 98056, 13313,   949,   315, 10535,   374,  1376,
+          311, 18392, 10535,  7361,   382, 36975,   398,    11,  3432,  2060,
+        12781,   374,   264,  1969,    13,  1096,   374,   279,  5726,   311,
+         2548,   369,  1128,   825,  6801,   323,  3158, 56569,   304,   458,
+        10745])
+Decoded Text:
+ impact on how the message is understood. Being aware of the non-verbal part of communication is key to improving communication skills.
+
+Thirdly, having assertiveness is a must. This is the ability to ask for what one wants and express oneself in an honest
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+   
+0.3553626835346222
+Context Tokens: 
+tensor([  671,  1416,   279,  4916,   374,  4287,    11,   470,   264,   501,
+         2436,   715,   262,   421,  2436,   374,  2240,    25,   715,   286,
+          470,  6018,  2592,     8, 48426,   262,   671, 18214,    11, 63548,
+         1495,   279,  4916,   198,   262,   421,   821,   366,  2436,  2196,
+           25,   715,   286,  2436,  8272,   284,  5656,  6958,  8272,    11,
+          821])
+Decoded Text:
+ # If the tree is empty, return a new node 
+    if node is None: 
+        return Node(data) 
+  
+    # Otherwise, recur down the tree
+    if data < node.data: 
+        node.left = insert(node.left, data
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+0.3550645709037781
+Context Tokens: 
+tensor([151644,   8948,    198,  58465,   1247,    279,   2701,  14311,    304,
+           279,   4541,   7743, 151645,    198, 151644,    872,    198,    785,
+           501,   4842,    686,    387,  11537,    553,    279,   8256,    304,
+           279,   6240,   9292,     13, 151645,    198, 151644,  77091,    198,
+           785,   6240])
+Decoded Text:
+<|im_start|>system
+Rewrite the following paragraph in the active voice<|im_end|>
+<|im_start|>user
+The new policy will be implemented by the employees in the management department.<|im_end|>
+<|im_start|>assistant
+The management
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+<|im_end|>
+0.3543289303779602
+Context Tokens: 
+tensor([151644,   8948,    198,  23085,    315,    279,   2701,   1378,  12344,
+          7822,    374,    803,   4363,    311,   8193,  30428,   3059,     30,
+        151645,    198, 151644,    872,    198,  48712,    220,     16,     25,
+          5443,  10779,    311,   3920,    279,   6239,    315,   9104,    389,
+         25148,    198,  48712,    220,     17,     25,   5443,  17171])
+Decoded Text:
+<|im_start|>system
+Which of the following two scientific studies is more likely to produce viable results?<|im_end|>
+<|im_start|>user
+Study 1: Use plants to study the effects of weather on productivity
+Study 2: Use soil
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+0.353893905878067
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2701,   4549,
+        151645,    198, 151644,    872,    198,   2428,   1110,   2136,  82814,
+         15136,    905,     14,     17,     15,     16,     15,     14,     15,
+            22,     14,     15,     20,  84828,  38984,     14,     15])
+Decoded Text:
+<|im_start|>system
+Summarize the following article<|im_end|>
+<|im_start|>user
+https://www.nytimes.com/2010/07/05/business/global/0
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+ I
+0.3516206741333008
+Context Tokens: 
+tensor([   879,    374,   2677,   4460,    311,   2664,  11675,     13,   8909,
+          1059,     11,    358,   1079,    264,  12235,   5458,    323,    614,
+           264,  11677,    369,   6832,     13,  23405,     11,    358,  49763,
+          1059,   8170,    323,  25248,    311,   4717,    830,    311,   1059,
+         20799,     11,   1496,    979,  16601,    448,  89830,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ who is always trying to better herself. Like her, I am a dedicated student and have a passion for learning. Furthermore, I admire her strength and determination to stay true to her beliefs, even when faced with adversity.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(94, 119, 145)
+ node
+0.3511405289173126
+Context Tokens: 
+tensor([    20,     13,   7405,    279,    501,   2436,    594,   1790,   5785,
+           279,   1852,    438,    279,   1537,   2436,    594,   1790,   5785,
+            13,    715,     21,     13,   7405,    279,   1537,   2436,    594,
+          1790,   5785,    387,    279,    501,   2436,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+5. Make the new node's next reference the same as the last node's next reference. 
+6. Make the last node's next reference be the new node.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+<|im_end|>
+0.35075125098228455
+Context Tokens: 
+tensor([151644,   8948,    198,   4072,    419,  11652,  68125,   7022, 151645,
+           198, 151644,    872,    198,   7941,   1521,    537,   3867,    279,
+          1273,     13, 151645,    198, 151644,  77091,    198,   7941,   1521,
+           537,   1896,    279,   1273,     13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Change this sentence grammatically<|im_end|>
+<|im_start|>user
+She did not took the test.<|im_end|>
+<|im_start|>assistant
+She did not take the test.<|im_end|>
+
+---------------------------

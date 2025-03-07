@@ -1,0 +1,346 @@
+Max Activation Value: 
+(0, 25, 51)
+ie
+6.5006890296936035
+Context Tokens: 
+tensor([151644,   8948,    198,  27428,    911,    264,  11245,  27468,    323,
+          3410,    264,   2805,  47245,    911,   1435,  37907,     13, 151645,
+           198, 151644,  77091,    198,  12061,    645,  12886,    645,    572,
+           264,  31984,   7276,   6655,  27468,   3881,    369,   1059,  19026,
+           311,    279,   3920,    315,   8887,   7175,     13,   2932,   2765,
+          1378,  46978,   2340,   4756,    304,  27315])
+Decoded Text:
+<|im_start|>system
+Research about a famous scientist and provide a short biography about him/her.<|im_end|>
+<|im_start|>assistant
+Marie Curie was a Polish-French scientist known for her contributions to the study of radioactivity. She won two Nobel Prizes in Physics
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+ie
+6.415894508361816
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   9814,  47245,    315,  32016,
+         12886,    645, 151645,    198, 151644,  77091,    198,  12061,    645,
+         12886,    645,    572,    264,  31984,  39160,   8585,  82223,    323,
+          8424,    380,    879,    374,   3881,    369,   1059,  70574,   3412])
+Decoded Text:
+<|im_start|>system
+Write a brief biography of Marie Curie<|im_end|>
+<|im_start|>assistant
+Marie Curie was a Polish-born French physicist and chemist who is known for her pioneering research
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ Everest
+6.310365676879883
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   8426,  16162,    304,    279,
+          1879,     13, 151645,    198, 151644,  77091,    198,    785,   8426,
+         16162,    304,    279,   1879,    374,  10423,  86478,     11,    892,
+           374,   7407,    304,  48964,    323,  37168,    311,    264,   2608,
+           315,    220,     23,     11,     23,     19,     23,  20044,    320,
+            17,     24,     11,     15,     17])
+Decoded Text:
+<|im_start|>system
+Find the highest peak in the world.<|im_end|>
+<|im_start|>assistant
+The highest peak in the world is Mount Everest, which is located in Nepal and rises to a height of 8,848 meters (29,02
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ Liberty
+6.20598840713501
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220,     16,
+            23,     23,     21,     13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 1886.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ Liberty
+6.088256359100342
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ Everest
+6.081395626068115
+Context Tokens: 
+tensor([   852,    279,   1909,   5779,   8426,  38935,    304,    279,   1879,
+            13, 151645,    198, 151644,  77091,    198,    785,   1909,   5779,
+          8426,  23501,    304,    279,   1879,    525,  10423,  86478,    320,
+            23,     11,     23,     19,     23,    296,    701,    730,     17,
+           320,     23,     11,     21,     16,     16,    296,    701,  54276,
+          7522,     73,  91845,    320,     23,     11])
+Decoded Text:
+List the top ten highest peaks in the world.<|im_end|>
+<|im_start|>assistant
+The top ten highest mountains in the world are Mount Everest (8,848 m), K2 (8,611 m), Kangchenjunga (8,
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+ie
+5.918402671813965
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   9814,  47245,    315,  32016,
+         12886,    645, 151645,    198, 151644,  77091,    198,  12061,    645,
+         12886,    645,    572,    264,  31984,  39160,   8585,  82223,    323,
+          8424,    380,    879,    374,   3881,    369,   1059,  70574,   3412,
+           304,   8887,   7175,     13,   2932,  11105,   1378,    501,   5424])
+Decoded Text:
+<|im_start|>system
+Write a brief biography of Marie Curie<|im_end|>
+<|im_start|>assistant
+Marie Curie was a Polish-born French physicist and chemist who is known for her pioneering research in radioactivity. She discovered two new elements
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ Einstein
+5.648562908172607
+Context Tokens: 
+tensor([  1251,    504,    279,    220,     17,     15,    339,   9294,    323,
+          3410,    264,   9814,   4008,    315,   1817,    825,     13, 151645,
+           198, 151644,  77091,    198,     16,     13,  17513,  54052,     25,
+         17513,  54052,    572,    264,   5938,  39160,  31787,  82223,    879,
+          7881,    279,  10126,    315,   1351,  43415,     11,    825,    315,
+           279,   1378,  63882,    315,   6481,  21321])
+Decoded Text:
+ people from the 20th century and provide a brief description of each one.<|im_end|>
+<|im_start|>assistant
+1. Albert Einstein: Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ Gandhi
+5.500907897949219
+Context Tokens: 
+tensor([151644,   8948,    198,   3379,    264,  13656,   7071,    323,   4190,
+           220,     20,   7966,    311,   3920,   1105,     13, 151645,    198,
+        151644,    872,    198,  46208,    266,   1728,  47894, 151645,    198,
+        151644,  77091,    198,     16,     13,  16171,    266,   1728,  47894,
+           572,    264,   7653,    304,    279,   7748,  23665,   7203,     11,
+           323,   1526,    806,   2477,  75727])
+Decoded Text:
+<|im_start|>system
+Select a historical figure and suggest 5 reasons to study them.<|im_end|>
+<|im_start|>user
+Mahatma Gandhi<|im_end|>
+<|im_start|>assistant
+1. Mahatma Gandhi was a leader in the Indian independence movement, and through his non-viol
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+hart
+5.279430389404297
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   2421,  22870,    911,    264,
+          2661,  13656,   7071,     13, 151645,    198, 151644,    872,    198,
+          6091,  35929,   6809,  46389, 151645,    198, 151644,  77091,    198,
+          6091,  35929,   6809,  46389,    572,    458,   3693,  45530,  52947,
+           323,    264,  35948,  45530,   7071,     13,   2932,    572,    279,
+          1156,   8778])
+Decoded Text:
+<|im_start|>system
+Write a few sentences about a given historical figure.<|im_end|>
+<|im_start|>user
+Amelia Earhart<|im_end|>
+<|im_start|>assistant
+Amelia Earhart was an American aviation pioneer and a renowned aviation figure. She was the first female
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+ Everest
+5.169510841369629
+Context Tokens: 
+tensor([   279,   1879,    374,  30743,   1304,  18725,    715,    852,     25,
+         10423,     11,  86478, 151645,    198, 151644,  77091,    198,    785,
+          8426,  16162,    304,    279,   1879,    374,  10423,  86478,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the world is ____ ____. 
+List: Mount, Everest<|im_end|>
+<|im_start|>assistant
+The highest peak in the world is Mount Everest.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+ Einstein
+5.100422382354736
+Context Tokens: 
+tensor([151644,   8948,    198,  27428,  54052,    594,  10126,    315,   1351,
+         43415,    323,   3410,    264,   9814,  16148,     13, 151645,    198,
+        151644,  77091,    198,  66622,  54052,    594,  10126,    315,   1351,
+         43415,    374,    264,  10126,    315,  27959,   7556,    892,   5302,
+           429,    279,   6872,    315,  21321,    525,    279,   1852,    304,
+           678,  77809,   7218])
+Decoded Text:
+<|im_start|>system
+Research Einstein's theory of relativity and provide a brief explanation.<|im_end|>
+<|im_start|>assistant
+Albert Einstein's theory of relativity is a theory of gravitation which states that the laws of physics are the same in all uniformly moving
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ Washington
+5.056656837463379
+Context Tokens: 
+tensor([151644,   8948,    198,  15191,    572,    279,   1156,    547,    808,
+            13,   4795,     30, 151645,    198, 151644,  77091,    198,    785,
+          1156,    547,    808,     13,   4795,    572,   9857,   6515,     11,
+           879,    572,  50648,   1119,   5163,    304,    220,     16,     22,
+            23,     24,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Who was the first U.S. President?<|im_end|>
+<|im_start|>assistant
+The first U.S. President was George Washington, who was sworn into office in 1789.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ Gandhi
+5.035511016845703
+Context Tokens: 
+tensor([    20,   7966,    311,   3920,   1105,     13, 151645,    198, 151644,
+           872,    198,  46208,    266,   1728,  47894, 151645,    198, 151644,
+         77091,    198,     16,     13,  16171,    266,   1728,  47894,    572,
+           264,   7653,    304,    279,   7748,  23665,   7203,     11,    323,
+          1526,    806,   2477,  75727,    306,  21907,    566,  20459,    279,
+          2355,    315,  25650,  13643,    323,    279])
+Decoded Text:
+5 reasons to study them.<|im_end|>
+<|im_start|>user
+Mahatma Gandhi<|im_end|>
+<|im_start|>assistant
+1. Mahatma Gandhi was a leader in the Indian independence movement, and through his non-violent protests he demonstrated the power of peaceful resistance and the
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+hart
+5.003116607666016
+Context Tokens: 
+tensor([  2421,  22870,    911,    264,   2661,  13656,   7071,     13, 151645,
+           198, 151644,    872,    198,   6091,  35929,   6809,  46389, 151645,
+           198, 151644,  77091,    198,   6091,  35929,   6809,  46389,    572,
+           458,   3693,  45530,  52947,    323,    264,  35948,  45530,   7071,
+            13,   2932,    572,    279,   1156,   8778,   1822,  36122,    311,
+         11466,  13529,   3941,    279,  22375,  21575])
+Decoded Text:
+ few sentences about a given historical figure.<|im_end|>
+<|im_start|>user
+Amelia Earhart<|im_end|>
+<|im_start|>assistant
+Amelia Earhart was an American aviation pioneer and a renowned aviation figure. She was the first female aviator to fly solo across the Atlantic Ocean
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ Everest
+4.752215385437012
+Context Tokens: 
+tensor([ 78540,    304,    279,  11652,     13, 151645,    198, 151644,    872,
+           198,    785,   8426,  16162,    304,    279,   1879,    374,  30743,
+          1304,  18725,    715,    852,     25,  10423,     11,  86478, 151645,
+           198, 151644,  77091,    198,    785,   8426,  16162,    304,    279,
+          1879,    374,  10423,  86478,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ ____. 
+List: Mount, Everest<|im_end|>
+<|im_start|>assistant
+The highest peak in the world is Mount Everest.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+atsby
+4.748724937438965
+Context Tokens: 
+tensor([151644,   8948,    198,  60269,    279,   4357,    315,    279,   2701,
+          5700,     25,    576,   8513,    479,  35514,     13, 151645,    198,
+        151644,  77091,    198,     16,     13,  18919,    479,  35514,   3787,
+         79134,   9677,    304,  16005,    315,  10987,    279,   4746,    315,
+         70164,  84190,     13,    715,     17,     13,  14991,   3261,   1041,
+           352,     11,  70164,    748,  35171,     11])
+Decoded Text:
+<|im_start|>system
+Outline the events of the following movie: The Great Gatsby.<|im_end|>
+<|im_start|>assistant
+1. Jay Gatsby throws lavish parties in hopes of winning the heart of Daisy Buchanan. 
+2. Nick Carraway, Daisy’s cousin,
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ Einstein
+4.7271013259887695
+Context Tokens: 
+tensor([   220,     17,     15,    339,   9294,    323,   3410,    264,   9814,
+          4008,    315,   1817,    825,     13, 151645,    198, 151644,  77091,
+           198,     16,     13,  17513,  54052,     25,  17513,  54052,    572,
+           264,   5938,  39160,  31787,  82223,    879,   7881,    279,  10126,
+           315,   1351,  43415,     11,    825,    315,    279,   1378,  63882,
+           315,   6481,  21321,    624,     17,     13])
+Decoded Text:
+ 20th century and provide a brief description of each one.<|im_end|>
+<|im_start|>assistant
+1. Albert Einstein: Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+2.
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ Vinci
+4.614419460296631
+Context Tokens: 
+tensor([    11,   3156,    448,    264,   9814,   4008,    315,   1817,   1697,
+            13, 151645,    198, 151644,    872,    198,   9286, 151645,    198,
+        151644,  77091,    198,     16,     13,  65386,   2994,  96766,   1365,
+          1527,  14811,  54283,  44933,    587,     11,   3881,    369,    806,
+          7341,   1262,  96449,    624,     17,     13,  44406,  87910,   1365,
+           362,  26765,    269,    323,  29481,   3881])
+Decoded Text:
+, along with a brief description of each person.<|im_end|>
+<|im_start|>user
+Art<|im_end|>
+<|im_start|>assistant
+1. Leonardo da Vinci – An Italian Renaissance polymath, known for his masterful artworks.
+2. Michelangelo – A sculptor and painter known
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ Vinci
+4.505019187927246
+Context Tokens: 
+tensor([ 29481,     30, 151645,    198, 151644,  77091,    198,    785,   1879,
+           594,   1429,  11245,  29481,    374,   8789,   6509,    311,    387,
+           279,  14811,    312,  45202,  10049,  65386,   2994,  96766,     13,
+          5301,    975,   5646,    279,  98783,  28556,    323,    576,   7996,
+          6299,    712,     11,   2176,    315,    892,    525,   6509,   7341,
+         46468,     13,  14235,  96766,    572,   1083])
+Decoded Text:
+ painter?<|im_end|>
+<|im_start|>assistant
+The world's most famous painter is generally considered to be the Italian renaissance artist Leonardo da Vinci. His work includes the Mona Lisa and The Last Supper, both of which are considered masterpieces. Da Vinci was also
+---------------------------

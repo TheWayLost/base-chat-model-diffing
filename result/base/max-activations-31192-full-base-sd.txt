@@ -1,0 +1,330 @@
+Max Activation Value: 
+(6, 31, 57)
+ forgotten
+0.2974129319190979
+Context Tokens: 
+tensor([ 11652,   1119,   1378,     11,  10282,    279,   7290,  34439,     13,
+        151645,    198, 151644,    872,    198,   1519,   3697,    700,    315,
+           279,   3753,    323,  14843,  26471,    566,   1030,  24547,    311,
+          4446,    806,  15085,     13, 151645,    198, 151644,  77091,    198,
+          1519,   3697,    700,    315,    279,   3753,    323,  14843,  26471,
+            13,   1260,   1030,  24547,    311,   4446])
+Decoded Text:
+ sentence into two, keeping the meaning intact.<|im_end|>
+<|im_start|>user
+He came out of the house and suddenly remembered he had forgotten to bring his wallet.<|im_end|>
+<|im_start|>assistant
+He came out of the house and suddenly remembered. He had forgotten to bring
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ exact
+0.29445046186447144
+Context Tokens: 
+tensor([151644,   8948,    198,  60424,    458,   3110,  11652,    429,  31116,
+           279,  12650,    315,   1667,  54231,  15423,    311,  13216,    458,
+          4734,  17133,     13, 151645,    198, 151644,  77091,    198,   7941,
+          4588,    752,     11,    330,   9945,    498,    387,   2952,    311,
+          1281,    432,    311,  13856,  17913,   7521,   2041,    279])
+Decoded Text:
+<|im_start|>system
+Provide an example sentence that demonstrates the importance of using quotation marks to indicate an exact phrase.<|im_end|>
+<|im_start|>assistant
+She asked me, "Will you be able to make it to dinner tonight?" without the
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+ eliminating
+0.29257678985595703
+Context Tokens: 
+tensor([   432,   1083,  13388,    279,   3311,    315,   3220,    304,    279,
+          8584,    892,    646,   5240,    458,   6955,  75406,     13,  22406,
+            11,   3742,  15104,  49977,   6955,   6513,    773,  39499,   1105,
+           646,    614,    264,  63969,   2456,    389,   9675,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ it also limits the amount of money in the economy which can cause an economic downturn. Additionally, tax cuts stimulate economic growth so eliminating them can have a detrimental effect on businesses.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ exactly
+0.2754024565219879
+Context Tokens: 
+tensor([  4588,    752,     11,    330,   9945,    498,    387,   2952,    311,
+          1281,    432,    311,  13856,  17913,   7521,   2041,    279,  54231,
+         15423,    432,   1035,    387,   5000,    311,   3535,   6896,   1128,
+          1340,    572,   5488,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ asked me, "Will you be able to make it to dinner tonight?" without the quotation marks it would be difficult to understand exactly what she was saying.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(110, 135, 161)
+ stored
+0.26858192682266235
+Context Tokens: 
+tensor([12499, 39489,  1119,   279, 16566,   382,    37, 83961, 39273,   525,
+          279,  8538, 28720,  8168,   311,  3644, 23867,    13,  3197,  1493,
+        39273,   525, 26626,    11,   862,  9768, 12499,   374,  5880,   438,
+        12499, 39489,   323,  1008, 82561,    11,   429, 22862,  8628,   304,
+          279, 16566,   323,  5263,   279,  3644,  9315,    13,  1096,  4623,
+        11508])
+Decoded Text:
+ carbon dioxide into the atmosphere.
+
+Fossil fuels are the biggest contributing factor to global warming. When these fuels are burned, their stored carbon is released as carbon dioxide and other pollutants, that trap heat in the atmosphere and increase the global temperature. This further leads
+---------------------------
+Max Activation Value: 
+(48, 73, 99)
+ to
+0.26470836997032166
+Context Tokens: 
+tensor([ 9008,  8116,   438,   220,    15,   624,    17,    13,  2573,   264,
+         3890,   600,   311,   220,    15,   624,    18,    13,  5976,   600,
+          374,  2686,  1091,   476,  6144,   311,   220,    16,    15,    15,
+           11,   653,   279,  2701,    25,   715,   220,   264,    13,  1416,
+          600,   374, 74916,   553,   220,    20,   476,   220,    18,    11,
+          912])
+Decoded Text:
+ Initialize Sum as 0.
+2. Set a variable i to 0.
+3. While i is less than or equal to 100, do the following: 
+  a. If i is divisible by 5 or 3, add
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ increasing
+0.26294195652008057
+Context Tokens: 
+tensor([151644,   8948,    198,  46254,    279,  22032,   7703,   1186,  15512,
+           315,    264,   2661,   1334,     30, 151645,    198, 151644,    872,
+           198,   1118,    284,    508,     22,     11,    220,     16,     15,
+            11,    220,     23,     11,    220])
+Decoded Text:
+<|im_start|>system
+Compute the longest increasing subsequence of a given array?<|im_end|>
+<|im_start|>user
+arr = [7, 10, 8, 
+---------------------------
+Max Activation Value: 
+(94, 119, 145)
+ just
+0.26115986704826355
+Context Tokens: 
+tensor([  594,  2551,  2621,  2533, 15672,  6331,    25, 35439,    11,   508,
+         1474,   594,  8299,  9177,    60,   481,   358,   614,   279, 31774,
+         6505,   369,   498,    13,  1205,  1101,  1184,   311,   738,   264,
+         3552,   323,  7249,    13,  2160,   429, 16910,    30,  4710,  1474,
+           25, 22555,   382, 15672,  6331,    25,  8513,     0,  3555,  3552,
+         1035])
+Decoded Text:
+'s email address]
+
+Chatbot: Okay, [User's Email Address] - I have the basics setup for you. We just need to set a password and photos. Is that okay? 
+
+User: Sure.
+
+Chatbot: Great! What password would
+---------------------------
+Max Activation Value: 
+(88, 113, 139)
+ Investing
+0.25998690724372864
+Context Tokens: 
+tensor([   387,  23699,    311,   2725,    304,   2205,  12876,    892,   1410,
+         21058,  49712,  85008,     11,  38468,    323,   1008,  11521,   5413,
+           429,   4038,   6529,    311,    279,   2562,     13,  92596,    304,
+           584,   4300,    646,   1083,   1492,    633,    279,   2562,    594,
+           829,    700,    311,   8131,  11725,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ be beneficial to invest in local advertising which could involve distributing flyers, posters and other creative methods that draw attention to the business. Investing in public relations can also help get the business's name out to larger markets.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+ by
+0.2589395344257355
+Context Tokens: 
+tensor([151644,   8948,    198,  34540,    279,   6172,    553,    220,     24,
+            15,  12348,  65670,    323,   2550,    279,   1102,     13, 151645,
+           198, 151644,    872,    198,  15505,     17,     11,    220,     18,
+          1259,    508,     19,     11,    220])
+Decoded Text:
+<|im_start|>system
+Rotate the matrix by 90 degrees clockwise and output the result.<|im_end|>
+<|im_start|>user
+[[2, 3],
+ [4, 
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+urn
+0.25884225964546204
+Context Tokens: 
+tensor([    25, 151645,    198, 151644,    872,    198,   2428,   1110,   2136,
+          4618,     88,    669,    261,    905,   2899,  10523,   2899,  43447,
+         45666,     14,  34634,  11476,    291,   5380,   1455,    399,   9794,
+        151645,    198, 151644,  77091,    198,   1092,    291,   5380,   3545,
+          3139,   8231,    411,   4152,    311,    279,   3347,  23123,    323,
+          1293,   3238,   4115,   5815,    448,    279])
+Decoded Text:
+:<|im_end|>
+<|im_start|>user
+https://www.newyorker.com/culture/cultural-comment/why-comedians-burn-out<|im_end|>
+<|im_start|>assistant
+Comedians often experience burnout due to the low wages and long working hours associated with the
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ cuts
+0.2573549449443817
+Context Tokens: 
+tensor([151644,  77091,    198,    785,   5128,    315,  20515,    429,  64828,
+          4787,    323,   4882,   5159,    374,    279,   1555,    315,    279,
+         48036,  52648,     13,   1096,   1555,    315,  20515,  15104,   1526,
+           279,    358,  30077,  37727,    315,  48036,    323,  61749,   4882,
+          5159,    504,  10684,   5159,     13,   1084,    374,  13187,    220,
+            23,     15,     15,  13136,    320,     20])
+Decoded Text:
+<|im_start|>assistant
+The lines of longitude that divides North and South America is the line of the Panama Canal. This line of longitude cuts through the Isthmus of Panama and separates South America from Central America. It is approximately 800 km (5
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ A
+0.25429946184158325
+Context Tokens: 
+tensor([  3046,   3145,   8147,     11,    892,  10000,    504,    279,   9396,
+           323,  14501,    220,     18,   8756,    320,     19,     13,     23,
+         13136,      8,    311,    279,  43006,   1909,     13,    362,   2205,
+         13016,  57173,    264,  14538,   4752,    279,   5240,   3117,    311,
+          5545,  19085,    311,   4367,    264,  20762,     13, 151645,    198,
+        151644,  77091,    198,    785,  40741,    594])
+Decoded Text:
+ basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight a rival.<|im_end|>
+<|im_start|>assistant
+The Giant's
+---------------------------
+Max Activation Value: 
+(187, 212, 238)
+ when
+0.2542380094528198
+Context Tokens: 
+tensor([ 36593,    504,    279,   3720,   1393,    807,    525,  16307,     13,
+         10964,   6414,  52168,    389,   1894,    323,   7203,    323,    807,
+          8844,    369,    279,   5112,    315,   2613,  19654,    979,    807,
+         19073,     13,  53339,   1083,    990,   3281,   6738,    311,  19032,
+           448,   1817,   1008,    323,    448,    862,  54516,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ prey from the air while they are flying. Their eyes feast on color and movement and they listen for the sound of small birds when they hunt. Falcons also use special calls to communicate with each other and with their mates.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+ of
+0.25421738624572754
+Context Tokens: 
+tensor([   198, 151644,    872,    198,  17245,     85,   5364,    422,   7956,
+        151645,    198, 151644,  77091,    198,  19641,  11245,   4278,    315,
+         48359,    422,   7956,    525,    330,    785,  64236,    315,  13850,
+          1335,    330,    785,  59368,   7993,    448,    279,   4093,  33431,
+          3249,  70333,    315,  10882,  70137,   1335,    323,    330,    785,
+          4093,  60168,    315,    279,  64236,    315])
+Decoded Text:
+
+<|im_start|>user
+Salvador Dali<|im_end|>
+<|im_start|>assistant
+Three famous works of Salvador Dali are "The Persistence of Memory," "The Slave Market with the Disappearing Bust of Voltaire," and "The Disintegration of the Persistence of
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ least
+0.2538841664791107
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   5912,    369,   6169,   1424,
+          2630,  19049,  14762,     13, 151645,    198, 151644,  77091,    198,
+         37095,  11369,   6078,    369,    518,   3245,    220,     17,     15,
+          6486,    448,  26785,    323,   8205,   3015,     13,  32134,    392,
+           678,   5671,    315,    279,   6078,    323,   1948,    279,  19225,
+            13,  57368,    325,    323])
+Decoded Text:
+<|im_start|>system
+Create a rule for proper hand-washing technique.<|im_end|>
+<|im_start|>assistant
+Always wash hands for at least 20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers. Rinse and
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+'s
+0.2536650598049164
+Context Tokens: 
+tensor([ 83898,    323,   6920,  53343,     13, 151645,    198, 151644,  77091,
+           198,   2120,    351,  13572,   2142,    374,    279,  12299,   1007,
+           315,   4325,    770,    594,    975,    438,    825,    594,   1828,
+          2041,   4187,   5853,    279,   4024,   3150,    476,  19919,     11,
+          1393,   6920,  53343,    374,   1667,    476,  14503,   6125,   4325,
+           770,    594,    975,   2041,  14427,    476])
+Decoded Text:
+ plagiarism and copyright infringement.<|im_end|>
+<|im_start|>assistant
+Plagiarism is the passing off of someone else's work as one's own without crediting the original author or creator, while copyright infringement is using or reproducing someone else's work without approval or
+---------------------------
+Max Activation Value: 
+(52, 77, 103)
+ cash
+0.2523065209388733
+Context Tokens: 
+tensor([    15,    198,  47441,   6396,    504,  28542,     25,    400,     18,
+            11,     17,     15,     15, 151645,    198, 151644,  77091,    198,
+         47441,   6396,   5114,    510,   6954,   5263,    304,   8350,     25,
+           400,     22,     11,     20,     15,     15,    198,  47441,   6396,
+           504,   7525,     25,    400,     16,     11,     17,     15,     15,
+           198,  47441,   6396,    504,  24965,     25])
+Decoded Text:
+0
+Cash flow from financing: $3,200<|im_end|>
+<|im_start|>assistant
+Cash flow statement:
+Net increase in cash: $7,500
+Cash flow from operations: $1,200
+Cash flow from investing:
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+ than
+0.2517054080963135
+Context Tokens: 
+tensor([ 279, 1334,  198,   65,   13, 2573,  264, 7445, 1550,  311,  279, 1537,
+        2392,  304,  279, 1334,  198,   66,   13, 5976,  279, 3347, 7445,  374,
+        2686, 1091,  279, 1550, 7445,  715,   67,   13, 1416,  279, 2392,  518,
+         279, 3347, 7445,  374, 5080, 1091,  279, 2392,  518,  279, 1550, 7445,
+         715,  220,  600])
+Decoded Text:
+ the array
+b. Set a pointer high to the last element in the array
+c. While the low pointer is less than the high pointer 
+d. If the element at the low pointer is higher than the element at the high pointer 
+  i
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ than
+0.2502608299255371
+Context Tokens: 
+tensor([   311,  44477,    304,    678,  17961,     13,    576,   6303,   3100,
+           702,    279,  12196,   5726,    311,  63755,    279,  16566,     11,
+           773,    432,  24491,   1039,   6414,    803,   3545,   1091,   1008,
+          7987,     11,   3259,    279,  12884,   4994,   6303,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to scatter in all directions. The blue light has the greatest ability to penetrate the atmosphere, so it reaches our eyes more often than other colors, making the sky appear blue.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

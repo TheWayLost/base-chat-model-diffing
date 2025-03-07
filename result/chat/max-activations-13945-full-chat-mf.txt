@@ -1,0 +1,389 @@
+Max Activation Value: 
+(0, 9, 35)
+
+
+6.852974891662598
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   4396,   4226,     13, 151645,
+           198, 151644,    872,    198,  15191,   6139,    279,  11514,    330,
+         62502,  43411,    265,  43869, 151645,    198, 151644,  77091,    198,
+         95895,   3240,  52277, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Choose the correct answer.<|im_end|>
+<|im_start|>user
+Who wrote the novel "Jane Eyre"?<|im_end|>
+<|im_start|>assistant
+Charlotte Bronte<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+
+
+6.5696330070495605
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    448,   8311,
+          4244,     13, 151645,    198, 151644,    872,    198,    785,  30743,
+           572,   6157,  10454,  76736,    291,    304,  16205,     13, 151645,
+           198, 151644,  77091,    198,    785,   3054,    572,   6157,  10454,
+         76736,    291])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly becoming engulfed
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+6.481386184692383
+Context Tokens: 
+tensor([151644,   8948,    198,  13780,    279,   3897,  31446,     82,   1119,
+           279,   2661,  11652,     13, 151645,    198, 151644,    872,    198,
+         84564,     25,    358,   3937,    311,    279,   3553,  10788,   3607,
+           198,   1109,  72428,     82,     25,    773, 151645,    198, 151644,
+         77091,    198,     40,   3937])
+Decoded Text:
+<|im_start|>system
+Insert the provided conjunctions into the given sentence.<|im_end|>
+<|im_start|>user
+Sentence: I went to the store bought food
+Conjunctions: so<|im_end|>
+<|im_start|>assistant
+I went
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+
+
+6.355216026306152
+Context Tokens: 
+tensor([151644,   8948,    198,  10253,    279,   4244,    504,    279,   1140,
+          3685,    311,   5155,    304,    279,  78540,    304,    279,  11652,
+            13, 151645,    198, 151644,    872,    198,    785,   8426,  16162,
+           304,    279,   1879,    374,  30743,   1304,  18725,    715,    852,
+            25,  10423,     11,  86478, 151645,    198, 151644,  77091,    198,
+           785])
+Decoded Text:
+<|im_start|>system
+Use the words from the list below to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ ____. 
+List: Mount, Everest<|im_end|>
+<|im_start|>assistant
+The
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+6.191808700561523
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,   4396,   3409,    311,
+          4583,    279,  11652,     13, 151645,    198, 151644,    872,    198,
+           785,  14549,    572,   3465,    448,  65892,    304,   3971,     13,
+        151645,    198, 151644,  77091,    198,     82,  73485, 151645,    198,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Identify the correct word to complete the sentence.<|im_end|>
+<|im_start|>user
+The furniture was created with _____ in mind.<|im_end|>
+<|im_start|>assistant
+sustainability<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+6.12932014465332
+Context Tokens: 
+tensor([151644,   8948,    198,   4072,    279,   1212,  15121,   3409,    311,
+          1281,    279,  11652,   4396,     13, 151645,    198, 151644,    872,
+           198,    785,  40513,    525,  56696,    369,   3735,     13, 151645,
+           198, 151644,  77091,    198,    785,  40513,    525,  56696,    369,
+         21132,     13, 151645,    198, 151643])
+Decoded Text:
+<|im_start|>system
+Change the underlined word to make the sentence correct.<|im_end|>
+<|im_start|>user
+The tomatoes are ripe for pick.<|im_end|>
+<|im_start|>assistant
+The tomatoes are ripe for picking.<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+
+
+6.049166679382324
+Context Tokens: 
+tensor([151644,   8948,    198,  23107,    279,   1212,  15121,   4244,    448,
+          8311,  85406,     13, 151645,    198, 151644,    872,    198,    785,
+         10550,   1902,   4131,  92403,    389,    862,   8549,     13, 151645,
+           198, 151644,  77091,    198,    785,  10550,   1902,  81691,   3556,
+           389,    862,   8549])
+Decoded Text:
+<|im_start|>system
+Replace the underlined words with appropriate synonyms.<|im_end|>
+<|im_start|>user
+The robbers snitched on their partners.<|im_end|>
+<|im_start|>assistant
+The robbers divulged on their partners
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+
+
+6.030056476593018
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    311,   4583,
+           279,  11652,     13, 151645,    198, 151644,    872,    198,  11646,
+         23867,    646,    387,  27437,    553,  17719,  32671,    563,    323,
+          1304,   3979,     13, 151645,    198, 151644,  77091,    198,  11646,
+         23867,    646,    387])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks to complete the sentence.<|im_end|>
+<|im_start|>user
+Global warming can be reversed by reducing ________ and __________.<|im_end|>
+<|im_start|>assistant
+Global warming can be
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+
+
+5.960657119750977
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,   1467,     11,   5155,    304,
+           279,  78540, 151645,    198, 151644,    872,    198,     58,    785,
+            60,    508,    258,   7459,     60,    315,    279,   7602,    702,
+         13791,   1506,  10535,    323,  35654,     13, 151645,    198, 151644,
+         77091,    198])
+Decoded Text:
+<|im_start|>system
+Given a text, fill in the blanks<|im_end|>
+<|im_start|>user
+[The] [invention] of the internet has revolutionized communication and commerce.<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+
+
+5.8337931632995605
+Context Tokens: 
+tensor([151644,   8948,    198,   3379,    279,   1429,   8311,   3409,    504,
+           279,   1140,     13, 151645,    198, 151644,    872,    198,   4123,
+          1262,     11,  15888,    782,     11,  58837, 151645,    198, 151644,
+         77091,    198,   4123,    782, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Select the most appropriate word from the list.<|im_end|>
+<|im_start|>user
+joyful, joyous, festive<|im_end|>
+<|im_start|>assistant
+joyous<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+5.660804271697998
+Context Tokens: 
+tensor([151644,   8948,    198,  33092,    894,  42429,    476,  31428,  20643,
+           304,    279,   2661,  11652,     13, 151645,    198, 151644,    872,
+           198,   7941,  30125,   3556,   3438,    388,    550,   2163,    279,
+         21800,     13, 151645,    198, 151644,  77091,    198,   7941,  30125,
+          3556,  22932,   2163,    279,  21800])
+Decoded Text:
+<|im_start|>system
+Correct any spelling or grammar mistakes in the given sentence.<|im_end|>
+<|im_start|>user
+She jogged excersies around the lake.<|im_end|>
+<|im_start|>assistant
+She jogged exercises around the lake
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+
+
+5.624776363372803
+Context Tokens: 
+tensor([151644,   8948,    198,  13780,    279,   4396,  61503,    518,    279,
+          3897,   7482,    304,    279,   2701,  11652,     13, 151645,    198,
+        151644,    872,    198,  62502,  49394,   8930,    279,   6006, 151645,
+           198, 151644,  77091,    198,  62502,     11,  49394,   8930,    279,
+          6006,     13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Insert the correct punctuation at the provided places in the following sentence.<|im_end|>
+<|im_start|>user
+Jane silently opened the door<|im_end|>
+<|im_start|>assistant
+Jane, silently opened the door.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+5.577136993408203
+Context Tokens: 
+tensor([151644,   8948,    198,  36953,    700,    279,   4396,  36921,    504,
+           279,   2701,   1140,     13, 151645,    198, 151644,    872,    198,
+          5469,     11,  16301,     11,   2311, 151645,    198, 151644,  77091,
+           198,  85699, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Pick out the correct noun from the following list.<|im_end|>
+<|im_start|>user
+river, mountain, book<|im_end|>
+<|im_start|>assistant
+River<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 10, 36)
+<|im_start|>
+5.514670372009277
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   4396,   4226,     13, 151645,
+           198, 151644,    872,    198,  15191,   6139,    279,  11514,    330,
+         62502,  43411,    265,  43869, 151645,    198, 151644,  77091,    198,
+         95895,   3240,  52277, 151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Choose the correct answer.<|im_end|>
+<|im_start|>user
+Who wrote the novel "Jane Eyre"?<|im_end|>
+<|im_start|>assistant
+Charlotte Bronte<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+
+
+5.450649738311768
+Context Tokens: 
+tensor([151644,   8948,    198,  23107,    678,  13121,    315,    279,   5878,
+          5201,     53,  26380,     16,      1,    448,    279,   4396,   4226,
+            13, 151645,    198, 151644,    872,    198,    785,   1102,    315,
+           279,  21937,    374,    400,     53,  26380,     16,     13, 151645,
+           198, 151644,  77091,    198,    785,   1102,    315,    279,  21937,
+           374])
+Decoded Text:
+<|im_start|>system
+Replace all instances of the placeholder "$VARIABLE1" with the correct answer.<|im_end|>
+<|im_start|>user
+The result of the calculation is $VARIABLE1.<|im_end|>
+<|im_start|>assistant
+The result of the calculation is
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+5.370744228363037
+Context Tokens: 
+tensor([151644,   8948,    198,  13780,    458,   8311,  20913,  17133,    304,
+           279,   2661,  11652,     13, 151645,    198, 151644,    872,    198,
+          7941,    594,    458,   9073,   9364, 151645,    198, 151644,  77091,
+           198,   7941,    594,    458,   9073,   9364,     11,    773,   1340,
+         29575,    264,   4828,     13])
+Decoded Text:
+<|im_start|>system
+Insert an appropriate connecting phrase in the given sentence.<|im_end|>
+<|im_start|>user
+She's an excellent employee<|im_end|>
+<|im_start|>assistant
+She's an excellent employee, so she deserves a raise.
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+5.369196891784668
+Context Tokens: 
+tensor([151644,   8948,    198,  82345,    279,   2701,  17133,    553,  45790,
+           432,   1119,    279,  42429,   2661,     13, 151645,    198, 151644,
+           872,    198,    416,  11442,   3844,  22567, 151645,    198, 151644,
+         77091,    198,  33092,     13,    576,  42429,    315,    279,  17133,
+           330,    416,  11442,      1,    572,  23507])
+Decoded Text:
+<|im_start|>system
+Evaluate the following phrase by transforming it into the spelling given.<|im_end|>
+<|im_start|>user
+resipt --> receipt<|im_end|>
+<|im_start|>assistant
+Correct. The spelling of the phrase "resipt" was transformed
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+
+
+5.339277267456055
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   1429,   8311,   4226, 151645,
+           198, 151644,    872,    198,   3838,    374,    279,   1429,  43511,
+          6819,    304,   9237,    594,  16566,   1939,     32,     13,  56075,
+          2145,    198,     33,     13,  86569,    198,     34,     13])
+Decoded Text:
+<|im_start|>system
+Choose the most appropriate answer<|im_end|>
+<|im_start|>user
+What is the most abundant gas in Earth's atmosphere?
+
+A. Methane
+B. Oxygen
+C.
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+<|im_start|>
+5.278747081756592
+Context Tokens: 
+tensor([151644,   8948,    198,  14449,    304,    279,  78540,    448,   8311,
+          4244,     13, 151645,    198, 151644,    872,    198,    785,  30743,
+           572,   6157,  10454,  76736,    291,    304,  16205,     13, 151645,
+           198, 151644,  77091,    198,    785,   3054,    572,   6157,  10454,
+         76736,    291,    304])
+Decoded Text:
+<|im_start|>system
+Fill in the blanks with appropriate words.<|im_end|>
+<|im_start|>user
+The ____ was quickly becoming engulfed in smoke.<|im_end|>
+<|im_start|>assistant
+The room was quickly becoming engulfed in
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+5.269072532653809
+Context Tokens: 
+tensor([151644,   8948,    198,  36953,    700,    279,  10322,   3409,    700,
+           304,   1817,  11652,     25, 151645,    198, 151644,    872,    198,
+          6533,     11,  22087,     11,  42686, 151645,    198, 151644,  77091,
+           198,    785,  10322,   3409,    700,    374,    364,  58818,   4427,
+        151645,    198, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Pick out the odd word out in each sentence:<|im_end|>
+<|im_start|>user
+Tree, Wind, Flower<|im_end|>
+<|im_start|>assistant
+The odd word out is 'Wind'.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------

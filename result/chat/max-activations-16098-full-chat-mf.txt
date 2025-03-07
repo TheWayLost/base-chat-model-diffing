@@ -1,0 +1,303 @@
+Max Activation Value: 
+(45, 70, 96)
+pro
+3.8358352184295654
+Context Tokens: 
+tensor([25311,   315,  8848,  9393,  5424,  2924, 54292,  2356,    11, 68753,
+          376,  2356,    11, 61921,  2356,    11, 33216, 36637,  2356,    11,
+         1982,    65,  2356,    11, 21943,   776,    82,  2356,    11, 23523,
+        50218,    11, 67648,  2356,    11,   270,   360,  2356,    11, 68753,
+          465,    65,  2356,    11, 62822,   295,  2356,    11,   323,  2706,
+          769])
+Decoded Text:
+ Examples of rare earth elements include scandium, yttrium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, and prometh
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ur
+3.8113601207733154
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,    785,  34877,   5240,    315,    419,
+         48548,   1410,    387,    264,   4746,   3359,     11,  69424,   7967,
+           337,   2142,     11,  68229,     11,    476,   7100,    324,  28013,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>assistant
+The probable cause of this symptom could be a heart attack, pulmonary embolism, pneumonia, or pleurisy.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ metaph
+3.7905640602111816
+Context Tokens: 
+tensor([  462, 25141,  6430,   315,  5451, 10704,    11,   279, 82081,   323,
+          279,  5451, 14212, 98191,  9756,  1117,   323,   279, 11249, 38554,
+          827, 80729,   973,    13, 11954, 30668,   519,    11,   279, 82081,
+         5285,   389,   279, 30668,   519, 11968,    13, 11954,   458,  1342,
+          519,    11,   279, 82081,   525, 13238,  6974,   279, 50779,   315,
+          279])
+Decoded Text:
+ prophase stage of mitosis, the chromosomes and the mitotic spindle condense and the nuclear membrane disintegrates. During metaphase, the chromosomes align on the metaphase plate. During anaphase, the chromosomes are pulled towards the poles of the
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+rib
+3.766908645629883
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,  15552,   2498,    369,     30,
+        151645,    198, 151644,  77091,    198,  55320,  13352,    369,    409,
+         60163,   1897,    263,  22147,    292,  13621,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+What does DNA stand for?<|im_end|>
+<|im_start|>assistant
+DNA stands for deoxyribonucleic acid.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(72, 97, 123)
+ph
+3.7547314167022705
+Context Tokens: 
+tensor([ 1495,  1119, 34288, 34615,   315, 12499, 39489,   323,  3015,    13,
+        11954,   419,  1882,    11,   279,  4802,  5880,   374,  1483,   311,
+         8193,   993, 70870,   482,  2406,   759, 92373,   320,   828,    47,
+            8, 34615,    13, 66556,   374,  1483,   553,   279,  6008,   311,
+         2355,  1008, 11364,    11,  1741,   438,  6513,   323, 38556,    13,
+        22406])
+Decoded Text:
+ down into simpler molecules of carbon dioxide and water. During this process, the energy released is used to produce adenosine triphosphate (ATP) molecules. ATP is used by the plant to power other processes, such as growth and reproduction. Additionally
+---------------------------
+Max Activation Value: 
+(30, 55, 81)
+tr
+3.733765125274658
+Context Tokens: 
+tensor([ 5424,   429,   614,  4911, 23970,    11, 40163,  1543,  1168,    11,
+          323, 33354, 69404,  5888,    13, 25311,   315,  8848,  9393,  5424,
+         2924, 54292,  2356,    11, 68753,   376,  2356,    11, 61921,  2356,
+           11, 33216, 36637,  2356,    11,  1982,    65,  2356,    11, 21943,
+          776,    82,  2356,    11, 23523, 50218,    11, 67648,  2356,    11,
+          270])
+Decoded Text:
+ elements that have unique magnetic, luminescent, and catalytic properties. Examples of rare earth elements include scandium, yttrium, europium, gadolinium, terbium, dysprosium, holmium, erbium, th
+---------------------------
+Max Activation Value: 
+(112, 137, 163)
+oph
+3.7070653438568115
+Context Tokens: 
+tensor([13238,  6974,   279, 50779,   315,   279,  2779,    11, 14002,   311,
+          279,  4126,    11,   323,   279, 12923, 97184,  3365,   525, 18663,
+           13, 17375,    11,  2337, 18708,  5127,   519,    11,   279, 11249,
+        38554, 30243,   323,   279, 82081,   409,  1297,  1117,    13,  1096,
+        44595,   279,  1882,   315,  5451, 10704,   323,   279,  2779,   374,
+        17779])
+Decoded Text:
+ pulled towards the poles of the cell, opposite to the center, and the sister chromatids are separated. Finally, during telophase, the nuclear membrane reforms and the chromosomes decondense. This completes the process of mitosis and the cell is divided
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+eth
+3.690624713897705
+Context Tokens: 
+tensor([   776,     82,   2356,     11,  23523,  50218,     11,  67648,   2356,
+            11,    270,    360,   2356,     11,  68753,    465,     65,   2356,
+            11,  62822,    295,   2356,     11,    323,   2706,    769,   2356,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+prosium, holmium, erbium, thulium, ytterbium, lutetium, and promethium.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ol
+3.688596487045288
+Context Tokens: 
+tensor([   872,    198,   1514,  19289,  15138,   6646, 151645,    198, 151644,
+         77091,    198,    785,  34877,   5240,    315,    419,  48548,   1410,
+           387,    264,   4746,   3359,     11,  69424,   7967,    337,   2142,
+            11,  68229,     11,    476,   7100,    324,  28013,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+user
+Severe chest pain<|im_end|>
+<|im_start|>assistant
+The probable cause of this symptom could be a heart attack, pulmonary embolism, pneumonia, or pleurisy.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(81, 106, 132)
+aph
+3.6800527572631836
+Context Tokens: 
+tensor([ 9756,  1117,   323,   279, 11249, 38554,   827, 80729,   973,    13,
+        11954, 30668,   519,    11,   279, 82081,  5285,   389,   279, 30668,
+          519, 11968,    13, 11954,   458,  1342,   519,    11,   279, 82081,
+          525, 13238,  6974,   279, 50779,   315,   279,  2779,    11, 14002,
+          311,   279,  4126,    11,   323,   279, 12923, 97184,  3365,   525,
+        18663])
+Decoded Text:
+ condense and the nuclear membrane disintegrates. During metaphase, the chromosomes align on the metaphase plate. During anaphase, the chromosomes are pulled towards the poles of the cell, opposite to the center, and the sister chromatids are separated
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+se
+3.6264712810516357
+Context Tokens: 
+tensor([   646,    387,   8881,    553,  19578,     13, 151645,    198, 151644,
+         77091,    198,  10673,  10746,    646,   5240,    264,   2088,    315,
+         18808,     11,   2670,   9387,     11,    976,  12700,    325,   1728,
+            11,  20601,  29971,    331,  19435,     11,   4746,   8457,     11,
+         12654,     11,    323,  19754,     13,  22406,     11,  19578,    646,
+          5263,    279,   5214,    315,  11220,  41531])
+Decoded Text:
+ can be caused by smoking.<|im_end|>
+<|im_start|>assistant
+Smoking can cause a range of diseases, including cancer, emphysema, chronic bronchitis, heart disease, stroke, and diabetes. Additionally, smoking can increase the risk of developing respiratory
+---------------------------
+Max Activation Value: 
+(89, 114, 140)
+ lymph
+3.5976343154907227
+Context Tokens: 
+tensor([   279,  20131,  35360,     11,  41318,  15448,    279,   4746,     11,
+         44174,    323,   1008,  35753,     13,  15412,  35753,   1741,    438,
+           279,  58971,   1849,     11,  41789,   1849,    323,  42645,    774,
+          1849,    525,   7407,   2878,    279,  63200,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the rib cage, wherein lies the heart, lungs and other organs. Internal organs such as the digestive system, reproductive system and lymphatic system are located within the torso.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(41, 66, 92)
+b
+3.597522497177124
+Context Tokens: 
+tensor([33354, 69404,  5888,    13, 25311,   315,  8848,  9393,  5424,  2924,
+        54292,  2356,    11, 68753,   376,  2356,    11, 61921,  2356,    11,
+        33216, 36637,  2356,    11,  1982,    65,  2356,    11, 21943,   776,
+           82,  2356,    11, 23523, 50218,    11, 67648,  2356,    11,   270,
+          360,  2356,    11, 68753,   465,    65,  2356,    11, 62822,   295,
+         2356])
+Decoded Text:
+ catalytic properties. Examples of rare earth elements include scandium, yttrium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium
+---------------------------
+Max Activation Value: 
+(103, 128, 154)
+ chromat
+3.5903120040893555
+Context Tokens: 
+tensor([   13, 11954,   458,  1342,   519,    11,   279, 82081,   525, 13238,
+         6974,   279, 50779,   315,   279,  2779,    11, 14002,   311,   279,
+         4126,    11,   323,   279, 12923, 97184,  3365,   525, 18663,    13,
+        17375,    11,  2337, 18708,  5127,   519,    11,   279, 11249, 38554,
+        30243,   323,   279, 82081,   409,  1297,  1117,    13,  1096, 44595,
+          279])
+Decoded Text:
+. During anaphase, the chromosomes are pulled towards the poles of the cell, opposite to the center, and the sister chromatids are separated. Finally, during telophase, the nuclear membrane reforms and the chromosomes decondense. This completes the
+---------------------------
+Max Activation Value: 
+(60, 85, 111)
+iol
+3.5839040279388428
+Context Tokens: 
+tensor([  1035,  10000,  47763,     11,    323,   1429,   5382,  43204,   1035,
+          4363,    387,  11889,    311,  17697,    279,  14226,   9315,   4344,
+            13,    758,   5256,     11,   2041,    279,   4463,  24903,    285,
+          5344,     11,    279,  11285,  12624,    315,  17951,  59601,   1035,
+          1083,    387,  47763,  28752,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ would rise drastically, and most living organisms would likely be unable to survive the extreme temperature changes. In addition, without the Coriolis force, the familiar patterns of ocean currents would also be drastically altered.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+topl
+3.558363437652588
+Context Tokens: 
+tensor([ 28301,   1437,    323,   6979,    279,   5479,    315,    264,   2779,
+            13, 151645,    198, 151644,  77091,    198,    785,   5479,    315,
+           264,   2779,   2924,    279,  61507,     11,   9503,  98605,  10530,
+            11,   2779,  38554,     11,  53942,   4204,     11,    323,   1008,
+          1240,   2387,    642,     13,    576,  61507,    374,    279,   2524,
+          4126,    315,    279,   2779,    323,   5610])
+Decoded Text:
+Identify and define the parts of a cell.<|im_end|>
+<|im_start|>assistant
+The parts of a cell include the nucleus, cytoplasm, cell membrane, mitochondria, and other organelles. The nucleus is the control center of the cell and contains
+---------------------------
+Max Activation Value: 
+(94, 119, 145)
+hythm
+3.531435012817383
+Context Tokens: 
+tensor([   476,    294,  96645,     13,  22406,     11,    279,   8720,   1265,
+           387,  10067,    369,   1008,   5435,   4714,   1741,    438,   1550,
+          6543,   7262,     11,  19754,    476,  46245,   2890,  60154,   3473,
+            13,   1084,    374,   2989,    311,   5185,    429,    894,   4746,
+         13904,   4714,    646,    387,   1602,  11406,    323,   1373,  13922,
+          6457,   6529,     13, 151645,    198, 151643])
+Decoded Text:
+ or dizziness. Additionally, the patient should be checked for other related issues such as high blood pressure, diabetes or cardiac arrhythmias. It is important to note that any heart-related issues can be very dangerous and require immediate medical attention.<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+ucle
+3.53108286857605
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,  15552,   2498,    369,     30,
+        151645,    198, 151644,  77091,    198,  55320,  13352,    369,    409,
+         60163,   1897,    263,  22147,    292,  13621,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+What does DNA stand for?<|im_end|>
+<|im_start|>assistant
+DNA stands for deoxyribonucleic acid.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(78, 103, 129)
+er
+3.53013277053833
+Context Tokens: 
+tensor([13256,   323,  1221,  3060,  8630,   386,  9048, 11007,   495, 13256,
+           13, 11999,  2115,  8630,  5665,    75,  3366,   495, 13256,   323,
+         2484, 10078,  1290,  8630, 42678,   261, 15862, 12784,   325,    13,
+        11112,   279, 11929,   369,   444,  2717,   261,  1323,   359, 12495,
+          323,  2484,  1290,  8630,  1863,  7073, 28129,    13, 11999,  1290,
+         8630])
+Decoded Text:
+asse and then continue onto Murbacherstrasse. Turn left onto Interlakenstrasse and turn slightly right onto Gewerbestrasse. Follow the signs for Lauterbrunnen and turn right onto Zellerweg. Turn right onto
+---------------------------
+Max Activation Value: 
+(55, 80, 106)
+ lip
+3.5162060260772705
+Context Tokens: 
+tensor([   315,  27796,    323,  11088,    264,   3476,    304,    279,  14614,
+           315,  38554,  27796,     13,   1084,    374,   1083,   8480,    369,
+         67600,  37997,     11,   2670,    279,  18003,    315,  19050,   3365,
+           323,    862,   7557,   6814,    279,   2779,     13,   1084,   1083,
+         17045,    438,    264,   5819,   1240,   2387,    273,    369,  34619,
+         64025,     13, 151645,    198, 151643, 151643])
+Decoded Text:
+ of proteins and plays a role in the assembly of membrane proteins. It is also responsible for lipid metabolism, including the formation of lipids and their transport throughout the cell. It also serves as a storage organelle for calcium ions.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------

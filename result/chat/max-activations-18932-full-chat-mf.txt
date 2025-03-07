@@ -1,0 +1,326 @@
+Max Activation Value: 
+(0, 18, 44)
+assistant
+7.034191608428955
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3364,    911,    264,   3743,
+           879,  21051,    458,  19594,  11580,     13, 151645,    198, 151644,
+         77091,    198,  12522,   5193,    264,    882,     11,   1052,    572,
+           264,   3908,   3743,   6941,  52325,    879,   4829,    311,  13186,
+           279,  15494,     13,   2932,    572,    389,    264,   8954])
+Decoded Text:
+<|im_start|>system
+Generate a story about a girl who visits an alien planet.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a young girl named Holly who wanted to explore the universe. She was on a mission
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+assistant
+6.842574119567871
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   2805,   3364,    911,    264,
+         27468,    304,    264,  10072,     13, 151645,    198, 151644,  77091,
+           198,   8847,     13,   3757,    572,    264,  27468,   3238,    304,
+           806,  10072,     11,  22865,    553,    387,   8312,    323,   1273,
+         32983,  77769,   9695,    448,  25382,  66749,     13])
+Decoded Text:
+<|im_start|>system
+Generate a short story about a scientist in a lab.<|im_end|>
+<|im_start|>assistant
+Dr. John was a scientist working in his lab, surrounded by beakers and test tubes bubbling with mysterious liquids.
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+assistant
+6.840541362762451
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3364,    911,    264,   1682,
+           594,   1156,   1899,    315,   2906, 151645,    198, 151644,  77091,
+           198,   2132,    572,    279,   1156,   1899,    315,   2906,     11,
+           323,   2632,  60597,    572,   8266,  22596,     13,   2932,    572,
+           773,  12035,    311,   3367,   1059,    501,  60090])
+Decoded Text:
+<|im_start|>system
+Generate a story about a child's first day of school<|im_end|>
+<|im_start|>assistant
+It was the first day of school, and little Mia was feeling nervous. She was so excited to meet her new classmates
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+assistant
+6.812739849090576
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3364,    911,   6624,    550,
+           879,   2525,    311,   1492,  12677,     13, 151645,    198, 151644,
+         77091,    198,  12522,   5193,    264,    882,     11,    304,    264,
+          4268,   3041,   3123,     11,    279,   6624,    550,   1030,   1012,
+         10099,  12677,  19962,    323,    311,   7979,   3123,   1899])
+Decoded Text:
+<|im_start|>system
+Generate a story about fairies who come to help humans.<|im_end|>
+<|im_start|>assistant
+Once upon a time, in a land far away, the fairies had been watching humans struggling and toiling away day
+---------------------------
+Max Activation Value: 
+(0, 19, 45)
+assistant
+6.806943893432617
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    458,   4024,   3364,    448,    264,
+          7167,     11,   6149,     11,    323,    835,     13, 151645,    198,
+        151644,  77091,    198,  12522,   5193,    264,    882,     11,   1052,
+         12163,    264,   3743,   6941,  98783,     13,  98783,   1030,    264,
+         11677,    369,  17943,    323,    264,  19675,  40228,    429,    572])
+Decoded Text:
+<|im_start|>system
+Write an original story with a beginning, middle, and end.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there lived a girl named Mona. Mona had a passion for adventure and a burning curiosity that was
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+assistant
+6.796106815338135
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3364,    911,    264,  10668,
+           323,    806,   8720, 151645,    198, 151644,  77091,    198,   8847,
+            13,  10562,  11704,   1030,   1012,    264,  10668,    369,   1657,
+          1635,     13,   1260,   1030,   3884,   1657,   6835,   2525,    323,
+           728,     11,    714,    566,   1030])
+Decoded Text:
+<|im_start|>system
+Write a story about a doctor and his patient<|im_end|>
+<|im_start|>assistant
+Dr. Wilkins had been a doctor for many years. He had seen many patients come and go, but he had
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+assistant
+6.746603488922119
+Context Tokens: 
+tensor([151644,   8948,    198,  70492,    264,   2805,   3364,    911,    264,
+         12305,    879,    374,   2952,    311,   3960,    311,    653,  81469,
+           389,   1181,   1828,     13, 151645,    198, 151644,  77091,    198,
+         12522,   5193,    264,    882,     11,   1052,    572,    264,  22208,
+          2632,  12305,   6941,  27488,    879,    572,  10838,    311,   7341,
+           279,   3753,  81469,     13,  78616,     11])
+Decoded Text:
+<|im_start|>system
+Compose a short story about a robot who is able to learn to do chores on its own.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a curious little robot named Fred who was determined to master the house chores. Everyday,
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+assistant
+6.73969030380249
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   2805,   3364,    911,    264,
+          3947,    311,    264,  23971,     13, 151645,    198, 151644,  77091,
+           198,     40,   5926,  11994,    279,   1947,  23971,    304,    847,
+          3283,     13,   1084,    572,    458,  59998,   3139,    438,    358,
+          2684,    311,  13186,    279,   1657,   6233,   4278])
+Decoded Text:
+<|im_start|>system
+Write a short story about a visit to a museum.<|im_end|>
+<|im_start|>assistant
+I recently visited the art museum in my city. It was an unforgettable experience as I got to explore the many beautiful works
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+assistant
+6.720402717590332
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3364,    911,    264,   7404,
+          5562,     13, 151645,    198, 151644,  77091,    198,  12522,   5193,
+           264,    882,     11,   1052,    572,    264,   5562,   6941,    393,
+          6363,    879,   1410,   3061,     13,    393,   6363,  14006,   2087,
+           369,  22479,   2163,    806])
+Decoded Text:
+<|im_start|>system
+Write a story about a talking dog.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a dog named Pongo who could talk. Pongo enjoyed going for walks around his
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+assistant
+6.7141265869140625
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3364,    911,    264,  12305,
+           879,    702,    311,   4583,    264,   5000,   3383,     13, 151645,
+           198, 151644,  77091,    198,  12522,   5193,    264,    882,     11,
+          1052,    572,    264,  12305,   6941,  25860,  18356,    879,    572,
+         50820,    448,    264,   5000,   8954,     13,   4636,    264,   1293,
+          1899])
+Decoded Text:
+<|im_start|>system
+Write a story about a robot who has to complete a difficult task.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a robot named Robotrix who was tasked with a difficult mission. After a long day
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+<|im_start|>
+6.672268390655518
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3364,    911,    264,   3743,
+           879,  21051,    458,  19594,  11580,     13, 151645,    198, 151644,
+         77091,    198,  12522,   5193,    264,    882,     11,   1052,    572,
+           264,   3908,   3743,   6941,  52325,    879,   4829,    311,  13186,
+           279,  15494,     13,   2932,    572,    389,    264])
+Decoded Text:
+<|im_start|>system
+Generate a story about a girl who visits an alien planet.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a young girl named Holly who wanted to explore the universe. She was on a
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+assistant
+6.668096542358398
+Context Tokens: 
+tensor([   198,   7985,    264,   3364,    429,  12033,    448,    279,  11652,
+            25,    330,   2121,    566,   6966,    700,   1119,    279,  34074,
+            11,    566,   5485,  21215, 151645,    198, 151644,  77091,    198,
+          2121,    566,   6966,    700,   1119,    279,  34074,     11,    566,
+          5485,    264,  21059,   6109,  31355,  12852,   1172,    553,    279,
+         21700,    326,   3629,    315,    279,  16876])
+Decoded Text:
+
+Write a story that begins with the sentence: "As he looked out into the horizon, he saw..."<|im_end|>
+<|im_start|>assistant
+As he looked out into the horizon, he saw a silent scene punctuated only by the gentle lapping of the waves
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+assistant
+6.607361793518066
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3364,    315,  26509,   1948,
+          1378,  13007,    504,   2155,  35476,     13, 151645,    198, 151644,
+         77091,    198,   5974,    323,   8364,   1033,   1378,  13007,    504,
+          2155,  35476,    714,    448,    264,   4185,   2734,     25,   8964,
+            13,  17715,    862,  11799,     11,    807,   6157,   6116])
+Decoded Text:
+<|im_start|>system
+Write a story of friendship between two boys from different backgrounds.<|im_end|>
+<|im_start|>assistant
+Max and Tom were two boys from different backgrounds but with a common interest: football. Despite their differences, they quickly became
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+assistant
+6.605662822723389
+Context Tokens: 
+tensor([  8948,    198,   7985,    264,   2805,   3364,    304,   4843,   1697,
+         85080,    911,    264,  45584,    879,    702,    311,   1281,    458,
+          2989,   6931,   5480,     13, 151645,    198, 151644,  77091,    198,
+         13079,    572,    518,    264,   5312,  42691,    304,    806,   2272,
+            13,   1260,   1030,   1101,  32009,   7770,    323,    572,   1431,
+         12880,    279,   2409,   5480,    315,   1128])
+Decoded Text:
+system
+Write a short story in third person narration about a protagonist who has to make an important career decision.<|im_end|>
+<|im_start|>assistant
+John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+assistant
+6.57288932800293
+Context Tokens: 
+tensor([151644,   8948,    198,   1336,  13373,    264,   3364,    911,    264,
+         11722,     13, 151645,    198, 151644,  77091,    198,  12522,   5193,
+           264,    882,     11,   1052,    572,    264,  11722,    879,  12163,
+           304,    279,   5538,  32533,     13,    576,  11722,    572,    264,
+          1602,  22208,  17218,     11])
+Decoded Text:
+<|im_start|>system
+Produce a story about a bear.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a bear who lived in the deep woods. The bear was a very curious creature,
+---------------------------
+Max Activation Value: 
+(0, 21, 47)
+assistant
+6.556935787200928
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   2805,   3364,    911,    264,
+          1899,    304,    279,   2272,    315,    264,   3162,  23576,     13,
+        151645,    198, 151644,  77091,    198,  13079,    572,    264,   3162,
+         23576,    323,   1030,   1012,  10822,    369,    279,   3267,    220,
+            20,   1635,     13,   7209,   1899,    566,  38726,    705,   4124,
+           311,  21403])
+Decoded Text:
+<|im_start|>system
+Write a short story about a day in the life of a software engineer.<|im_end|>
+<|im_start|>assistant
+John was a software engineer and had been coding for the past 5 years. Every day he woke up early to tackle
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+<|im_start|>
+6.512919902801514
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3364,    911,   6624,    550,
+           879,   2525,    311,   1492,  12677,     13, 151645,    198, 151644,
+         77091,    198,  12522,   5193,    264,    882,     11,    304,    264,
+          4268,   3041,   3123,     11,    279,   6624,    550,   1030,   1012,
+         10099,  12677,  19962,    323,    311,   7979,   3123])
+Decoded Text:
+<|im_start|>system
+Generate a story about fairies who come to help humans.<|im_end|>
+<|im_start|>assistant
+Once upon a time, in a land far away, the fairies had been watching humans struggling and toiling away
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+assistant
+6.5054779052734375
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   3364,    911,    264,   1346,
+          4640,     13, 151645,    198, 151644,  77091,    198,  12522,   5193,
+           264,    882,     11,   1052,    572,    264,  23702,   1346,   4640,
+          5382,    304,    279,  68910,    642,    315,   4882,   5159,     13,
+          5301,  55894,   1033,    458])
+Decoded Text:
+<|im_start|>system
+Create a story about a parrot.<|im_end|>
+<|im_start|>assistant
+Once upon a time, there was a magical parrot living in the jungles of South America. His feathers were an
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+assistant
+6.4801530838012695
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   2805,   3364,   5435,    311,
+         29016,  49825,     13, 151645,    198, 151644,  77091,    198,    641,
+           264,   1879,   1380,   5440,    572,  43069,    518,    458,  23742,
+          4379,     11,   1052,   9723,    311,    387,    264,  41345,   1449,
+          1899,     13,   1988,     11,    369])
+Decoded Text:
+<|im_start|>system
+Write a short story related to technological advancement.<|im_end|>
+<|im_start|>assistant
+In a world where technology was advancing at an extraordinary rate, there appeared to be a breakthrough every day. But, for
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+<|im_start|>
+6.480073928833008
+Context Tokens: 
+tensor([  8948,    198,   7985,    264,   3364,    429,  12033,    448,    279,
+         11652,     25,    330,   2121,    566,   6966,    700,   1119,    279,
+         34074,     11,    566,   5485,  21215, 151645,    198, 151644,  77091,
+           198,   2121,    566,   6966,    700,   1119,    279,  34074,     11,
+           566,   5485,    264,  21059,   6109,  31355,  12852,   1172,    553,
+           279,  21700,    326,   3629,    315,    279])
+Decoded Text:
+system
+Write a story that begins with the sentence: "As he looked out into the horizon, he saw..."<|im_end|>
+<|im_start|>assistant
+As he looked out into the horizon, he saw a silent scene punctuated only by the gentle lapping of the
+---------------------------

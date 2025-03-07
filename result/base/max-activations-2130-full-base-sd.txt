@@ -1,0 +1,319 @@
+Max Activation Value: 
+(142, 167, 193)
+ array
+0.22914330661296844
+Context Tokens: 
+tensor([  9190,   1956,      8,  10868,    279,   7192,   2629,    448,   2890,
+           989,     60,    438,    279,   1537,   2392,    323,   2890,     58,
+            15,   1112,     72,     60,    438,    279,   2661,   1334,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Sum(i) represents the maximum sum with arr[i] as the last element and arr[0...i] as the given array.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(237, 262, 288)
+ do
+0.22080697119235992
+Context Tokens: 
+tensor([ 12792,     25,   2308,     11,    429,    594,    432,     13,   9731,
+           498,     13,   4710,  15672,   6331,     25,   1446,   2299,  10565,
+            13,  12243,    264,   2244,   1899,      0,   5209,    653,    537,
+         38566,    311,   5545,    700,    421,    498,    614,    894,   1008,
+          4755,     13,   7684,  28374,      0, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Customer: No, that's it. Thank you. 
+
+Chatbot: You're welcome. Have a great day! Please do not hesitate to reach out if you have any other questions. Goodbye!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(129, 154, 180)
+ cut
+0.1866360753774643
+Context Tokens: 
+tensor([ 3322,   311,  3421,   279,  4349, 12000,   624,    24,    13, 10771,
+         1909, 39612,   916,   279, 40676,   323, 14100,   624,    16,    15,
+           13,  4553,  6664, 12822,   323,  3931,  1739,  1199,   304,   279,
+         1909,   624,    16,    16,    13, 52074,   304,   279,   855,   383,
+          657, 23387,   369,   220,    18,    20,   311,   220,    19,    20,
+         4420])
+Decoded Text:
+ enough to cover the pie dish.
+9. Place top crust over the apples and butter.
+10. Crimp edges and cut slits in the top.
+11. Bake in the preheated oven for 35 to 45 minutes
+---------------------------
+Max Activation Value: 
+(181, 206, 232)
+ wrapped
+0.18234841525554657
+Context Tokens: 
+tensor([  264, 29673,  2219,    47,  6363, 10613,   916,    11, 29318,   279,
+         7649,    11,   323, 10449,   432,   311,   279,  3743,    13,  2932,
+          572, 10199,   448, 15888,   323, 19472,  1059, 11715,  2163,   393,
+         6363,    11, 93021,  1435,   369,  9271,  1059,  5558,  7649,    13,
+         5542,  1221,   389,    11,   393,  6363,   323,   279,  2632,  3743,
+         6116])
+Decoded Text:
+ a bush!
+
+Pongo ran over, grabbed the doll, and presented it to the girl. She was filled with joy and wrapped her arms around Pongo, thanking him for finding her lost doll. From then on, Pongo and the little girl became
+---------------------------
+Max Activation Value: 
+(109, 134, 160)
+
+
+0.1823457032442093
+Context Tokens: 
+tensor([   17, 25374, 29105,   323, 88864, 16158,   198,    17, 25374, 29105,
+          323,   283,  4517, 58886,   198,    16,   320,    16,    15, 53708,
+            8,  6328, 47615,  5394,   956,   198, 20170, 29105,  4158, 19653,
+          271, 55291,  1447,    16,    13, 26070,  5590,   304,   264,  3460,
+         3338,   916, 11051,  8628,   624,    17,    13,  2691, 44597,    11,
+        30635])
+Decoded Text:
+2 cups cooked and diced chicken
+2 cups cooked andouille sausage
+1 (10 ounce) package sliced okra
+Hot cooked white rice
+
+Instructions:
+
+1. Heat oil in a large pot over medium heat.
+2. Add onions, garlic
+---------------------------
+Max Activation Value: 
+(40, 65, 91)
+ given
+0.18124033510684967
+Context Tokens: 
+tensor([   87,   488,   220,    19,   284,   220,    15,   646,   387, 12180,
+          553, 21828,   279, 79151, 23606,   553,  1667,   279, 79151, 14806,
+           13,   576, 79151, 14806,   374,  2661,   553,   856,   284, 10055,
+           65, 20287, 11995,   248,     7,    65,    17,   481,   220,    19,
+          580,  7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,
+          293])
+Decoded Text:
+x + 4 = 0 can be obtained by solving the quadratic equation by using the quadratic formula. The quadratic formula is given by x = [-b ± √(b2 - 4ac)] / 2a. Substituting b
+---------------------------
+Max Activation Value: 
+(228, 253, 279)
+ Japan
+0.17949090898036957
+Context Tokens: 
+tensor([ 34474,  13430,    304,   4505,    323,   6323,     13,    715,   6667,
+           576,   3639,   4180,  21025,    279,  24510,  32506,    389,  56292,
+         91477,    323,  29062,  56409,     13,    715,   6667,   6323,  24165,
+           303,    388,     11,  13391,   4337,   5004,   7946,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Axis powers in Europe and Japan. 
+• The United States drops the atomic bombs on Hiroshima and Nagasaki. 
+• Japan surrenders, ending World War II.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(89, 114, 140)
+ chicken
+0.17862775921821594
+Context Tokens: 
+tensor([58238, 19828,   198,    17, 25374, 16158, 44893,   198,    16,   320,
+           16,    19,    13,    20, 53708,     8,   646, 88864, 40513,   198,
+           17, 25374, 29105,   323, 88864, 16158,   198,    17, 25374, 29105,
+          323,   283,  4517, 58886,   198,    16,   320,    16,    15, 53708,
+            8,  6328, 47615,  5394,   956,   198, 20170, 29105,  4158, 19653,
+          271])
+Decoded Text:
+-purpose flour
+2 cups chicken broth
+1 (14.5 ounce) can diced tomatoes
+2 cups cooked and diced chicken
+2 cups cooked andouille sausage
+1 (10 ounce) package sliced okra
+Hot cooked white rice
+
+
+---------------------------
+Max Activation Value: 
+(239, 264, 290)
+ makes
+0.17857131361961365
+Context Tokens: 
+tensor([   356,    476,  11002,   6576,    382,  27489,     11,  39294,    374,
+           264,   7988,     11,  14720,     11,    323,   1550,  57474,  15473,
+          4128,   6188,    369,  10916,  24231,     11,    892,   3643,    432,
+           458,  10507,   5754,    369,    821,   8038,     11,   5662,   6832,
+            11,    323,   1008,   6888,  73566,   8357,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ C or Fortran.
+
+Overall, Julia is a powerful, reliable, and high-performance programming language designed for technical computing, which makes it an ideal choice for data science, machine learning, and other math-heavy applications.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(200, 225, 251)
+ one
+0.17733553051948547
+Context Tokens: 
+tensor([ 1486,  1678,    11, 48913,    11, 41726,    11, 51845,   258,    11,
+        45297,    11, 27582,    11, 27906,    11,  1538,    11,  5020,    11,
+        46652,   349,    11,  6247,    11,   825,    11, 90713,    11, 41726,
+          269,   649, 19570,    11, 19451,  2382,    11, 14024,    11, 44025,
+           11, 47579,    11,  5775,    11, 12761,    11,  2997,  1678,    11,
+         2464])
+Decoded Text:
+ playtime, astonishing, prince, settlingin, newborn, tender, queen, event, pretty, neonate, happy, one, miraculous, princeorprincess, spoons, basket, miracle, decorations, wonder, surprise, familytime, fun
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ Amazon
+0.1691506803035736
+Context Tokens: 
+tensor([   458,   3110,    315,    264,   6534,   1380,    458,  15235,   1849,
+          1865,    264,  47661,   5480, 151645,    198, 151644,  77091,    198,
+           641,    220,     17,     15,     16,     21,     11,   8176,    594,
+         27800,  17843,   3162,  43347,  18054,    220,     17,     23,   3613,
+           315,   7992,    448,  31658,    504,    264,    584,   4625,    315,
+          9158,  51489,  27634,     13,   1096,   3110])
+Decoded Text:
+ an example of a situation where an AI system made a biased decision<|im_end|>
+<|im_start|>assistant
+In 2016, Amazon's facial recognition software incorrectly matched 28 members of Congress with imaging from a public database of criminal mugshots. This example
+---------------------------
+Max Activation Value: 
+(22, 47, 73)
+ designed
+0.16895325481891632
+Context Tokens: 
+tensor([  847,  9342,    11,   358,   572, 35118,  3425,   432,  1035,   387,
+         6849,    13,   358,  6876,   279,  4586, 10126,  5193,   892,   279,
+         9342,   572,  3118,   323,  1030,  6188,   432,  1602, 15516,    13,
+         4636, 16380,   279,  9342,    11,   847,  3059, 10774,   429,   279,
+        10126,   572,  4396,   323,   429,   432,  1410,   387,  1483,   311,
+         1492])
+Decoded Text:
+ my experiment, I was uncertain whether it would be successful. I knew the general theory upon which the experiment was based and had designed it very carefully. After performing the experiment, my results confirmed that the theory was correct and that it could be used to help
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+ homicides
+0.16564501821994781
+Context Tokens: 
+tensor([  304,   220,    17,    15,    16,    22,    11,   448,   220,    16,
+           15,    24,  1251, 22273,   817,  1899,   476,   911,   220,    16,
+           19,    11,    20,    19,    17, 88395,   304,  2790,    11,  1660,
+          220,    16,    16,    13,    24,   817,   220,    16,    15,    15,
+           11,    15,    15,    15,   304,   220,    17,    15,    16,    23,
+           13])
+Decoded Text:
+ in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.
+---------------------------
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.16317696869373322
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(133, 158, 184)
+ homicides
+0.1629486382007599
+Context Tokens: 
+tensor([  304,   220,    17,    15,    16,    22,    11,   448,   220,    16,
+           15,    24,  1251, 22273,   817,  1899,   476,   911,   220,    16,
+           19,    11,    20,    19,    17, 88395,   304,  2790,    11,  1660,
+          220,    16,    16,    13,    24,   817,   220,    16,    15,    15,
+           11,    15,    15,    15,   304,   220,    17,    15,    16,    23,
+           13])
+Decoded Text:
+ in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.1616286039352417
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   5109,     11,
+          1477,    279,   7192,    897,     13, 151645,    198, 151644,    872,
+           198,   1649,     25,    314,     16,     15,     11,    220,     18,
+            11,    220,     17,     20])
+Decoded Text:
+<|im_start|>system
+Given a set of numbers, find the maximum value.<|im_end|>
+<|im_start|>user
+Set: {10, 3, 25
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.1616286039352417
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   8063,   5109,
+           320,     16,     11,     17,     11,    220,     18,     11,    220,
+            19,     11,    220,     20,     11,    220,     21,     11,    220,
+            22,     11,    220,     23])
+Decoded Text:
+<|im_start|>system
+Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.1616286039352417
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,  23261,     11,
+         10339,    279,  49700,   6131,    553,   1105,     13, 151645,    198,
+        151644,    872,    198,    785,   3729,    374,   3908,    323,    582,
+          1410,    728,   8380, 151645])
+Decoded Text:
+<|im_start|>system
+Given a set of lyrics, explain the meanings implied by them.<|im_end|>
+<|im_start|>user
+The night is young and we could go wild<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.1616286039352417
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,   3501,     11,
+         11047,    279,   3082,    315,    279,   6083,   3465,     13, 151645,
+           198, 151644,    872,    198,      7,     16,     11,    220,     17,
+             8,    320,     17,     11])
+Decoded Text:
+<|im_start|>system
+Given a set of points, calculate the area of the shape created.<|im_end|>
+<|im_start|>user
+(1, 2) (2,
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ set
+0.1616286039352417
+Context Tokens: 
+tensor([151644,   8948,    198,  22043,    264,    738,    315,    821,     11,
+         48129,  17438,   3589,   1119,  11059,     13, 151645,    198, 151644,
+           872,    198,   1234,  47414,    198,     16,    197,  12203,  33289,
+           198,     17,    197,  11453])
+Decoded Text:
+<|im_start|>system
+Given a set of data, classify clothing items into categories.<|im_end|>
+<|im_start|>user
+Item	Description
+1	blue jeans
+2	black
+---------------------------

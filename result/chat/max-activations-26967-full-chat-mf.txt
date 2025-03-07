@@ -1,0 +1,293 @@
+Max Activation Value: 
+(76, 101, 127)
+ experience
+4.300880432128906
+Context Tokens: 
+tensor([ 4401,    11,   438,  9437,  5980,  8357,   646,   387,  5798,   323,
+        26075,  6157,   448, 17377,  6505,    13, 22406,    11,  9437, 24231,
+          646,  3410,   264,  2664,  1196,  3139,    11,   438,  3847,   646,
+         2615,   862,   821,   323,  8357,   504,   894,  3671,   323,  3728,
+           11,   323,  7046,  4763,    11,   438,   821,   646,   387,  9768,
+          323])
+Decoded Text:
+ development, as cloud-based applications can be built and deployed quickly with minimal setup. Additionally, cloud computing can provide a better user experience, as users can access their data and applications from any device and location, and greater security, as data can be stored and
+---------------------------
+Max Activation Value: 
+(99, 124, 150)
+ tension
+4.174237251281738
+Context Tokens: 
+tensor([ 12728,   5110,    311,  90964,    476,   3635,    803,  11050,     11,
+          6388,    311,  89225,  10387,    304,    279,   3081,     13,  17375,
+            11,   9135,   2142,   1231,   1083,   1855,   6955,  23504,   1948,
+          5837,     11,   6388,    311,  90055,   5269,  43895,    429,   4623,
+          8891,   6559,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ domestic companies to innovate or become more efficient, leading to inefficiency in the market. Finally, protectionism may also create economic tension between countries, leading to retaliatory tariffs that further restrict trade.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(93, 118, 144)
+ lifestyle
+3.784487724304199
+Context Tokens: 
+tensor([   279,   2487,    323,   6543,   7262,     11,   1393,   1083,  10476,
+           448,  13495,    315,  82411,    323,  20601,   6646,     13,  22406,
+            11,  32762,    646,   1492,  29987,    264,  38245,  18899,    323,
+          7949,    279,   5214,    315,   3654,   4682,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the body and blood pressure, while also helping with symptoms of insomnia and chronic pain. Additionally, meditation can help foster a healthier lifestyle and reduce the risk of certain conditions.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(82, 107, 133)
+ loyalty
+3.630192995071411
+Context Tokens: 
+tensor([   311,    803,  10707,    304,    279,  29533,    438,   1008,   5110,
+          3010,   4722,   7576,    369,   4428,   3871,     13,  22406,     11,
+           432,   1410,    614,    458,   2456,    389,   6002,  31783,     11,
+           438,   6310,   1231,   3398,    311,   1008,  15721,    429,   3010,
+          4722,   7576,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ to more competition in the marketplace as other companies offer lower prices for similar products. Additionally, it could have an effect on customer loyalty, as customers may switch to other brands that offer lower prices.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ inequality
+3.6248903274536133
+Context Tokens: 
+tensor([33686,    11,  5214,   315, 15470,   323, 27643,  2090,    11,   323,
+          279, 10288,  2022,   315, 15235,  5942,    13, 22406,    11, 15235,
+          702,   279,  4650,   311,  5263, 31205,   553, 84400,   279, 12929,
+         1948,   279,   305,  4693,   323,   279,   614, 29169,    82,    11,
+          438,  1632,   438,  7949,   279,  3476,   315, 12677,   304,  5480,
+        27746])
+Decoded Text:
+ manipulation, risk of bias and unfairness, and the weaponization of AI systems. Additionally, AI has the potential to increase inequality by widening the gap between the haves and the have-nots, as well as reduce the role of humans in decision-making
+---------------------------
+Max Activation Value: 
+(114, 139, 165)
+ lifestyle
+3.5833914279937744
+Context Tokens: 
+tensor([  374,  9080,   304, 80015,    11,   892,   646,  1492,   311,  7949,
+          279, 78301,  8464,  8881,   553, 18894,  6961,  5702,    13,   715,
+           19,    13,   362,   803, 21803, 18899,    25, 59538,   264,  6008,
+         5980,  9968,   374,   803, 21803,  1091, 12182,   458,  9864,  5980,
+         9968,  2474,   432, 18644, 16745, 36547, 20143,   323, 91848,   315,
+         5810])
+Decoded Text:
+ is rich in antioxidants, which can help to reduce the oxidative stress caused by intense physical activity. 
+4. A more sustainable lifestyle: Eating a plant-based diet is more sustainable than eating an animal-based diet since it produces fewer greenhouse emissions and depletion of natural
+---------------------------
+Max Activation Value: 
+(47, 72, 98)
+ experience
+3.517892599105835
+Context Tokens: 
+tensor([14720,   323, 55942,    11,   807,   525,   803,  4363,   311,   470,
+          369,  5107, 23491,   476,  3516,    13, 39398,   287,  6950,  1083,
+         8609,   311, 18379,   279,  6002,  3139,   323,   646,  2990,   311,
+         7172,  6002, 23689,    13,  3216,  3432,   264, 68244,  5025,   448,
+         6310,    11,  9675,   646,  8722,   862,  6950,   323,  2664,  3535,
+          862])
+Decoded Text:
+ reliable and trustworthy, they are more likely to return for additional purchases or services. Establishing trust also helps to enhance the customer experience and can lead to increased customer satisfaction. By having a trusting relationship with customers, businesses can gain their trust and better understand their
+---------------------------
+Max Activation Value: 
+(72, 97, 123)
+ service
+3.4422597885131836
+Context Tokens: 
+tensor([   315,    821,   6157,    323,  29257,     11,  10693,    369,  10596,
+           323,    803,  13382,  19898,    315,   4650,  19554,     13,  17375,
+            11,   5662,   6832,    646,   1492,   7269,   6002,   2473,    553,
+          8241,  34549,  18564,    323,  24588,   6002,  18339,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of data quickly and accurately, allowing for faster and more accurate predictions of potential outcomes. Finally, machine learning can help improve customer service by providing personalized recommendations and identifying customer trends.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(39, 64, 90)
+ impact
+3.4304404258728027
+Context Tokens: 
+tensor([  498,   646,  3581,  3220,   389,  1803, 13904, 18024,  1741,   438,
+        10416,    11,  8113,    11, 13404,   323, 13125,    13, 71031,    11,
+          432,   646,  7949,   697, 12158,  5421,  1526,  2686, 20143,   323,
+         2686, 53080,   389,  2477,  5504,   931,   480,  4963,    13, 17375,
+           11,   432,   646,  2968,   498,   803,   882,   311,  4669, 11449,
+          979])
+Decoded Text:
+ you can save money on car-related expenses such as fuel, insurance, maintenance and taxes. Secondly, it can reduce your environmental impact through less emissions and less reliance on non-renewable resources. Finally, it can give you more time to enjoy experiences when
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+able
+3.419109582901001
+Context Tokens: 
+tensor([ 5810,  4128,  8692,  9079,  1741,   438, 28285,  2022,    11,  3405,
+           12,   596,    86,  4671,    11,   323,  1467,  9471,    13,   479,
+         2828,  4119,   525,  1083,  5452,   480,    11,  7290,   807,   525,
+         2952,   311,  1882,  6351,  9079,   448, 17377,  4963,    13,  2379,
+          525,  4937,   323,  1373,   902,  3738,  5041,   311,  5426,    11,
+          892])
+Decoded Text:
+ natural language processing tasks such as summarization, question-answering, and text generation. GPT models are also scaleable, meaning they are able to process complex tasks with minimal resources. They are fast and require no human effort to train, which
+---------------------------
+Max Activation Value: 
+(57, 82, 108)
+ spans
+3.391587972640991
+Context Tokens: 
+tensor([55093,  5392,   304, 11560,  3669,   323, 38455,  3941,   279, 23918,
+           13,  1913,   279,  8225,  3108,    11,   432,   702,  1012, 10592,
+          311,   264, 18472,   304,  6529, 44295,    11,   438,  1632,   438,
+          458,  5263,   304, 10502,  2820,  4714,   438,   432, 11508,   311,
+         5080,  5866,   315, 12313,    11, 73940,    11,   323, 20847, 16110,
+         6711])
+Decoded Text:
+ invaluable tool in sharing news and perspectives across the globe. On the negative side, it has been linked to a decrease in attention spans, as well as an increase in mental health issues as it leads to higher levels of comparison, loneliness, and cyberbullying
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ costs
+3.377647638320923
+Context Tokens: 
+tensor([58077,  9079,    11, 66717,   705,   882,   369,  3738,  7337,   311,
+          975,   389,   803,  6351,  3491, 21828,  9079,   624,    19,    13,
+        96046,   646,  1492,   311,  7949,  7049,   323, 31015,  5815,   448,
+        50197,  3738,  7337,   624,    20,    13, 96046,   646,  1492,   311,
+         5263, 25148,    11,   438,   807,   653,   537,  1184,  2732, 18303,
+          476])
+Decoded Text:
+ repetitive tasks, freeing up time for human workers to work on more complex problem solving tasks.
+4. Robots can help to reduce costs and overhead associated with employing human workers.
+5. Robots can help to increase productivity, as they do not need rest breaks or
+---------------------------
+Max Activation Value: 
+(108, 133, 159)
+ accessible
+3.3721652030944824
+Context Tokens: 
+tensor([   323,   2997,     11,    323,    892,   3545,   5610,    803,   7716,
+           323,  10908,    681,   1091,   1128,    374,   2500,    304,    279,
+          2311,     13,  25930,    525,   1083,   3545,    803,  15614,    311,
+         21762,   1091,   6467,     11,    323,    646,   3410,    458,  22570,
+          1616,    369,   1251,    448,  28765,   5290,   5866,    311,   4669,
+           279,   1852,   3684,     13, 151645,    198])
+Decoded Text:
+ and family, and which often contains more detail and nuance than what is available in the book. Movies are also often more accessible to viewers than books, and can provide an engaging way for people with varying reading levels to enjoy the same material.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ pollution
+3.3549258708953857
+Context Tokens: 
+tensor([   11,  7949,  1039, 53080,   389, 30276, 39273,    11,   323,   614,
+          264,  6785,  5421,   389,  3644,  9977,  2297,    13, 22087, 75675,
+          646,  1083,  1492,  7949,  3720, 24761,    11,   438,   807,   525,
+          537, 22333,   553, 19675, 30276, 39273,    13, 22406,    11,  9956,
+        75675,   614, 17377,  5421,   389, 70599,    11,   438,   807,   646,
+          387])
+Decoded Text:
+, reduce our reliance on fossil fuels, and have a positive impact on global climate change. Wind turbines can also help reduce air pollution, as they are not powered by burning fossil fuels. Additionally, wind turbines have minimal impact on habitats, as they can be
+---------------------------
+Max Activation Value: 
+(62, 87, 113)
+ connected
+3.3462674617767334
+Context Tokens: 
+tensor([   323,   8241,   5390,  25709,     13,  15235,  56519,    646,   1496,
+          3410,   6457,    323,   2820,  13904,   9462,     13,  23405,     11,
+           807,    646,   7283,    601,    311,   4717,   2664,   8433,    448,
+          1039,   4780,    323,   2997,    323,    633,   2615,    311,   3669,
+           323,   2213,  40791,    311,   1039,   3151,  11772,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and providing useful insights. AI assistants can even provide medical and health-related advice. Furthermore, they can enable us to stay better connected with our friends and family and get access to news and content tailored to our specific interests.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+ exercise
+3.3417205810546875
+Context Tokens: 
+tensor([   279,  41166,     11,  10362,     11,    323,  49637,    315,    279,
+          5810,   4573,    323,    311,  15401,    279,  13143,    315,   6993,
+            13,  12343,     11,    498,    646,    633,   1045,  10158,   2238,
+             0, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the sights, sounds, and smells of the natural environment and to appreciate the beauty of nature. Plus, you can get some exercise too!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(38, 63, 89)
+ change
+3.3243069648742676
+Context Tokens: 
+tensor([    11,  43053,    315,   9419,     11,   7172,  10707,     11,    323,
+          7172,  33004,    311,   4162,    367,     13,  22406,     11,    707,
+         96793,    646,   5263,    279,   5214,    315,   9977,   2297,     11,
+         12942,    304,  28752,  19879,    323,  49135,   9104,  12624,    429,
+          4623,  23973,  29305,  70599,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, displacement of species, increased competition, and increased vulnerability to predation. Additionally, deforestation can increase the risk of climate change, resulting in altered temperatures and unpredictable weather patterns that further disrupt wildlife habitats.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(87, 112, 138)
+ communication
+3.3109841346740723
+Context Tokens: 
+tensor([   646,   1083,   1492,    311,   7269,   8720,   2453,    553,   8241,
+         34549,  18564,    323,  25709,   1119,   2820,  18339,     13,  22406,
+            11,  15235,    646,    387,   1483,    311,   7269,  10535,    323,
+         15024,   1948,   6835,     11,  16026,    323,  18478,  12565,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ can also help to improve patient care by providing personalized recommendations and insights into health trends. Additionally, AI can be used to improve communication and efficiency between patients, doctors and healthcare providers.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(33, 58, 84)
+ environment
+3.3071868419647217
+Context Tokens: 
+tensor([   458,   7172,   5214,    315,  41531,    323,  40613,   8457,     11,
+         50543,     11,    323,   1496,   1045,   4494,    315,   9387,     13,
+          1084,    646,   1083,   5240,  11428,    311,    279,   4573,    323,
+          7949,   4271,    315,   2272,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ an increased risk of respiratory and cardiovascular disease, asthma, and even some types of cancer. It can also cause harm to the environment and reduce quality of life.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ competition
+3.305772066116333
+Context Tokens: 
+tensor([  264, 18472,   304,  8084,  7479,   438,  6310,  1231,   387, 42940,
+          311,  7627,   279,  1985,   518,   264,  5080,  3349,    13,  1084,
+         1410,  1083,  2990,   311,   803, 10707,   304,   279, 29533,   438,
+         1008,  5110,  3010,  4722,  7576,   369,  4428,  3871,    13, 22406,
+           11,   432,  1410,   614,   458,  2456,   389,  6002, 31783,    11,
+          438])
+Decoded Text:
+ a decrease in overall demand as customers may be reluctant to purchase the product at a higher price. It could also lead to more competition in the marketplace as other companies offer lower prices for similar products. Additionally, it could have an effect on customer loyalty, as
+---------------------------

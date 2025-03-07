@@ -1,0 +1,350 @@
+Max Activation Value: 
+(103, 128, 154)
+(arr
+1.4697448015213013
+Context Tokens: 
+tensor([ 7192,  2629,   323,   279,  1482,  2392,   382, 44500,    11,   279,
+        12111,   646,   387, 52847,  4512,   438, 11017,    25,   715,  2810,
+         9190,  1956,     8,   284,  1932, 10939,   989,  1125,  1932,  9190,
+         1956,    12,    16,  7257,  1118,   989,  9604,  9064,  1932,  9190,
+         1956,     8, 10868,   279,  7192,  2629,   448,  2890,   989,    60,
+          438])
+Decoded Text:
+ maximum sum and the current element.
+
+Thus, the algorithm can be recursively defined as follows: 
+maxSum(i) = max(arr[i], maxSum(i-1)+arr[i])
+
+Where maxSum(i) represents the maximum sum with arr[i] as
+---------------------------
+Max Activation Value: 
+(123, 148, 174)
+ filled
+1.451879620552063
+Context Tokens: 
+tensor([  387, 33200,   421,   566,   572,  2238, 26115,   311,  1496,  1430,
+         1939,  4416,  8224,   738,  1007,   389,   806, 11618,    11,   806,
+         4746, 21313,   323,   806,  3971, 10199,   448, 62657, 11303,    13,
+         1988,    11,   438,   566,  8570,   389,   806, 11618,    11,  8224,
+        20190, 24744,   323,   806,  8679,  3855,   311, 72639,    13,  1260,
+         1865])
+Decoded Text:
+ be brave if he was too scared to even try?
+
+So Sam set off on his journey, his heart racing and his mind filled with fearful thoughts. But, as he continued on his journey, Sam gathered courage and his fear started to dissolve. He made
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+�
+1.4038563966751099
+Context Tokens: 
+tensor([   897,     25, 151645,    198, 151644,    872,    198,   1655,   3245,
+           825,    315,    362,     11,    425,    323,    356,    374,    830,
+        151645,    198, 151644,  77091,    198,   4346,  11995,    101,    425,
+         11995,    101,    356,      8,    284,   3007, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ value:<|im_end|>
+<|im_start|>user
+At least one of A, B and C is true<|im_end|>
+<|im_start|>assistant
+(A ∨ B ∨ C) = True<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+e
+1.3588793277740479
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   3552,    315,    220,     23,
+          5766,     13, 151645,    198, 151644,  77091,    198,     68,     24,
+            70,     42,  40121,     17,     35, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a password of 8 characters.<|im_end|>
+<|im_start|>assistant
+e9gKyd2D<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(66, 91, 117)
+ often
+1.319962501525879
+Context Tokens: 
+tensor([19425,   198,    33,    13,  4509,  1000,   198,    34,    13, 40909,
+        20341,   198,    35,    13, 53270,   495,  1000,   271,    18,    13,
+        15920,   943,   315,  9437,   374,  3545,  7481,   438,  3330,  1075,
+          264, 26306,   315, 23522, 20332,  5267,    32,    13,  4509,  1000,
+          198,    33,    13, 53270,   495,  1000,   198,    34,    13, 31578,
+        19425])
+Decoded Text:
+ulus
+B. Stratus
+C. Cirrus
+D. Altostratus
+
+3. Which type of cloud is often described as looking like a pile of cotton balls?
+A. Stratus
+B. Altostratus
+C. Cumulus
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+ include
+1.289468765258789
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    220,     21,   6813,    315,    458,
+         20443,  29728,   3922, 151645,    198, 151644,  77091,    198,    785,
+          6813,    315,    458,  20443,  29728,   3922,   2924,   1946,   8153,
+            11,   8177,   8153,     11,   2550,   8153,     11,  14324,     11,
+         49083,     11,    323,  15099,   5746,     13,    576,   1946,   8153,
+           525,   8480,    369,  12308,    279])
+Decoded Text:
+<|im_start|>system
+Name 6 components of an artificial neural network<|im_end|>
+<|im_start|>assistant
+The components of an artificial neural network include input units, hidden units, output units, weights, biases, and activation functions. The input units are responsible for receiving the
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+ tab
+1.269697904586792
+Context Tokens: 
+tensor([   264,  26045,   1965,    304,  21029,     30, 151645,    198, 151644,
+         77091,    198,   1249,   1855,    264,  26045,   1965,    304,   5100,
+         21029,     11,   3293,    279,    330,  13780,      1,   5651,     11,
+          4205,    279,    330,     47,  16084,   2556,      1,   3137,     11,
+          3293,    279,    821,   2088,     11,    323,   5157,   1380,    279,
+         26045,   1965,    686,    387,   9099,     13])
+Decoded Text:
+ a pivot table in Excel?<|im_end|>
+<|im_start|>assistant
+To create a pivot table in Microsoft Excel, select the "Insert" tab, click the "PivotTable" button, select the data range, and choose where the pivot table will be placed.
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ wherein
+1.2677714824676514
+Context Tokens: 
+tensor([   13,   576, 11715,   323, 14201,   525, 12392,   311,   279, 63200,
+           11,   323,  6644, 24854,   323, 23648,    13,   576, 63200, 17167,
+          315,   279, 20131, 35360,    11, 41318, 15448,   279,  4746,    11,
+        44174,   323,  1008, 35753,    13, 15412, 35753,  1741,   438,   279,
+        58971,  1849,    11, 41789,  1849,   323, 42645,   774,  1849,   525,
+         7407])
+Decoded Text:
+. The arms and legs are attached to the torso, and contain bones and muscles. The torso consists of the rib cage, wherein lies the heart, lungs and other organs. Internal organs such as the digestive system, reproductive system and lymphatic system are located
+---------------------------
+Max Activation Value: 
+(189, 214, 240)
+ their
+1.206544280052185
+Context Tokens: 
+tensor([ 1119,   220,    23,  8521,    11,  1817,   315,   892,   614,   862,
+         1828,  4911,  4419,   323, 76665,    13,  1096,  4549,  5707,   264,
+        15817, 23251,   315, 56774,   323,   862, 15379,   916,   882,  2012,
+         4710,    21,    13, 29051,    25,  4230,   264,  1965,   315,  8794,
+          369,   279,  4549,   624,    21,    13,  5571,   510,    27,  2152,
+         1355])
+Decoded Text:
+ into 8 families, each of which have their own unique features and adaptations. This article provides a comprehensive overview of whales and their evolution over time.
+
+
+
+ 
+
+6. Instruction: Create a table of contents for the article.
+6. Input:
+<noinput
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+gv
+1.1727111339569092
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   4194,   8500,    315,    220,
+            16,     17,  11931,     13, 151645,    198, 151644,  77091,    198,
+         21404,  49039,  31793,     80,   8052,     73,     89, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a random sequence of 12 letters.<|im_end|>
+<|im_start|>assistant
+gvhbzesqrfjz<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ hours
+1.1644476652145386
+Context Tokens: 
+tensor([  8948,    198,  58465,   1247,    279,   2701,  11652,    304,    264,
+           803,  63594,   1616,     13, 151645,    198, 151644,    872,    198,
+         15802,    566,   1030,   1012,  20956,    369,   3807,   4115,    566,
+          1030,    537,   8060,    279,   3383,     13, 151645,    198, 151644,
+         77091,    198,  19810,  20956,    369,   4115,     11,    566,  18604,
+           944,   8060,    279,   3383,     13, 151645])
+Decoded Text:
+system
+Rewrite the following sentence in a more concise way.<|im_end|>
+<|im_start|>user
+Although he had been studying for several hours he had not finished the task.<|im_end|>
+<|im_start|>assistant
+Despite studying for hours, he hadn't finished the task.<|im_end|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ field
+1.1373673677444458
+Context Tokens: 
+tensor([  8948,    198,  60424,    264,  12126,    369,    279,  21085,   2661,
+          3685,     13, 151645,    198, 151644,    872,    198,   9286,  16488,
+         11229,    320,  15469,      8,    374,    264,   7205,   2070,    429,
+         25654,    311,  55359,    476,  48706,   3738,  16928,   1526,   1995,
+          8692,   5440,    323,  25185,     13,  15235,    702,   1012,    458,
+          3082,    315,   3920,   2474,    279,    220])
+Decoded Text:
+system
+Provide a summary for the passage given below.<|im_end|>
+<|im_start|>user
+Artificial intelligence (AI) is a broad field that seeks to mimic or augment human capabilities through information processing technology and algorithms. AI has been an area of study since the 
+---------------------------
+Max Activation Value: 
+(199, 224, 250)
+{\
+1.1294023990631104
+Context Tokens: 
+tensor([ 1124, 15136,   220,    19, 15170,    18,    92,    88, 12947,   715,
+        12209,   582, 21749,  2176, 11067,   553,   220,    18,   311,   633,
+          198, 62983,   284,  1124, 37018, 35702, 37018,    90,    17,    15,
+         1124, 15136,   220,    19, 15170,    18,    92,   481,  1124, 37018,
+           90,    19,  1124, 15136,   220,    19, 15170,    18,    92,    88,
+        15170])
+Decoded Text:
+ \times 4}{3}y$. 
+Then we divide both sides by 3 to get
+$x = \frac{\frac{20 \times 4}{3} - \frac{4 \times 4}{3}y}{
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+ often
+1.1255567073822021
+Context Tokens: 
+tensor([151644,    872,    198,   2082,  16308, 151645,    198, 151644,  77091,
+           198,  11613,   4185,   6457,  22183,    369,  18056,    525,  23221,
+           323,  41011,  45655,     13,  12566,    367,    374,   3545,   1483,
+           311,   2169,    279,   6961,  13495,    315,  18056,     11,   1393,
+         41011,  45655,    646,   1492,   1251,   2297,   3381,  12624,    323,
+         27099,    429,    525,   5815,    448,  18056])
+Decoded Text:
+<|im_start|>user
+Anxiety<|im_end|>
+<|im_start|>assistant
+Two common medical treatments for anxiety are medication and psychotherapy. Medication is often used to target the physical symptoms of anxiety, while psychotherapy can help people change thought patterns and behaviors that are associated with anxiety
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ smell
+1.1211918592453003
+Context Tokens: 
+tensor([ 30044,     12,     16,     18,  10650,     13, 151645,    198, 151644,
+         77091,    198,   3838,   1521,    825,  11794,   1515,   1977,    311,
+           279,   1008,  11794,   1515,   5267,  90624,    498,  22068,  61417,
+          7521, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ PG-13 audience.<|im_end|>
+<|im_start|>assistant
+What did one snowman say to the other snowman?
+"Do you smell carrots?"<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(38, 63, 89)
+ although
+1.115241527557373
+Context Tokens: 
+tensor([91420, 53130,  7586,    13,  2379,  2088,   304,  1379,   504, 88990,
+          311,  3460, 66229,    68,  6767,   323,   525, 21091,   304,   279,
+         1852, 25079,   438, 10779,    11,  7892, 19836, 10779,   807,  6853,
+          830, 19703,    11, 43714,    11,   323, 10901,    13,  1674, 66278,
+        11136,  3887,   304, 20507, 21737,    11,  2670, 28591,    11, 79644,
+           11])
+Decoded Text:
+ multicellular forms. They range in size from microscopic to large seaweeds and are classified in the same kingdom as plants, although unlike plants they lack true roots, stems, and leaves. Algae typically live in moist environments, including marine, freshwater,
+---------------------------
+Max Activation Value: 
+(124, 149, 175)
+ with
+1.0988630056381226
+Context Tokens: 
+tensor([33200,   421,   566,   572,  2238, 26115,   311,  1496,  1430,  1939,
+         4416,  8224,   738,  1007,   389,   806, 11618,    11,   806,  4746,
+        21313,   323,   806,  3971, 10199,   448, 62657, 11303,    13,  1988,
+           11,   438,   566,  8570,   389,   806, 11618,    11,  8224, 20190,
+        24744,   323,   806,  8679,  3855,   311, 72639,    13,  1260,  1865,
+          432])
+Decoded Text:
+ brave if he was too scared to even try?
+
+So Sam set off on his journey, his heart racing and his mind filled with fearful thoughts. But, as he continued on his journey, Sam gathered courage and his fear started to dissolve. He made it
+---------------------------
+Max Activation Value: 
+(54, 79, 105)
+ click
+1.095921277999878
+Context Tokens: 
+tensor([  279,  2150,   624,    17,    13,  9189,   279,  1036,  4021,  8615,
+          854,  3137,   389,   279,  1790,  2150,    13,   715,    18,    13,
+        11252,   697, 12685,  5934,   323,  4205,  1036,  5847,   854,   624,
+           19,    13, 11252,   697, 12685,  3552,   323,  4205,  1036,  5847,
+          854,   624,    20,    13, 11252,   697,  4345,  1995,  1741,   438,
+          829])
+Decoded Text:
+ the page.
+2. Click the “Create Account” button on the next page. 
+3. Enter your desired username and click “Next”.
+4. Enter your desired password and click “Next”.
+5. Enter your personal information such as name
+---------------------------
+Max Activation Value: 
+(91, 116, 142)
+ -
+1.094208002090454
+Context Tokens: 
+tensor([ 19021,  13852,    481,    435,   2050,     11,    557,    859,   2010,
+            11,  36025,    296,  15965,     11,  39375,  11013,  22780,     11,
+          4992,     13,    715,     20,     13,  17203,  16720,    481,  61626,
+            11,   5943,   5292,  16896,     11,   6177,  23065,  33140,     11,
+          6177,  91725,     11,   4992,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Garden Tools - rakes, shovels, lawn mowers, weed trimmers, etc. 
+5. Paint supplies - brushes, drop cloths, paint stir sticks, paint trays, etc.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+ Brain
+1.0923104286193848
+Context Tokens: 
+tensor([   198,    852,   4236,   7354,    369,   4378,    458,   8895,     13,
+        151645,    198, 151644,  77091,    198,  37020,   7354,    369,   4378,
+           458,   8895,   2924,     25,    715,     16,     13,  30317,  26413,
+           287,   6708,    323,  18774,    264,   8544,    624,     17,     13,
+         16139,   1677,    279,   8895,    448,    458,  16800,     11,   2487,
+            11,    323,  16688,    624,     18,     13])
+Decoded Text:
+
+List five steps for writing an essay.<|im_end|>
+<|im_start|>assistant
+Five steps for writing an essay include: 
+1. Brainstorming ideas and choosing a topic.
+2. Structuring the essay with an introduction, body, and conclusion.
+3.
+---------------------------

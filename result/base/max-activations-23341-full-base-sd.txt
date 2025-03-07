@@ -1,0 +1,331 @@
+Max Activation Value: 
+(26, 51, 77)
+ological
+0.2313503921031952
+Context Tokens: 
+tensor([    11,  24060, 151645,    198, 151644,    872,    198,    785,   4401,
+           315,  38193,  11474,    686,   2990,    311,  16745,   9442,  32688,
+            13, 151645,    198, 151644,  77091,    198,  28256,   5729, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, Environmental<|im_end|>
+<|im_start|>user
+The development of autonomous vehicles will lead to fewer traffic accidents.<|im_end|>
+<|im_start|>assistant
+Technological<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,   1184,
+           311,  10542,    279,   2530,    315,    279,  11652,    504,    279,
+         11454,   3685,    382,   5097,   1265,    387,  11882,    504,    510,
+            12,  86739,    198,     12,   2918,   2190])
+Decoded Text:
+<|im_start|>system
+In this task, you need to identify the source of the sentence from the choices below.
+
+Output should be chosen from:
+- Newspaper
+- Textbook
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,   1184,
+           311,   5508,   5109,    504,   4244,    311,  18509,    624,   5097,
+          1265,   1083,    387,    264,   1372,     11,    369,   3110,    330,
+         15560,  21210,      1,   1265,    387,   2550])
+Decoded Text:
+<|im_start|>system
+In this task, you need to convert numbers from words to digits.
+Output should also be a number, for example "twelve" should be output
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,   1184,
+           311,   3270,    458,   8311,   2033,    311,    279,  17133,    330,
+         22769,    264,   1438,      1, 151645,    198, 151644,  77091,    198,
+         39814,     11,   1077,    594,   1896,    264])
+Decoded Text:
+<|im_start|>system
+In this task, you need to write an appropriate response to the phrase "take a break"<|im_end|>
+<|im_start|>assistant
+Sure, let's take a
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,   1184,
+           311,    387,   2952,    311,  62079,    264,   2661,   1140,    315,
+          1376,   3501,     13, 151645,    198, 151644,    872,    198,     16,
+            13,   5145,    697,   1828,   2562,    382])
+Decoded Text:
+<|im_start|>system
+In this task, you need to be able to summarize a given list of key points.<|im_end|>
+<|im_start|>user
+1. Start your own business.
+
+
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,    686,
+           614,    311,   3291,   1128,    374,    279,   4271,    315,    279,
+          1697,   7481,    304,    279,   2701,  11652,     13, 151645,    198,
+        151644,    872,    198,   1519,  28229,    806])
+Decoded Text:
+<|im_start|>system
+In this task, you will have to tell what is the quality of the person described in the following sentence.<|im_end|>
+<|im_start|>user
+He devoted his
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ you
+0.19829463958740234
+Context Tokens: 
+tensor([151644,   8948,    198,    641,    419,   3383,     11,    498,    686,
+           614,    311,  48129,    279,   2701,  11652,    438,    830,    476,
+           895,     13, 151645,    198, 151644,    872,    198,   2120,   1783,
+           646,   3271,     13, 151645,    198, 151644])
+Decoded Text:
+<|im_start|>system
+In this task, you will have to classify the following sentence as true or false.<|im_end|>
+<|im_start|>user
+Plants can move.<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(0, 22, 48)
+ all
+0.19688451290130615
+Context Tokens: 
+tensor([151644,   8948,    198,   2212,    264,  31683,   1283,   1817,  21647,
+           304,    279,  11652,     13, 151645,    198, 151644,    872,    198,
+          7941,    702,   1012,  20956,    678,   1899,    323,    374,  37919,
+        151645,    198, 151644,  77091,    198,   7941,    702,   1012,  20956,
+           678,   1899,     11,    323,    374,  37919,     13, 151645,    198,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Add a comma after each clause in the sentence.<|im_end|>
+<|im_start|>user
+She has been studying all day and is exhausted<|im_end|>
+<|im_start|>assistant
+She has been studying all day, and is exhausted.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(214, 239, 265)
+ had
+0.19351547956466675
+Context Tokens: 
+tensor([  342, 27011,  5193,   432,    11,   264,  9906,  3100,   557,   603,
+          504,   279, 25055,   323,   566, 14843,  6617,   279,  7743,   315,
+          279, 28813,    13,   576, 28813,  1030, 11882,  1435,   438,   862,
+        49496,    13,  5542,  1221,   389,    11,   279,  1346,  4640,  8865,
+          862, 23335,  4244,   323, 32844,   279,  1251,   315,   279, 44420,
+          382])
+Decoded Text:
+ gazed upon it, a bright light shone from the crystal and he suddenly heard the voice of the gods. The gods had chosen him as their messenger. From then on, the parrot spread their wise words and blessed the people of the jungle.
+
+
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ every
+0.19045743346214294
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    279,   6028,  21386,    304,
+           279,   2661,  49465,     13, 151645,    198, 151644,    872,    198,
+           840,  34028,     25,    330,  73642,   1449,   6849,   1697,    374,
+           264,   3746,    975,  64847,     13,  18977,  39127,    323,  25248,
+           525,   1376,   6813,    311,   2393,     13,  70615,   1550,    323,
+          1513,   1405,   1077,   4113])
+Decoded Text:
+<|im_start|>system
+Identify the primary themes in the given excerpt.<|im_end|>
+<|im_start|>user
+Excerpt: "Behind every successful person is a strong work ethic. Motivation and determination are key components to success. Aim high and don’t let anything
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ author
+0.18778669834136963
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  19128,  21085,
+            11,   8253,    279,   3150,    748,   6028,   5693, 151645,    198,
+        151644,    872,    198,   2679,    582,    525,    311,   4411,    304,
+          1039,   1429,  15811,  58439,    369,   8660,    279,   1879,     11,
+           582,   1969])
+Decoded Text:
+<|im_start|>system
+Based on the following philosophy passage, determine the author’s primary argument<|im_end|>
+<|im_start|>user
+If we are to believe in our most fundamental capacities for understanding the world, we must
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ the
+0.1855224072933197
+Context Tokens: 
+tensor([151644,   8948,    198,  45730,    279,    943,    315,   9864,    504,
+           279,   2701,  17452,     13,   9258,    279,   9864,     13, 151645,
+           198, 151644,    872,    198,     43,   1886,    304,    279,   3015,
+            11,    855,   1047,    389,   9155,   7640,     11,  40155])
+Decoded Text:
+<|im_start|>system
+Guess the type of animal from the following characteristics. Output the animal.<|im_end|>
+<|im_start|>user
+Lives in the water, preys on smaller fish, captures
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.18401116132736206
+Context Tokens: 
+tensor([151644,   8948,    198,  10253,    279,   4244,    504,    279,   1140,
+          3685,    311,   5155,    304,    279,  78540,    304,    279,  11652,
+            13, 151645,    198, 151644,    872,    198,    785,   8426,  16162,
+           304,    279,   1879,    374,  30743,   1304])
+Decoded Text:
+<|im_start|>system
+Use the words from the list below to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ __
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ author
+0.17951151728630066
+Context Tokens: 
+tensor([151644,   8948,    198,  28715,    389,    279,   2701,  21085,     11,
+          8253,    279,   3150,    748,  18915,   6974,    279,   4522,    429,
+          4628,    374,    279,   1429,   2989,   8168,    304,   5670, 151645,
+           198, 151644,    872,    198,    785,   5244,    389,   4628,    304,
+          5670])
+Decoded Text:
+<|im_start|>system
+Based on the following passage, determine the author’s attitude towards the idea that speed is the most important factor in production<|im_end|>
+<|im_start|>user
+The focus on speed in production
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ that
+0.17939791083335876
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    678,    279,   4244,    429,   3161,
+           448,    279,   6524,    330,     70,      1, 151645,    198, 151644,
+           872,    198,    785,   3974,  13876,  38835,  34208,    916,    279,
+         15678,   5562, 151645,    198, 151644,  77091])
+Decoded Text:
+<|im_start|>system
+Find all the words that begin with the letter "g"<|im_end|>
+<|im_start|>user
+The quick brown fox jumps over the lazy dog<|im_end|>
+<|im_start|>assistant
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ that
+0.17934337258338928
+Context Tokens: 
+tensor([151644,   8948,    198,  20841,    311,    279,  19393,   8072, 151645,
+           198, 151644,    872,    198,  30665,  12846,    345,     40,   1079,
+          4378,    311,   1077,    498,   1414,    429,    358,    686,    387,
+          4633,    264,   2326,   2003,  20161,   5916,   1790,   7014,     13,
+        151645,    198, 151644,  77091,    198,  30665,  12846,   3554,  13060,
+           498,    369,  20194,    752])
+Decoded Text:
+<|im_start|>system
+Reply to the incoming mail<|im_end|>
+<|im_start|>user
+Dear Joe,
+I am writing to let you know that I will be taking a three week vacation starting next Monday.<|im_end|>
+<|im_start|>assistant
+Dear Joe,
+
+Thank you for letting me
+---------------------------
+Max Activation Value: 
+(76, 101, 127)
+ if
+0.17873287200927734
+Context Tokens: 
+tensor([   448,    279,   1429,   8845,    518,    279,    835,    315,    220,
+            24,     15,   4420,  14816,    279,   1809,     13,  23208,    882,
+           476,  16346,   6102,  11672,   1231,    387,   6342,    421,    279,
+          7263,    525,  17339,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ with the most goals at the end of 90 minutes wins the game. Additional time or penalty shootouts may be played if the teams are tied.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(144, 169, 195)
+ had
+0.17865151166915894
+Context Tokens: 
+tensor([ 1246,   419,  9419, 29364,   323, 27895,   304,   279, 44420,    13,
+         4710,  3983,  1128, 60814,   279, 13923,   279,  1429,   572,   279,
+        22531,   315,  1246,   279,  9419,  1030, 14616, 80937, 20804,   369,
+          773,  1293,    13,  9322,   315,   279,  1477,  8865,  6157,   323,
+         5135,    11,   279,  9419,  6116,  2494,   315,   458,  6489, 30444,
+           13])
+Decoded Text:
+ how this species adapted and evolved in the jungle. 
+
+But what fascinated the scientists the most was the mystery of how the species had remained undiscovered for so long. Word of the find spread quickly and soon, the species became something of an international celebrity.
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+Techn
+0.1780475676059723
+Context Tokens: 
+tensor([ 24678,     11,  24060, 151645,    198, 151644,    872,    198,    785,
+          4401,    315,  38193,  11474,    686,   2990,    311,  16745,   9442,
+         32688,     13, 151645,    198, 151644,  77091,    198,  28256,   5729,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Legal, Environmental<|im_end|>
+<|im_start|>user
+The development of autonomous vehicles will lead to fewer traffic accidents.<|im_end|>
+<|im_start|>assistant
+Technological<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 5, 31)
+ how
+0.17799979448318481
+Context Tokens: 
+tensor([151644,   8948,    198,     35,  24308,   1246,   1657,   5837,    304,
+           279,   9812,    990,    279,  19461,    438,    862,  11413,     13,
+        151645,    198, 151644,  77091,    198,   3862,    525,   5023,    220,
+            16,     24,   5837,    304])
+Decoded Text:
+<|im_start|>system
+Determine how many countries in the EU use the Euro as their currency.<|im_end|>
+<|im_start|>assistant
+There are currently 19 countries in
+---------------------------

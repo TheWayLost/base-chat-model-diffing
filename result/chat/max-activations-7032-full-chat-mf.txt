@@ -1,0 +1,319 @@
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+7.253725051879883
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,  12344,   7271,    315,
+         37997,     30, 151645,    198, 151644,  77091,    198,  34673,  52804,
+          2142,    374,    279,    738,    315,   2272,   1331,    590,   2056,
+         11483,  11364,    429,  12170,   2878,    264,   5382,  46020,     13,
+          4220])
+Decoded Text:
+<|im_start|>system
+What is the scientific definition of metabolism?<|im_end|>
+<|im_start|>assistant
+Metabolism is the set of life-sustaining chemical processes that occur within a living organism. These
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+7.243282318115234
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,  15552,   2498,    369,     30,
+        151645,    198, 151644,  77091,    198,  55320,  13352,    369,    409,
+         60163,   1897,    263,  22147,    292,  13621,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+What does DNA stand for?<|im_end|>
+<|im_start|>assistant
+DNA stands for deoxyribonucleic acid.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+<|im_end|>
+7.081331729888916
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   6770,   5795,    315,
+           264,  26750,   3802,     30, 151645,    198, 151644,  77091,    198,
+           785,   6770,   5795,    315,    264,  26750,   3802,    374,    311,
+          3410,  14823,    448,    264,  84857,  19565,    315,  21786,    429,
+           374,   8975,  44929])
+Decoded Text:
+<|im_start|>system
+What is the basic goal of a mutual fund?<|im_end|>
+<|im_start|>assistant
+The basic goal of a mutual fund is to provide investors with a diversified portfolio of investments that is managed professionally
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+7.013702392578125
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   7428,    315,  17503,
+         44244,     30, 151645,    198, 151644,  77091,    198,    785,   7428,
+           315,   5896,  23168,    374,    311,   3410,   9760,    323,  13382,
+          1995,    311,   1492,  14744,   1281,  15987,  11181,    323,  13444,
+         10091])
+Decoded Text:
+<|im_start|>system
+What is the purpose of Financial Accounting?<|im_end|>
+<|im_start|>assistant
+The purpose of financial accounting is to provide relevant and accurate information to help entities make informed decisions and effectively manage
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+7.008310317993164
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    264,   6559,  28187,     30,
+        151645,    198, 151644,  77091,    198,     32,   6559,  28187,    374,
+           264,   6534,    304,    892,    264,   3146,  15202,    803,  11561,
+          1091,    432,  12794,     13,   1084,  13666,    979,    279])
+Decoded Text:
+<|im_start|>system
+What is a trade deficit?<|im_end|>
+<|im_start|>assistant
+A trade deficit is a situation in which a country imports more goods than it exports. It occurs when the
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+6.926074504852295
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    458,  15235,  12111,     30,
+        151645,    198, 151644,  77091,    198,   2082,  15235,  12111,    374,
+           264,    738,    315,  11221,    476,   5601,    892,    525,   1483,
+           311,   7283,    264,   6366,    476,  15235,   1849,    311])
+Decoded Text:
+<|im_start|>system
+What is an AI algorithm?<|im_end|>
+<|im_start|>assistant
+An AI algorithm is a set of instructions or rules which are used to enable a computer or AI system to
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+6.884720802307129
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,    458,  12111,    653,     30,
+        151645,    198, 151644,  77091,    198,   2082,  12111,    374,    264,
+           738,    315,   3019,  14319,  29208,  11221,   1483,    311,  11625,
+           264,   3491,    476,  22054,    264,   3383,     13,   1527])
+Decoded Text:
+<|im_start|>system
+What does an algorithm do?<|im_end|>
+<|im_start|>assistant
+An algorithm is a set of step-by-step instructions used to solve a problem or accomplish a task. An
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.8175368309021
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,   6975,    454,  77990,   6832,
+           975,     30, 151645,    198, 151644,  77091,    198,   1806,  12776,
+         77990,   6832,    374,    264,    943,    315,   5662,   6832,  12111,
+           429,   1558,    537,   1373,  29829,    821,    323,   5711,    821,
+         26403])
+Decoded Text:
+<|im_start|>system
+How does unsupervised learning work?<|im_end|>
+<|im_start|>assistant
+Unsupervised learning is a type of machine learning algorithm that does not require labeled data and uses data exploration
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.777675628662109
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,    479,   2828,     12,     18,
+           975,     30, 151645,    198, 151644,  77091,    198,     38,   2828,
+            12,     18,    374,    264,   3460,  12934,   3078,    460,  46719,
+          4128,   1614,    429,   5711,   5538,   6832,    311,   6923,   3738,
+         12681])
+Decoded Text:
+<|im_start|>system
+How does GPT-3 work?<|im_end|>
+<|im_start|>assistant
+GPT-3 is a large-scale autoregressive language model that uses deep learning to generate human-like
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+6.7439141273498535
+Context Tokens: 
+tensor([151644,   8948,    198,  15191,    572,    279,   1156,    547,    808,
+            13,   4795,     30, 151645,    198, 151644,  77091,    198,    785,
+          1156,    547,    808,     13,   4795,    572,   9857,   6515,     11,
+           879,    572,  50648,   1119,   5163,    304,    220,     16,     22,
+            23,     24])
+Decoded Text:
+<|im_start|>system
+Who was the first U.S. President?<|im_end|>
+<|im_start|>assistant
+The first U.S. President was George Washington, who was sworn into office in 1789
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.7283477783203125
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   1156,   5912,    315,
+         47829,     30, 151645,    198, 151644,  77091,    198,    785,   1156,
+          5912,    315,  47829,    374,    311,   9704,    279,  10650,    304,
+           279,   1602,   1156,   2421,  22870,     13, 151645,    198, 151643,
+        151643])
+Decoded Text:
+<|im_start|>system
+What is the first rule of storytelling?<|im_end|>
+<|im_start|>assistant
+The first rule of storytelling is to hook the audience in the very first few sentences.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+6.69543981552124
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   1887,   7428,    315,
+         17944,   5440,     30, 151645,    198, 151644,  77091,    198,    785,
+          1887,   7428,    315,  17944,   5440,    374,    311,   8683,    438,
+           264,   4237,  46933,    429,  20081,   6950,   1717,    323,   9767,
+         14131,   1948])
+Decoded Text:
+<|im_start|>system
+What is the main purpose of blockchain technology?<|im_end|>
+<|im_start|>assistant
+The main purpose of blockchain technology is to serve as a distributed ledger that enables trustless and secure transactions between
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+<|im_end|>
+6.637656211853027
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,   1558,    279,   4647,    330,  26273,
+         25978,  60743,      1,   3076,     30, 151645,    198, 151644,  77091,
+           198,    785,    330,  26273,  25978,  60743,      1,   4647,  19257,
+           311,    279,   2326,   1887,   6813,    315,  12291,   6240,     25,
+         17719,    279,   3311,    315])
+Decoded Text:
+<|im_start|>system
+What does the term "reduce reuse recycle" mean?<|im_end|>
+<|im_start|>assistant
+The "reduce reuse recycle" term refers to the three main components of waste management: reducing the amount of
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.634483814239502
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   2310,    374,    279,  88575,    315,
+         31392,     30, 151645,    198, 151644,  77091,    198,    785,  88575,
+           315,  31392,    374,    916,    220,     16,     18,     19,   1635,
+          2310,     11,   3432,   1012,   8145,    304,   6527,    220,     16,
+            23])
+Decoded Text:
+<|im_start|>system
+How old is the Statue of Liberty?<|im_end|>
+<|im_start|>assistant
+The Statue of Liberty is over 134 years old, having been completed in October 18
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+6.617388725280762
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    264,   3598,   5240,    315,
+          3720,  24761,     30, 151645,    198, 151644,  77091,    198,     32,
+          3598,   5240,    315,   3720,  24761,    374,    279,  19675,    315,
+         30276,  39273,    369,   4802,    323,  17903,     13, 151645,    198,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+What is a major cause of air pollution?<|im_end|>
+<|im_start|>assistant
+A major cause of air pollution is the burning of fossil fuels for energy and transportation.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+6.5836181640625
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,    279,   4647,    330,    318,
+           375,   8888,      1, 151645,    198, 151644,  77091,    198,   1427,
+           375,   8888,    374,    279,   1882,    315,  12678,  15908,  10195,
+          2348,    264,    584,   3946,    304,   1973,    311,   4057,    429,
+          1697,    504])
+Decoded Text:
+<|im_start|>system
+Explain the term "impeachment"<|im_end|>
+<|im_start|>assistant
+Impeachment is the process of bringing formal charges against a public official in order to remove that person from
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.534262657165527
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,  12650,    315,   6002,
+         11055,     30, 151645,    198, 151644,  77091,    198,  12792,  11055,
+         11088,    458,   2989,   3476,    304,  10476,  11104,   2664,   3535,
+           862,   6310,      6,   3880,    323,  19322,     13,   1084,    646,
+          1083])
+Decoded Text:
+<|im_start|>system
+What is the importance of customer feedback?<|im_end|>
+<|im_start|>assistant
+Customer feedback plays an important role in helping organizations better understand their customers' needs and preferences. It can also
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+<|im_end|>
+6.516621112823486
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1558,    279,   3738,   8109,   6099,
+          1995,     30, 151645,    198, 151644,  77091,    198,    785,   3738,
+          8109,  10533,   1995,   1667,  14155,    315,  33213,    429,    525,
+          8433,   4566,   6782,  78290,     13,   3197,    458,   3139,    374,
+         26471])
+Decoded Text:
+<|im_start|>system
+How does the human brain remember information?<|im_end|>
+<|im_start|>assistant
+The human brain stores information using networks of neurons that are connected via synapses. When an experience is remembered
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+<|im_end|>
+6.475893020629883
+Context Tokens: 
+tensor([151644,   8948,    198,   3838,    374,    279,   1482,   3693,   4795,
+           594,    829,     30, 151645,    198, 151644,  77091,    198,    785,
+          1482,   4795,    315,    279,   3639,   4180,    374,  12846,  37080,
+            13, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+What is the current American President's name?<|im_end|>
+<|im_start|>assistant
+The current President of the United States is Joe Biden.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+<|im_end|>
+6.464869499206543
+Context Tokens: 
+tensor([151644,   8948,    198,   4340,   1521,  69245,  53653,   2746,     30,
+        151645,    198, 151644,  77091,    198,  28085,   9156,  53653,    572,
+         25732,  15479,    553,    264,   1874,    315,    705,    311,    220,
+            21,     15,  21513,   2973,     11,   6069,    553,    479])
+Decoded Text:
+<|im_start|>system
+How did Julius Caesar die?<|im_end|>
+<|im_start|>assistant
+Julius Caesar was assassinated by a group of up to 60 conspirators, led by G
+---------------------------

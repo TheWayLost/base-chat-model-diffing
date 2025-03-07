@@ -1,0 +1,344 @@
+Max Activation Value: 
+(309, 334, 360)
+
+
+0.2411750853061676
+Context Tokens: 
+tensor([   13,  4710,  6746,    25, 21707, 46632, 24624,   715, 26406,   220,
+           18,    25,   547,   808,    13, 24624,   198,   675,    25,   758,
+          220,    17,    15,    16,    23,   198,  1043,    25,   220,    16,
+           15,    24,  1251, 22273,   817,  1899,    11,   220,    16,    16,
+           13,    24,   817,   220,    16,    15,    15,    11,    15,    15,
+           15])
+Decoded Text:
+. 
+
+Category: Gun Violence Statistics 
+Topic 3: U.S. Statistics
+Name: In 2018
+Data: 109 people dying per day, 11.9 per 100,000
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ tower
+0.23723766207695007
+Context Tokens: 
+tensor([11017,  1447,    16,    13, 14561,   279,   308, 53758,   504,   279,
+         5916, 21271,   311,   279, 53458, 21271,    11,   825,   518,   264,
+          882,    11,  1667,   279,  1590, 21271,   438,   279, 23863,   271,
+           17,    13, 14561,   279, 55129, 13364,   504,   279, 53458, 21271,
+          311,   279,  1590, 21271,   271,    18,    13, 14561,   279,   308,
+           12])
+Decoded Text:
+ follows:
+
+1. Move the n disks from the starting tower to the auxiliary tower, one at a time, using the final tower as the spare
+
+2. Move the nth disk from the auxiliary tower to the final tower
+
+3. Move the n-
+---------------------------
+Max Activation Value: 
+(0, 6, 32)
+points
+0.2148033082485199
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,   5099,   7706,    315,    264,
+          1555,  10238,  18169,    279,   3501,    320,     18,     11,    220,
+            19,      8,    323,    320,     16,     16,     11,    220,     16,
+            15,    568, 151645,    198, 151644])
+Decoded Text:
+<|im_start|>system
+Find the midpoints of a line segment joining the points (3, 4) and (11, 10).<|im_end|>
+<|im_start|>
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+.
+0.21165618300437927
+Context Tokens: 
+tensor([151644,   8948,    198,   4418,    279,   4549,    323,  10542,    279,
+          8622,   4522,     13, 151645,    198, 151644,    872,    198,   8420,
+           374,    279,   4549,     13,   4710,  33548,    374,    264,   3146,
+           315,  27730,  26735,     11,  15459,     11,    323,  43130,     13,
+          8886])
+Decoded Text:
+<|im_start|>system
+Read the article and identify the central idea.<|im_end|>
+<|im_start|>user
+Here is the article. 
+
+India is a country of varied cultures, languages, and religions. Each
+---------------------------
+Max Activation Value: 
+(0, 23, 49)
+ what
+0.21130523085594177
+Context Tokens: 
+tensor([151644,   8948,    198,  13780,    279,   7402,   3409,    504,    279,
+         11652,     13, 151645,    198, 151644,    872,    198,   7941,  29215,
+           518,    279,   5828,   2936,    369,   1128,   7436,   9324,    458,
+         63382,     13, 151645,    198, 151644,  77091,    198,   7941,  29215,
+           518,    279,   5828,   2936,    369,   1128,   6476,   1075,    458,
+         63382,     13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Insert the missing word from the sentence.<|im_end|>
+<|im_start|>user
+She waited at the bus stop for what ___ seemed an eternity.<|im_end|>
+<|im_start|>assistant
+She waited at the bus stop for what felt like an eternity.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+
+
+0.2084665596485138
+Context Tokens: 
+tensor([  8948,    198,   3379,    279,   1850,  19639,    504,    279,  22870,
+          3685,   2661,    279,   1946,    330,   5050,  20161,    374,    304,
+         32671,    563,   1189, 151645,    198, 151644,    872,    198,   5050,
+         20161,    374,    304,  32671,   4950, 151645,    198, 151644,  77091,
+           198,     39,  70954,      0, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+system
+Select the best prediction from the sentences below given the input "My vacation is in ________."<|im_end|>
+<|im_start|>user
+My vacation is in _______.<|im_end|>
+<|im_start|>assistant
+Hawaii!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ maker
+0.20784637331962585
+Context Tokens: 
+tensor([  374, 36375,   369,  1181, 23094,   323, 13143,    11,   714,   279,
+         4128,   315, 19654,   644,   374,  1496,   803, 26291,    13, 67309,
+          619,    13,  6798,   279,  5700, 24232, 11105,   429, 19654,   644,
+          374,   803, 26779,  1091,  1429, 12677,  7086, 15459,  6668,   369,
+           13,   576,  4128,   315, 19654,   644,   374, 23415,   315,   220,
+           16])
+Decoded Text:
+ is praised for its complexity and beauty, but the language of birdsong is even more fascinating. Scientist J. David the movie maker discovered that birdsong is more sophisticated than most humans giving languages credit for. The language of birdsong is composed of 1
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ Pick
+0.20710700750350952
+Context Tokens: 
+tensor([  7023,    429,    279,   5591,   3349,    369,   8188,    362,    686,
+          2987,   4717,    279,   1852,    476,    728,    705,    369,    279,
+          1790,    220,     16,     15,  11133,   2849,     13,  19725,    264,
+          8282,    369,    421,    279,   3349,    686,    728,    705,    476,
+          4717,    279,   1852,     13, 151645,    198, 151644,  77091,    198,
+          2679,    279,   8173,    525,   4396,    323])
+Decoded Text:
+ predict that the stock price for Company A will either stay the same or go up for the next 10 trading days. Pick a strategy for if the price will go up or stay the same.<|im_end|>
+<|im_start|>assistant
+If the sources are correct and
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ the
+0.20690616965293884
+Context Tokens: 
+tensor([151644,   8948,    198,   9885,    279,  30232,    315,    279,   1555,
+         12299,   1526,    279,   3501,    320,     17,     11,    481,     18,
+             8,    323,    320,     16,     11,    481,     17,    568, 151645,
+           198, 151644,    872,    198,      7,     17,   4999,     18,      8,
+           320])
+Decoded Text:
+<|im_start|>system
+Find the slope of the line passing through the points (2, -3) and (1, -2).<|im_end|>
+<|im_start|>user
+(2,-3) (
+---------------------------
+Max Activation Value: 
+(270, 295, 321)
+ military
+0.20687687397003174
+Context Tokens: 
+tensor([ 12055,    323,    279,  13388,    315,    547,    808,     13,   6277,
+         20949,     13,  22406,     11,    279,  22500,   5004,   1083,  47763,
+          5497,    279,   1616,    584,   9459,  19334,    279,   6277,    323,
+           279,    990,    315,   5344,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+.
+0.20631149411201477
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    264,   3364,    429,  12033,    448,
+           279,   2701,  11652,     13, 151645,    198, 151644,    872,    198,
+          7941,   8930,    279,   6006,    311,   1477,    264,  16217,   7071,
+          5292,   7741,    304,  34512,     13, 151645,    198, 151644,  77091,
+           198,   7941])
+Decoded Text:
+<|im_start|>system
+Write a story that begins with the following sentence.<|im_end|>
+<|im_start|>user
+She opened the door to find a tall figure cloaked in shadows.<|im_end|>
+<|im_start|>assistant
+She
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+
+
+0.20571109652519226
+Context Tokens: 
+tensor([   198,   9885,    279,   2086,  31805,    315,    279,   2701,  23606,
+            25,    379,    284,    220,     19,     87,     61,     17,    488,
+           220,     18,     87,   1365,    220,     20, 151645,    198, 151644,
+         77091,    198,    785,   2086,  31805,    315,    279,   2661,  23606,
+           374,    220,     23,     87,    488,    220,     18,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+Find the second derivative of the following equation: y = 4x^2 + 3x – 5<|im_end|>
+<|im_start|>assistant
+The second derivative of the given equation is 8x + 3.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+.
+0.2052927017211914
+Context Tokens: 
+tensor([151644,   8948,    198,  35127,    752,    264,  12126,    315,    279,
+          1882,    369,  25480,    264,  83293,   1973,     13, 151645,    198,
+        151644,  77091,    198,    785,   1882,    315,  25480,    264,  83293,
+          1973,  13798,    389,    279,   1584,     11,    714,   8789,  17601,
+         21274,    700,  44631,    323,  25480])
+Decoded Text:
+<|im_start|>system
+Give me a summary of the process for filing a restraining order.<|im_end|>
+<|im_start|>assistant
+The process of filing a restraining order depends on the state, but generally involves filling out paperwork and filing
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+.
+0.2033923864364624
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    458,   8568,   5114,    369,    264,
+          8806,    911,    279,   6239,    315,   9977,   2297,     13, 151645,
+           198, 151644,    872,    198,   2753,   1355, 151645,    198, 151644,
+         77091,    198,  15216,   6556,   5019,      0,  11201,    358,   2776,
+          1588,    311,   3061,    311,    498,    911])
+Decoded Text:
+<|im_start|>system
+Generate an opening statement for a speech about the effects of climate change.<|im_end|>
+<|im_start|>user
+Noinput<|im_end|>
+<|im_start|>assistant
+Good morning everyone! Today I'm here to talk to you about
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+ that
+0.20142671465873718
+Context Tokens: 
+tensor([    22,     13,   1096,   2038,    374,  60753,    279,    897,    315,
+           220,     18,    311,    856,     11,   1221,   7842,    220,     19,
+           311,    279,    856,    594,    897,    323,  60753,    429,   1102,
+           311,    379,     13, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+7. This code is assigning the value of 3 to x, then adding 4 to the x's value and assigning that result to y.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Choose
+0.20122072100639343
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   4396,   4226,     13, 151645,
+           198, 151644,    872,    198,  15191,   6139,    279,  11514,    330,
+         62502,  43411,    265,  43869, 151645,    198, 151644,  77091,    198,
+         95895,   3240])
+Decoded Text:
+<|im_start|>system
+Choose the correct answer.<|im_end|>
+<|im_start|>user
+Who wrote the novel "Jane Eyre"?<|im_end|>
+<|im_start|>assistant
+Charlotte Br
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Choose
+0.20122072100639343
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   1429,   8311,   4226, 151645,
+           198, 151644,    872,    198,   3838,    374,    279,   1429,  43511,
+          6819,    304,   9237,    594,  16566,   1939,     32,     13,  56075,
+          2145,    198])
+Decoded Text:
+<|im_start|>system
+Choose the most appropriate answer<|im_end|>
+<|im_start|>user
+What is the most abundant gas in Earth's atmosphere?
+
+A. Methane
+
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Choose
+0.20122072100639343
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   1290,   3196,   7831, 151645,
+           198, 151644,    872,    198,   4839,    837,    295,     14,   3882,
+            64,   3850, 151645,    198, 151644,  77091,    198,   4839,    837,
+           295,     14])
+Decoded Text:
+<|im_start|>system
+Choose the right antonym<|im_end|>
+<|im_start|>user
+Discreet/Flaunt<|im_end|>
+<|im_start|>assistant
+Discreet/
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Choose
+0.20122072100639343
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    279,   1850,   3552,    369,    264,
+          2661,   2473,     13, 151645,    198, 151644,    872,    198,  19598,
+         22798, 151645,    198, 151644,  77091,    198,    785,   1850,   3552,
+           369,   2860])
+Decoded Text:
+<|im_start|>system
+Choose the best password for a given service.<|im_end|>
+<|im_start|>user
+Online banking<|im_end|>
+<|im_start|>assistant
+The best password for online
+---------------------------
+Max Activation Value: 
+(0, 3, 29)
+Choose
+0.20122072100639343
+Context Tokens: 
+tensor([151644,   8948,    198,  24051,    264,   3668,    504,    264,   5700,
+           476,   2311,    498,    646,  28143,    311,    323,  10339,   3170,
+            13, 151645,    198, 151644,    872,    198,  12404,     25,  53499,
+          2825,   4003])
+Decoded Text:
+<|im_start|>system
+Choose a character from a movie or book you can relate to and explain why.<|im_end|>
+<|im_start|>user
+Character: Hermione Granger
+---------------------------

@@ -1,0 +1,333 @@
+Max Activation Value: 
+(0, 15, 41)
+ sentences
+10.634729385375977
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   1887,  21386,
+           315,    419,  11514,    304,    220,     18,  22870,     13, 151645,
+           198, 151644,    872,    198,  41298,  29327,    323,    279,   7155,
+         45359,    748,  14302, 151645,    198, 151644,  77091,    198,  41298,
+         29327,    323,    279,   7155,  45359])
+Decoded Text:
+<|im_start|>system
+Summarize the main themes of this novel in 3 sentences.<|im_end|>
+<|im_start|>user
+Harry Potter and the Philosopher’s Stone<|im_end|>
+<|im_start|>assistant
+Harry Potter and the Philosopher
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentences
+10.622230529785156
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   4549,   3685,
+           304,    220,     20,  22870,     13, 151645,    198, 151644,    872,
+           198,    785,  19966,     12,     16,     24,  11251,    702,   7117,
+          1657,   4344,    311,   1039,  17778,   6305,     11,   2670,    279,
+          1616,    582])
+Decoded Text:
+<|im_start|>system
+Summarize the article below in 5 sentences.<|im_end|>
+<|im_start|>user
+The COVID-19 crisis has brought many changes to our everyday lives, including the way we
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ sentences
+10.36001968383789
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2213,    304,
+           220,     18,  22870,     13, 151645,    198, 151644,    872,    198,
+           785,   3920,   6966,    518,    279,    990,    315,   5662,   6832,
+         25185,    311,   7023,   5591,  14937,     13,   1084,   1730,    429,
+          2100])
+Decoded Text:
+<|im_start|>system
+Summarize the content in 3 sentences.<|im_end|>
+<|im_start|>user
+The study looked at the use of machine learning algorithms to predict stock indices. It found that AN
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+ sentences
+10.323648452758789
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,   1128,    279,   4549,    374,
+           911,    304,    220,     16,    311,    220,     17,  22870,     13,
+        151645,    198, 151644,    872,    198,  19237,     25,   1096,   5567,
+         16555,    264,  11514,   5538,   6832,  14762,   2598,   2607,   1388,
+          9460,    363,    523,   9942,    320,     38])
+Decoded Text:
+<|im_start|>system
+Explain what the article is about in 1 to 2 sentences.<|im_end|>
+<|im_start|>user
+Summary: This paper describes a novel deep learning technique called Generative Autowavelets (G
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ sentences
+10.230905532836914
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2701,   5010,
+          1736,    304,    220,     20,  22870,     25, 151645,    198, 151644,
+           872,    198,    785,   5010,   1736,     11,  24849,    330,     16,
+            15,  11791,  49630,   2938,   4841,  28580,   8025,    304,    220,
+            17,     15,     17])
+Decoded Text:
+<|im_start|>system
+Summarize the following blog post in 5 sentences:<|im_end|>
+<|im_start|>user
+The blog post, titled "10 Technology Trends That Will Impact Business in 202
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+ sentences
+9.923063278198242
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    264,   2661,  32794,
+           304,   1932,    220,     20,  22870,     13, 151645,    198, 151644,
+           872,    198,    785,  32794,    330,    785,   8059,  48887,      1,
+           553,   3757,  69983,    271,   2753,   1355, 151645,    198, 151644,
+         77091,    198,  13079])
+Decoded Text:
+<|im_start|>system
+Summarize a given poem in max 5 sentences.<|im_end|>
+<|im_start|>user
+The poem "The Sun Rising" by John Donne
+
+Noinput<|im_end|>
+<|im_start|>assistant
+John
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentences
+9.86960220336914
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   2701,  18824,    304,    220,
+            17,     12,     18,  22870,     13, 151645,    198, 151644,    872,
+           198,  13978,   7679,    884,  12826,    854,    553,  34307,   5242,
+           479,  63936, 151645,    198, 151644,  77091,    198,  10022,   7679,
+           884,  12826])
+Decoded Text:
+<|im_start|>system
+Describe the following painting in 2-3 sentences.<|im_end|>
+<|im_start|>user
+“The Starry Night” by Vincent van Gogh<|im_end|>
+<|im_start|>assistant
+"The Starry Night
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+ sentences
+9.806520462036133
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   3476,    315,
+           821,  13923,    304,    264,   2421,  22870,     13, 151645,    198,
+        151644,  77091,    198,   1043,  13923,    525,   8480,    369,  59408,
+            11,  15826,     11,    323,  41018,    821,   1667,    264,   2088,
+           315,   5413,    323,  12538])
+Decoded Text:
+<|im_start|>system
+Summarize the role of data scientists in a few sentences.<|im_end|>
+<|im_start|>assistant
+Data scientists are responsible for extracting, cleaning, and analyzing data using a range of methods and techniques
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ sentences
+9.707864761352539
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   3668,  77330,   6842,    304,
+           220,     20,  22870,     13, 151645,    198, 151644,  77091,    198,
+            34,   5744,   6842,    374,    264,  27430,   3668,    879,    702,
+         55124,    369,  23631,    304,   7343,     11,  12351,     11,    323,
+         11674])
+Decoded Text:
+<|im_start|>system
+Describe the character Cinderella in 5 sentences.<|im_end|>
+<|im_start|>assistant
+Cinderella is a beloved character who has endured for centuries in stories, films, and songs
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentences
+9.698232650756836
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2701,   4549,
+           304,    264,   2421,  22870,     13, 151645,    198, 151644,    872,
+           198,     49,   3791,  19879,    304,   1039,  11580,    748,  16566,
+           614,   1657,   6239,    389,    279,   9237,    748,   4573,     11,
+          2670,  43119])
+Decoded Text:
+<|im_start|>system
+Summarize the following article in a few sentences.<|im_end|>
+<|im_start|>user
+Rising temperatures in our planet’s atmosphere have many effects on the Earth’s environment, including disruption
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ sentences
+9.650941848754883
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,   1064,    279,   2661,   1467,
+           304,   2326,  22870,     13, 151645,    198, 151644,    872,    198,
+           785,  40741,    594,  44346,   3117,    374,    264,   4013,    315,
+           946,  89482,   3046,   3145,   8147,   7407,    304,   1527,  10666,
+            11])
+Decoded Text:
+<|im_start|>system
+Summarise the given text in three sentences.<|im_end|>
+<|im_start|>user
+The Giant's Causeway is a series of interlocking basalt columns located in Antrim,
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentences
+9.546979904174805
+Context Tokens: 
+tensor([151644,   8948,    198,    840,  20772,    279,   7428,    315,    264,
+         23210,    304,   1378,  22870,     13, 151645,    198, 151644,  77091,
+           198,     32,  23210,    374,    264,    883,  26877,   1633,    429,
+         85128,    279,   9237,    323,    374,   1483,    311,   5258,    323,
+         29282,  17289])
+Decoded Text:
+<|im_start|>system
+Explain the purpose of a satellite in two sentences.<|im_end|>
+<|im_start|>assistant
+A satellite is a man-made object that orbits the Earth and is used to receive and transmit signals
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+ sentences
+9.527471542358398
+Context Tokens: 
+tensor([151644,   8948,    198,  45695,  23576,    279,   2701,   2038,  43065,
+           323,  10339,   1128,    374,  12482,    304,    220,     19,  22870,
+           382,    947,    856,    284,    220,     18,    198,    947,    379,
+           284,    856,    488,    220,     19, 151645,    198, 151644,  77091,
+           198,   1986,   2038,  43065,  11450,   1378,   7332])
+Decoded Text:
+<|im_start|>system
+Reverse engineer the following code snippet and explain what is happening in 4 sentences.
+
+var x = 3
+var y = x + 4<|im_end|>
+<|im_start|>assistant
+This code snippet creates two variables
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+ sentences
+9.523855209350586
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   3364,    315,
+           330,    785,  14513,  14671,    393,  14462,      1,    304,   1378,
+         22870,     13, 151645,    198, 151644,  77091,    198,    785,  14513,
+         14671,    393,  14462,  11017,   2326,  36683,    438,    807,   1936,
+          2326,   2155,  10415,    304,   1973,    311,   6016,   5577])
+Decoded Text:
+<|im_start|>system
+Summarize the story of "The Three Little Pigs" in two sentences.<|im_end|>
+<|im_start|>assistant
+The Three Little Pigs follows three siblings as they build three different homes in order to protect themselves
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+ sentences
+9.322568893432617
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2661,   4549,
+           304,    220,     16,     12,     17,  22870,     13, 151645,    198,
+        151644,    872,    198,    785,   3213,  36418,   9315,   5263,  21314,
+           279,   6239,    315,   9977,   2297,    389,    279,  16216,  36418,
+          4573,     13, 151645,    198])
+Decoded Text:
+<|im_start|>system
+Summarize the given article in 1-2 sentences.<|im_end|>
+<|im_start|>user
+The recent Arctic temperature increase highlights the effects of climate change on the sensitive Arctic environment.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(0, 11, 37)
+ sentences
+8.485761642456055
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2661,  14311,
+           304,   1378,  22870,     13, 151645,    198, 151644,    872,    198,
+         22286,    572,   9223,    304,    220,     16,     24,     23,     15,
+            13,   1260,  13938,    705,    304,    264,   2613,   6290,    304,
+          6864])
+Decoded Text:
+<|im_start|>system
+Summarize the given paragraph in two sentences.<|im_end|>
+<|im_start|>user
+David was born in 1980. He grew up in a small town in Canada
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentences
+8.339014053344727
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    419,  21085,   1667,
+          3040,    476,  16745,  22870,     13, 151645,    198, 151644,    872,
+           198,  20470,   7274,    374,    264,   3738,  49382,   5486,    311,
+         18770,    429,  26643,    504,    279,  14692,    594,  65894,    311,
+         31072,    279])
+Decoded Text:
+<|im_start|>system
+Summarize this passage using four or fewer sentences.<|im_end|>
+<|im_start|>user
+Design thinking is a human-centered approach to innovation that draws from the designer's toolkit to integrate the
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentence
+6.322227954864502
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   2661,   3669,
+          4549,    304,    825,  11652,     13, 151645,    198, 151644,    872,
+           198,    641,    279,   5535,   8039,  17043,     11,    279,  46963,
+           702,  18951,    311,  19131,    264,    501,  14402,  40358,    311,
+          1492,   8256])
+Decoded Text:
+<|im_start|>system
+Summarize the given news article in one sentence.<|im_end|>
+<|im_start|>user
+In the latest budget announcement, the Chancellor has promised to introduce a new employment allowance to help employees
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ sentence
+6.247074604034424
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   3840,    315,
+         34917,    304,    825,  11652,     13, 151645,    198, 151644,  77091,
+           198,    785,   3840,    315,  34917,    374,    264,  24808,  12864,
+           553,    279,  10000,    323,   4399,    315,   2155,  33675,    429,
+           614,   1817])
+Decoded Text:
+<|im_start|>system
+Summarize the history of civilization in one sentence.<|im_end|>
+<|im_start|>assistant
+The history of civilization is a timeline marked by the rise and fall of different societies that have each
+---------------------------
+Max Activation Value: 
+(0, 9, 35)
+ sentence
+5.714815616607666
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,   2701,  18824,    304,    825,
+         11652,     13, 151645,    198, 151644,    872,    198,  65987,  54043,
+        151645,    198, 151644,  77091,    198,    785,  18824,  61891,    264,
+         70892,  18414,    389,    264,   6233,   1899,    448,  20097])
+Decoded Text:
+<|im_start|>system
+Describe the following painting in one sentence.<|im_end|>
+<|im_start|>user
+Attached Painting<|im_end|>
+<|im_start|>assistant
+The painting depicts a sprawling landscape on a beautiful day with rolling
+---------------------------

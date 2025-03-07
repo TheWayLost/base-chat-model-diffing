@@ -1,0 +1,311 @@
+Max Activation Value: 
+(106, 131, 157)
+4
+0.19890080392360687
+Context Tokens: 
+tensor([   25,   320,    87,    12,    17,     8,   284,   320,    87,    10,
+           17,   481,   220,    19,     8,   284,   320,    87,    10,    17,
+            8,   481,   220,    19,   715,    19,    13, 61242,  1437,   279,
+        63533,   323, 46912,    25,   320,    87,    10,    18,  2376,    87,
+           10,    17,     8,  1683,   115,   320,    87,    10,    17,     8,
+          481])
+Decoded Text:
+: (x-2) = (x+2 - 4) = (x+2) - 4 
+4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) -
+---------------------------
+Max Activation Value: 
+(86, 111, 137)
+4
+0.18636684119701385
+Context Tokens: 
+tensor([ 6132,    25,  4467,  7757, 85897,  6132,   374,   264,  8823,   383,
+        34456, 12111,   311,  1477,   458, 44868,  3644, 53667,   369,   264,
+         2661, 16538,   729,    13,  4710,    19,    13, 74126, 40325,    25,
+          362, 18929, 12111,  5711, 40893, 18940,  1741,   438, 26374,    11,
+         6589,    11,   323, 48380,   311,  6077,  9904,   304,  2711,   369,
+          264])
+Decoded Text:
+aling: Simulated annealing is a metaheuristic algorithm to find an approximate global optimum for a given objective function. 
+
+4. Genetic Algorithm: A genetic algorithm uses evolutionary concepts such as mutation, selection, and crossover to sample solutions in search for a
+---------------------------
+Max Activation Value: 
+(48, 73, 99)
+2
+0.17100927233695984
+Context Tokens: 
+tensor([   773,    429,    432,    646,    387,  15985,    803,   9355,     25,
+           320,     87,     61,     17,     10,     20,     87,     10,     21,
+             8, 144422,      7,     87,     12,     17,    340,     17,     13,
+         37729,    279,  63533,     25,    320,     87,     61,     17,     10,
+            20,     87,     10,     21,      8,    284,    320,     87,     10,
+            18,   2376,     87,     10,     17,      8])
+Decoded Text:
+ so that it can be understood more clearly: (x^2+5x+6)÷(x-2)
+2. Factor the numerator: (x^2+5x+6) = (x+3)(x+2)
+---------------------------
+Max Activation Value: 
+(100, 125, 151)
+ the
+0.16620886325836182
+Context Tokens: 
+tensor([   323,    272,    284,    220,     19,   1119,    279,  23606,     11,
+           279,  19703,    525,  12180,    438,    856,    284,    220,     17,
+         20287,  11995,    248,     15,     13,  14301,     11,    279,  19703,
+           525,    856,    284,    220,     17,     11,    220,     17,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2, 2.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+5
+0.1654084026813507
+Context Tokens: 
+tensor([   279,  63533,    323,  46912,     25,    320,     87,     10,     18,
+          2376,     87,     10,     17,      8,   1683,    115,    320,     87,
+            10,     17,      8,    481,    220,     19,    198,     20,     13,
+         62902,    279,  63533,    323,  46912,     25,    320,     87,     10,
+            18,      8,   1683,    115,    320,     87,     10,     17,    481,
+           220,     19,      8, 151645,    198, 151643])
+Decoded Text:
+ the numerator and denominator: (x+3)(x+2) ÷ (x+2) - 4
+5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(83, 108, 134)
+ count
+0.1605505496263504
+Context Tokens: 
+tensor([   21, 13887,   262,   671,  1752,  1817,  3668,   304,   914,    16,
+        16252,  1181, 11639,   715,   262,   369,   600,   304,  2088,  6901,
+         3609,    16, 36715,   715,   286,  1760,    58,   539,  3609,    16,
+          989,  2467,   481,  6013,   492,    64, 51028,  1421,   220,    16,
+        13887,   262,   671,  1752,  1817,  3668,   304,   914,    17, 60832,
+         1181])
+Decoded Text:
+6
+  
+    # For each character in string1 increment its frequency 
+    for i in range(len(string1)): 
+        count[ord(string1[i]) - ord('a')] += 1
+  
+    # For each character in string2 decrement its
+---------------------------
+Max Activation Value: 
+(0, 7, 33)
+ the
+0.15811963379383087
+Context Tokens: 
+tensor([151644,   8948,    198,  10253,    279,   4244,    504,    279,   1140,
+          3685,    311,   5155,    304,    279,  78540,    304,    279,  11652,
+            13, 151645,    198, 151644,    872,    198,    785,   8426,  16162,
+           304,    279,   1879,    374,  30743,   1304])
+Decoded Text:
+<|im_start|>system
+Use the words from the list below to fill in the blanks in the sentence.<|im_end|>
+<|im_start|>user
+The highest peak in the world is ____ __
+---------------------------
+Max Activation Value: 
+(84, 109, 135)
+ the
+0.15283164381980896
+Context Tokens: 
+tensor([   17,    64,    13,  3719,  3696, 10607,   293,   284,   481,    19,
+           11,   264,   284,   220,    16,    11,   323,   272,   284,   220,
+           19,  1119,   279, 23606,    11,   279, 19703,   525, 12180,   438,
+          856,   284,   220,    17, 20287, 11995,   248,    15,    13, 14301,
+           11,   279, 19703,   525,   856,   284,   220,    17,    11,   220,
+           17])
+Decoded Text:
+2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √0. Thus, the roots are x = 2, 2
+---------------------------
+Max Activation Value: 
+(75, 100, 126)
+3
+0.15194864571094513
+Context Tokens: 
+tensor([37729,   279, 63533,    25,   320,    87,    61,    17,    10,    20,
+           87,    10,    21,     8,   284,   320,    87,    10,    18,  2376,
+           87,    10,    17,     8,   715,    18,    13, 61242,  1437,   279,
+        46912,    25,   320,    87,    12,    17,     8,   284,   320,    87,
+           10,    17,   481,   220,    19,     8,   284,   320,    87,    10,
+           17])
+Decoded Text:
+ Factor the numerator: (x^2+5x+6) = (x+3)(x+2) 
+3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2
+---------------------------
+Max Activation Value: 
+(7, 32, 58)
+2
+0.15188083052635193
+Context Tokens: 
+tensor([  9904,    311,   7949,    279,   3311,    315,  12188,  12291,     13,
+        151645,    198, 151644,  77091,    198,     16,     13,  31075,   7373,
+         33878,    323,  56723,    287,   7468,     13,    715,     17,     13,
+         39633,    584,  17526,    323,   6731,    911,  12188,  12291,     13,
+           715,     18,     13,  17582,   1272,  25978,    480,    323,   6032,
+           534,  77030,  26450,    311,  12188,     13])
+Decoded Text:
+ solutions to reduce the amount of plastic waste.<|im_end|>
+<|im_start|>assistant
+1. Implement effective recycling and composting programs. 
+2. Increase public awareness and education about plastic waste. 
+3. Promote reuseable and biodegradable alternatives to plastic.
+---------------------------
+Max Activation Value: 
+(149, 174, 200)
+4
+0.15018829703330994
+Context Tokens: 
+tensor([ 7460,   518,  3245,   264, 40990,   594,  8381,   304, 35324, 16595,
+           11,  7892,  1045, 23106,  1083,  3010,  1736, 27670, 12348,   304,
+          279,  2070,    13,   715, 15677,    19,    13,  3555,   525,   279,
+         6931, 26851,   369, 11483, 24198,    30,   715, 16141,    25,  2619,
+          374,   264,  1550,  7479,   369, 11483, 24198,   304,   279,  6753,
+          299])
+Decoded Text:
+ requires at least a Bachelor's degree in Chemical Engineering, although some universities also offer postgraduate degrees in the field. 
+         
+4. What are the career prospects for chemical engineers? 
+Answer: There is a high demand for chemical engineers in the petro
+---------------------------
+Max Activation Value: 
+(71, 96, 122)
+ are
+0.1479133516550064
+Context Tokens: 
+tensor([ 7094,    11,   458,  6358,  4933,   624,    12, 40345, 13740,   389,
+         2820,  2453,  7484,  2790,   400,    21,    15,  3526,   773,  3041,
+          419,  1042,   624,    12, 34580,   525, 41330, 11519,   504, 26645,
+        34854,  3856,   311,  4948,  3856,   323, 24132, 11178,   448, 19188,
+        12876,   624,    12, 64438,  1184,   311,  1855, 13740,   429,  2498,
+          700])
+Decoded Text:
+ billion, an analysis shows.
+- Television ads on health care alone total $60 million so far this year.
+- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.
+- Candidates need to create ads that stand out
+---------------------------
+Max Activation Value: 
+(188, 213, 239)
+ they
+0.14704014360904694
+Context Tokens: 
+tensor([   504,    279,   3720,   1393,    807,    525,  16307,     13,  10964,
+          6414,  52168,    389,   1894,    323,   7203,    323,    807,   8844,
+           369,    279,   5112,    315,   2613,  19654,    979,    807,  19073,
+            13,  53339,   1083,    990,   3281,   6738,    311,  19032,    448,
+          1817,   1008,    323,    448,    862,  54516,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ from the air while they are flying. Their eyes feast on color and movement and they listen for the sound of small birds when they hunt. Falcons also use special calls to communicate with each other and with their mates.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(115, 140, 166)
+4
+0.14700564742088318
+Context Tokens: 
+tensor([  369,  1246, 19119,  1251,   646,  1281, 23742,  4344,    11,   323,
+        20956,  1435,   646,  3410, 15172, 20017,  1119,  1246,  7775,   646,
+         1281,   458,  5421,    13,   715,    19,    13, 47894,  6069,   264,
+        26291,  2272,   429,  9390, 18694, 65859,    11,   323,   806,  3364,
+        28627,   389,  6351, 21386, 23994,   504, 11500,   323, 27889,   311,
+        74356])
+Decoded Text:
+ for how ordinary people can make extraordinary changes, and studying him can provide valuable insight into how individuals can make an impact. 
+4. Gandhi led a fascinating life that spanned continents, and his story touches on complex themes ranging from politics and economics to spirituality
+---------------------------
+Max Activation Value: 
+(256, 281, 307)
+ Additionally
+0.14562340080738068
+Context Tokens: 
+tensor([  5421,    389,    279,   3639,   4180,     11,    438,    432,  26366,
+           279,  49346,    315,    264,  43287,  12055,    323,    279,  13388,
+           315,    547,    808,     13,   6277,  20949,     13,  22406,     11,
+           279,  22500,   5004,   1083,  47763,   5497,    279,   1616,    584,
+          9459,  19334,    279,   6277,    323,    279,    990,    315,   5344,
+            13, 151645,    198, 151643, 151643, 151643])
+Decoded Text:
+ impact on the United States, as it highlighted the realities of a prolonged conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 8, 34)
+ the
+0.1449570506811142
+Context Tokens: 
+tensor([151644,   8948,    198,  16141,    279,   2701,   3405,    911,    279,
+          3840,    315,  18495, 151645,    198, 151644,    872,    198,   4498,
+           572,    279,   1156,   6366,  35492,     30, 151645,    198, 151644,
+         77091,    198,    785,   1156,   6366,    572,  35492])
+Decoded Text:
+<|im_start|>system
+Answer the following question about the history of computers<|im_end|>
+<|im_start|>user
+When was the first computer invented?<|im_end|>
+<|im_start|>assistant
+The first computer was invented
+---------------------------
+Max Activation Value: 
+(310, 335, 361)
+<|endoftext|>
+0.14466813206672668
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(318, 343, 369)
+<|endoftext|>
+0.14466813206672668
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(334, 359, 385)
+<|endoftext|>
+0.14466813206672668
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(320, 345, 371)
+<|endoftext|>
+0.14466813206672668
+Context Tokens: 
+tensor([151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

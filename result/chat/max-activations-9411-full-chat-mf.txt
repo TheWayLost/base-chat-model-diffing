@@ -1,0 +1,374 @@
+Max Activation Value: 
+(14, 39, 65)
+ lunch
+6.771326541900635
+Context Tokens: 
+tensor([151644,    872,    198,   1519,   4588,   1059,    311,   5138,   1435,
+           369,  15786,     13, 151645,    198, 151644,  77091,    198,   1519,
+          1030,   4588,   1059,    311,   5138,   1435,    369,  15786,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>user
+He asked her to join him for lunch.<|im_end|>
+<|im_start|>assistant
+He had asked her to join him for lunch.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ lake
+6.768234729766846
+Context Tokens: 
+tensor([   198, 151644,    872,    198,   7941,  30125,   3556,   3438,    388,
+           550,   2163,    279,  21800,     13, 151645,    198, 151644,  77091,
+           198,   7941,  30125,   3556,  22932,   2163,    279,  21800,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>user
+She jogged excersies around the lake.<|im_end|>
+<|im_start|>assistant
+She jogged exercises around the lake.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ door
+6.379367828369141
+Context Tokens: 
+tensor([   279,   2701,  11652,   1667,    279,   3267,   4727,  42687,     25,
+         60033,    807,   8930,    279,   6006,     13, 151645,    198, 151644,
+         77091,    198,  50277,    807,   1030,   8930,    279,   6006,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the following sentence using the past perfect tense: Yesterday they opened the door.<|im_end|>
+<|im_start|>assistant
+Yesterday they had opened the door.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ school
+6.360592842102051
+Context Tokens: 
+tensor([ 11652,   1119,    279,   3853,  42687,     13, 151645,    198, 151644,
+           872,    198,   7941,  22479,    311,   2906,     13, 151645,    198,
+        151644,  77091,    198,   7941,    686,   4227,    311,   2906,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sentence into the future tense.<|im_end|>
+<|im_start|>user
+She walks to school.<|im_end|>
+<|im_start|>assistant
+She will walk to school.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(16, 41, 67)
+ food
+6.216352939605713
+Context Tokens: 
+tensor([   279,   1852,   7290,     13, 151645,    198, 151644,    872,    198,
+           785,   8251,  29812,    279,   3607,     13, 151645,    198, 151644,
+         77091,    198,    785,   8251,   3483,  20394,    279,   3607,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the same meaning.<|im_end|>
+<|im_start|>user
+The cat ate the food.<|im_end|>
+<|im_start|>assistant
+The cat devoured the food.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(6, 31, 57)
+ book
+6.077615737915039
+Context Tokens: 
+tensor([   304,    279,  11652,    311,   8708,   4843,  28045,  33944, 151645,
+           198, 151644,    872,    198,     40,   1349,    279,   2311, 151645,
+           198, 151644,  77091,    198,   7941,  15804,    279,   2311, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ in the sentence to reflect third-person singular<|im_end|>
+<|im_start|>user
+I read the book<|im_end|>
+<|im_start|>assistant
+She reads the book<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ afternoon
+6.00051736831665
+Context Tokens: 
+tensor([151644,    872,    198,   1519,    374,   7086,    264,   3974,   1273,
+           389,   7794,  13354,     13, 151645,    198, 151644,  77091,    198,
+          1519,    374,   7086,    264,   1273,    389,   7794,  13354,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>user
+He is giving a quick test on Thursday afternoon.<|im_end|>
+<|im_start|>assistant
+He is giving a test on Thursday afternoon.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ store
+5.995165824890137
+Context Tokens: 
+tensor([ 11652,     13, 151645,    198, 151644,    872,    198,   1519,  10613,
+          6157,  10613,    311,    279,   3553,     13, 151645,    198, 151644,
+         77091,    198,   1519,  10613,   6157,    311,    279,   3553,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sentence.<|im_end|>
+<|im_start|>user
+He ran quickly ran to the store.<|im_end|>
+<|im_start|>assistant
+He ran quickly to the store.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ test
+5.992441654205322
+Context Tokens: 
+tensor([ 11652,  68125,   7022, 151645,    198, 151644,    872,    198,   7941,
+          1521,    537,   3867,    279,   1273,     13, 151645,    198, 151644,
+         77091,    198,   7941,   1521,    537,   1896,    279,   1273,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ sentence grammatically<|im_end|>
+<|im_start|>user
+She did not took the test.<|im_end|>
+<|im_start|>assistant
+She did not take the test.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ event
+5.883608341217041
+Context Tokens: 
+tensor([   714,   4428,   3409,     13, 151645,    198, 151644,    872,    198,
+          7941,    949,   1941,    304,    279,   1538,     13, 151645,    198,
+        151644,  77091,    198,   7941,  30308,    304,    279,   1538,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ but similar word.<|im_end|>
+<|im_start|>user
+She partook in the event.<|im_end|>
+<|im_start|>assistant
+She participated in the event.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(21, 46, 72)
+ dinner
+5.872306823730469
+Context Tokens: 
+tensor([    11,    323,   3695,   1045,   3607,    369,  13856,     13, 151645,
+           198, 151644,  77091,    198,   1519,   6801,    311,    728,    311,
+           279,   8061,    323,   3695,   1045,   3607,    369,  13856,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, and buy some food for dinner.<|im_end|>
+<|im_start|>assistant
+He wants to go to the shop and buy some food for dinner.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(11, 36, 62)
+ work
+5.851644992828369
+Context Tokens: 
+tensor([ 42687,     13, 151645,    198, 151644,    872,    198,   7941,   1030,
+          4429,    279,   5828,    311,    975,     13, 151645,    198, 151644,
+         77091,    198,   7941,   4990,    279,   5828,    311,    975,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ tense.<|im_end|>
+<|im_start|>user
+She had taken the bus to work.<|im_end|>
+<|im_start|>assistant
+She takes the bus to work.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ store
+5.795835018157959
+Context Tokens: 
+tensor([ 31428,     13, 151645,    198, 151644,    872,    198,     40,   1033,
+          1101,   2087,    311,    279,   3553, 151645,    198, 151644,  77091,
+           198,     40,    572,   1101,   2087,    311,    279,   3553,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ grammar.<|im_end|>
+<|im_start|>user
+I were just going to the store<|im_end|>
+<|im_start|>assistant
+I was just going to the store.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ party
+5.78395414352417
+Context Tokens: 
+tensor([ 31428,    323,  19482,   5975, 151645,    198, 151644,    872,    198,
+          2610,    572,   3309,    311,    279,   4614, 151645,    198, 151644,
+         77091,    198,   2610,   1033,   3309,    311,    279,   4614,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ grammar and syntax errors<|im_end|>
+<|im_start|>user
+You was late to the party<|im_end|>
+<|im_start|>assistant
+You were late to the party.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(14, 39, 65)
+ movies
+5.776790618896484
+Context Tokens: 
+tensor([  4396,     13, 151645,    198, 151644,    872,    198,  20705,    323,
+           358,   3937,    311,    279,   9508, 151645,    198, 151644,  77091,
+           198,   7941,    323,    358,   3937,    311,    279,   9508,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ correct.<|im_end|>
+<|im_start|>user
+Her and I went to the movies<|im_end|>
+<|im_start|>assistant
+She and I went to the movies.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(19, 44, 70)
+ car
+5.752364158630371
+Context Tokens: 
+tensor([   198, 151644,    872,    198,   4792,    594,    847,  12923,    594,
+           323,    358,   1803,     13, 151645,    198, 151644,  77091,    198,
+          4792,    594,    847,  12923,    594,    323,    847,   1803,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+
+<|im_start|>user
+That's my sister's and I car.<|im_end|>
+<|im_start|>assistant
+That's my sister's and my car.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(5, 30, 56)
+ dinner
+5.740464687347412
+Context Tokens: 
+tensor([   279,   2661,  21085,    304,    279,   3267,  42687,     13, 151645,
+           198, 151644,    872,    198,  13079,    374,   3259,  13856,     13,
+        151645,    198, 151644,  77091,    198,  13079,   1865,  13856,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the given passage in the past tense.<|im_end|>
+<|im_start|>user
+John is making dinner.<|im_end|>
+<|im_start|>assistant
+John made dinner.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+ news
+5.718308925628662
+Context Tokens: 
+tensor([  2661,  11652,     13, 151645,    198, 151644,    872,    198,   7941,
+         54741,  64200,    311,    279,   3669,     13, 151645,    198, 151644,
+         77091,    198,   7941,  54741,  85978,    311,    279,   3669,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ given sentence.<|im_end|>
+<|im_start|>user
+She reacted violently to the news.<|im_end|>
+<|im_start|>assistant
+She reacted forcefully to the news.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(12, 37, 63)
+ store
+5.702174186706543
+Context Tokens: 
+tensor([   315,   1651,     13, 151645,    198, 151644,    872,    198,     40,
+          3937,    311,    279,   3553,     13, 151645,    198, 151644,  77091,
+           198,   1519,     14,   7941,   3937,    311,    279,   3553,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ of view.<|im_end|>
+<|im_start|>user
+I went to the store.<|im_end|>
+<|im_start|>assistant
+He/She went to the store.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+ books
+5.701637268066406
+Context Tokens: 
+tensor([ 12012,    279,   2701,  11652,   1119,    279,   3042,  19259,  42687,
+        151645,    198, 151644,    872,    198,   1519,  15804,   6467, 151645,
+           198, 151644,  77091,    198,   1519,    374,   5290,   6467,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Convert the following sentence into the present continuous tense<|im_end|>
+<|im_start|>user
+He reads books<|im_end|>
+<|im_start|>assistant
+He is reading books.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------

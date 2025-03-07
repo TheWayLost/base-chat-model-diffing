@@ -1,0 +1,286 @@
+Max Activation Value: 
+(81, 106, 132)
+ hands
+10.653548240661621
+Context Tokens: 
+tensor([  311, 13083,  3498,    11,   429,   279, 16770,  1172, 11550,  1846,
+          879,  7629,  1405,  2701,  3151, 31785,    13,   467, 13678,   264,
+         3579, 18202,    11, 27686,   697,  6078,   323, 19429,  2114,   702,
+        16622,   311,   387,   279, 16724, 39139,  1365,   279,  1172,  3166,
+        11259,   304,   279,  1616,   315, 30426, 18873,    13, 35825, 70023,
+        10953])
+Decoded Text:
+ to realize though, that the virus only targets those who aren’t following specific protocols. Wearing a face covering, washing your hands and staying home has proven to be the ultimate remedy – the only thing standing in the way of avoiding infection. Taking preventive measures
+---------------------------
+Max Activation Value: 
+(52, 77, 103)
+ contact
+8.2064847946167
+Context Tokens: 
+tensor([76834,  5269, 56396,   320,    50, 17048,   568,   576, 16770,   374,
+         6941,   369,   279, 26533, 12681, 50660,   389,  1181,  7329,    13,
+         1084, 42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,
+           11,  1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,
+         1283, 39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,
+         2924])
+Decoded Text:
+ Respiratory Syndrome (SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+ hands
+7.61830997467041
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   5912,    369,   6169,   1424,
+          2630,  19049,  14762,     13, 151645,    198, 151644,  77091,    198,
+         37095,  11369,   6078,    369,    518,   3245,    220,     17,     15,
+          6486,    448,  26785,    323,   8205,   3015,     13,  32134,    392,
+           678,   5671,    315,    279,   6078,    323,   1948,    279,  19225,
+            13])
+Decoded Text:
+<|im_start|>system
+Create a rule for proper hand-washing technique.<|im_end|>
+<|im_start|>assistant
+Always wash hands for at least 20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers.
+---------------------------
+Max Activation Value: 
+(53, 78, 104)
+ with
+7.537573337554932
+Context Tokens: 
+tensor([ 5269, 56396,   320,    50, 17048,   568,   576, 16770,   374,  6941,
+          369,   279, 26533, 12681, 50660,   389,  1181,  7329,    13,  1084,
+        42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,    11,
+         1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,  1283,
+        39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,  2924,
+        33553])
+Decoded Text:
+atory Syndrome (SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+plets
+6.893721580505371
+Context Tokens: 
+tensor([  374,  6941,   369,   279, 26533, 12681, 50660,   389,  1181,  7329,
+           13,  1084, 42553, 15503,  1526,  3265,  3645,   448,   458, 28274,
+         1697,    11,  1526,  2613,  6973, 89492,   504,   279, 19142,   476,
+        10780,  1283, 39600,   287,   476, 20760, 10125,   287,    13, 76317,
+          646,  2924, 33553,    11, 19227,  2090,    11,   323,  9058, 39600,
+           13])
+Decoded Text:
+ is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough.
+---------------------------
+Max Activation Value: 
+(69, 94, 120)
+ing
+6.252305030822754
+Context Tokens: 
+tensor([ 1181,  7329,    13,  1084, 42553, 15503,  1526,  3265,  3645,   448,
+          458, 28274,  1697,    11,  1526,  2613,  6973, 89492,   504,   279,
+        19142,   476, 10780,  1283, 39600,   287,   476, 20760, 10125,   287,
+           13, 76317,   646,  2924, 33553,    11, 19227,  2090,    11,   323,
+         9058, 39600,    13,   758, 15386,  5048,    11,   432,   646,  5240,
+        16829])
+Decoded Text:
+ its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can cause difficulty
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ hands
+5.953351974487305
+Context Tokens: 
+tensor([151644,  77091,    198,  37095,  11369,   6078,    369,    518,   3245,
+           220,     17,     15,   6486,    448,  26785,    323,   8205,   3015,
+            13,  32134,    392,    678,   5671,    315,    279,   6078,    323,
+          1948,    279,  19225,     13,  57368,    325,    323,   9058,   6078,
+          6587,    448,    264,   4240,   5567,  42613,     13, 151645,    198,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>assistant
+Always wash hands for at least 20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers. Rinse and dry hands completely with a clean paper towel.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(66, 91, 117)
+ mouth
+5.868022918701172
+Context Tokens: 
+tensor([12681, 50660,   389,  1181,  7329,    13,  1084, 42553, 15503,  1526,
+         3265,  3645,   448,   458, 28274,  1697,    11,  1526,  2613,  6973,
+        89492,   504,   279, 19142,   476, 10780,  1283, 39600,   287,   476,
+        20760, 10125,   287,    13, 76317,   646,  2924, 33553,    11, 19227,
+         2090,    11,   323,  9058, 39600,    13,   758, 15386,  5048,    11,
+          432])
+Decoded Text:
+-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ nose
+5.394798755645752
+Context Tokens: 
+tensor([  279, 26533, 12681, 50660,   389,  1181,  7329,    13,  1084, 42553,
+        15503,  1526,  3265,  3645,   448,   458, 28274,  1697,    11,  1526,
+         2613,  6973, 89492,   504,   279, 19142,   476, 10780,  1283, 39600,
+          287,   476, 20760, 10125,   287,    13, 76317,   646,  2924, 33553,
+           11, 19227,  2090,    11,   323,  9058, 39600,    13,   758, 15386,
+         5048])
+Decoded Text:
+ the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases
+---------------------------
+Max Activation Value: 
+(73, 98, 124)
+ing
+5.340325355529785
+Context Tokens: 
+tensor([42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,    11,
+         1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,  1283,
+        39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,  2924,
+        33553,    11, 19227,  2090,    11,   323,  9058, 39600,    13,   758,
+        15386,  5048,    11,   432,   646,  5240, 16829, 25938,    11, 68229,
+           11])
+Decoded Text:
+ spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can cause difficulty breathing, pneumonia,
+---------------------------
+Max Activation Value: 
+(79, 104, 130)
+ washing
+5.082124710083008
+Context Tokens: 
+tensor([ 1083,  2525,   311, 13083,  3498,    11,   429,   279, 16770,  1172,
+        11550,  1846,   879,  7629,  1405,  2701,  3151, 31785,    13,   467,
+        13678,   264,  3579, 18202,    11, 27686,   697,  6078,   323, 19429,
+         2114,   702, 16622,   311,   387,   279, 16724, 39139,  1365,   279,
+         1172,  3166, 11259,   304,   279,  1616,   315, 30426, 18873,    13,
+        35825])
+Decoded Text:
+ also come to realize though, that the virus only targets those who aren’t following specific protocols. Wearing a face covering, washing your hands and staying home has proven to be the ultimate remedy – the only thing standing in the way of avoiding infection. Taking
+---------------------------
+Max Activation Value: 
+(51, 76, 102)
+ close
+5.061669826507568
+Context Tokens: 
+tensor([ 1070, 76834,  5269, 56396,   320,    50, 17048,   568,   576, 16770,
+          374,  6941,   369,   279, 26533, 12681, 50660,   389,  1181,  7329,
+           13,  1084, 42553, 15503,  1526,  3265,  3645,   448,   458, 28274,
+         1697,    11,  1526,  2613,  6973, 89492,   504,   279, 19142,   476,
+        10780,  1283, 39600,   287,   476, 20760, 10125,   287,    13, 76317,
+          646])
+Decoded Text:
+ute Respiratory Syndrome (SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can
+---------------------------
+Max Activation Value: 
+(62, 87, 113)
+ from
+4.965452671051025
+Context Tokens: 
+tensor([ 6941,   369,   279, 26533, 12681, 50660,   389,  1181,  7329,    13,
+         1084, 42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,
+           11,  1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,
+         1283, 39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,
+         2924, 33553,    11, 19227,  2090,    11,   323,  9058, 39600,    13,
+          758])
+Decoded Text:
+ named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In
+---------------------------
+Max Activation Value: 
+(25, 50, 76)
+ hands
+4.963655471801758
+Context Tokens: 
+tensor([    17,     15,   6486,    448,  26785,    323,   8205,   3015,     13,
+         32134,    392,    678,   5671,    315,    279,   6078,    323,   1948,
+           279,  19225,     13,  57368,    325,    323,   9058,   6078,   6587,
+           448,    264,   4240,   5567,  42613,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+20 seconds with soap and warm water. Scrub all areas of the hands and between the fingers. Rinse and dry hands completely with a clean paper towel.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(56, 81, 107)
+ person
+4.659639358520508
+Context Tokens: 
+tensor([   50, 17048,   568,   576, 16770,   374,  6941,   369,   279, 26533,
+        12681, 50660,   389,  1181,  7329,    13,  1084, 42553, 15503,  1526,
+         3265,  3645,   448,   458, 28274,  1697,    11,  1526,  2613,  6973,
+        89492,   504,   279, 19142,   476, 10780,  1283, 39600,   287,   476,
+        20760, 10125,   287,    13, 76317,   646,  2924, 33553,    11, 19227,
+         2090])
+Decoded Text:
+SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness
+---------------------------
+Max Activation Value: 
+(63, 88, 114)
+ the
+4.462815761566162
+Context Tokens: 
+tensor([  369,   279, 26533, 12681, 50660,   389,  1181,  7329,    13,  1084,
+        42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,    11,
+         1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,  1283,
+        39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,  2924,
+        33553,    11, 19227,  2090,    11,   323,  9058, 39600,    13,   758,
+        15386])
+Decoded Text:
+ for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ after
+4.461459636688232
+Context Tokens: 
+tensor([50660,   389,  1181,  7329,    13,  1084, 42553, 15503,  1526,  3265,
+         3645,   448,   458, 28274,  1697,    11,  1526,  2613,  6973, 89492,
+          504,   279, 19142,   476, 10780,  1283, 39600,   287,   476, 20760,
+        10125,   287,    13, 76317,   646,  2924, 33553,    11, 19227,  2090,
+           11,   323,  9058, 39600,    13,   758, 15386,  5048,    11,   432,
+          646])
+Decoded Text:
+ spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ cough
+4.4155473709106445
+Context Tokens: 
+tensor([  389,  1181,  7329,    13,  1084, 42553, 15503,  1526,  3265,  3645,
+          448,   458, 28274,  1697,    11,  1526,  2613,  6973, 89492,   504,
+          279, 19142,   476, 10780,  1283, 39600,   287,   476, 20760, 10125,
+          287,    13, 76317,   646,  2924, 33553,    11, 19227,  2090,    11,
+          323,  9058, 39600,    13,   758, 15386,  5048,    11,   432,   646,
+         5240])
+Decoded Text:
+ on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can cause
+---------------------------
+Max Activation Value: 
+(54, 79, 105)
+ an
+4.23543119430542
+Context Tokens: 
+tensor([56396,   320,    50, 17048,   568,   576, 16770,   374,  6941,   369,
+          279, 26533, 12681, 50660,   389,  1181,  7329,    13,  1084, 42553,
+        15503,  1526,  3265,  3645,   448,   458, 28274,  1697,    11,  1526,
+         2613,  6973, 89492,   504,   279, 19142,   476, 10780,  1283, 39600,
+          287,   476, 20760, 10125,   287,    13, 76317,   646,  2924, 33553,
+           11])
+Decoded Text:
+ Syndrome (SARS). The virus is named for the crown-like spikes on its surface. It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever,
+---------------------------
+Max Activation Value: 
+(72, 97, 123)
+ez
+4.177491188049316
+Context Tokens: 
+tensor([ 1084, 42553, 15503,  1526,  3265,  3645,   448,   458, 28274,  1697,
+           11,  1526,  2613,  6973, 89492,   504,   279, 19142,   476, 10780,
+         1283, 39600,   287,   476, 20760, 10125,   287,    13, 76317,   646,
+         2924, 33553,    11, 19227,  2090,    11,   323,  9058, 39600,    13,
+          758, 15386,  5048,    11,   432,   646,  5240, 16829, 25938,    11,
+        68229])
+Decoded Text:
+ It spreads primarily through close contact with an infected person, through small droplets from the nose or mouth after coughing or sneezing. Symptoms can include fever, tiredness, and dry cough. In severe cases, it can cause difficulty breathing, pneumonia
+---------------------------

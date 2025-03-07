@@ -1,0 +1,324 @@
+Max Activation Value: 
+(125, 150, 176)
+ about
+0.19765254855155945
+Context Tokens: 
+tensor([  220,    16,    15,    15,    11,    15,    15,    15,   304,   220,
+           17,    15,    16,    22,    11,   448,   220,    16,    15,    24,
+         1251, 22273,   817,  1899,   476,   911,   220,    16,    19,    11,
+           20,    19,    17, 88395,   304,  2790,    11,  1660,   220,    16,
+           16,    13,    24,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,00
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ so
+0.1927567422389984
+Context Tokens: 
+tensor([   15,    23,  6223,  1410, 12488,   400,    18,  7094,    11,   458,
+         6358,  4933,   624,    12, 40345, 13740,   389,  2820,  2453,  7484,
+         2790,   400,    21,    15,  3526,   773,  3041,   419,  1042,   624,
+           12, 34580,   525, 41330, 11519,   504, 26645, 34854,  3856,   311,
+         4948,  3856,   323, 24132, 11178,   448, 19188, 12876,   624,    12,
+        64438])
+Decoded Text:
+08 election could exceed $3 billion, an analysis shows.
+- Television ads on health care alone total $60 million so far this year.
+- Groups are pivoting from legislative advocacy mode to political mode and targeting candidates with aggressive advertising.
+- Candidates
+---------------------------
+Max Activation Value: 
+(127, 152, 178)
+ about
+0.1926414668560028
+Context Tokens: 
+tensor([  220,    16,    15,    15,    11,    15,    15,    15,   304,   220,
+           17,    15,    16,    22,    11,   448,   220,    16,    15,    24,
+         1251, 22273,   817,  1899,   476,   911,   220,    16,    19,    11,
+           20,    19,    17, 88395,   304,  2790,    11,  1660,   220,    16,
+           16,    13,    24,   817,   220,    16,    15,    15,    11,    15,
+           15])
+Decoded Text:
+ 100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,00
+---------------------------
+Max Activation Value: 
+(0, 12, 38)
+ single
+0.186114102602005
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,   1128,    264,  42885,
+           374,    304,    264,   3175,  11652,     13, 151645,    198, 151644,
+         77091,    198,     32,  17944,    374,    458,  51572,   4237,  46933,
+           315,   7377,  14131,  26430,   1667,  86837,     13, 151645,    198,
+        151643, 151643])
+Decoded Text:
+<|im_start|>system
+Summarize what a Blockchain is in a single sentence.<|im_end|>
+<|im_start|>assistant
+A blockchain is an immutable distributed ledger of digital transactions secured using cryptography.<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+ that
+0.1826225221157074
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,    551,    279,   1887,   5693,
+           315,    279,   5567,    330,     32,   9784,   8141,    429,  87554,
+          2380,   7711,  20590,    323,  14612,  22176,      1, 151645,    198,
+        151644,  77091,    198,    785,   5567,    330,     32,   9784,   8141,
+           429,  87554,   2380,   7711,  20590,    323])
+Decoded Text:
+<|im_start|>system
+Summarize the main argument of the paper "A Social Network that Influences Attitudes and Behaviors"<|im_end|>
+<|im_start|>assistant
+The paper "A Social Network that Influences Attitudes and
+---------------------------
+Max Activation Value: 
+(211, 236, 262)
+ on
+0.18231767416000366
+Context Tokens: 
+tensor([ 3419,  7246,   320,    41,   952,     8, 19415,    11, 10693,   432,
+          311,  6923,  9867,  2038,   448,  5068,   429,   374,  3265,   311,
+        91174,  2385, 32501, 15459,   323,   389,  1346,   448,   356,   476,
+        11002,  6576,   382, 27489,    11, 39294,   374,   264,  7988,    11,
+        14720,    11,   323,  1550, 57474, 15473,  4128,  6188,   369, 10916,
+        24231])
+Decoded Text:
+-in-time (JIT) compiler, allowing it to generate native code with performance that is close to statically-typed languages and on par with C or Fortran.
+
+Overall, Julia is a powerful, reliable, and high-performance programming language designed for technical computing
+---------------------------
+Max Activation Value: 
+(4, 29, 55)
+ Austria
+0.17998281121253967
+Context Tokens: 
+tensor([   279,   5837,    429,    525,    304,    279,   5016,    826,    268,
+          3082,     13, 151645,    198, 151644,  77091,    198,    785,   5837,
+           304,    279,   5016,    826,    268,   3082,    525,  34898,     11,
+         32961,     11,  33150,   5429,     11,  34340,     11,  68362,     11,
+         36255,     11,   9625,     11,   9856,     11,  24427,     11,  42776,
+            11,  38396,     11,  15344,     11,  78158])
+Decoded Text:
+ the countries that are in the Schengen area.<|im_end|>
+<|im_start|>assistant
+The countries in the Schengen area are Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+D
+0.17908087372779846
+Context Tokens: 
+tensor([ 28301,   1437,    279,  12344,    829,    369,    279,  17218,    304,
+           279,   6548,     13, 151645,    198, 151644,  77091,    198,     35,
+           408,  22740,    973,  24790,   4904,   9156,    320,     35,   9011,
+           287,  51112,  48097,  59881,      8, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+Identify the scientific name for the creature in the photo.<|im_end|>
+<|im_start|>assistant
+Dendrobates tinctorius (Dyeing Poison Dart frog)<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(126, 151, 177)
+ 
+0.1785530149936676
+Context Tokens: 
+tensor([   16,    15,    15,    11,    15,    15,    15,   304,   220,    17,
+           15,    16,    22,    11,   448,   220,    16,    15,    24,  1251,
+        22273,   817,  1899,   476,   911,   220,    16,    19,    11,    20,
+           19,    17, 88395,   304,  2790,    11,  1660,   220,    16,    16,
+           13,    24,   817,   220,    16,    15,    15,    11,    15,    15,
+           15])
+Decoded Text:
+100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000
+---------------------------
+Max Activation Value: 
+(190, 215, 241)
+ that
+0.17820125818252563
+Context Tokens: 
+tensor([   11,   279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,
+          501,  4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,
+         8960,    82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,
+          504,  4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304,
+        10557,   594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,
+         2086])
+Decoded Text:
+, the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second
+---------------------------
+Max Activation Value: 
+(31, 56, 82)
+ host
+0.1772274672985077
+Context Tokens: 
+tensor([ 1084, 17167,   315,   279,  3766,    11,  1849, 20186,    11,   323,
+         1008,  6546,  3542,  5871,   369,   264,  3151,  3383,    13,   576,
+         5476,  8473,  2878,   264, 26588,  3468,    11,   892, 13098,   973,
+          279,  5476,   504,  1008,  3468,  4963,   323,   374,  8480,   369,
+        18150,  1181,  2272, 10775,    13, 40549, 23853,   525, 29144,   323,
+         7548])
+Decoded Text:
+ It consists of the application, system libraries, and other configuration files necessary for a specific task. The container runs within a docker host, which isolates the container from other host resources and is responsible for managing its life cycle. Docker containers are lightweight and highly
+---------------------------
+Max Activation Value: 
+(310, 335, 361)
+By
+0.17689311504364014
+Context Tokens: 
+tensor([  646,   990,   264, 16558,  5392,  1741,   438, 51198,  3122,   476,
+        21631,   329,   538,   311,  3754,  2155, 16734,  1741,   438, 13403,
+         4379,   323, 44378,   882,   382,  1359,  2701,  1493,  7354,    11,
+          498,   646, 10517,   697,  5662,  6832,  1614,  6157,   323, 29720,
+           13,  1416,   498,  1184,  1492,   448,   894,   315,  1493,  7354,
+           11])
+Decoded Text:
+ can use a monitoring tool such as Splunk or Datadog to track different metrics such as accuracy rate and inference time.
+
+By following these steps, you can deploy your machine learning model quickly and efficiently. If you need help with any of these steps,
+---------------------------
+Max Activation Value: 
+(90, 115, 141)
+
+
+0.1763351559638977
+Context Tokens: 
+tensor([19828,   198,    17, 25374, 16158, 44893,   198,    16,   320,    16,
+           19,    13,    20, 53708,     8,   646, 88864, 40513,   198,    17,
+        25374, 29105,   323, 88864, 16158,   198,    17, 25374, 29105,   323,
+          283,  4517, 58886,   198,    16,   320,    16,    15, 53708,     8,
+         6328, 47615,  5394,   956,   198, 20170, 29105,  4158, 19653,   271,
+        55291])
+Decoded Text:
+ flour
+2 cups chicken broth
+1 (14.5 ounce) can diced tomatoes
+2 cups cooked and diced chicken
+2 cups cooked andouille sausage
+1 (10 ounce) package sliced okra
+Hot cooked white rice
+
+Instructions
+---------------------------
+Max Activation Value: 
+(128, 153, 179)
+ 
+0.17566916346549988
+Context Tokens: 
+tensor([   16,    15,    15,    11,    15,    15,    15,   304,   220,    17,
+           15,    16,    22,    11,   448,   220,    16,    15,    24,  1251,
+        22273,   817,  1899,   476,   911,   220,    16,    19,    11,    20,
+           19,    17, 88395,   304,  2790,    11,  1660,   220,    16,    16,
+           13,    24,   817,   220,    16,    15,    15,    11,    15,    15,
+           15])
+Decoded Text:
+100,000 in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000
+---------------------------
+Max Activation Value: 
+(70, 95, 121)
+ a
+0.17555585503578186
+Context Tokens: 
+tensor([   65, 20287, 11995,   248,     7,    65,    17,   481,   220,    19,
+          580,  7252,   608,   220,    17,    64,    13,  3719,  3696, 10607,
+          293,   284,   481,    19,    11,   264,   284,   220,    16,    11,
+          323,   272,   284,   220,    19,  1119,   279, 23606,    11,   279,
+        19703,   525, 12180,   438,   856,   284,   220,    17, 20287, 11995,
+          248])
+Decoded Text:
+b ± √(b2 - 4ac)] / 2a. Substituting b = -4, a = 1, and c = 4 into the equation, the roots are obtained as x = 2 ± √
+---------------------------
+Max Activation Value: 
+(109, 134, 160)
+
+
+0.17543655633926392
+Context Tokens: 
+tensor([   17, 25374, 29105,   323, 88864, 16158,   198,    17, 25374, 29105,
+          323,   283,  4517, 58886,   198,    16,   320,    16,    15, 53708,
+            8,  6328, 47615,  5394,   956,   198, 20170, 29105,  4158, 19653,
+          271, 55291,  1447,    16,    13, 26070,  5590,   304,   264,  3460,
+         3338,   916, 11051,  8628,   624,    17,    13,  2691, 44597,    11,
+        30635])
+Decoded Text:
+2 cups cooked and diced chicken
+2 cups cooked andouille sausage
+1 (10 ounce) package sliced okra
+Hot cooked white rice
+
+Instructions:
+
+1. Heat oil in a large pot over medium heat.
+2. Add onions, garlic
+---------------------------
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.17520663142204285
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
++
+0.1739201545715332
+Context Tokens: 
+tensor([  8948,    198,  35127,    264,    220,     20,  29208,   1882,    311,
+         11625,    419,   6888,  23606,     13, 151645,    198, 151644,    872,
+           198,   2075,     61,     17,     10,     20,     87,     10,     21,
+         24254,     87,     12,     17,      8, 151645,    198, 151644,  77091,
+           198,     16,     13,  10388,    279,  23606,    311,  19419,   3619,
+          1352,     11,    773,    429,    432,    646])
+Decoded Text:
+system
+Give a 5-step process to solve this math equation.<|im_end|>
+<|im_start|>user
+(x^2+5x+6)/(x-2)<|im_end|>
+<|im_start|>assistant
+1. Change the equation to fraction bar form, so that it can
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ Norway
+0.17080000042915344
+Context Tokens: 
+tensor([151644,   8948,    198,    675,    264,   5411,  61368,   6118,    304,
+          4505, 151645,    198, 151644,  77091,    198,     51,    355,    268,
+            37,    884,     67,   3303,  42665,   5540,    304,  31503,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Name a popular amusement park in Europe<|im_end|>
+<|im_start|>assistant
+TusenFryd Amusement Park in Norway.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(135, 160, 186)
+ homicides
+0.17018821835517883
+Context Tokens: 
+tensor([  304,   220,    17,    15,    16,    22,    11,   448,   220,    16,
+           15,    24,  1251, 22273,   817,  1899,   476,   911,   220,    16,
+           19,    11,    20,    19,    17, 88395,   304,  2790,    11,  1660,
+          220,    16,    16,    13,    24,   817,   220,    16,    15,    15,
+           11,    15,    15,    15,   304,   220,    17,    15,    16,    23,
+           13])
+Decoded Text:
+ in 2017, with 109 people dying per day or about 14,542 homicides in total, being 11.9 per 100,000 in 2018.
+---------------------------

@@ -1,0 +1,301 @@
+Max Activation Value: 
+(45, 70, 96)
+3
+0.36348453164100647
+Context Tokens: 
+tensor([32062,  4357,   304,   279,  1879,   624,    12,  1084,  5990, 14521,
+          220,    17,    11,    16,    23,    15,   311,   220,    17,    11,
+           17,    15,    15,  8756,   320,    18,    11,    20,    15,    15,
+          311,   220,    18,    11,    22,    15,    15, 13136,     8,   916,
+          264,  6514,   315, 10063,    11,   305, 14385,    11,   323, 16301,
+          782])
+Decoded Text:
+ cycling events in the world.
+- It usually covers 2,180 to 2,200 miles (3,500 to 3,700 km) over a mix of flat, hilly, and mountainous
+---------------------------
+Max Activation Value: 
+(36, 61, 87)
+ March
+0.34653326869010925
+Context Tokens: 
+tensor([   355,  25442,   9156,   5724,  70856,    323,  35683,  11782,   9156,
+         70725,    355,     11,    304,    279,   9891,   4678,    389,    279,
+          5223,    288,    315,   5470,    320,     16,     20,   5470,      8,
+           315,    220,     19,     19,  18040,     13, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+us Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(3, 28, 54)
+2
+0.34477466344833374
+Context Tokens: 
+tensor([ 10380,    705,    279,  49837,   1459,    315,   3015,     13, 151645,
+           198, 151644,  77091,    198,    785,  49837,   1459,    315,   3015,
+           374,    220,     16,     15,     15,  30937,    320,     17,     16,
+            17,  58472,    701,    518,   5297,  44375,   7262,     13,   3197,
+         31713,    518,   5080,  39750,     11,   3015,    594,  49837,   1459,
+         12703,     13,   1752,   3110,     11,   3015])
+Decoded Text:
+Look up the boiling point of water.<|im_end|>
+<|im_start|>assistant
+The boiling point of water is 100°C (212°F), at standard atmospheric pressure. When heated at higher pressures, water's boiling point increases. For example, water
+---------------------------
+Max Activation Value: 
+(44, 69, 95)
+2
+0.3377765417098999
+Context Tokens: 
+tensor([  323,   646,   387,  1730,   304,   279, 68910,   642,   315,  1532,
+        47803,    13,  1084,   702,   264, 26204,   848,   315,   705,   311,
+          220,    16,    16, 14924,   320,    17,    23,  9961,     8,   323,
+         1817, 20013,   374,  5383,   291,   448,  3691,    11, 13753,    11,
+          323,  6176,  7987,    13, 34195,  3831,   525,  8131,   323, 52557,
+        27197])
+Decoded Text:
+ and can be found in the jungles of New Guinea. It has a wingspan of up to 11 inches (28 cm) and each wing is patterned with black, yellow, and green colors. Females are larger and brighter colored
+---------------------------
+Max Activation Value: 
+(17, 42, 68)
+,
+0.33684441447257996
+Context Tokens: 
+tensor([    15,     15,  16539,    323,    458,   2734,   4379,    315,    220,
+            21,  13384,  87324,  29071, 151645,    198, 151644,  77091,    198,
+          1655,    279,    835,    315,   1042,    220,     16,     11,    279,
+          3311,    304,    279,   6073,   2692,   1035,    387,    400,     16,
+            15,     21,     13,    758,   1042,    220,     17,     11,    279,
+          3311,   1035,    387,    400,     16,     16])
+Decoded Text:
+00 deposit and an interest rate of 6%, compounded annually<|im_end|>
+<|im_start|>assistant
+At the end of year 1, the amount in the bank account would be $106. In year 2, the amount would be $11
+---------------------------
+Max Activation Value: 
+(20, 45, 71)
+2
+0.3295156955718994
+Context Tokens: 
+tensor([   279,   1879,    374,  10423,  86478,     11,    892,    374,   7407,
+           304,  48964,    323,  37168,    311,    264,   2608,    315,    220,
+            23,     11,     23,     19,     23,  20044,    320,     17,     24,
+            11,     15,     17,     24,   7541,    568, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the world is Mount Everest, which is located in Nepal and rises to a height of 8,848 meters (29,029 feet).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(350, 375, 401)
+ that
+0.31752991676330566
+Context Tokens: 
+tensor([  264,  2664,  8660,   315,  3644,  4714,    13,  4710,    32, 17775,
+        18560,  6731,   374, 55093,   323,  1265,   537,   387, 84205,   291,
+          553,  1846,   879,  1035,  4190,   429,   432,   374,   264,  3166,
+          315,   279,  3267,    13,  1084,   646, 25386,   498,   448,   279,
+         7361,   323,  6540,  5871,   311, 11996,   304,   264,  8045,   315,
+         5043])
+Decoded Text:
+ a better understanding of global issues. 
+
+A liberal arts education is invaluable and should not be overshadowed by those who would suggest that it is a thing of the past. It can equip you with the skills and knowledge necessary to succeed in a variety of fields
+---------------------------
+Max Activation Value: 
+(41, 66, 92)
+2
+0.3160892724990845
+Context Tokens: 
+tensor([ 5080, 39750,    11,  3015,   594, 49837,  1459, 12703,    13,  1752,
+         3110,    11,  3015,   686, 43690,   518,   264,  9315,   315,   220,
+           16,    16,    20, 30937,   320,    17,    18,    24, 58472,     8,
+          518,   458, 44375,  7262,   315,   220,    16,  3619,    13,  2411,
+         5080, 39750,    11,  1741,   438,  1846, 10321,   518,   279,  5622,
+          315])
+Decoded Text:
+ higher pressures, water's boiling point increases. For example, water will boil at a temperature of 115°C (239°F) at an atmospheric pressure of 1 bar. At higher pressures, such as those experienced at the bottom of
+---------------------------
+Max Activation Value: 
+(86, 111, 137)
+7
+0.3152600824832916
+Context Tokens: 
+tensor([  1846,  10321,    518,    279,   5622,    315,    279,  17951,     11,
+           279,  49837,   1459,    315,   3015,    646,    387,    438,   1550,
+           438,    220,     18,     22,     19,  30937,    320,     22,     15,
+            20,  58472,    568, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ those experienced at the bottom of the ocean, the boiling point of water can be as high as 374°C (705°F).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(18, 43, 69)
+2
+0.31464865803718567
+Context Tokens: 
+tensor([ 16301,    304,   4882,   5159,    374,    362,  40446,  54648,   7407,
+           304,  31064,     13,   1084,    702,    264,   2608,    315,    220,
+            21,     11,     24,     21,     17,  20044,    320,     17,     17,
+            11,     23,     19,     16,   7541,    568, 151645,    198, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ mountain in South America is Aconcagua located in Argentina. It has a height of 6,962 meters (22,841 feet).<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ (
+0.3101712763309479
+Context Tokens: 
+tensor([   15,    15,   311,   220,    20,    15,    11,    15,    15,    15,
+        10951,  3046,  3145,  8147,    11,   892, 10000,   504,   279,  9396,
+          323, 14501,   220,    18,  8756,   320,    19,    13,    23, 13136,
+            8,   311,   279, 43006,  1909,    13,   362,  2205, 13016, 57173,
+          264, 14538,  4752,   279,  5240,  3117,   311,  5545, 19085,   311,
+         4367])
+Decoded Text:
+00 to 50,000 massive basalt columns, which rise from the sea and stretch 3 miles (4.8 km) to the cliff top. A local legend cites a giant building the causeway to reach Scotland to fight
+---------------------------
+Max Activation Value: 
+(37, 62, 88)
+)
+0.3076196312904358
+Context Tokens: 
+tensor([ 25442,   9156,   5724,  70856,    323,  35683,  11782,   9156,  70725,
+           355,     11,    304,    279,   9891,   4678,    389,    279,   5223,
+           288,    315,   5470,    320,     16,     20,   5470,      8,    315,
+           220,     19,     19,  18040,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ Cassius Longinus and Marcus Junius Brutus, in the Senate House on the Ides of March (15 March) of 44 BC.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(1, 26, 52)
+ to
+0.3044305741786957
+Context Tokens: 
+tensor([  8948,    198,  74785,   3170,    498,   1035,   1075,    311,    975,
+           369,    419,   2813,     13, 151645,    198, 151644,  77091,    198,
+            40,   1079,   1602,  12035,    911,    279,   6638,    311,    975,
+           369,    419,   2813,   1576,    315,   1181,  18199,   2562,  12378,
+            11,  15155,    311,  12158,  40229,     11,    323,   3746,   2750,
+           315,  16614,     13,    358,   4411,    279])
+Decoded Text:
+system
+Describe why you would like to work for this company.<|im_end|>
+<|im_start|>assistant
+I am very excited about the opportunity to work for this company because of its innovative business practices, commitment to environmental sustainability, and strong values of integrity. I believe the
+---------------------------
+Max Activation Value: 
+(190, 215, 241)
+ for
+0.29625770449638367
+Context Tokens: 
+tensor([  279,  7649,    11,   323, 10449,   432,   311,   279,  3743,    13,
+         2932,   572, 10199,   448, 15888,   323, 19472,  1059, 11715,  2163,
+          393,  6363,    11, 93021,  1435,   369,  9271,  1059,  5558,  7649,
+           13,  5542,  1221,   389,    11,   393,  6363,   323,   279,  2632,
+         3743,  6116,  1850,   315,  4780,   323,  1035,   728,   369, 22479,
+         2163])
+Decoded Text:
+ the doll, and presented it to the girl. She was filled with joy and wrapped her arms around Pongo, thanking him for finding her lost doll. From then on, Pongo and the little girl became best of friends and would go for walks around
+---------------------------
+Max Activation Value: 
+(93, 118, 144)
+ to
+0.29452529549598694
+Context Tokens: 
+tensor([ 12922,     13,   4636,    264,   1293,    323,    796,   1054,    782,
+         11618,     11,    619,  23114,    572,   2952,    311,   5312,    279,
+          9396,    323,   1281,   1181,   1616,   1182,   2114,    311,   1181,
+         19919,     13, 151645,    198, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ island. After a long and arduous journey, JEDI was able to cross the sea and make its way back home to its creator.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(80, 105, 131)
+ soda
+0.2905076742172241
+Context Tokens: 
+tensor([   17, 10525,   315, 35481,  5590,    13,   758,  2441, 19212,    11,
+         6514,  3786,   220,    17, 25374,   315,   678, 58238, 19828,    11,
+          220,    16, 41284,   315, 27815, 38862,    11,   220,    16, 41284,
+          315, 27815, 16723,    11,   323,   220,    16, 41284,   315, 12021,
+           13, 21794,  1832,   912,   279, 14401, 13966,   311,   279,  9058,
+        13966])
+Decoded Text:
+2 cup of vegetable oil. In another bowl, mix together 2 cups of all-purpose flour, 1 teaspoon of baking soda, 1 teaspoon of baking powder, and 1 teaspoon of salt. Gradually add the wet ingredients to the dry ingredients
+---------------------------
+Max Activation Value: 
+(28, 53, 79)
+0
+0.2901982367038727
+Context Tokens: 
+tensor([    16,     15,     13,     18,    817,    220,     16,     15,     15,
+            11,     15,     15,     15,    311,    220,     16,     17,    817,
+           220,     16,     15,     15,     11,     15,     15,     15,    504,
+           220,     16,     24,     24,     24,    311,    220,     17,     15,
+            16,     22,     13, 151645,    198, 151644,  77091,    198,     40,
+          7172,    279,   4379,    315,  35605,  16375])
+Decoded Text:
+10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.<|im_end|>
+<|im_start|>assistant
+I increased the rate of firearm deaths
+---------------------------
+Max Activation Value: 
+(42, 67, 93)
+ for
+0.289356529712677
+Context Tokens: 
+tensor([69245,  9740,  4405,   518,   279, 86738,    11,  5644,   518,   279,
+        51839,   304, 19335,    13,  9740,  4405,  1865,   264,  8806,    11,
+        93021,   806, 23956,   323, 31646,   369, 10476,  1435,  5545,   806,
+         5795,    13,   576, 10650, 84523,   323, 95628,   369, 69245,    11,
+        12678,   264, 82112, 16566,   311,   279,  1538,    13,  1096, 32496,
+        21536])
+Decoded Text:
+ Julius Erving at the banquet, held at the Spectrum in Philadelphia. Erving made a speech, thanking his coaches and teammates for helping him reach his goal. The audience cheered and applauded for Julius, bringing a joyful atmosphere to the event. This memorable ceremony
+---------------------------
+Max Activation Value: 
+(55, 80, 106)
+,
+0.288324236869812
+Context Tokens: 
+tensor([  304,   279, 11514, 36735,   977,    13,  1634,   279,  1172,   825,
+          315,   279, 42143,   879, 37168,   311,   279,  8416, 30872,   301,
+         2382,   315,   279, 11673,  2813,    11, 16046, 41727, 10577,   806,
+         1182,   389,   806,  4741, 66028,   304,  4694,   315, 22136,   806,
+         1828, 11772,    13,  1260,  4344,   504,  1660,   264, 28847,   323,
+         3093])
+Decoded Text:
+ in the novel Germinal. As the only one of the miners who rises to the upper echelons of the mining company, Gregoire turns his back on his former comrades in favor of promoting his own interests. He changes from being a loyal and kind
+---------------------------
+Max Activation Value: 
+(2, 27, 53)
+0
+0.28790438175201416
+Context Tokens: 
+tensor([   198,   9885,    279,   5099,   7706,    315,    264,   1555,  10238,
+         18169,    279,   3501,    320,     18,     11,    220,     19,      8,
+           323,    320,     16,     16,     11,    220,     16,     15,    568,
+        151645,    198, 151644,  77091,    198,    785,   5099,   7706,    315,
+           264,   1555,  10238,  18169,    279,   3501,    320,     18,     11,
+           220,     19,      8,    323,    320,     16])
+Decoded Text:
+
+Find the midpoints of a line segment joining the points (3, 4) and (11, 10).<|im_end|>
+<|im_start|>assistant
+The midpoints of a line segment joining the points (3, 4) and (1
+---------------------------

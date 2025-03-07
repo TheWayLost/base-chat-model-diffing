@@ -1,0 +1,372 @@
+Max Activation Value: 
+(0, 17, 43)
+
+
+4.145121097564697
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  86801,    311,   6099,    279,
+          8063,  32875,    315,   1039,  12941,   1849,     13, 151645,    198,
+        151644,  77091,    198,     44,   3017,  21048,    647,  48976,    468,
+          9237,    386,  43562,    619,  49689,    328,  49153,    547,  79670,
+           355,    451,  79624, 151645,    198, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Create a mnemonic to remember the eight planets of our solar system.<|im_end|>
+<|im_start|>assistant
+M My Mars V Venus E Earth M Mercury J Jupiter S Saturn U Uranus N Neptune<|im_end|>
+<|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+4.083105564117432
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,   1965,    315,   5779,    315,
+           279,   1879,    594,  92018,   1251,     13, 151645,    198, 151644,
+         77091,    198,    675,   3502,    760,   9374,  36146,    320,  26749,
+           340,  85126,     91,    771,   6913,  38627,   2823,  53701,    503,
+           760,    220,     16,     22,     24,     13])
+Decoded Text:
+<|im_start|>system
+Create a table of ten of the world's wealthiest people.<|im_end|>
+<|im_start|>assistant
+Name                          | Net Worth (USD)
+------------------------------|-----------------
+Jeff Bezos                    | 179.
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+4.0604987144470215
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  29587,   1140,    369,    264,
+          2003,    594,   5802,    315,  20969,     13, 151645,    198, 151644,
+           872,    198,   7823,   1127,    369,    279,   2003,     25,   3089,
+         63965,     11,  84401,     11,  60633,  16158,     11,  23065,   2220,
+           884, 151645,    198, 151644,  77091,    198])
+Decoded Text:
+<|im_start|>system
+Create a grocery list for a week's worth of meals.<|im_end|>
+<|im_start|>user
+Meals for the week: Spaghetti, tacos, grilled chicken, stir-fry<|im_end|>
+<|im_start|>assistant
+
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+4.059389591217041
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,  12426,    369,    264,  10729,
+           429,  17045,   8606,   8453,  25779,     13, 151645,    198, 151644,
+         77091,    198,    785,  12426,   1410,    387,    264,   4778,   6083,
+           448,  48235,  87333,  52061,   1618,  92070,    304,    279,   4126,
+            11,   3209,   2437,    832,    553,    264])
+Decoded Text:
+<|im_start|>system
+Design a logo for a restaurant that serves traditional Chinese dishes.<|im_end|>
+<|im_start|>assistant
+The logo could be a round shape with Chinatown-inspired calligraphy in the center, encircled by a
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+4.045420169830322
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,   3482,   2621,    369,    264,
+          2311,  27682,   3910,     13, 151645,    198, 151644,  77091,    198,
+          2190,   5504,  30528,    804,    905, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Construct a web address for a book recommendation website.<|im_end|>
+<|im_start|>assistant
+book-recommendations.com<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+4.038092613220215
+Context Tokens: 
+tensor([151644,   8948,    198,    852,    279,   1909,   5779,   8426,  38935,
+           304,    279,   1879,     13, 151645,    198, 151644,  77091,    198,
+           785,   1909,   5779,   8426,  23501,    304,    279,   1879,    525,
+         10423,  86478,    320,     23,     11,     23,     19,     23,    296,
+           701,    730,     17,    320])
+Decoded Text:
+<|im_start|>system
+List the top ten highest peaks in the world.<|im_end|>
+<|im_start|>assistant
+The top ten highest mountains in the world are Mount Everest (8,848 m), K2 (
+---------------------------
+Max Activation Value: 
+(0, 24, 50)
+
+
+4.037549018859863
+Context Tokens: 
+tensor([151644,   8948,    198,   8078,    264,  15085,  11657,  12000,   1667,
+           279,   2701,  13966,     25,  34167,     11,   1147,  85570,     11,
+         40513,     11,    323,  57473,     13, 151645,    198, 151644,    872,
+           198,  44616,  20187,     11,   1147,  85570,     11,  40513,     11,
+           323,  57473,     13, 151645,    198, 151644,  77091,    198,   3966,
+          3204,  11116,   1410,    387,    311])
+Decoded Text:
+<|im_start|>system
+Make a wallet friendly dish using the following ingredients: potatoes, zucchini, tomatoes, and peppers.<|im_end|>
+<|im_start|>user
+Potatoes, zucchini, tomatoes, and peppers.<|im_end|>
+<|im_start|>assistant
+One possible recipe could be to
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+3.9864115715026855
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  86801,    369,  47284,    279,
+          7987,    315,    279,  47613,     13, 151645,    198, 151644,  77091,
+           198,  41215,   4940,   4261,    479,    523,  16115,    758,    647,
+           466,     25,   3731,     11,  21958,     11,  25462,     11,   7840,
+            11,   8697,     11,   2263,   7836])
+Decoded Text:
+<|im_start|>system
+Create a mnemonic for remembering the colors of the rainbow.<|im_end|>
+<|im_start|>assistant
+Richard Of York Gave Battle In Vain: Red, Orange, Yellow, Green, Blue, Indigo
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+3.9771013259887695
+Context Tokens: 
+tensor([151644,   8948,    198,     50,   3799,    264,   9314,  17496,  11116,
+           369,    264,  13028,   6556,     13, 151645,    198, 151644,  77091,
+           198,   1918,   9287,    506,   1862,    448,    431,  13367,  35889,
+           323,  14574,  63766,   1447,  45747,     25,    715,     12,    220,
+            16,  10525,    315,   2310,  63269])
+Decoded Text:
+<|im_start|>system
+Suggest a healthy breakfast recipe for a busy morning.<|im_end|>
+<|im_start|>assistant
+Overnight Oats with Raspberries and Walnuts:
+
+Ingredients: 
+- 1 cup of old-fashioned
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+3.9090514183044434
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,  11521,    829,    369,    264,
+         10729,  13480,  23279,  35005,     13, 151645,    198, 151644,  77091,
+           198,     51,  16428,  13971,     13, 151645,    198, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a creative name for a restaurant serving Mexican cuisine.<|im_end|>
+<|im_start|>assistant
+Taco Town.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+3.8830747604370117
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,   4236,   3204,
+         55233,    369,    458,  14667,   5458,     13, 151645,    198, 151644,
+         77091,    198,  65222,  55233,    369,    458,  14667,   5458,   2924,
+          8267,  14667,     11,   6366,  14667,     11,  19734,  14667,     11,
+         22148,  14667,     11,    323,  77064,  14667])
+Decoded Text:
+<|im_start|>system
+Generate a list of five possible majors for an engineering student.<|im_end|>
+<|im_start|>assistant
+Possible majors for an engineering student include civil engineering, computer engineering, electrical engineering, mechanical engineering, and aerospace engineering
+---------------------------
+Max Activation Value: 
+(0, 13, 39)
+
+
+3.8654842376708984
+Context Tokens: 
+tensor([151644,   8948,    198,   4021,    264,  47077,    369,    264,    501,
+          8493,   4796,     13, 151645,    198, 151644,  77091,    198,      2,
+          3564,  27169,  89098, 151645,    198, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643])
+Decoded Text:
+<|im_start|>system
+Create a hashtag for a new marketing campaign.<|im_end|>
+<|im_start|>assistant
+#NewBrandAdventure<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 17, 43)
+
+
+3.8477964401245117
+Context Tokens: 
+tensor([151644,   8948,    198,   7985,    279,  23261,    369,    458,  84673,
+          5492,    911,    279,  93798,    315,   7324,     13, 151645,    198,
+        151644,    872,    198,   2753,   1946,     13, 151645,    198, 151644,
+         77091,    198,  68043,    220,     16,    510,  39766,   2849,    323,
+         39698,  49293,    345,     39,  66291,    304,    279])
+Decoded Text:
+<|im_start|>system
+Write the lyrics for an upbeat song about the joys of summer.<|im_end|>
+<|im_start|>user
+No input.<|im_end|>
+<|im_start|>assistant
+Verse 1:
+Lazy days and sunny skies,
+Happiness in the
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+
+
+3.842884063720703
+Context Tokens: 
+tensor([151644,   8948,    198,  28851,    705,    448,    264,   1140,    315,
+          5779,    993,  86578,    429,   7512,    697,  38184,     13, 151645,
+           198, 151644,  77091,    198,   5531,    782,     11,   8205,     11,
+         21258,     11,   3093,     11,  23335,     11,  56214,     11,  58680,
+            11,  69846,     11,   8720,     11,   3746,     13, 151645])
+Decoded Text:
+<|im_start|>system
+Come up with a list of ten adjectives that describe your grandmother.<|im_end|>
+<|im_start|>assistant
+Generous, warm, loving, kind, wise, inspirational, resilient, humorous, patient, strong.<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 15, 41)
+
+
+3.837385654449463
+Context Tokens: 
+tensor([151644,   8948,    198,  28468,    264,  23820,   1140,    369,    458,
+         15235,  40403,   6236,   6331,     13, 151645,    198, 151644,  77091,
+           198,     32,  23820,   1140,    369,    458,  15235,  40403,   6236,
+          6331,   2578,   2924,    279,   2701,   4244,     25,  94085,    320,
+         14990,     11,  15588,     11,  34209])
+Decoded Text:
+<|im_start|>system
+Construct a vocab list for an AI-powered chatbot.<|im_end|>
+<|im_start|>assistant
+A vocab list for an AI-powered chatbot might include the following words: greetings (hello, hi, hey
+---------------------------
+Max Activation Value: 
+(0, 14, 40)
+
+
+3.805819034576416
+Context Tokens: 
+tensor([151644,   8948,    198,  28301,   1437,    264,  15473,   4128,  14452,
+           369,   1809,   4401,     13, 151645,    198, 151644,  77091,    198,
+            34,   1027,    374,    264,  14452,  15473,   4128,    369,   1809,
+          4401,     11,    438,    432,    374,    264,   1550,  57474,   4128,
+           429,    646,   3705,   6351])
+Decoded Text:
+<|im_start|>system
+Identify a programming language suitable for game development.<|im_end|>
+<|im_start|>assistant
+C++ is a suitable programming language for game development, as it is a high-performance language that can handle complex
+---------------------------
+Max Activation Value: 
+(0, 18, 44)
+
+
+3.791719436645508
+Context Tokens: 
+tensor([151644,   8948,    198,  31115,    264,   1140,    315,    220,     20,
+          5837,    448,    279,   8426,   3738,   4401,   1922,     13, 151645,
+           198, 151644,  77091,    198,     16,     13,  31503,    198,     17,
+            13,  29121,    198,     18,     13,   8330,    198,     19,     13,
+         14648,    198,     20,     13,   9856, 151645,    198, 151643])
+Decoded Text:
+<|im_start|>system
+Generate a list of 5 countries with the highest human development index.<|im_end|>
+<|im_start|>assistant
+1. Norway
+2. Switzerland
+3. Australia
+4. Ireland
+5. Germany<|im_end|>
+<|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 20, 46)
+
+
+3.7824501991271973
+Context Tokens: 
+tensor([151644,   8948,    198,   8078,    264,   1140,    315,   4236,  17795,
+         35644,    504,    279,    220,     16,     24,     24,     15,     82,
+            13, 151645,    198, 151644,  77091,    198,     16,     13,   2825,
+         13884,    198,     17,     13,  41109,   9127,    198,     18,     13,
+         44528,  25553,    198,     19,     13,   1532,   7607,  52086,    198,
+            20])
+Decoded Text:
+<|im_start|>system
+Make a list of five musical genres from the 1990s.<|im_end|>
+<|im_start|>assistant
+1. Grunge
+2. Alternative Rock
+3. Hip Hop
+4. New Jack Swing
+5
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+3.780357837677002
+Context Tokens: 
+tensor([151644,   8948,    198,  60424,    264,   1140,   8482,   4236,    993,
+         86578,    311,   7512,    458,  45740,     13, 151645,    198, 151644,
+         77091,    198,     16,     13,  30679,   9826,    715,     17,     13,
+         77088,    715,     18,     13,  50783,    715,     19,     13,  73469,
+           715,     20,     13,   2825,  19430, 151645])
+Decoded Text:
+<|im_start|>system
+Provide a list containing five adjectives to describe an elephant.<|im_end|>
+<|im_start|>assistant
+1. Majestic 
+2. Intelligent 
+3. Huge 
+4. Gentle 
+5. Gracious<|im_end|>
+---------------------------
+Max Activation Value: 
+(0, 16, 42)
+
+
+3.77889347076416
+Context Tokens: 
+tensor([151644,   8948,    198,  20470,    264,    501,  12426,    369,    264,
+          2813,    429,  30778,  21803,   3871,     13, 151645,    198, 151644,
+         77091,    198,     32,  26931,  12426,    448,    264,   6176,   4004,
+         70607,    264,  23918,    448,    458,   8115,   2168,    315,   1378,
+           946,  24633,   6078,    304,    279,   4126])
+Decoded Text:
+<|im_start|>system
+Design a new logo for a company that sells sustainable products.<|im_end|>
+<|im_start|>assistant
+A circular logo with a green background resembling a globe with an abstract image of two interlocked hands in the center
+---------------------------

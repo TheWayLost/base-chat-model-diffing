@@ -1,0 +1,294 @@
+Max Activation Value: 
+(201, 226, 252)
+ peace
+3.7509474754333496
+Context Tokens: 
+tensor([   646,   1492,    601,   4564,    448,   1846,    525,    902,   5021,
+           448,    601,     13,   1634,    279,  21536,   9482,     11,   5019,
+          6476,    264,  35546,   5530,    315,   3900,    323,   8919,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ can help us connect with those are no longer with us. As the ceremony ended, everyone felt a renewed sense of hope and peace.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ility
+3.498441696166992
+Context Tokens: 
+tensor([ 1260,  6876,   432,  1030,  1012,   264,  1393,  2474,   566, 24326,
+          700,   315,   279, 87212,   323, 20781,   273,   315,   279,  3283,
+          323, 42503,  6993,   748, 40564,  1403,    13,  1988,  1588,   566,
+          572,    11,  5499,  6243,  4478,   389,   419,  8699, 11321, 22865,
+          553, 43208, 21162,    13,  1096,   572,   279, 42585,   566,  1030,
+         1012])
+Decoded Text:
+ He knew it had been a while since he stepped out of the hustle and bustle of the city and embraced nature’s tranquility. But here he was, finally setting foot on this remote beach surrounded by glorious silence. This was the relaxation he had been
+---------------------------
+Max Activation Value: 
+(61, 86, 112)
+ fresh
+3.46640682220459
+Context Tokens: 
+tensor([13406,  1526,   279, 62971,  3403,    11,  6825,   294,   676,   832,
+        34512,   429, 15254,   323, 28347,   261,  3941,   279, 20664,    13,
+          576,  3720,   374, 13675,   323,  7722,    11,  1136, 15864,   448,
+          279, 10226, 54179,   315,  8380, 88670,   323, 33597, 56167,    13,
+        56528,  1618,   323,  7780,   504,   279,   259,  3744,  3721,    11,
+         6825])
+Decoded Text:
+ filters through the canopy above, creating dappled shadows that dance and flicker across the grounds. The air is alive and fresh, scented with the sweet aroma of wildflowers and pine needles. Birds call and sing from the treetops, creating
+---------------------------
+Max Activation Value: 
+(34, 59, 85)
+ tranquil
+3.378199815750122
+Context Tokens: 
+tensor([  315, 42020, 84038,    11, 64313,  4241,   323,   281, 15504,    13,
+          576, 18575, 81657,  1033, 25911,   304,   279, 75361,   287, 17951,
+           11,  6825,   264, 19850,   323, 66940, 18414,    13,   576, 73875,
+        45285, 41323,   304,   504,   279,  9396,   323,   279, 16876, 33753,
+         2348,   279, 23035,    11,  6825,   264, 64364, 55810,   315,  5112,
+           13])
+Decoded Text:
+ of vivid oranges, yellows and pinks. The orange hues were reflected in the shimmering ocean, creating a stunning and tranquil landscape. The salty breeze blew in from the sea and the waves crashed against the rocks, creating a soothing chorus of sound.
+---------------------------
+Max Activation Value: 
+(50, 75, 101)
+ energy
+3.3566648960113525
+Context Tokens: 
+tensor([23183,   279, 27601,  7341, 46468,    11,   358, 13686,   279,  4911,
+         7674,   429, 22865,   279, 23971,    13,  2619,   572,   264,  5530,
+          315, 22531,   323,   264, 19300,  4802,    11,  1075,   358,   572,
+        16262,   458, 13833,    11, 31342, 26752,   315,  1947,    13,   358,
+         1730,  7037,  5558,   304,   279,  2613,  3565,   315,  1817, 18824,
+          323])
+Decoded Text:
+ amongst the countless masterpieces, I noticed the unique culture that surrounded the museum. There was a sense of mystery and a calm energy, like I was entering an ancient, sacred temple of art. I found myself lost in the small details of each painting and
+---------------------------
+Max Activation Value: 
+(107, 132, 158)
+ unknown
+3.316788673400879
+Context Tokens: 
+tensor([    11,    279,   7071,  24326,   4637,     11,  30620,    264,   3175,
+         16009,    304,   1181,   1424,     13,  35825,    279,  16009,     11,
+          1340,   6476,    458,  22024,   5530,    315,   2494,   9788,     11,
+          2494,    315,    892,   1340,   1410,    537,  10339,     13, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, the figure stepped forward, revealing a single rose in its hand. Taking the rose, she felt an overwhelming sense of something unknown, something of which she could not explain.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ lost
+3.288635015487671
+Context Tokens: 
+tensor([  572,   264,  5530,   315, 22531,   323,   264, 19300,  4802,    11,
+         1075,   358,   572, 16262,   458, 13833,    11, 31342, 26752,   315,
+         1947,    13,   358,  1730,  7037,  5558,   304,   279,  2613,  3565,
+          315,  1817, 18824,   323, 49967,    11, 14591,  6191,   279, 37783,
+        10772,   315,  1817, 10049,    13,  1634,   358,  2115,   279, 23971,
+           11])
+Decoded Text:
+ was a sense of mystery and a calm energy, like I was entering an ancient, sacred temple of art. I found myself lost in the small details of each painting and sculpture, admiring the immense talent of each artist. As I left the museum,
+---------------------------
+Max Activation Value: 
+(10, 35, 61)
+ peaceful
+3.2864644527435303
+Context Tokens: 
+tensor([    13, 151645,    198, 151644,    872,    198,     40,   2948,  10099,
+           279,  42984, 151645,    198, 151644,  77091,    198,   7823,   2238,
+             0,  68576,    279,  42984,    646,    387,    773,  25650,     13,
+        151645,    198, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+.<|im_end|>
+<|im_start|>user
+I love watching the sunset<|im_end|>
+<|im_start|>assistant
+Me too! Watching the sunset can be so peaceful.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(85, 110, 136)
+ silence
+3.2033851146698
+Context Tokens: 
+tensor([  315,   279,  3283,   323, 42503,  6993,   748, 40564,  1403,    13,
+         1988,  1588,   566,   572,    11,  5499,  6243,  4478,   389,   419,
+         8699, 11321, 22865,   553, 43208, 21162,    13,  1096,   572,   279,
+        42585,   566,  1030,  1012,  1042,  1229,   369,    11,   323,   279,
+         4727,  6638,   311,   633,   806,  3971,  1007,   315,   806, 37045,
+           13])
+Decoded Text:
+ of the city and embraced nature’s tranquility. But here he was, finally setting foot on this remote beach surrounded by glorious silence. This was the relaxation he had been yearning for, and the perfect opportunity to get his mind off of his worries.
+---------------------------
+Max Activation Value: 
+(57, 82, 108)
+ silence
+3.2015604972839355
+Context Tokens: 
+tensor([  458,  4558,   732,  2752, 17366,   480,  7002,  1948,   279, 13638,
+          323,   279,  4889,  1879,    13,   576,  3720,   374, 12045,   323,
+         8811,    11,   323,   458, 96283, 21162, 46174,  3452,   279,  3082,
+           13,  7209,  1431,   323,  1221,    11,   458,  9864,  1618,   686,
+         5112,   304,   279,  6010,    13, 14671,   374,  3881,   315,  1128,
+         9428])
+Decoded Text:
+ an almost impenetrable wall between the forest and the outside world. The air is thick and heavy, and an eerie silence pervades the area. Every now and then, an animal call will sound in the distance. Little is known of what truly
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ tranquil
+3.1987783908843994
+Context Tokens: 
+tensor([151644,   8948,    198,  74785,    279,  16566,    315,    264,   3113,
+         10796,     13, 151645,    198, 151644,  77091,    198,    785,  16566,
+           315,    264,   3113,  10796,    374,  42435,    323,  66940,     13,
+          1084,    594,    264,   1992,   1380,   8521,    323,   4780,    646,
+          9567,   2163,     11,    311,  14725,  31996,  29532,   4241,    323,
+         11560,   7343,     13,    576,   3720,   2163])
+Decoded Text:
+<|im_start|>system
+Describe the atmosphere of a campfire.<|im_end|>
+<|im_start|>assistant
+The atmosphere of a campfire is cozy and tranquil. It's a place where families and friends can gather around, toasting marshmallows and sharing stories. The air around
+---------------------------
+Max Activation Value: 
+(59, 84, 110)
+ alive
+3.1982064247131348
+Context Tokens: 
+tensor([ 8059,  4145, 13406,  1526,   279, 62971,  3403,    11,  6825,   294,
+          676,   832, 34512,   429, 15254,   323, 28347,   261,  3941,   279,
+        20664,    13,   576,  3720,   374, 13675,   323,  7722,    11,  1136,
+        15864,   448,   279, 10226, 54179,   315,  8380, 88670,   323, 33597,
+        56167,    13, 56528,  1618,   323,  7780,   504,   279,   259,  3744,
+         3721])
+Decoded Text:
+ Sunlight filters through the canopy above, creating dappled shadows that dance and flicker across the grounds. The air is alive and fresh, scented with the sweet aroma of wildflowers and pine needles. Birds call and sing from the treetops
+---------------------------
+Max Activation Value: 
+(35, 60, 86)
+ beautiful
+3.18007493019104
+Context Tokens: 
+tensor([34074,    11,   566,  5485,   264, 21059,  6109, 31355, 12852,  1172,
+          553,   279, 21700,   326,  3629,   315,   279, 16876,   389,   279,
+        98064,   481,   264, 13929,   773,  6233,   432,  1865,   806,  4746,
+        77731,    13,   220,  1260,  6876,   432,  1030,  1012,   264,  1393,
+         2474,   566, 24326,   700,   315,   279, 87212,   323, 20781,   273,
+          315])
+Decoded Text:
+ horizon, he saw a silent scene punctuated only by the gentle lapping of the waves on the shoreline - a sight so beautiful it made his heart ache.  He knew it had been a while since he stepped out of the hustle and bustle of
+---------------------------
+Max Activation Value: 
+(49, 74, 100)
+ calm
+3.1514716148376465
+Context Tokens: 
+tensor([14858, 23183,   279, 27601,  7341, 46468,    11,   358, 13686,   279,
+         4911,  7674,   429, 22865,   279, 23971,    13,  2619,   572,   264,
+         5530,   315, 22531,   323,   264, 19300,  4802,    11,  1075,   358,
+          572, 16262,   458, 13833,    11, 31342, 26752,   315,  1947,    13,
+          358,  1730,  7037,  5558,   304,   279,  2613,  3565,   315,  1817,
+        18824])
+Decoded Text:
+ walked amongst the countless masterpieces, I noticed the unique culture that surrounded the museum. There was a sense of mystery and a calm energy, like I was entering an ancient, sacred temple of art. I found myself lost in the small details of each painting
+---------------------------
+Max Activation Value: 
+(46, 71, 97)
+ mystery
+3.1293423175811768
+Context Tokens: 
+tensor([   13,  1634,   358, 14858, 23183,   279, 27601,  7341, 46468,    11,
+          358, 13686,   279,  4911,  7674,   429, 22865,   279, 23971,    13,
+         2619,   572,   264,  5530,   315, 22531,   323,   264, 19300,  4802,
+           11,  1075,   358,   572, 16262,   458, 13833,    11, 31342, 26752,
+          315,  1947,    13,   358,  1730,  7037,  5558,   304,   279,  2613,
+         3565])
+Decoded Text:
+. As I walked amongst the countless masterpieces, I noticed the unique culture that surrounded the museum. There was a sense of mystery and a calm energy, like I was entering an ancient, sacred temple of art. I found myself lost in the small details
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ in
+3.0736899375915527
+Context Tokens: 
+tensor([  264,  5530,   315, 22531,   323,   264, 19300,  4802,    11,  1075,
+          358,   572, 16262,   458, 13833,    11, 31342, 26752,   315,  1947,
+           13,   358,  1730,  7037,  5558,   304,   279,  2613,  3565,   315,
+         1817, 18824,   323, 49967,    11, 14591,  6191,   279, 37783, 10772,
+          315,  1817, 10049,    13,  1634,   358,  2115,   279, 23971,    11,
+          358])
+Decoded Text:
+ a sense of mystery and a calm energy, like I was entering an ancient, sacred temple of art. I found myself lost in the small details of each painting and sculpture, admiring the immense talent of each artist. As I left the museum, I
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ peace
+3.034698247909546
+Context Tokens: 
+tensor([91086,  2382,   752,   448,   264, 21059, 38967,   715,    38, 74819,
+        66229,   962,    11,  7010,   311,   279,  5796,   323, 10408, 11307,
+         1910,   715,   785, 11458, 12434,  8919,    11,  3602,   358,   646,
+          944,  1477,   894,   715,  3983,  7196,   304,   279,  6556,  1052,
+         3278,   387,   882,   369,   752,   198,  5050, 71078, 25650,  2090,
+           11])
+Decoded Text:
+ beckons me with a silent plea 
+Glistening seawater, cool to the touch and refreshingly free 
+The evening brings peace, yet I can't find any 
+But maybe in the morning there'll be time for me
+My bottled peacefulness,
+---------------------------
+Max Activation Value: 
+(77, 102, 128)
+ness
+2.9644246101379395
+Context Tokens: 
+tensor([  576,  2086,  1555, 11017,   705,   448,   458, 16500,  1643,   457,
+          315,  3369, 74478,  1320,   324,  4019,  1075,   264, 15254, 19609,
+         6825,   264,  5530,   315, 25650,  2090,   323, 13143,    13,   576,
+         4843,  1555, 12434,   264, 19671,   315, 50878,   448,  1181,  4008,
+          315,  3369,  2753, 23009, 23616,   576, 11737,  1555,  4675,   311,
+          264])
+Decoded Text:
+ The second line follows up with an unexpected simile of ‘snow flurries like a dance’, creating a sense of peacefulness and beauty. The third line brings a mood of sadness with its description of ‘No happiness’. The fourth line returns to a
+---------------------------
+Max Activation Value: 
+(68, 93, 119)
+ thought
+2.963151454925537
+Context Tokens: 
+tensor([  553,   279, 16500,  9362,    11,  1340, 24326,  1182,   323,  1059,
+         4746, 94479,    13,   576,  7071,  1865,   902,  5112,   323, 14638,
+         2058,    11, 22660,  5558,   304,  3381,    13,  2932,  4829,   311,
+         6468,    11,   714,  1573,  1340,  1410, 21532,   264,  3409,    11,
+          279,  7071, 24326,  4637,    11, 30620,   264,  3175, 16009,   304,
+         1181])
+Decoded Text:
+ by the unexpected presence, she stepped back and her heart pounded. The figure made no sound and stood still, seemingly lost in thought. She wanted to speak, but before she could utter a word, the figure stepped forward, revealing a single rose in its
+---------------------------
+Max Activation Value: 
+(27, 52, 78)
+ power
+2.9423913955688477
+Context Tokens: 
+tensor([ 7071,  5292,  7741,   304,   264,  1293,  3691, 62619,    13,  1260,
+        21191,   304,   264,  3347,    11, 49910,  3288,  7743,   323,   702,
+          458,  3720,   315, 28674,   323,  2355,    13,  1260,   374, 37614,
+           11, 10770,    88,    11,   323, 68410,   323,   686,  2936,   518,
+         4302,   311, 11075,   806, 13962,  8845,    13,  1260,  5711,  8679,
+          323])
+Decoded Text:
+ figure cloaked in a long black robe. He speaks in a low, raspy voice and has an air of consequence and power. He is calculating, crafty, and ruthless and will stop at nothing to achieve his evil goals. He uses fear and
+---------------------------

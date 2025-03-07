@@ -1,0 +1,324 @@
+Max Activation Value: 
+(191, 216, 242)
+ may
+0.32256555557250977
+Context Tokens: 
+tensor([  279,  3940,  8910,   279,  3283, 31493,   323,  6069,   311,   501,
+         4752, 13912,    11,  2670,   279,  8086,   315,  3460,  3940,  8960,
+           82,  2163,   279,  3283,   429,  1231,   614,  6781,   432,   504,
+         4623, 81915,    13,  1084,   572,   458,  2989,  8168,   304, 10557,
+          594, 10951,  7042,  6513,   429,  1865,   279,  3283,   279,  2086,
+        66967])
+Decoded Text:
+ the fire helped the city rebuild and led to new building codes, including the construction of large firebreaks around the city that may have saved it from further devastation. It was an important factor in Chicago's massive population growth that made the city the second-largest
+---------------------------
+Max Activation Value: 
+(64, 89, 115)
+ can
+0.3172135055065155
+Context Tokens: 
+tensor([ 4479,    11,  1393, 22184,   279,  3251,   323, 10282,   432,   504,
+         1660,  4429,   553,   279,  1008,  2781,    13,   576,  9666,   614,
+         2155, 17541,    11,   279,  6210,   646,  3271,   304,   894,  5106,
+           11,  1393,   279,  3251,   646,  1172,  3271,   825,  3550,   304,
+          894,  5106,    13,   576,  1809,   374,  2765,   979,   264,  2781,
+          594])
+Decoded Text:
+ board, while protecting the General and keeping it from being taken by the other player. The pieces have different abilities, the King can move in any direction, while the General can only move one space in any direction. The game is won when a player's
+---------------------------
+Max Activation Value: 
+(9, 34, 60)
+ Plant
+0.29648715257644653
+Context Tokens: 
+tensor([    11,  10779,     11,    323,  32972, 151645,    198, 151644,    872,
+           198,  85839,   4916,     11,  23285,  16144,     11,  45740, 151645,
+           198, 151644,  77091,    198,  85839,   4916,     25,  17838,    198,
+         42540,  16144,     25,  49316,    198,  78089,     25,  21292, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, plants, and minerals<|im_end|>
+<|im_start|>user
+Oak tree, copper ore, elephant<|im_end|>
+<|im_start|>assistant
+Oak tree: Plant
+ Copper ore: Mineral
+ Elephant: Animal<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(158, 183, 209)
+ natural
+0.2898348569869995
+Context Tokens: 
+tensor([ 1096,  4623, 11508,   311,   264, 42410, 10775,  1380,   803, 12499,
+          374,  5880,  6388,   311,  4623, 23867,    13, 34702,   504,  1293,
+         9663, 40316, 28469, 24905,    11,  5810,  4357,  1741,   438, 66064,
+        60254,  1300,   323,  4344,   304,   279,  9237,   594, 26507,   646,
+         5240, 23867,    11,   714,  1493, 11364,  1896,  1753,  5021,   323,
+        16085])
+Decoded Text:
+ This further leads to a vicious cycle where more carbon is released leading to further warming. Apart from long-term anthropogenic impacts, natural events such as volcanic eruptions and changes in the Earth's orbit can cause warming, but these processes take much longer and hence
+---------------------------
+Max Activation Value: 
+(181, 206, 232)
+ use
+0.28949639201164246
+Context Tokens: 
+tensor([ 3754, 92167,   304,   279, 37581,    13,   715,    12, 44514,   678,
+        66640,  5479,   315,  3607,    11,  2670, 43714,   323, 49950,   624,
+           12,  5443, 11521, 18627,   311,   990,   279,  4453,  3607,  1509,
+          624,    12,  5443,  3607,   429,  1035,  5937,   387, 14989,  3123,
+          369,  9864,  5395,   624,    12, 11778,   949,   304, 20686,   311,
+         1281])
+Decoded Text:
+ track leftovers in the fridge. 
+- Eat all edible parts of food, including stems and skins.
+- Use creative recipes to use the entire food item.
+- Use food that would otherwise be thrown away for animal feed.
+- Take part in campaigns to make
+---------------------------
+Max Activation Value: 
+(101, 126, 152)
+,
+0.2875310778617859
+Context Tokens: 
+tensor([ 10158,    374,    429,  90390,  10158,    374,  28659,    369,   5021,
+         18346,    315,    882,    323,  33644,  16916,    389,  23552,    369,
+          4802,   5670,     13,  32138,    261,  30806,  10158,     11,    389,
+           279,   1008,   1424,     11,    374,   2814,    304,   2805,  65701,
+           323,   1558,    537,  21058,    279,    990,    315,  23552,     13,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+ exercise is that aerobic exercise is sustained for longer periods of time and relies heavily on oxygen for energy production. Anaerobic exercise, on the other hand, is done in short bursts and does not involve the use of oxygen.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(178, 203, 229)
+ did
+0.2825649380683899
+Context Tokens: 
+tensor([23185,  5004,  5435,    11,   807,  1033,  1083,  1602,  2155,   304,
+         3793,   315, 11137,    11, 25398,    11, 18580, 25398,   323, 19554,
+           13,   576, 43710, 67770, 45150,  1521,   537,  1102,   304,   894,
+         2118,  6277, 12055,   323,   572, 19673, 15503,  1526, 61240,   323,
+          279,  5480,   311, 14798, 11249,  9893,   504, 31677,    13,  1913,
+          279])
+Decoded Text:
+ Cold War related, they were also very different in terms of causes, objectives, strategic objectives and outcomes. The Cuban Missile Crisis did not result in any direct military conflict and was resolved primarily through diplomacy and the decision to withdraw nuclear weapons from Cuba. On the
+---------------------------
+Max Activation Value: 
+(26, 51, 77)
+ological
+0.2794223725795746
+Context Tokens: 
+tensor([    11,  24060, 151645,    198, 151644,    872,    198,    785,   4401,
+           315,  38193,  11474,    686,   2990,    311,  16745,   9442,  32688,
+            13, 151645,    198, 151644,  77091,    198,  28256,   5729, 151645,
+           198, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+, Environmental<|im_end|>
+<|im_start|>user
+The development of autonomous vehicles will lead to fewer traffic accidents.<|im_end|>
+<|im_start|>assistant
+Technological<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(0, 25, 51)
+ series
+0.276967316865921
+Context Tokens: 
+tensor([151644,   8948,    198,   9190,   5612,   1064,    279,   2661,   1467,
+           304,   2326,  22870,     13, 151645,    198, 151644,    872,    198,
+           785,  40741,    594,  44346,   3117,    374,    264,   4013,    315,
+           946,  89482,   3046,   3145,   8147,   7407,    304,   1527,  10666,
+            11,  16926,  14648,     13,   1084,    374,   1865,    705,    315,
+           220,     19,     15,     11,     15,     15])
+Decoded Text:
+<|im_start|>system
+Summarise the given text in three sentences.<|im_end|>
+<|im_start|>user
+The Giant's Causeway is a series of interlocking basalt columns located in Antrim, Northern Ireland. It is made up of 40,00
+---------------------------
+Max Activation Value: 
+(194, 219, 245)
+Testing
+0.27642661333084106
+Context Tokens: 
+tensor([   13,  1096,   646,   387,  2814,   553,  6825, 25283,   323, 46628,
+          429,   646,   387, 12510,    13,  1096,   686,  1492, 10542,  5322,
+          323,  3410, 11055,    13,   715, 16451,   279,  1985,   374,   458,
+         2989,   949,   315,   279, 13402,   527, 28288,    11,   438,   432,
+         6147, 13402,   311,  6915,  2385,  2886,   862, 52762,  1573,   807,
+          525])
+Decoded Text:
+. This can be done by creating scenarios and prototypes that can be tested. This will help identify problems and provide feedback. 
+Testing the product is an important part of the developers’ workflow, as it allows developers to fine-tune their creations before they are
+---------------------------
+Max Activation Value: 
+(67, 92, 118)
+ have
+0.2761388123035431
+Context Tokens: 
+tensor([   13, 70243, 38200,   908,   525,   279, 80763, 34048, 43483,    11,
+          448,  7192, 28659, 28492,   315,   902,   803,  1091,   220,    18,
+           23, 33961,    13, 70243, 43483,   614,  7192, 28659, 28492,   315,
+         1948,   220,    18,    24,   323,   220,    22,    18, 33961,    13,
+        71445,  3154,   476, 88503,   525,   279, 29905,   448,  7192, 28659,
+        28492])
+Decoded Text:
+. Tropical depressions are the weakest tropical storms, with maximum sustained winds of no more than 38 mph. Tropical storms have maximum sustained winds of between 39 and 73 mph. Cyclones or Hurricanes are the strongest with maximum sustained winds
+---------------------------
+Max Activation Value: 
+(13, 38, 64)
+,
+0.27554962038993835
+Context Tokens: 
+tensor([    30, 151645,    198, 151644,    872,    198,  26567,   4848,     13,
+           374,    458,   3693,   5440,   2813,    429,  14431,     11,  38571,
+           323,  30778,  11502,  30491,     11,   6366,   3162,     11,    323,
+          2860,   3516,     13, 151645,    198, 151644,  77091,    198,  10022,
+         97569,  40741,     25,    362,   9192,    518,   8162,   4848,   1189,
+        151645,    198, 151643, 151643, 151643, 151643])
+Decoded Text:
+?<|im_end|>
+<|im_start|>user
+Apple Inc. is an American technology company that designs, develops and sells consumer electronics, computer software, and online services.<|im_end|>
+<|im_start|>assistant
+"The Innovative Giant: A Look at Apple Inc."<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(43, 68, 94)
+ individual
+0.26863551139831543
+Context Tokens: 
+tensor([25198,  1095,   279, 19898,   315,  5248,  5480, 12408,  1667,   458,
+        39026,  5486,    13,  8886,   315,  1493,  5480, 12408,  3643,   458,
+         9489, 19639,    11,   323,   279,  3842, 19898,   525, 10856,  2987,
+          553, 43764,   279, 48216,   476,   553,  4633,   279,  8686,  6910,
+           13,   220,  1096,  5486, 25271,   279, 32273,   315,   279, 19898,
+         1865])
+Decoded Text:
+ aggregating the predictions of multiple decision trees using an ensemble approach. Each of these decision trees makes an independent prediction, and the individual predictions are combined either by averaging the probabilities or by taking the majority vote.  This approach reduces the variance of the predictions made
+---------------------------
+Max Activation Value: 
+(8, 33, 59)
+ Popular
+0.2672770917415619
+Context Tokens: 
+tensor([151645,    198, 151644,    872,    198,  26272,  82187,     11,  12271,
+        151645,    198, 151644,  77091,    198,    785,  23480,  10729,    311,
+         25748,     11,  12271,    374,    451,   8613,  20412,  31395,   8453,
+         23297,     11,   7407,    518,    220,     22,     16,     24,   3017,
+         92436,  17131,     11,  25748,     11,  12271,    220,     16,     16,
+            17,     15,     20,     13, 151645,    198])
+Decoded Text:
+<|im_end|>
+<|im_start|>user
+Brooklyn, NY<|im_end|>
+<|im_start|>assistant
+The nearest restaurant to Brooklyn, NY is Nju是 Popular Chinese Spot, located at 719 Myrtle Avenue, Brooklyn, NY 11205.<|im_end|>
+
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+ father
+0.26576361060142517
+Context Tokens: 
+tensor([16904, 85080,   553,  1181,  3908, 45584, 47535,    11,   279,  6604,
+          374, 14900,   311,   279, 25962,   323, 47686, 17247, 40876,   304,
+          279,  3942,    13, 47535,   594,  6981,  7711, 58244, 95233, 17045,
+          438,   279, 15659,  4126,   315,   279, 11514,    11, 80558,   287,
+          279,  2750,   315, 24744,   323, 12161,    13,   576, 21386,   315,
+         4709])
+Decoded Text:
+ Through narration by its young protagonist Scout, the reader is exposed to the racism and prejudice deeply rooted in the community. Scout's father Atticus Finch serves as the moral center of the novel, embodying the values of courage and justice. The themes of loss
+---------------------------
+Max Activation Value: 
+(15, 40, 66)
+ each
+0.26548314094543457
+Context Tokens: 
+tensor([   198, 151644,  77091,    198,     16,     13,  13532,   9313,  40325,
+            25,    362,  55980,  12111,    374,    458,  12111,    292,   8282,
+          1380,    279,  22823,   6291,    374,  11882,    518,   1817,   3019,
+           304,   1973,    311,  34508,    458,  16538,    729,     13,   4710,
+            17,     13,  53107,   3874,   1168,     25,  53107,  36952,    374,
+           458,  86875,  12111,    892,  25654,    311])
+Decoded Text:
+
+<|im_start|>assistant
+1. Greedy Algorithm: A greedy algorithm is an algorithmic strategy where the optimal solution is chosen at each step in order to maximize an objective function. 
+
+2. Gradient Descent: Gradient descent is an iterative algorithm which seeks to
+---------------------------
+Max Activation Value: 
+(99, 124, 150)
+ Clean
+0.2646726369857788
+Context Tokens: 
+tensor([  3082,    198,     12,   4230,    264,  37299,   9487,    715,     12,
+          7405,    264,  24808,    315,   4357,    715,     12,   7405,    264,
+          1736,   1737,   4382,  21290,   3119,    715,     12,   9590,    279,
+          3753,    198,     12,  31166,   3607,    715,     12,  12243,   2464,
+             0, 151645,    198, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ area
+- Create a seating chart 
+- Make a timeline of events 
+- Make a post-dinner cleanup plan 
+- Clean the house
+- Prepare food 
+- Have fun!<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(97, 122, 148)
+ reference
+0.26448264718055725
+Context Tokens: 
+tensor([   279,    501,   2436,    594,   1790,   5785,    279,   1852,    438,
+           279,   1537,   2436,    594,   1790,   5785,     13,    715,     21,
+            13,   7405,    279,   1537,   2436,    594,   1790,   5785,    387,
+           279,    501,   2436,     13, 151645,    198, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643, 151643,
+        151643, 151643, 151643, 151643, 151643, 151643])
+Decoded Text:
+ the new node's next reference the same as the last node's next reference. 
+6. Make the last node's next reference be the new node.<|im_end|>
+<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+---------------------------
+Max Activation Value: 
+(45, 70, 96)
+ mother
+0.26205411553382874
+Context Tokens: 
+tensor([ 3364,   315, 76349,  1581, 15160,    11,   458, 12746,  8171,   504,
+        15755, 17596,    11,   879,   374, 10568,   304,   279,  6149,   315,
+          264, 51987,  1879,   979,   806,  6554,   374,  7425,   304,   264,
+        12764, 24199,  1393, 16721,   279, 44778, 16328,   315,  5166,    13,
+         4636,   419,    11,   806,  1879,   374,  5497, 15683,    11,   438,
+          566])
+Decoded Text:
+ story of Theodore Decker, an orphan boy from Las Vegas, who is caught in the middle of a chaotic world when his mother is killed in a bomb explosion while visiting the Metropolitan Museum of Art. After this, his world is changed forever, as he
+---------------------------
+Max Activation Value: 
+(200, 225, 251)
+ one
+0.26171085238456726
+Context Tokens: 
+tensor([ 1486,  1678,    11, 48913,    11, 41726,    11, 51845,   258,    11,
+        45297,    11, 27582,    11, 27906,    11,  1538,    11,  5020,    11,
+        46652,   349,    11,  6247,    11,   825,    11, 90713,    11, 41726,
+          269,   649, 19570,    11, 19451,  2382,    11, 14024,    11, 44025,
+           11, 47579,    11,  5775,    11, 12761,    11,  2997,  1678,    11,
+         2464])
+Decoded Text:
+ playtime, astonishing, prince, settlingin, newborn, tender, queen, event, pretty, neonate, happy, one, miraculous, princeorprincess, spoons, basket, miracle, decorations, wonder, surprise, familytime, fun
+---------------------------
